@@ -1,0 +1,33 @@
+name: Descubrir ligas
+
+on:
+  workflow_dispatch:
+    inputs:
+      paises:
+        description: 'Países separados por comas'
+        required: true
+        default: 'Portugal,Brazil,Argentina,Chile,Colombia,Uruguay,Japan,South-Korea,Australia,Morocco,Egypt,South-Africa'
+
+jobs:
+  descubrir:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Buscar ligas por país
+        env:
+          API_FOOTBALL_KEY: ${{ secrets.API_FOOTBALL_KEY }}
+        run: |
+          IFS=',' read -ra PAISES <<< "${{ inputs.paises }}"
+          for pais in "${PAISES[@]}"; do
+            echo ""
+            echo "=================================================="
+            echo "  PAÍS: $pais"
+            echo "=================================================="
+            node scripts/discover-leagues.mjs --country "$pais" \
+              || echo "  (sin resultados para '$pais')"
+          done
