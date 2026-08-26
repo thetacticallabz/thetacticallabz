@@ -5,7 +5,7 @@ import sitemap from '@astrojs/sitemap';
 // IMPORTANTE: cambia "site" por el dominio real antes de desplegar a producción.
 // El sitemap y las etiquetas canónicas/OG dependen de este valor.
 export default defineConfig({
-  site: 'https://blog.thetacticallabz.com',
+  site: 'https://thetacticallabz.vercel.app',
   integrations: [mdx(), sitemap()],
   markdown: {
     shikiConfig: {
