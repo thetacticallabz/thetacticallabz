@@ -1,0 +1,1915 @@
+{
+  "get": "players/topscorers",
+  "parameters": {
+    "league": "955",
+    "season": "2025"
+  },
+  "errors": [],
+  "results": 20,
+  "paging": {
+    "current": 1,
+    "total": 1
+  },
+  "response": [
+    {
+      "player": {
+        "id": 38946,
+        "name": "M. Bueno",
+        "firstname": "Martín",
+        "lastname": "Bueno Imbrenda",
+        "age": 34,
+        "birth": {
+          "date": "1991-07-19",
+          "place": null,
+          "country": "Uruguay"
+        },
+        "nationality": "Uruguay",
+        "height": "192 cm",
+        "weight": "81 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/38946.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 20672,
+            "name": "Miramar",
+            "logo": "https://media.api-sports.io/football/teams/20672.png"
+          },
+          "league": {
+            "id": 1056,
+            "name": "National League - Championship - Final",
+            "country": "New-Zealand",
+            "logo": "https://media.api-sports.io/football/leagues/1056.png",
+            "flag": "https://media.api-sports.io/flags/nz.svg",
+            "season": 2025
+          },
+          "games": {
+            "appearences": 7,
+            "lineups": 7,
+            "minutes": 589,
+            "number": null,
+            "position": "Attacker",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 2,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 11,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 396870,
+        "name": "K. McMinn",
+        "firstname": "Kieran",
+        "lastname": "McMinn",
+        "age": 27,
+        "birth": {
+          "date": "1998-01-14",
+          "place": null,
+          "country": "New Zealand"
+        },
+        "nationality": "New Zealand",
+        "height": null,
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/396870.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 20644,
+            "name": "Petone",
+            "logo": "https://media.api-sports.io/football/teams/20644.png"
+          },
+          "league": {
+            "id": 1056,
+            "name": "National League - Championship - Final",
+            "country": "New-Zealand",
+            "logo": "https://media.api-sports.io/football/leagues/1056.png",
+            "flag": "https://media.api-sports.io/flags/nz.svg",
+            "season": 2025
+          },
+          "games": {
+            "appearences": 6,
+            "lineups": 5,
+            "minutes": 471,
+            "number": null,
+            "position": "Attacker",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 2,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 9,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 516702,
+        "name": "R. Ichimura",
+        "firstname": "Riku",
+        "lastname": "Ichimura",
+        "age": 24,
+        "birth": {
+          "date": "2001-12-19",
+          "place": null,
+          "country": "Japan"
+        },
+        "nationality": "Japan",
+        "height": "170 cm",
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/516702.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 20660,
+            "name": "Coastal Spirit",
+            "logo": "https://media.api-sports.io/football/teams/20660.png"
+          },
+          "league": {
+            "id": 1056,
+            "name": "National League - Championship - Final",
+            "country": "New-Zealand",
+            "logo": "https://media.api-sports.io/football/leagues/1056.png",
+            "flag": "https://media.api-sports.io/flags/nz.svg",
+            "season": 2025
+          },
+          "games": {
+            "appearences": 6,
+            "lineups": 6,
+            "minutes": 532,
+            "number": null,
+            "position": "Attacker",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 9,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 46214,
+        "name": "E. Tade",
+        "firstname": "Emiliano",
+        "lastname": "Tade",
+        "age": 37,
+        "birth": {
+          "date": "1988-03-03",
+          "place": "Santiago del Estero",
+          "country": "Argentina"
+        },
+        "nationality": "Argentina",
+        "height": "178 cm",
+        "weight": "72 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/46214.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 20649,
+            "name": "Auckland United",
+            "logo": "https://media.api-sports.io/football/teams/20649.png"
+          },
+          "league": {
+            "id": 1056,
+            "name": "National League - Championship - Final",
+            "country": "New-Zealand",
+            "logo": "https://media.api-sports.io/football/leagues/1056.png",
+            "flag": "https://media.api-sports.io/flags/nz.svg",
+            "season": 2025
+          },
+          "games": {
+            "appearences": 9,
+            "lineups": 9,
+            "minutes": 736,
+            "number": null,
+            "position": "Attacker",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 4,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 8,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 243805,
+        "name": "M. Suski",
+        "firstname": "Michael",
+        "lastname": "Suski",
+        "age": 24,
+        "birth": {
+          "date": "2001-05-30",
+          "place": null,
+          "country": "USA"
+        },
+        "nationality": "USA",
+        "height": null,
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/243805.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 20650,
+            "name": "Birkenhead United",
+            "logo": "https://media.api-sports.io/football/teams/20650.png"
+          },
+          "league": {
+            "id": 1056,
+            "name": "National League - Championship - Final",
+            "country": "New-Zealand",
+            "logo": "https://media.api-sports.io/football/leagues/1056.png",
+            "flag": "https://media.api-sports.io/flags/nz.svg",
+            "season": 2025
+          },
+          "games": {
+            "appearences": 8,
+            "lineups": 6,
+            "minutes": 521,
+            "number": null,
+            "position": "Attacker",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 6,
+            "bench": 2
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 7,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 462883,
+        "name": "M. Wellsbury",
+        "firstname": "Morgan",
+        "lastname": "Wellsbury",
+        "age": 19,
+        "birth": {
+          "date": "2006-01-09",
+          "place": null,
+          "country": "New Zealand"
+        },
+        "nationality": "New Zealand",
+        "height": null,
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/462883.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 23213,
+            "name": "Tauranga City United",
+            "logo": "https://media.api-sports.io/football/teams/23213.png"
+          },
+          "league": {
+            "id": 1056,
+            "name": "National League - Championship - Final",
+            "country": "New-Zealand",
+            "logo": "https://media.api-sports.io/football/leagues/1056.png",
+            "flag": "https://media.api-sports.io/flags/nz.svg",
+            "season": 2025
+          },
+          "games": {
+            "appearences": 9,
+            "lineups": 9,
+            "minutes": 800,
+            "number": null,
+            "position": "Attacker",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 4,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 6,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 38945,
+        "name": "D. Tieku",
+        "firstname": "Derek",
+        "lastname": "Safo Tieku",
+        "age": 30,
+        "birth": {
+          "date": "1995-02-28",
+          "place": "Berekum",
+          "country": "Ghana"
+        },
+        "nationality": "Ghana",
+        "height": null,
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/38945.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 20654,
+            "name": "Bay Olympic",
+            "logo": "https://media.api-sports.io/football/teams/20654.png"
+          },
+          "league": {
+            "id": 1056,
+            "name": "National League - Championship - Final",
+            "country": "New-Zealand",
+            "logo": "https://media.api-sports.io/football/leagues/1056.png",
+            "flag": "https://media.api-sports.io/flags/nz.svg",
+            "season": 2025
+          },
+          "games": {
+            "appearences": 9,
+            "lineups": 9,
+            "minutes": 801,
+            "number": null,
+            "position": "Attacker",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 6,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 77178,
+        "name": "S. Philip",
+        "firstname": "Sam",
+        "lastname": "Philip",
+        "age": 26,
+        "birth": {
+          "date": "1999-06-22",
+          "place": null,
+          "country": "New Zealand"
+        },
+        "nationality": "New Zealand",
+        "height": null,
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/77178.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 20650,
+            "name": "Birkenhead United",
+            "logo": "https://media.api-sports.io/football/teams/20650.png"
+          },
+          "league": {
+            "id": 1056,
+            "name": "National League - Championship - Final",
+            "country": "New-Zealand",
+            "logo": "https://media.api-sports.io/football/leagues/1056.png",
+            "flag": "https://media.api-sports.io/flags/nz.svg",
+            "season": 2025
+          },
+          "games": {
+            "appearences": 8,
+            "lineups": 5,
+            "minutes": 402,
+            "number": null,
+            "position": "Attacker",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 3,
+            "out": 4,
+            "bench": 3
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 6,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 376253,
+        "name": "B. Wallace",
+        "firstname": "Benjamin John",
+        "lastname": "Wallace",
+        "age": 21,
+        "birth": {
+          "date": "2004-03-26",
+          "place": "Hamilton",
+          "country": "New Zealand"
+        },
+        "nationality": "New Zealand",
+        "height": "185 cm",
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/376253.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 20659,
+            "name": "Western Springs",
+            "logo": "https://media.api-sports.io/football/teams/20659.png"
+          },
+          "league": {
+            "id": 1056,
+            "name": "National League - Championship - Final",
+            "country": "New-Zealand",
+            "logo": "https://media.api-sports.io/football/leagues/1056.png",
+            "flag": "https://media.api-sports.io/flags/nz.svg",
+            "season": 2025
+          },
+          "games": {
+            "appearences": 7,
+            "lineups": 7,
+            "minutes": 595,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 3,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 6,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 375589,
+        "name": "J. Tollervey",
+        "firstname": "Joshua",
+        "lastname": "Tollervey",
+        "age": 21,
+        "birth": {
+          "date": "2004-01-10",
+          "place": null,
+          "country": "New Zealand"
+        },
+        "nationality": "New Zealand",
+        "height": null,
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/375589.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 20652,
+            "name": "Christchurch United",
+            "logo": "https://media.api-sports.io/football/teams/20652.png"
+          },
+          "league": {
+            "id": 1056,
+            "name": "National League - Championship - Final",
+            "country": "New-Zealand",
+            "logo": "https://media.api-sports.io/football/leagues/1056.png",
+            "flag": "https://media.api-sports.io/flags/nz.svg",
+            "season": 2025
+          },
+          "games": {
+            "appearences": 6,
+            "lineups": 6,
+            "minutes": 452,
+            "number": null,
+            "position": "Attacker",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 4,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 6,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 38915,
+        "name": "G. Coughlan",
+        "firstname": "Garbhan",
+        "lastname": "Coughlan",
+        "age": 32,
+        "birth": {
+          "date": "1993-01-24",
+          "place": null,
+          "country": "Republic of Ireland"
+        },
+        "nationality": "Republic of Ireland",
+        "height": "176 cm",
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/38915.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 20651,
+            "name": "Cashmere Technical",
+            "logo": "https://media.api-sports.io/football/teams/20651.png"
+          },
+          "league": {
+            "id": 1056,
+            "name": "National League - Championship - Final",
+            "country": "New-Zealand",
+            "logo": "https://media.api-sports.io/football/leagues/1056.png",
+            "flag": "https://media.api-sports.io/flags/nz.svg",
+            "season": 2025
+          },
+          "games": {
+            "appearences": 4,
+            "lineups": 4,
+            "minutes": 247,
+            "number": null,
+            "position": "Attacker",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 3,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 6,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 292569,
+        "name": "D. Vollenhoven",
+        "firstname": "DeAndre",
+        "lastname": "Vollenhoven",
+        "age": 24,
+        "birth": {
+          "date": "2001-08-01",
+          "place": null,
+          "country": "New Zealand"
+        },
+        "nationality": "New Zealand",
+        "height": null,
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/292569.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 20649,
+            "name": "Auckland United",
+            "logo": "https://media.api-sports.io/football/teams/20649.png"
+          },
+          "league": {
+            "id": 1056,
+            "name": "National League - Championship - Final",
+            "country": "New-Zealand",
+            "logo": "https://media.api-sports.io/football/leagues/1056.png",
+            "flag": "https://media.api-sports.io/flags/nz.svg",
+            "season": 2025
+          },
+          "games": {
+            "appearences": 9,
+            "lineups": 5,
+            "minutes": 510,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 4,
+            "out": 4,
+            "bench": 4
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 5,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 462904,
+        "name": "C. Brennan",
+        "firstname": "Colby",
+        "lastname": "Brennan",
+        "age": null,
+        "birth": {
+          "date": null,
+          "place": null,
+          "country": "New Zealand"
+        },
+        "nationality": "New Zealand",
+        "height": null,
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/462904.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 23213,
+            "name": "Tauranga City United",
+            "logo": "https://media.api-sports.io/football/teams/23213.png"
+          },
+          "league": {
+            "id": 1056,
+            "name": "National League - Championship - Final",
+            "country": "New-Zealand",
+            "logo": "https://media.api-sports.io/football/leagues/1056.png",
+            "flag": "https://media.api-sports.io/flags/nz.svg",
+            "season": 2025
+          },
+          "games": {
+            "appearences": 9,
+            "lineups": 9,
+            "minutes": 787,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 5,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 5,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 158680,
+        "name": "C. Neil",
+        "firstname": "Connor",
+        "lastname": "Neil",
+        "age": 28,
+        "birth": {
+          "date": "1997-02-05",
+          "place": "Dunedin",
+          "country": "New Zealand"
+        },
+        "nationality": "New Zealand",
+        "height": "175 cm",
+        "weight": "63 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/158680.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 20661,
+            "name": "Dunedin City Royals",
+            "logo": "https://media.api-sports.io/football/teams/20661.png"
+          },
+          "league": {
+            "id": 1056,
+            "name": "National League - Championship - Final",
+            "country": "New-Zealand",
+            "logo": "https://media.api-sports.io/football/leagues/1056.png",
+            "flag": "https://media.api-sports.io/flags/nz.svg",
+            "season": 2025
+          },
+          "games": {
+            "appearences": 6,
+            "lineups": 6,
+            "minutes": 496,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 5,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 414596,
+        "name": "O. Cameron",
+        "firstname": "Omar",
+        "lastname": "Cameron",
+        "age": null,
+        "birth": {
+          "date": null,
+          "place": null,
+          "country": "New Zealand"
+        },
+        "nationality": "New Zealand",
+        "height": null,
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/414596.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 20662,
+            "name": "Ferrymead Bays",
+            "logo": "https://media.api-sports.io/football/teams/20662.png"
+          },
+          "league": {
+            "id": 1056,
+            "name": "National League - Championship - Final",
+            "country": "New-Zealand",
+            "logo": "https://media.api-sports.io/football/leagues/1056.png",
+            "flag": "https://media.api-sports.io/flags/nz.svg",
+            "season": 2025
+          },
+          "games": {
+            "appearences": 6,
+            "lineups": 6,
+            "minutes": 509,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 5,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 295141,
+        "name": "E. Wilkinson",
+        "firstname": "Edward",
+        "lastname": "Wilkinson",
+        "age": 25,
+        "birth": {
+          "date": "2000-06-01",
+          "place": null,
+          "country": "New Zealand"
+        },
+        "nationality": "New Zealand",
+        "height": "175 cm",
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/295141.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 20652,
+            "name": "Christchurch United",
+            "logo": "https://media.api-sports.io/football/teams/20652.png"
+          },
+          "league": {
+            "id": 1056,
+            "name": "National League - Championship - Final",
+            "country": "New-Zealand",
+            "logo": "https://media.api-sports.io/football/leagues/1056.png",
+            "flag": "https://media.api-sports.io/flags/nz.svg",
+            "season": 2025
+          },
+          "games": {
+            "appearences": 6,
+            "lineups": 6,
+            "minutes": 540,
+            "number": null,
+            "position": "Attacker",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 5,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 38895,
+        "name": "J. Stevens",
+        "firstname": "Joel",
+        "lastname": "Craig Stevens",
+        "age": 30,
+        "birth": {
+          "date": "1995-02-07",
+          "place": null,
+          "country": "New Zealand"
+        },
+        "nationality": "New Zealand",
+        "height": "174 cm",
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/38895.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 20652,
+            "name": "Christchurch United",
+            "logo": "https://media.api-sports.io/football/teams/20652.png"
+          },
+          "league": {
+            "id": 1056,
+            "name": "National League - Championship - Final",
+            "country": "New-Zealand",
+            "logo": "https://media.api-sports.io/football/leagues/1056.png",
+            "flag": "https://media.api-sports.io/flags/nz.svg",
+            "season": 2025
+          },
+          "games": {
+            "appearences": 5,
+            "lineups": 5,
+            "minutes": 407,
+            "number": null,
+            "position": "Attacker",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 2,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 5,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 39022,
+        "name": "I. Machuca",
+        "firstname": "Ignacio Nicolas",
+        "lastname": "Machuca Maturena",
+        "age": 28,
+        "birth": {
+          "date": "1997-11-12",
+          "place": "Santa Cruz",
+          "country": "Chile"
+        },
+        "nationality": "Chile",
+        "height": "173 cm",
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/39022.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 21124,
+            "name": "West Coast Rangers",
+            "logo": "https://media.api-sports.io/football/teams/21124.png"
+          },
+          "league": {
+            "id": 1056,
+            "name": "National League - Championship - Final",
+            "country": "New-Zealand",
+            "logo": "https://media.api-sports.io/football/leagues/1056.png",
+            "flag": "https://media.api-sports.io/flags/nz.svg",
+            "season": 2025
+          },
+          "games": {
+            "appearences": 9,
+            "lineups": 8,
+            "minutes": 686,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 5,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 4,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 462882,
+        "name": "J. Reid",
+        "firstname": "Joby",
+        "lastname": "Reid",
+        "age": 19,
+        "birth": {
+          "date": "2006-05-13",
+          "place": null,
+          "country": "New Zealand"
+        },
+        "nationality": "New Zealand",
+        "height": null,
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/462882.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 13977,
+            "name": "Eastern Suburbs",
+            "logo": "https://media.api-sports.io/football/teams/13977.png"
+          },
+          "league": {
+            "id": 1056,
+            "name": "National League - Championship - Final",
+            "country": "New-Zealand",
+            "logo": "https://media.api-sports.io/football/leagues/1056.png",
+            "flag": "https://media.api-sports.io/flags/nz.svg",
+            "season": 2025
+          },
+          "games": {
+            "appearences": 9,
+            "lineups": 9,
+            "minutes": 695,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 7,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 4,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 328938,
+        "name": "G. Essomé Penda",
+        "firstname": "Guy-Franck",
+        "lastname": "Essomé Penda",
+        "age": 30,
+        "birth": {
+          "date": "1995-01-08",
+          "place": null,
+          "country": "Canada"
+        },
+        "nationality": "Canada",
+        "height": null,
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/328938.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 23212,
+            "name": "East Coast Bays",
+            "logo": "https://media.api-sports.io/football/teams/23212.png"
+          },
+          "league": {
+            "id": 1056,
+            "name": "National League - Championship - Final",
+            "country": "New-Zealand",
+            "logo": "https://media.api-sports.io/football/leagues/1056.png",
+            "flag": "https://media.api-sports.io/flags/nz.svg",
+            "season": 2025
+          },
+          "games": {
+            "appearences": 9,
+            "lineups": 9,
+            "minutes": 789,
+            "number": null,
+            "position": "Attacker",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 2,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 4,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 3,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1915 @@
+{
+  "get": "players/topassists",
+  "parameters": {
+    "league": "323",
+    "season": "2025"
+  },
+  "errors": [],
+  "results": 20,
+  "paging": {
+    "current": 1,
+    "total": 1
+  },
+  "response": [
+    {
+      "player": {
+        "id": 641148,
+        "name": "Ebindas Y",
+        "firstname": null,
+        "lastname": null,
+        "age": 20,
+        "birth": {
+          "date": null,
+          "place": null,
+          "country": null
+        },
+        "nationality": null,
+        "height": null,
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/641148.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 3477,
+            "name": "Kerala Blasters",
+            "logo": "https://media.api-sports.io/football/teams/3477.png"
+          },
+          "league": {
+            "id": 323,
+            "name": "Indian Super League",
+            "country": "India",
+            "logo": "https://media.api-sports.io/football/leagues/323.png",
+            "flag": "https://media.api-sports.io/flags/in.svg",
+            "season": 2025
+          },
+          "games": {
+            "appearences": 12,
+            "lineups": 4,
+            "minutes": 501,
+            "number": 47,
+            "position": "Attacker",
+            "rating": "6.99",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 8,
+            "out": 3,
+            "bench": 9
+          },
+          "shots": {
+            "total": 3,
+            "on": 1
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 5,
+            "saves": null
+          },
+          "passes": {
+            "total": 233,
+            "key": 14,
+            "accuracy": 78
+          },
+          "tackles": {
+            "total": 11,
+            "blocks": null,
+            "interceptions": 3
+          },
+          "duels": {
+            "total": 40,
+            "won": 22
+          },
+          "dribbles": {
+            "attempts": 7,
+            "success": 3,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 7,
+            "committed": 5
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 440257,
+        "name": "L. Fanai",
+        "firstname": "Lalremtluanga",
+        "lastname": "Fanai",
+        "age": 21,
+        "birth": {
+          "date": "2004-09-17",
+          "place": "Aizawl",
+          "country": "India"
+        },
+        "nationality": "India",
+        "height": "178",
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/440257.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 3472,
+            "name": "Bengaluru",
+            "logo": "https://media.api-sports.io/football/teams/3472.png"
+          },
+          "league": {
+            "id": 323,
+            "name": "Indian Super League",
+            "country": "India",
+            "logo": "https://media.api-sports.io/football/leagues/323.png",
+            "flag": "https://media.api-sports.io/flags/in.svg",
+            "season": 2025
+          },
+          "games": {
+            "appearences": 13,
+            "lineups": 10,
+            "minutes": 882,
+            "number": 23,
+            "position": "Midfielder",
+            "rating": "6.61",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 3,
+            "out": 8,
+            "bench": 3
+          },
+          "shots": {
+            "total": 4,
+            "on": 2
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 4,
+            "saves": null
+          },
+          "passes": {
+            "total": 397,
+            "key": 7,
+            "accuracy": 83
+          },
+          "tackles": {
+            "total": 11,
+            "blocks": 2,
+            "interceptions": 14
+          },
+          "duels": {
+            "total": 76,
+            "won": 35
+          },
+          "dribbles": {
+            "attempts": 16,
+            "success": 5,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 9,
+            "committed": 9
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 61160,
+        "name": "D. Dražić",
+        "firstname": "Dejan",
+        "lastname": "Dražić",
+        "age": 30,
+        "birth": {
+          "date": "1995-09-26",
+          "place": "Sombor",
+          "country": "Serbia"
+        },
+        "nationality": "Serbia",
+        "height": "175",
+        "weight": "69",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/61160.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 3475,
+            "name": "Goa",
+            "logo": "https://media.api-sports.io/football/teams/3475.png"
+          },
+          "league": {
+            "id": 323,
+            "name": "Indian Super League",
+            "country": "India",
+            "logo": "https://media.api-sports.io/football/leagues/323.png",
+            "flag": "https://media.api-sports.io/flags/in.svg",
+            "season": 2025
+          },
+          "games": {
+            "appearences": 12,
+            "lineups": 12,
+            "minutes": 916,
+            "number": 71,
+            "position": "Attacker",
+            "rating": "7.23",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 3,
+            "bench": 0
+          },
+          "shots": {
+            "total": 15,
+            "on": 8
+          },
+          "goals": {
+            "total": 5,
+            "conceded": 0,
+            "assists": 3,
+            "saves": null
+          },
+          "passes": {
+            "total": 357,
+            "key": 27,
+            "accuracy": 75
+          },
+          "tackles": {
+            "total": 11,
+            "blocks": null,
+            "interceptions": 5
+          },
+          "duels": {
+            "total": 112,
+            "won": 51
+          },
+          "dribbles": {
+            "attempts": 32,
+            "success": 16,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 13,
+            "committed": 6
+          },
+          "cards": {
+            "yellow": 4,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 2,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 10366,
+        "name": "Miguel Figueira",
+        "firstname": "Miguel",
+        "lastname": "Ferreira Damasceno",
+        "age": 25,
+        "birth": {
+          "date": "2000-04-22",
+          "place": null,
+          "country": "Brazil"
+        },
+        "nationality": "Brazil",
+        "height": null,
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/10366.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 21137,
+            "name": "East Bengal II",
+            "logo": "https://media.api-sports.io/football/teams/21137.png"
+          },
+          "league": {
+            "id": 323,
+            "name": "Indian Super League",
+            "country": "India",
+            "logo": "https://media.api-sports.io/football/leagues/323.png",
+            "flag": "https://media.api-sports.io/flags/in.svg",
+            "season": 2025
+          },
+          "games": {
+            "appearences": 12,
+            "lineups": 11,
+            "minutes": 687,
+            "number": 8,
+            "position": "Midfielder",
+            "rating": "7.58",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 1,
+            "bench": 1
+          },
+          "shots": {
+            "total": 26,
+            "on": 10
+          },
+          "goals": {
+            "total": 2,
+            "conceded": 0,
+            "assists": 3,
+            "saves": null
+          },
+          "passes": {
+            "total": 282,
+            "key": 29,
+            "accuracy": 74
+          },
+          "tackles": {
+            "total": 17,
+            "blocks": null,
+            "interceptions": 2
+          },
+          "duels": {
+            "total": 98,
+            "won": 53
+          },
+          "dribbles": {
+            "attempts": 15,
+            "success": 9,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 19,
+            "committed": 16
+          },
+          "cards": {
+            "yellow": 3,
+            "yellowred": 0,
+            "red": 1
+          },
+          "penalty": {
+            "won": 3,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 21556,
+        "name": "M. Talal",
+        "firstname": "Madih",
+        "lastname": "Talal",
+        "age": 28,
+        "birth": {
+          "date": "1997-08-17",
+          "place": "Noisy-Le-Grand",
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": "178",
+        "weight": "74",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/21556.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 3476,
+            "name": "Jamshedpur",
+            "logo": "https://media.api-sports.io/football/teams/3476.png"
+          },
+          "league": {
+            "id": 323,
+            "name": "Indian Super League",
+            "country": "India",
+            "logo": "https://media.api-sports.io/football/leagues/323.png",
+            "flag": "https://media.api-sports.io/flags/in.svg",
+            "season": 2025
+          },
+          "games": {
+            "appearences": 9,
+            "lineups": 8,
+            "minutes": 647,
+            "number": 10,
+            "position": "Midfielder",
+            "rating": "7.64",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 1,
+            "bench": 1
+          },
+          "shots": {
+            "total": 16,
+            "on": 6
+          },
+          "goals": {
+            "total": 2,
+            "conceded": 0,
+            "assists": 3,
+            "saves": null
+          },
+          "passes": {
+            "total": 253,
+            "key": 32,
+            "accuracy": 79
+          },
+          "tackles": {
+            "total": null,
+            "blocks": 2,
+            "interceptions": 4
+          },
+          "duels": {
+            "total": 78,
+            "won": 37
+          },
+          "dribbles": {
+            "attempts": 30,
+            "success": 9,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 20,
+            "committed": 3
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 749,
+        "name": "F. Feuillassier",
+        "firstname": "Francisco",
+        "lastname": "Feuillassier Ábalo",
+        "age": 27,
+        "birth": {
+          "date": "1998-05-12",
+          "place": "Mar del Plata",
+          "country": "Argentina"
+        },
+        "nationality": "Argentina",
+        "height": "172",
+        "weight": "68",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/749.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 3477,
+            "name": "Kerala Blasters",
+            "logo": "https://media.api-sports.io/football/teams/3477.png"
+          },
+          "league": {
+            "id": 323,
+            "name": "Indian Super League",
+            "country": "India",
+            "logo": "https://media.api-sports.io/football/leagues/323.png",
+            "flag": "https://media.api-sports.io/flags/in.svg",
+            "season": 2025
+          },
+          "games": {
+            "appearences": 6,
+            "lineups": 4,
+            "minutes": 368,
+            "number": 23,
+            "position": "Midfielder",
+            "rating": "7.47",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 4,
+            "bench": 2
+          },
+          "shots": {
+            "total": 9,
+            "on": 4
+          },
+          "goals": {
+            "total": 2,
+            "conceded": 0,
+            "assists": 3,
+            "saves": null
+          },
+          "passes": {
+            "total": 110,
+            "key": 9,
+            "accuracy": 78
+          },
+          "tackles": {
+            "total": 3,
+            "blocks": null,
+            "interceptions": 3
+          },
+          "duels": {
+            "total": 19,
+            "won": 8
+          },
+          "dribbles": {
+            "attempts": 6,
+            "success": 2,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 3,
+            "committed": 4
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 179874,
+        "name": "S. Zeljković",
+        "firstname": "Samir",
+        "lastname": "Zeljković",
+        "age": 28,
+        "birth": {
+          "date": "1997-09-04",
+          "place": null,
+          "country": "Bosnia and Herzegovina"
+        },
+        "nationality": "Bosnia and Herzegovina",
+        "height": "184 cm",
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/179874.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 3466,
+            "name": "Minerva Punjab",
+            "logo": "https://media.api-sports.io/football/teams/3466.png"
+          },
+          "league": {
+            "id": 323,
+            "name": "Indian Super League",
+            "country": "India",
+            "logo": "https://media.api-sports.io/football/leagues/323.png",
+            "flag": "https://media.api-sports.io/flags/in.svg",
+            "season": 2025
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 795,
+            "number": 8,
+            "position": "Midfielder",
+            "rating": "7.11",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": 9,
+            "on": 7
+          },
+          "goals": {
+            "total": 2,
+            "conceded": 0,
+            "assists": 3,
+            "saves": null
+          },
+          "passes": {
+            "total": 264,
+            "key": 6,
+            "accuracy": 77
+          },
+          "tackles": {
+            "total": 19,
+            "blocks": null,
+            "interceptions": 7
+          },
+          "duels": {
+            "total": 79,
+            "won": 46
+          },
+          "dribbles": {
+            "attempts": 6,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 12,
+            "committed": 9
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 400425,
+        "name": "K. Lalrinfela",
+        "firstname": "K",
+        "lastname": "Lalrinfela",
+        "age": 25,
+        "birth": {
+          "date": "2000-03-11",
+          "place": null,
+          "country": "India"
+        },
+        "nationality": "India",
+        "height": null,
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/400425.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 7177,
+            "name": "Odisha",
+            "logo": "https://media.api-sports.io/football/teams/7177.png"
+          },
+          "league": {
+            "id": 323,
+            "name": "Indian Super League",
+            "country": "India",
+            "logo": "https://media.api-sports.io/football/leagues/323.png",
+            "flag": "https://media.api-sports.io/flags/in.svg",
+            "season": 2025
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 744,
+            "number": 25,
+            "position": "Attacker",
+            "rating": "6.49",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": 6,
+            "on": 3
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": 3,
+            "saves": null
+          },
+          "passes": {
+            "total": 252,
+            "key": 16,
+            "accuracy": 78
+          },
+          "tackles": {
+            "total": 9,
+            "blocks": 2,
+            "interceptions": 8
+          },
+          "duels": {
+            "total": 87,
+            "won": 31
+          },
+          "dribbles": {
+            "attempts": 20,
+            "success": 7,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 9,
+            "committed": 4
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 60005,
+        "name": "L. Khawlhring",
+        "firstname": "Lalthathanga",
+        "lastname": "Khawlhring",
+        "age": 27,
+        "birth": {
+          "date": "1998-03-30",
+          "place": null,
+          "country": "India"
+        },
+        "nationality": "India",
+        "height": "174",
+        "weight": "64",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/60005.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 7177,
+            "name": "Odisha",
+            "logo": "https://media.api-sports.io/football/teams/7177.png"
+          },
+          "league": {
+            "id": 323,
+            "name": "Indian Super League",
+            "country": "India",
+            "logo": "https://media.api-sports.io/football/leagues/323.png",
+            "flag": "https://media.api-sports.io/flags/in.svg",
+            "season": 2025
+          },
+          "games": {
+            "appearences": 13,
+            "lineups": 13,
+            "minutes": 1071,
+            "number": 7,
+            "position": "Midfielder",
+            "rating": "6.88",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 0
+          },
+          "shots": {
+            "total": 5,
+            "on": 2
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 3,
+            "saves": null
+          },
+          "passes": {
+            "total": 468,
+            "key": 22,
+            "accuracy": 83
+          },
+          "tackles": {
+            "total": 11,
+            "blocks": 6,
+            "interceptions": 8
+          },
+          "duels": {
+            "total": 57,
+            "won": 29
+          },
+          "dribbles": {
+            "attempts": 6,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 13,
+            "committed": 9
+          },
+          "cards": {
+            "yellow": 3,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": 1,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 59971,
+        "name": "S. Bose",
+        "firstname": "Subhasish Prodyut",
+        "lastname": "Bose",
+        "age": 30,
+        "birth": {
+          "date": "1995-08-18",
+          "place": "Shubhashgram",
+          "country": "India"
+        },
+        "nationality": "India",
+        "height": "185",
+        "weight": "77",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/59971.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 15516,
+            "name": "ATK Mohun Bagan",
+            "logo": "https://media.api-sports.io/football/teams/15516.png"
+          },
+          "league": {
+            "id": 323,
+            "name": "Indian Super League",
+            "country": "India",
+            "logo": "https://media.api-sports.io/football/leagues/323.png",
+            "flag": "https://media.api-sports.io/flags/in.svg",
+            "season": 2025
+          },
+          "games": {
+            "appearences": 12,
+            "lineups": 11,
+            "minutes": 749,
+            "number": 15,
+            "position": "Defender",
+            "rating": "7.23",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 4,
+            "bench": 2
+          },
+          "shots": {
+            "total": 1,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 3,
+            "saves": null
+          },
+          "passes": {
+            "total": 366,
+            "key": 10,
+            "accuracy": 83
+          },
+          "tackles": {
+            "total": 29,
+            "blocks": 3,
+            "interceptions": 10
+          },
+          "duels": {
+            "total": 80,
+            "won": 53
+          },
+          "dribbles": {
+            "attempts": 10,
+            "success": 5,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 4,
+            "committed": 5
+          },
+          "cards": {
+            "yellow": 3,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 104868,
+        "name": "Alberto Noguera",
+        "firstname": "Alberto",
+        "lastname": "Noguera Ripoll",
+        "age": 36,
+        "birth": {
+          "date": "1989-09-24",
+          "place": "Madrid",
+          "country": "Spain"
+        },
+        "nationality": "Spain",
+        "height": "173",
+        "weight": "68",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/104868.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 3473,
+            "name": "Chennaiyin",
+            "logo": "https://media.api-sports.io/football/teams/3473.png"
+          },
+          "league": {
+            "id": 323,
+            "name": "Indian Super League",
+            "country": "India",
+            "logo": "https://media.api-sports.io/football/leagues/323.png",
+            "flag": "https://media.api-sports.io/flags/in.svg",
+            "season": 2025
+          },
+          "games": {
+            "appearences": 12,
+            "lineups": 12,
+            "minutes": 990,
+            "number": 14,
+            "position": "Midfielder",
+            "rating": "7.28",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 0
+          },
+          "shots": {
+            "total": 3,
+            "on": 2
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 3,
+            "saves": null
+          },
+          "passes": {
+            "total": 552,
+            "key": 15,
+            "accuracy": 85
+          },
+          "tackles": {
+            "total": 33,
+            "blocks": 1,
+            "interceptions": 8
+          },
+          "duels": {
+            "total": 121,
+            "won": 71
+          },
+          "dribbles": {
+            "attempts": 13,
+            "success": 7,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 23,
+            "committed": 18
+          },
+          "cards": {
+            "yellow": 4,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 262820,
+        "name": "E. Nsungusi",
+        "firstname": "Effiong",
+        "lastname": "Nsungusi Junior",
+        "age": 26,
+        "birth": {
+          "date": "1999-11-04",
+          "place": null,
+          "country": "Nigeria"
+        },
+        "nationality": "Nigeria",
+        "height": "195 cm",
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/262820.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 3466,
+            "name": "Minerva Punjab",
+            "logo": "https://media.api-sports.io/football/teams/3466.png"
+          },
+          "league": {
+            "id": 323,
+            "name": "Indian Super League",
+            "country": "India",
+            "logo": "https://media.api-sports.io/football/leagues/323.png",
+            "flag": "https://media.api-sports.io/flags/in.svg",
+            "season": 2025
+          },
+          "games": {
+            "appearences": 12,
+            "lineups": 12,
+            "minutes": 839,
+            "number": 9,
+            "position": "Attacker",
+            "rating": "7.03",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 0
+          },
+          "shots": {
+            "total": 26,
+            "on": 13
+          },
+          "goals": {
+            "total": 7,
+            "conceded": 0,
+            "assists": 2,
+            "saves": null
+          },
+          "passes": {
+            "total": 200,
+            "key": 13,
+            "accuracy": 65
+          },
+          "tackles": {
+            "total": 5,
+            "blocks": null,
+            "interceptions": 2
+          },
+          "duels": {
+            "total": 111,
+            "won": 42
+          },
+          "dribbles": {
+            "attempts": 10,
+            "success": 6,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 10,
+            "committed": 32
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 1
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 40645,
+        "name": "Dani Ramírez",
+        "firstname": "Daniel",
+        "lastname": "Ramírez Fernández",
+        "age": 33,
+        "birth": {
+          "date": "1992-06-18",
+          "place": "Leganés",
+          "country": "Spain"
+        },
+        "nationality": "Spain",
+        "height": "175 cm",
+        "weight": "70 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/40645.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 3466,
+            "name": "Minerva Punjab",
+            "logo": "https://media.api-sports.io/football/teams/3466.png"
+          },
+          "league": {
+            "id": 323,
+            "name": "Indian Super League",
+            "country": "India",
+            "logo": "https://media.api-sports.io/football/leagues/323.png",
+            "flag": "https://media.api-sports.io/flags/in.svg",
+            "season": 2025
+          },
+          "games": {
+            "appearences": 13,
+            "lineups": 13,
+            "minutes": 885,
+            "number": 10,
+            "position": "Midfielder",
+            "rating": "7.38",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 6,
+            "bench": 0
+          },
+          "shots": {
+            "total": 22,
+            "on": 10
+          },
+          "goals": {
+            "total": 4,
+            "conceded": 0,
+            "assists": 2,
+            "saves": null
+          },
+          "passes": {
+            "total": 357,
+            "key": 37,
+            "accuracy": 78
+          },
+          "tackles": {
+            "total": 4,
+            "blocks": null,
+            "interceptions": 2
+          },
+          "duels": {
+            "total": 51,
+            "won": 26
+          },
+          "dribbles": {
+            "attempts": 16,
+            "success": 10,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 11,
+            "committed": 6
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 109717,
+        "name": "B. Osuji",
+        "firstname": "Bede Amarachi",
+        "lastname": "Osuji",
+        "age": 29,
+        "birth": {
+          "date": "1996-01-21",
+          "place": null,
+          "country": "Nigeria"
+        },
+        "nationality": "Nigeria",
+        "height": "183 cm",
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/109717.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 3466,
+            "name": "Minerva Punjab",
+            "logo": "https://media.api-sports.io/football/teams/3466.png"
+          },
+          "league": {
+            "id": 323,
+            "name": "Indian Super League",
+            "country": "India",
+            "logo": "https://media.api-sports.io/football/leagues/323.png",
+            "flag": "https://media.api-sports.io/flags/in.svg",
+            "season": 2025
+          },
+          "games": {
+            "appearences": 13,
+            "lineups": 9,
+            "minutes": 648,
+            "number": 40,
+            "position": "Midfielder",
+            "rating": "6.71",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 4,
+            "out": 7,
+            "bench": 4
+          },
+          "shots": {
+            "total": 16,
+            "on": 12
+          },
+          "goals": {
+            "total": 3,
+            "conceded": 0,
+            "assists": 2,
+            "saves": null
+          },
+          "passes": {
+            "total": 210,
+            "key": 15,
+            "accuracy": 77
+          },
+          "tackles": {
+            "total": 7,
+            "blocks": null,
+            "interceptions": 3
+          },
+          "duels": {
+            "total": 68,
+            "won": 26
+          },
+          "dribbles": {
+            "attempts": 14,
+            "success": 5,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 9,
+            "committed": 11
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 29164,
+        "name": "R. Ali",
+        "firstname": "Rahim",
+        "lastname": "Ali",
+        "age": 25,
+        "birth": {
+          "date": "2000-04-21",
+          "place": "Ichapur",
+          "country": "India"
+        },
+        "nationality": "India",
+        "height": "179",
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/29164.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 7177,
+            "name": "Odisha",
+            "logo": "https://media.api-sports.io/football/teams/7177.png"
+          },
+          "league": {
+            "id": 323,
+            "name": "Indian Super League",
+            "country": "India",
+            "logo": "https://media.api-sports.io/football/leagues/323.png",
+            "flag": "https://media.api-sports.io/flags/in.svg",
+            "season": 2025
+          },
+          "games": {
+            "appearences": 11,
+            "lineups": 11,
+            "minutes": 866,
+            "number": 11,
+            "position": "Attacker",
+            "rating": "6.91",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 0
+          },
+          "shots": {
+            "total": 13,
+            "on": 7
+          },
+          "goals": {
+            "total": 3,
+            "conceded": 0,
+            "assists": 2,
+            "saves": null
+          },
+          "passes": {
+            "total": 178,
+            "key": 9,
+            "accuracy": 70
+          },
+          "tackles": {
+            "total": 7,
+            "blocks": 1,
+            "interceptions": 2
+          },
+          "duels": {
+            "total": 104,
+            "won": 42
+          },
+          "dribbles": {
+            "attempts": 17,
+            "success": 6,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 16,
+            "committed": 10
+          },
+          "cards": {
+            "yellow": 3,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 455820,
+        "name": "J. Sunny",
+        "firstname": "Joseph",
+        "lastname": "Sunny",
+        "age": 22,
+        "birth": {
+          "date": "2003-10-13",
+          "place": null,
+          "country": "India"
+        },
+        "nationality": "India",
+        "height": null,
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/455820.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 26963,
+            "name": "SC Delhi",
+            "logo": "https://media.api-sports.io/football/teams/26963.png"
+          },
+          "league": {
+            "id": 323,
+            "name": "Indian Super League",
+            "country": "India",
+            "logo": "https://media.api-sports.io/football/leagues/323.png",
+            "flag": "https://media.api-sports.io/flags/in.svg",
+            "season": 2025
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 595,
+            "number": 11,
+            "position": "Attacker",
+            "rating": "6.88",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": 10,
+            "on": 3
+          },
+          "goals": {
+            "total": 3,
+            "conceded": 0,
+            "assists": 2,
+            "saves": null
+          },
+          "passes": {
+            "total": 167,
+            "key": 7,
+            "accuracy": 77
+          },
+          "tackles": {
+            "total": 5,
+            "blocks": null,
+            "interceptions": 4
+          },
+          "duels": {
+            "total": 48,
+            "won": 21
+          },
+          "dribbles": {
+            "attempts": 11,
+            "success": 2,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 7,
+            "committed": 3
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 399115,
+        "name": "Noufal",
+        "firstname": "Noufal",
+        "lastname": "Noufal",
+        "age": 25,
+        "birth": {
+          "date": "2000-10-30",
+          "place": null,
+          "country": "India"
+        },
+        "nationality": "India",
+        "height": null,
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/399115.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 3478,
+            "name": "Mumbai City",
+            "logo": "https://media.api-sports.io/football/teams/3478.png"
+          },
+          "league": {
+            "id": 323,
+            "name": "Indian Super League",
+            "country": "India",
+            "logo": "https://media.api-sports.io/football/leagues/323.png",
+            "flag": "https://media.api-sports.io/flags/in.svg",
+            "season": 2025
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 681,
+            "number": 92,
+            "position": "Attacker",
+            "rating": "6.97",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": 11,
+            "on": 6
+          },
+          "goals": {
+            "total": 3,
+            "conceded": 0,
+            "assists": 2,
+            "saves": null
+          },
+          "passes": {
+            "total": 191,
+            "key": 12,
+            "accuracy": 72
+          },
+          "tackles": {
+            "total": 6,
+            "blocks": null,
+            "interceptions": 7
+          },
+          "duels": {
+            "total": 51,
+            "won": 17
+          },
+          "dribbles": {
+            "attempts": 21,
+            "success": 5,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 4,
+            "committed": 4
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 440262,
+        "name": "M. Aimen",
+        "firstname": "Mohammed",
+        "lastname": "Aimen",
+        "age": 22,
+        "birth": {
+          "date": "2003-01-20",
+          "place": null,
+          "country": "India"
+        },
+        "nationality": "India",
+        "height": "173",
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/440262.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 26963,
+            "name": "SC Delhi",
+            "logo": "https://media.api-sports.io/football/teams/26963.png"
+          },
+          "league": {
+            "id": 323,
+            "name": "Indian Super League",
+            "country": "India",
+            "logo": "https://media.api-sports.io/football/leagues/323.png",
+            "flag": "https://media.api-sports.io/flags/in.svg",
+            "season": 2025
+          },
+          "games": {
+            "appearences": 12,
+            "lineups": 9,
+            "minutes": 652,
+            "number": 23,
+            "position": "Midfielder",
+            "rating": "6.84",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 3,
+            "out": 7,
+            "bench": 4
+          },
+          "shots": {
+            "total": 14,
+            "on": 7
+          },
+          "goals": {
+            "total": 2,
+            "conceded": 0,
+            "assists": 2,
+            "saves": null
+          },
+          "passes": {
+            "total": 123,
+            "key": 12,
+            "accuracy": 75
+          },
+          "tackles": {
+            "total": 8,
+            "blocks": null,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 58,
+            "won": 23
+          },
+          "dribbles": {
+            "attempts": 20,
+            "success": 4,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 11,
+            "committed": 3
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": 1,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 6967,
+        "name": "D. Petratos",
+        "firstname": "Dimitri",
+        "lastname": "Petratos",
+        "age": 33,
+        "birth": {
+          "date": "1992-11-10",
+          "place": "Sydney",
+          "country": "Australia"
+        },
+        "nationality": "Australia",
+        "height": "176",
+        "weight": "82",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/6967.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 15516,
+            "name": "ATK Mohun Bagan",
+            "logo": "https://media.api-sports.io/football/teams/15516.png"
+          },
+          "league": {
+            "id": 323,
+            "name": "Indian Super League",
+            "country": "India",
+            "logo": "https://media.api-sports.io/football/leagues/323.png",
+            "flag": "https://media.api-sports.io/flags/in.svg",
+            "season": 2025
+          },
+          "games": {
+            "appearences": 12,
+            "lineups": 7,
+            "minutes": 666,
+            "number": 9,
+            "position": "Attacker",
+            "rating": "6.91",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 5,
+            "out": 4,
+            "bench": 6
+          },
+          "shots": {
+            "total": 21,
+            "on": 7
+          },
+          "goals": {
+            "total": 2,
+            "conceded": 0,
+            "assists": 2,
+            "saves": null
+          },
+          "passes": {
+            "total": 369,
+            "key": 30,
+            "accuracy": 85
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": null,
+            "interceptions": 2
+          },
+          "duels": {
+            "total": 37,
+            "won": 11
+          },
+          "dribbles": {
+            "attempts": 5,
+            "success": 2,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 7,
+            "committed": 6
+          },
+          "cards": {
+            "yellow": 3,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 606353,
+        "name": "L. Lalbiaknia",
+        "firstname": null,
+        "lastname": null,
+        "age": 25,
+        "birth": {
+          "date": null,
+          "place": null,
+          "country": null
+        },
+        "nationality": null,
+        "height": null,
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/606353.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 3479,
+            "name": "NorthEast United",
+            "logo": "https://media.api-sports.io/football/teams/3479.png"
+          },
+          "league": {
+            "id": 323,
+            "name": "Indian Super League",
+            "country": "India",
+            "logo": "https://media.api-sports.io/football/leagues/323.png",
+            "flag": "https://media.api-sports.io/flags/in.svg",
+            "season": 2025
+          },
+          "games": {
+            "appearences": 11,
+            "lineups": 4,
+            "minutes": 448,
+            "number": 21,
+            "position": "Attacker",
+            "rating": "6.64",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 7,
+            "out": 2,
+            "bench": 9
+          },
+          "shots": {
+            "total": 7,
+            "on": 4
+          },
+          "goals": {
+            "total": 2,
+            "conceded": 0,
+            "assists": 2,
+            "saves": null
+          },
+          "passes": {
+            "total": 70,
+            "key": 6,
+            "accuracy": 71
+          },
+          "tackles": {
+            "total": 3,
+            "blocks": null,
+            "interceptions": 4
+          },
+          "duels": {
+            "total": 42,
+            "won": 13
+          },
+          "dribbles": {
+            "attempts": 3,
+            "success": 3,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 5,
+            "committed": 6
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    }
+  ]
+}
