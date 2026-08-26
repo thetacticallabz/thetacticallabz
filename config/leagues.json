@@ -1,13 +1,39 @@
 {
-  "_instrucciones": "Rellena 'id' para cada liga ejecutando scripts/discover-leagues.mjs --country <país>. No se han puesto IDs por defecto porque los IDs de API-Football hay que verificarlos con una clave real y confirmar que la temporada objetivo está disponible. 'slug' es el identificador que usa el sitio web en las URLs (/datos/<slug>/clasificacion) — puedes cambiarlo, pero si lo haces borra los archivos viejos en data/.",
+  "_instrucciones": "IDs verificados contra API-Football el 26/08/2026 mediante el flujo 'Descubrir ligas'. El campo 'temporada' importa: API-Football etiqueta cada temporada por su año de inicio. Si una liga devuelve vacío, comprobar qué temporadas tiene disponibles relanzando 'Descubrir ligas'.",
   "ligas": [
-    { "region": "portugal", "nombre": "Primeira Liga", "slug": "primeira-liga", "id": null, "temporada": 2026 },
-    { "region": "portugal", "nombre": "Liga Portugal 2", "slug": "liga-portugal-2", "id": null, "temporada": 2026 },
-    { "region": "sudamerica", "nombre": "Brasileirão Série A", "slug": "brasileirao-serie-a", "id": null, "temporada": 2026 },
-    { "region": "sudamerica", "nombre": "Liga Profesional Argentina", "slug": "liga-profesional-argentina", "id": null, "temporada": 2026 },
-    { "region": "asia", "nombre": "J1 League", "slug": "j1-league", "id": null, "temporada": 2026 },
-    { "region": "asia", "nombre": "K League 1", "slug": "k-league-1", "id": null, "temporada": 2026 },
-    { "region": "africa", "nombre": "Por definir según scouting inicial", "slug": "africa-por-definir", "id": null, "temporada": 2026 },
-    { "region": "oceania", "nombre": "A-League Men (Australia)", "slug": "a-league-men", "id": null, "temporada": 2026 }
+    { "region": "portugal", "nombre": "Primeira Liga", "slug": "primeira-liga", "id": 94, "temporada": 2026 },
+    { "region": "portugal", "nombre": "Segunda Liga", "slug": "segunda-liga", "id": 95, "temporada": 2026 },
+    { "region": "portugal", "nombre": "Liga 3", "slug": "liga-3-portugal", "id": 865, "temporada": 2026 },
+
+    { "region": "sudamerica", "nombre": "Brasileirão Série A", "slug": "brasileirao-serie-a", "id": 71, "temporada": 2026 },
+    { "region": "sudamerica", "nombre": "Brasileirão Série B", "slug": "brasileirao-serie-b", "id": 72, "temporada": 2026 },
+    { "region": "sudamerica", "nombre": "Brasileirão Série C", "slug": "brasileirao-serie-c", "id": 75, "temporada": 2026 },
+    { "region": "sudamerica", "nombre": "Liga Profesional Argentina", "slug": "liga-profesional-argentina", "id": 128, "temporada": 2026 },
+    { "region": "sudamerica", "nombre": "Primera Nacional (Argentina)", "slug": "primera-nacional-argentina", "id": 129, "temporada": 2026 },
+    { "region": "sudamerica", "nombre": "Primera División de Chile", "slug": "primera-division-chile", "id": 265, "temporada": 2026 },
+    { "region": "sudamerica", "nombre": "Primera B de Chile", "slug": "primera-b-chile", "id": 266, "temporada": 2026 },
+    { "region": "sudamerica", "nombre": "Primera A de Colombia", "slug": "primera-a-colombia", "id": 239, "temporada": 2026 },
+    { "region": "sudamerica", "nombre": "Primera División de Uruguay", "slug": "primera-division-uruguay", "id": 268, "temporada": 2026 },
+    { "region": "sudamerica", "nombre": "Primera División de Venezuela", "slug": "primera-division-venezuela", "id": 299, "temporada": 2026 },
+    { "region": "sudamerica", "nombre": "Segunda División de Venezuela", "slug": "segunda-division-venezuela", "id": 300, "temporada": 2026 },
+
+    { "region": "asia", "nombre": "J1 League", "slug": "j1-league", "id": 98, "temporada": 2026 },
+    { "region": "asia", "nombre": "J2 League", "slug": "j2-league", "id": 99, "temporada": 2026 },
+    { "region": "asia", "nombre": "J3 League", "slug": "j3-league", "id": 100, "temporada": 2026 },
+    { "region": "asia", "nombre": "K League 1", "slug": "k-league-1", "id": 292, "temporada": 2026 },
+    { "region": "asia", "nombre": "K League 2", "slug": "k-league-2", "id": 293, "temporada": 2026 },
+
+    { "region": "oceania", "nombre": "A-League Men", "slug": "a-league-men", "id": 188, "temporada": 2026 },
+
+    { "region": "africa", "nombre": "Botola Pro (Marruecos)", "slug": "botola-pro", "id": 200, "temporada": 2025 },
+    { "region": "africa", "nombre": "Botola 2 (Marruecos)", "slug": "botola-2", "id": 201, "temporada": 2025 },
+    { "region": "africa", "nombre": "Premier League de Egipto", "slug": "premier-league-egipto", "id": 233, "temporada": 2026 },
+    { "region": "africa", "nombre": "Second League de Egipto", "slug": "second-league-egipto", "id": 887, "temporada": 2026 },
+    { "region": "africa", "nombre": "Premier Soccer League (Sudáfrica)", "slug": "premier-soccer-league-sudafrica", "id": 288, "temporada": 2026 },
+
+    { "region": "equipos-desconocidos-grandes-ligas", "nombre": "Paulista A1", "slug": "paulista-a1", "id": 475, "temporada": 2026 },
+    { "region": "equipos-desconocidos-grandes-ligas", "nombre": "Carioca", "slug": "carioca", "id": 624, "temporada": 2026 },
+    { "region": "equipos-desconocidos-grandes-ligas", "nombre": "Mineiro", "slug": "mineiro", "id": 629, "temporada": 2026 },
+    { "region": "equipos-desconocidos-grandes-ligas", "nombre": "Gaúcho", "slug": "gaucho", "id": 477, "temporada": 2026 }
   ]
 }
