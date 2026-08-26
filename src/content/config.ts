@@ -1,16 +1,20 @@
 import { defineCollection, z } from 'astro:content';
 
 // Taxonomía de contenido del blog. "region" es la clasificación clave para el
-// nicho: ligas top europeas SOLO para equipos/hilos desconocidos dentro de
-// ellas (no para competir de frente en el contenido genérico de esas ligas),
-// y el resto de regiones son el foco principal del proyecto.
+// nicho. El orden de esta lista es el que se usa en la barra de navegación.
+// Si añades una región nueva hay que tocar también: src/components/Header.astro,
+// src/pages/ligas/[region].astro y src/components/ArticleCard.astro (etiquetas).
 const REGIONES = [
   'portugal',
+  'espana',
+  'inglaterra',
+  'francia',
+  'italia',
+  'europa',
   'sudamerica',
   'asia',
   'africa',
   'oceania',
-  'equipos-desconocidos-grandes-ligas',
 ] as const;
 
 const TIPOS = [

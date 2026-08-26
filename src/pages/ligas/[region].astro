@@ -15,11 +15,15 @@ const ligasDeLaRegion = leaguesConfig.ligas.filter((l) => l.region === region);
 
 const REGION_LABEL: Record<string, string> = {
   portugal: 'Portugal',
+  espana: 'España',
+  inglaterra: 'Inglaterra',
+  francia: 'Francia',
+  italia: 'Italia',
+  europa: 'Resto de Europa',
   sudamerica: 'Sudamérica',
   asia: 'Asia',
   africa: 'África',
   oceania: 'Oceanía',
-  'equipos-desconocidos-grandes-ligas': 'Equipos desconocidos de las grandes ligas',
 };
 
 const label = REGION_LABEL[region as string] ?? region;
