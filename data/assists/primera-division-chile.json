@@ -1,0 +1,1915 @@
+{
+  "get": "players/topassists",
+  "parameters": {
+    "league": "265",
+    "season": "2026"
+  },
+  "errors": [],
+  "results": 20,
+  "paging": {
+    "current": 1,
+    "total": 1
+  },
+  "response": [
+    {
+      "player": {
+        "id": 2563,
+        "name": "J. Meneses",
+        "firstname": "Jean David",
+        "lastname": "Meneses Villarroel",
+        "age": 32,
+        "birth": {
+          "date": "1993-03-16",
+          "place": "Quillota",
+          "country": "Chile"
+        },
+        "nationality": "Chile",
+        "height": "165",
+        "weight": "66",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/2563.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 16730,
+            "name": "Deportes Limache",
+            "logo": "https://media.api-sports.io/football/teams/16730.png"
+          },
+          "league": {
+            "id": 265,
+            "name": "Primera División",
+            "country": "Chile",
+            "logo": "https://media.api-sports.io/football/leagues/265.png",
+            "flag": "https://media.api-sports.io/flags/cl.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 19,
+            "lineups": 19,
+            "minutes": 1593,
+            "number": 16,
+            "position": "Attacker",
+            "rating": "7.35",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 5,
+            "bench": 0
+          },
+          "shots": {
+            "total": 19,
+            "on": 11
+          },
+          "goals": {
+            "total": 5,
+            "conceded": 0,
+            "assists": 8,
+            "saves": null
+          },
+          "passes": {
+            "total": 684,
+            "key": 39,
+            "accuracy": 76
+          },
+          "tackles": {
+            "total": 38,
+            "blocks": null,
+            "interceptions": 12
+          },
+          "duels": {
+            "total": 202,
+            "won": 104
+          },
+          "dribbles": {
+            "attempts": 62,
+            "success": 30,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 30,
+            "committed": 10
+          },
+          "cards": {
+            "yellow": 3,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 11378,
+        "name": "J. Vargas",
+        "firstname": "Jeisson Andrés",
+        "lastname": "Vargas Salazar",
+        "age": 28,
+        "birth": {
+          "date": "1997-09-15",
+          "place": "Recoleta",
+          "country": "Chile"
+        },
+        "nationality": "Chile",
+        "height": "170",
+        "weight": "68",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/11378.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 2341,
+            "name": "D. La Serena",
+            "logo": "https://media.api-sports.io/football/teams/2341.png"
+          },
+          "league": {
+            "id": 265,
+            "name": "Primera División",
+            "country": "Chile",
+            "logo": "https://media.api-sports.io/football/leagues/265.png",
+            "flag": "https://media.api-sports.io/flags/cl.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 20,
+            "lineups": 20,
+            "minutes": 1737,
+            "number": 10,
+            "position": "Attacker",
+            "rating": "7.26",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 6,
+            "bench": 0
+          },
+          "shots": {
+            "total": 30,
+            "on": 16
+          },
+          "goals": {
+            "total": 6,
+            "conceded": 0,
+            "assists": 7,
+            "saves": null
+          },
+          "passes": {
+            "total": 664,
+            "key": 41,
+            "accuracy": 78
+          },
+          "tackles": {
+            "total": 12,
+            "blocks": 1,
+            "interceptions": 9
+          },
+          "duels": {
+            "total": 174,
+            "won": 72
+          },
+          "dribbles": {
+            "attempts": 55,
+            "success": 27,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 23,
+            "committed": 8
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 2,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 80827,
+        "name": "D. Castro",
+        "firstname": "Daniel Esteban",
+        "lastname": "Castro Santibáñez",
+        "age": 31,
+        "birth": {
+          "date": "1994-04-27",
+          "place": null,
+          "country": "Chile"
+        },
+        "nationality": "Chile",
+        "height": null,
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/80827.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 16730,
+            "name": "Deportes Limache",
+            "logo": "https://media.api-sports.io/football/teams/16730.png"
+          },
+          "league": {
+            "id": 265,
+            "name": "Primera División",
+            "country": "Chile",
+            "logo": "https://media.api-sports.io/football/leagues/265.png",
+            "flag": "https://media.api-sports.io/flags/cl.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 18,
+            "lineups": 18,
+            "minutes": 1490,
+            "number": 19,
+            "position": "Attacker",
+            "rating": "7.33",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 7,
+            "bench": 0
+          },
+          "shots": {
+            "total": 53,
+            "on": 25
+          },
+          "goals": {
+            "total": 10,
+            "conceded": 0,
+            "assists": 6,
+            "saves": null
+          },
+          "passes": {
+            "total": 363,
+            "key": 20,
+            "accuracy": 73
+          },
+          "tackles": {
+            "total": 6,
+            "blocks": null,
+            "interceptions": 5
+          },
+          "duels": {
+            "total": 122,
+            "won": 49
+          },
+          "dribbles": {
+            "attempts": 42,
+            "success": 20,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 14,
+            "committed": 19
+          },
+          "cards": {
+            "yellow": 5,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 2,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 63546,
+        "name": "K. Méndez",
+        "firstname": "Alan Kevin",
+        "lastname": "Méndez Olivera",
+        "age": 29,
+        "birth": {
+          "date": "1996-01-10",
+          "place": "Trinidad",
+          "country": "Uruguay"
+        },
+        "nationality": "Uruguay",
+        "height": "176",
+        "weight": "72",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/63546.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 2326,
+            "name": "Union La Calera",
+            "logo": "https://media.api-sports.io/football/teams/2326.png"
+          },
+          "league": {
+            "id": 265,
+            "name": "Primera División",
+            "country": "Chile",
+            "logo": "https://media.api-sports.io/football/leagues/265.png",
+            "flag": "https://media.api-sports.io/flags/cl.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 17,
+            "lineups": 16,
+            "minutes": 1291,
+            "number": 10,
+            "position": "Midfielder",
+            "rating": "7.16",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 3,
+            "bench": 1
+          },
+          "shots": {
+            "total": 11,
+            "on": 7
+          },
+          "goals": {
+            "total": 4,
+            "conceded": 0,
+            "assists": 6,
+            "saves": null
+          },
+          "passes": {
+            "total": 411,
+            "key": 44,
+            "accuracy": 70
+          },
+          "tackles": {
+            "total": 30,
+            "blocks": null,
+            "interceptions": 14
+          },
+          "duels": {
+            "total": 184,
+            "won": 82
+          },
+          "dribbles": {
+            "attempts": 65,
+            "success": 24,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 20,
+            "committed": 9
+          },
+          "cards": {
+            "yellow": 3,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": 1,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 11349,
+        "name": "J. Cornejo",
+        "firstname": "Juan Francisco",
+        "lastname": "Cornejo Palma",
+        "age": 35,
+        "birth": {
+          "date": "1990-02-27",
+          "place": null,
+          "country": "Chile"
+        },
+        "nationality": "Chile",
+        "height": "177",
+        "weight": "80",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/11349.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 2330,
+            "name": "Coquimbo Unido",
+            "logo": "https://media.api-sports.io/football/teams/2330.png"
+          },
+          "league": {
+            "id": 265,
+            "name": "Primera División",
+            "country": "Chile",
+            "logo": "https://media.api-sports.io/football/leagues/265.png",
+            "flag": "https://media.api-sports.io/flags/cl.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 14,
+            "lineups": 14,
+            "minutes": 1124,
+            "number": 16,
+            "position": "Defender",
+            "rating": "7.31",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 1
+          },
+          "shots": {
+            "total": 5,
+            "on": 1
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 6,
+            "saves": null
+          },
+          "passes": {
+            "total": 524,
+            "key": 30,
+            "accuracy": 68
+          },
+          "tackles": {
+            "total": 15,
+            "blocks": 3,
+            "interceptions": 21
+          },
+          "duels": {
+            "total": 88,
+            "won": 57
+          },
+          "dribbles": {
+            "attempts": 7,
+            "success": 3,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 8,
+            "committed": 7
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 1
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 6516,
+        "name": "M. Palavecino",
+        "firstname": "Matías Tomás",
+        "lastname": "Palavecino",
+        "age": 27,
+        "birth": {
+          "date": "1998-03-23",
+          "place": "Rosario",
+          "country": "Argentina"
+        },
+        "nationality": "Argentina",
+        "height": "180",
+        "weight": "74",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/6516.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 2994,
+            "name": "U. Catolica",
+            "logo": "https://media.api-sports.io/football/teams/2994.png"
+          },
+          "league": {
+            "id": 265,
+            "name": "Primera División",
+            "country": "Chile",
+            "logo": "https://media.api-sports.io/football/leagues/265.png",
+            "flag": "https://media.api-sports.io/flags/cl.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 18,
+            "lineups": 12,
+            "minutes": 1038,
+            "number": 10,
+            "position": "Midfielder",
+            "rating": "7.29",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 6,
+            "out": 12,
+            "bench": 6
+          },
+          "shots": {
+            "total": 21,
+            "on": 10
+          },
+          "goals": {
+            "total": 2,
+            "conceded": 0,
+            "assists": 5,
+            "saves": null
+          },
+          "passes": {
+            "total": 541,
+            "key": 31,
+            "accuracy": 80
+          },
+          "tackles": {
+            "total": 10,
+            "blocks": null,
+            "interceptions": 4
+          },
+          "duels": {
+            "total": 100,
+            "won": 51
+          },
+          "dribbles": {
+            "attempts": 29,
+            "success": 17,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 13,
+            "committed": 10
+          },
+          "cards": {
+            "yellow": 3,
+            "yellowred": 1,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 35620,
+        "name": "B. Carvallo",
+        "firstname": "Bryan Andrés",
+        "lastname": "Carvallo Utreras",
+        "age": 29,
+        "birth": {
+          "date": "1996-09-15",
+          "place": "Santiago",
+          "country": "Chile"
+        },
+        "nationality": "Chile",
+        "height": "168",
+        "weight": "62",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/35620.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 2331,
+            "name": "Cobresal",
+            "logo": "https://media.api-sports.io/football/teams/2331.png"
+          },
+          "league": {
+            "id": 265,
+            "name": "Primera División",
+            "country": "Chile",
+            "logo": "https://media.api-sports.io/football/leagues/265.png",
+            "flag": "https://media.api-sports.io/flags/cl.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 20,
+            "lineups": 12,
+            "minutes": 1185,
+            "number": 10,
+            "position": "Midfielder",
+            "rating": "7.14",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 8,
+            "out": 4,
+            "bench": 8
+          },
+          "shots": {
+            "total": 11,
+            "on": 6
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": 5,
+            "saves": null
+          },
+          "passes": {
+            "total": 691,
+            "key": 43,
+            "accuracy": 83
+          },
+          "tackles": {
+            "total": 17,
+            "blocks": 5,
+            "interceptions": 7
+          },
+          "duels": {
+            "total": 130,
+            "won": 66
+          },
+          "dribbles": {
+            "attempts": 31,
+            "success": 16,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 24,
+            "committed": 13
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 449075,
+        "name": "L. Hernández",
+        "firstname": "Leandro Aníbal",
+        "lastname": "Hernández Espinoza",
+        "age": 20,
+        "birth": {
+          "date": "2005-06-12",
+          "place": "Santiago",
+          "country": "Chile"
+        },
+        "nationality": "Chile",
+        "height": "173",
+        "weight": "70",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/449075.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 2315,
+            "name": "Colo Colo",
+            "logo": "https://media.api-sports.io/football/teams/2315.png"
+          },
+          "league": {
+            "id": 265,
+            "name": "Primera División",
+            "country": "Chile",
+            "logo": "https://media.api-sports.io/football/leagues/265.png",
+            "flag": "https://media.api-sports.io/flags/cl.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 19,
+            "lineups": 12,
+            "minutes": 1015,
+            "number": 24,
+            "position": "Midfielder",
+            "rating": "6.91",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 7,
+            "out": 12,
+            "bench": 8
+          },
+          "shots": {
+            "total": 22,
+            "on": 13
+          },
+          "goals": {
+            "total": 5,
+            "conceded": 0,
+            "assists": 4,
+            "saves": null
+          },
+          "passes": {
+            "total": 372,
+            "key": 15,
+            "accuracy": 86
+          },
+          "tackles": {
+            "total": 12,
+            "blocks": null,
+            "interceptions": 2
+          },
+          "duels": {
+            "total": 139,
+            "won": 59
+          },
+          "dribbles": {
+            "attempts": 56,
+            "success": 26,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 14,
+            "committed": 15
+          },
+          "cards": {
+            "yellow": 5,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 6359,
+        "name": "F. González",
+        "firstname": "Francisco Agustín",
+        "lastname": "González",
+        "age": 24,
+        "birth": {
+          "date": "2001-04-06",
+          "place": "Ordóñez",
+          "country": "Argentina"
+        },
+        "nationality": "Argentina",
+        "height": "170",
+        "weight": "70",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/6359.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 2320,
+            "name": "O'Higgins",
+            "logo": "https://media.api-sports.io/football/teams/2320.png"
+          },
+          "league": {
+            "id": 265,
+            "name": "Primera División",
+            "country": "Chile",
+            "logo": "https://media.api-sports.io/football/leagues/265.png",
+            "flag": "https://media.api-sports.io/flags/cl.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 15,
+            "lineups": 14,
+            "minutes": 1063,
+            "number": 24,
+            "position": "Midfielder",
+            "rating": "7.48",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 8,
+            "bench": 1
+          },
+          "shots": {
+            "total": 24,
+            "on": 12
+          },
+          "goals": {
+            "total": 5,
+            "conceded": 0,
+            "assists": 4,
+            "saves": null
+          },
+          "passes": {
+            "total": 362,
+            "key": 27,
+            "accuracy": 83
+          },
+          "tackles": {
+            "total": 6,
+            "blocks": null,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 116,
+            "won": 60
+          },
+          "dribbles": {
+            "attempts": 39,
+            "success": 17,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 24,
+            "committed": 9
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 143574,
+        "name": "C. Montes",
+        "firstname": "Clemente José",
+        "lastname": "Montes Barroilhet",
+        "age": 24,
+        "birth": {
+          "date": "2001-04-25",
+          "place": null,
+          "country": "Chile"
+        },
+        "nationality": "Chile",
+        "height": "178",
+        "weight": "75",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/143574.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 2994,
+            "name": "U. Catolica",
+            "logo": "https://media.api-sports.io/football/teams/2994.png"
+          },
+          "league": {
+            "id": 265,
+            "name": "Primera División",
+            "country": "Chile",
+            "logo": "https://media.api-sports.io/football/leagues/265.png",
+            "flag": "https://media.api-sports.io/flags/cl.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 12,
+            "lineups": 9,
+            "minutes": 655,
+            "number": 11,
+            "position": "Midfielder",
+            "rating": "6.76",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 3,
+            "out": 6,
+            "bench": 3
+          },
+          "shots": {
+            "total": 17,
+            "on": 9
+          },
+          "goals": {
+            "total": 3,
+            "conceded": 0,
+            "assists": 4,
+            "saves": null
+          },
+          "passes": {
+            "total": 143,
+            "key": 8,
+            "accuracy": 70
+          },
+          "tackles": {
+            "total": 7,
+            "blocks": 2,
+            "interceptions": 5
+          },
+          "duels": {
+            "total": 79,
+            "won": 36
+          },
+          "dribbles": {
+            "attempts": 16,
+            "success": 6,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 11,
+            "committed": 13
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 1,
+            "red": 1
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 309987,
+        "name": "M. Plaza",
+        "firstname": "Matías Andrés",
+        "lastname": "Plaza Berrios",
+        "age": 24,
+        "birth": {
+          "date": "2001-02-22",
+          "place": null,
+          "country": "Chile"
+        },
+        "nationality": "Chile",
+        "height": "169",
+        "weight": "59",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/309987.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 2337,
+            "name": "Nublense",
+            "logo": "https://media.api-sports.io/football/teams/2337.png"
+          },
+          "league": {
+            "id": 265,
+            "name": "Primera División",
+            "country": "Chile",
+            "logo": "https://media.api-sports.io/football/leagues/265.png",
+            "flag": "https://media.api-sports.io/flags/cl.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 18,
+            "lineups": 14,
+            "minutes": 1084,
+            "number": 10,
+            "position": "Attacker",
+            "rating": "7.16",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 4,
+            "out": 12,
+            "bench": 4
+          },
+          "shots": {
+            "total": 19,
+            "on": 6
+          },
+          "goals": {
+            "total": 2,
+            "conceded": 0,
+            "assists": 4,
+            "saves": null
+          },
+          "passes": {
+            "total": 445,
+            "key": 32,
+            "accuracy": 81
+          },
+          "tackles": {
+            "total": 36,
+            "blocks": null,
+            "interceptions": 14
+          },
+          "duels": {
+            "total": 155,
+            "won": 82
+          },
+          "dribbles": {
+            "attempts": 31,
+            "success": 16,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 17,
+            "committed": 17
+          },
+          "cards": {
+            "yellow": 3,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 2,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 353975,
+        "name": "E. Matus",
+        "firstname": "Esteban Patricio",
+        "lastname": "Matus Castro",
+        "age": 23,
+        "birth": {
+          "date": "2002-02-12",
+          "place": null,
+          "country": "Chile"
+        },
+        "nationality": "Chile",
+        "height": "170",
+        "weight": "65",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/353975.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 2329,
+            "name": "A. Italiano",
+            "logo": "https://media.api-sports.io/football/teams/2329.png"
+          },
+          "league": {
+            "id": 265,
+            "name": "Primera División",
+            "country": "Chile",
+            "logo": "https://media.api-sports.io/football/leagues/265.png",
+            "flag": "https://media.api-sports.io/flags/cl.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 14,
+            "lineups": 14,
+            "minutes": 1211,
+            "number": 23,
+            "position": "Defender",
+            "rating": "6.82",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 2,
+            "bench": 1
+          },
+          "shots": {
+            "total": 12,
+            "on": 3
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": 4,
+            "saves": null
+          },
+          "passes": {
+            "total": 410,
+            "key": 21,
+            "accuracy": 78
+          },
+          "tackles": {
+            "total": 27,
+            "blocks": 1,
+            "interceptions": 15
+          },
+          "duels": {
+            "total": 107,
+            "won": 49
+          },
+          "dribbles": {
+            "attempts": 33,
+            "success": 13,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 4,
+            "committed": 11
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 7599,
+        "name": "C. Cuevas",
+        "firstname": "Cristian Alejandro",
+        "lastname": "Cuevas Jara",
+        "age": 30,
+        "birth": {
+          "date": "1995-04-02",
+          "place": "Rancagua",
+          "country": "Chile"
+        },
+        "nationality": "Chile",
+        "height": "172",
+        "weight": "66",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/7599.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 2994,
+            "name": "U. Catolica",
+            "logo": "https://media.api-sports.io/football/teams/2994.png"
+          },
+          "league": {
+            "id": 265,
+            "name": "Primera División",
+            "country": "Chile",
+            "logo": "https://media.api-sports.io/football/leagues/265.png",
+            "flag": "https://media.api-sports.io/flags/cl.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 18,
+            "lineups": 15,
+            "minutes": 1210,
+            "number": 15,
+            "position": "Midfielder",
+            "rating": "6.94",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 3,
+            "out": 4,
+            "bench": 3
+          },
+          "shots": {
+            "total": 5,
+            "on": 2
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 4,
+            "saves": null
+          },
+          "passes": {
+            "total": 535,
+            "key": 15,
+            "accuracy": 76
+          },
+          "tackles": {
+            "total": 29,
+            "blocks": 2,
+            "interceptions": 16
+          },
+          "duels": {
+            "total": 141,
+            "won": 83
+          },
+          "dribbles": {
+            "attempts": 17,
+            "success": 3,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 27,
+            "committed": 17
+          },
+          "cards": {
+            "yellow": 7,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 237130,
+        "name": "L. Assadi",
+        "firstname": "Lucas Humberto",
+        "lastname": "Assadi Reygadas",
+        "age": 21,
+        "birth": {
+          "date": "2004-01-08",
+          "place": "Puente Alto",
+          "country": "Chile"
+        },
+        "nationality": "Chile",
+        "height": "172",
+        "weight": "69",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/237130.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 2323,
+            "name": "Universidad de Chile",
+            "logo": "https://media.api-sports.io/football/teams/2323.png"
+          },
+          "league": {
+            "id": 265,
+            "name": "Primera División",
+            "country": "Chile",
+            "logo": "https://media.api-sports.io/football/leagues/265.png",
+            "flag": "https://media.api-sports.io/flags/cl.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 15,
+            "lineups": 9,
+            "minutes": 782,
+            "number": 10,
+            "position": "Midfielder",
+            "rating": "6.99",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 6,
+            "out": 6,
+            "bench": 6
+          },
+          "shots": {
+            "total": 16,
+            "on": 8
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 4,
+            "saves": null
+          },
+          "passes": {
+            "total": 323,
+            "key": 17,
+            "accuracy": 84
+          },
+          "tackles": {
+            "total": 4,
+            "blocks": 1,
+            "interceptions": 4
+          },
+          "duels": {
+            "total": 46,
+            "won": 23
+          },
+          "dribbles": {
+            "attempts": 23,
+            "success": 11,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 6,
+            "committed": 2
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 35534,
+        "name": "E. Vargas",
+        "firstname": "Eduardo Jesús",
+        "lastname": "Vargas Rojas",
+        "age": 36,
+        "birth": {
+          "date": "1989-11-20",
+          "place": "Santiago de Chile",
+          "country": "Chile"
+        },
+        "nationality": "Chile",
+        "height": "174",
+        "weight": "75",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/35534.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 2323,
+            "name": "Universidad de Chile",
+            "logo": "https://media.api-sports.io/football/teams/2323.png"
+          },
+          "league": {
+            "id": 265,
+            "name": "Primera División",
+            "country": "Chile",
+            "logo": "https://media.api-sports.io/football/leagues/265.png",
+            "flag": "https://media.api-sports.io/flags/cl.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 18,
+            "lineups": 16,
+            "minutes": 1306,
+            "number": 11,
+            "position": "Attacker",
+            "rating": "6.86",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 4,
+            "bench": 2
+          },
+          "shots": {
+            "total": 37,
+            "on": 18
+          },
+          "goals": {
+            "total": 7,
+            "conceded": 0,
+            "assists": 3,
+            "saves": null
+          },
+          "passes": {
+            "total": 288,
+            "key": 17,
+            "accuracy": 71
+          },
+          "tackles": {
+            "total": 13,
+            "blocks": null,
+            "interceptions": 3
+          },
+          "duels": {
+            "total": 164,
+            "won": 69
+          },
+          "dribbles": {
+            "attempts": 23,
+            "success": 8,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 16,
+            "committed": 12
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 1,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 11643,
+        "name": "Á. Madrid",
+        "firstname": "Álvaro Alfredo Alejandro",
+        "lastname": "Madrid Gaete",
+        "age": 30,
+        "birth": {
+          "date": "1995-04-05",
+          "place": "Valparaiso",
+          "country": "Chile"
+        },
+        "nationality": "Chile",
+        "height": "179",
+        "weight": "79",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/11643.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 2315,
+            "name": "Colo Colo",
+            "logo": "https://media.api-sports.io/football/teams/2315.png"
+          },
+          "league": {
+            "id": 265,
+            "name": "Primera División",
+            "country": "Chile",
+            "logo": "https://media.api-sports.io/football/leagues/265.png",
+            "flag": "https://media.api-sports.io/flags/cl.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 19,
+            "lineups": 14,
+            "minutes": 1198,
+            "number": 8,
+            "position": "Midfielder",
+            "rating": "6.96",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 5,
+            "out": 9,
+            "bench": 5
+          },
+          "shots": {
+            "total": 19,
+            "on": 10
+          },
+          "goals": {
+            "total": 5,
+            "conceded": 0,
+            "assists": 3,
+            "saves": null
+          },
+          "passes": {
+            "total": 548,
+            "key": 13,
+            "accuracy": 81
+          },
+          "tackles": {
+            "total": 20,
+            "blocks": 1,
+            "interceptions": 6
+          },
+          "duels": {
+            "total": 126,
+            "won": 55
+          },
+          "dribbles": {
+            "attempts": 24,
+            "success": 8,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 18,
+            "committed": 13
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 274563,
+        "name": "F. Chamorro",
+        "firstname": "Felipe Sebastián",
+        "lastname": "Chamorro Aspe",
+        "age": 24,
+        "birth": {
+          "date": "2001-07-30",
+          "place": null,
+          "country": "Chile"
+        },
+        "nationality": "Chile",
+        "height": "187",
+        "weight": "85",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/274563.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 2341,
+            "name": "D. La Serena",
+            "logo": "https://media.api-sports.io/football/teams/2341.png"
+          },
+          "league": {
+            "id": 265,
+            "name": "Primera División",
+            "country": "Chile",
+            "logo": "https://media.api-sports.io/football/leagues/265.png",
+            "flag": "https://media.api-sports.io/flags/cl.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 19,
+            "lineups": 17,
+            "minutes": 1420,
+            "number": 14,
+            "position": "Midfielder",
+            "rating": "6.81",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 10,
+            "bench": 2
+          },
+          "shots": {
+            "total": 23,
+            "on": 18
+          },
+          "goals": {
+            "total": 5,
+            "conceded": 0,
+            "assists": 3,
+            "saves": null
+          },
+          "passes": {
+            "total": 400,
+            "key": 15,
+            "accuracy": 71
+          },
+          "tackles": {
+            "total": 19,
+            "blocks": 5,
+            "interceptions": 15
+          },
+          "duels": {
+            "total": 277,
+            "won": 119
+          },
+          "dribbles": {
+            "attempts": 34,
+            "success": 20,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 29,
+            "committed": 39
+          },
+          "cards": {
+            "yellow": 7,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": 1,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 11672,
+        "name": "M. Rodríguez",
+        "firstname": "Maximiliano Alexander",
+        "lastname": "Rodríguez Vejar",
+        "age": 25,
+        "birth": {
+          "date": "2000-05-31",
+          "place": null,
+          "country": "Chile"
+        },
+        "nationality": "Chile",
+        "height": null,
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/11672.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 2328,
+            "name": "Huachipato",
+            "logo": "https://media.api-sports.io/football/teams/2328.png"
+          },
+          "league": {
+            "id": 265,
+            "name": "Primera División",
+            "country": "Chile",
+            "logo": "https://media.api-sports.io/football/leagues/265.png",
+            "flag": "https://media.api-sports.io/flags/cl.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 17,
+            "lineups": 11,
+            "minutes": 996,
+            "number": 15,
+            "position": "Attacker",
+            "rating": "6.55",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 6,
+            "out": 8,
+            "bench": 6
+          },
+          "shots": {
+            "total": 18,
+            "on": 10
+          },
+          "goals": {
+            "total": 3,
+            "conceded": 0,
+            "assists": 3,
+            "saves": null
+          },
+          "passes": {
+            "total": 232,
+            "key": 10,
+            "accuracy": 65
+          },
+          "tackles": {
+            "total": 10,
+            "blocks": 2,
+            "interceptions": 7
+          },
+          "duels": {
+            "total": 126,
+            "won": 47
+          },
+          "dribbles": {
+            "attempts": 22,
+            "success": 5,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 11,
+            "committed": 14
+          },
+          "cards": {
+            "yellow": 3,
+            "yellowred": 0,
+            "red": 1
+          },
+          "penalty": {
+            "won": 1,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 2566,
+        "name": "D. Rubio",
+        "firstname": "Diego Iván",
+        "lastname": "Rubio Köstner",
+        "age": 33,
+        "birth": {
+          "date": "1993-05-15",
+          "place": "Santiago de Chile",
+          "country": "Chile"
+        },
+        "nationality": "Chile",
+        "height": "180",
+        "weight": "77",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/2566.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 2341,
+            "name": "D. La Serena",
+            "logo": "https://media.api-sports.io/football/teams/2341.png"
+          },
+          "league": {
+            "id": 265,
+            "name": "Primera División",
+            "country": "Chile",
+            "logo": "https://media.api-sports.io/football/leagues/265.png",
+            "flag": "https://media.api-sports.io/flags/cl.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 16,
+            "lineups": 13,
+            "minutes": 1056,
+            "number": 11,
+            "position": "Attacker",
+            "rating": "6.86",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 3,
+            "out": 12,
+            "bench": 5
+          },
+          "shots": {
+            "total": 17,
+            "on": 8
+          },
+          "goals": {
+            "total": 3,
+            "conceded": 0,
+            "assists": 3,
+            "saves": null
+          },
+          "passes": {
+            "total": 344,
+            "key": 16,
+            "accuracy": 70
+          },
+          "tackles": {
+            "total": 25,
+            "blocks": null,
+            "interceptions": 6
+          },
+          "duels": {
+            "total": 162,
+            "won": 83
+          },
+          "dribbles": {
+            "attempts": 19,
+            "success": 5,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 24,
+            "committed": 21
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 11911,
+        "name": "M. Briceño",
+        "firstname": "Mario Cristián Osmín",
+        "lastname": "Briceño Portilla",
+        "age": 29,
+        "birth": {
+          "date": "1996-06-20",
+          "place": null,
+          "country": "Chile"
+        },
+        "nationality": "Chile",
+        "height": null,
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/11911.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 2328,
+            "name": "Huachipato",
+            "logo": "https://media.api-sports.io/football/teams/2328.png"
+          },
+          "league": {
+            "id": 265,
+            "name": "Primera División",
+            "country": "Chile",
+            "logo": "https://media.api-sports.io/football/leagues/265.png",
+            "flag": "https://media.api-sports.io/flags/cl.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 17,
+            "lineups": 8,
+            "minutes": 913,
+            "number": 7,
+            "position": "Attacker",
+            "rating": "6.74",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 9,
+            "out": 2,
+            "bench": 11
+          },
+          "shots": {
+            "total": 16,
+            "on": 7
+          },
+          "goals": {
+            "total": 2,
+            "conceded": 0,
+            "assists": 3,
+            "saves": null
+          },
+          "passes": {
+            "total": 223,
+            "key": 15,
+            "accuracy": 76
+          },
+          "tackles": {
+            "total": 12,
+            "blocks": 1,
+            "interceptions": 4
+          },
+          "duels": {
+            "total": 121,
+            "won": 46
+          },
+          "dribbles": {
+            "attempts": 36,
+            "success": 14,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 12,
+            "committed": 16
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    }
+  ]
+}

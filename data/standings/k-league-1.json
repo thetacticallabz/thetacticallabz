@@ -1,51 +1,565 @@
 {
-  "_nota": "DATOS DE EJEMPLO (--sample) — no son datos reales.",
+  "get": "standings",
+  "parameters": {
+    "league": "292",
+    "season": "2026"
+  },
+  "errors": [],
+  "results": 1,
+  "paging": {
+    "current": 1,
+    "total": 1
+  },
   "response": [
     {
       "league": {
-        "id": 0,
-        "name": "k-league-1",
+        "id": 292,
+        "name": "K League 1",
+        "country": "South-Korea",
+        "logo": "https://media.api-sports.io/football/leagues/292.png",
+        "flag": "https://media.api-sports.io/flags/kr.svg",
+        "season": 2026,
         "standings": [
           [
             {
               "rank": 1,
               "team": {
-                "id": 1,
-                "name": "Equipo Local Demo"
+                "id": 2766,
+                "name": "FC Seoul",
+                "logo": "https://media.api-sports.io/football/teams/2766.png"
               },
-              "points": 62,
-              "goalsDiff": 24,
-              "form": "WWDWL",
+              "points": 53,
+              "goalsDiff": 28,
+              "group": "K-League",
+              "form": "WWWDD",
+              "status": "same",
+              "description": "Promotion - K League 1 (Championship Group)",
               "all": {
-                "played": 28,
-                "win": 19,
+                "played": 25,
+                "win": 16,
                 "draw": 5,
                 "lose": 4,
                 "goals": {
-                  "for": 52,
-                  "against": 28
+                  "for": 47,
+                  "against": 19
                 }
-              }
+              },
+              "home": {
+                "played": 12,
+                "win": 7,
+                "draw": 2,
+                "lose": 3,
+                "goals": {
+                  "for": 21,
+                  "against": 10
+                }
+              },
+              "away": {
+                "played": 13,
+                "win": 9,
+                "draw": 3,
+                "lose": 1,
+                "goals": {
+                  "for": 26,
+                  "against": 9
+                }
+              },
+              "update": "2026-08-26T00:00:00+00:00"
             },
             {
               "rank": 2,
               "team": {
-                "id": 2,
-                "name": "Equipo Demo C"
+                "id": 2762,
+                "name": "Jeonbuk Motors",
+                "logo": "https://media.api-sports.io/football/teams/2762.png"
               },
-              "points": 55,
-              "goalsDiff": 15,
-              "form": "WDWWD",
+              "points": 38,
+              "goalsDiff": 9,
+              "group": "K-League",
+              "form": "DWLLD",
+              "status": "same",
+              "description": "Promotion - K League 1 (Championship Group)",
               "all": {
-                "played": 28,
-                "win": 16,
-                "draw": 7,
+                "played": 25,
+                "win": 10,
+                "draw": 8,
+                "lose": 7,
+                "goals": {
+                  "for": 31,
+                  "against": 22
+                }
+              },
+              "home": {
+                "played": 12,
+                "win": 6,
+                "draw": 2,
+                "lose": 4,
+                "goals": {
+                  "for": 18,
+                  "against": 13
+                }
+              },
+              "away": {
+                "played": 13,
+                "win": 4,
+                "draw": 6,
+                "lose": 3,
+                "goals": {
+                  "for": 13,
+                  "against": 9
+                }
+              },
+              "update": "2026-08-26T00:00:00+00:00"
+            },
+            {
+              "rank": 3,
+              "team": {
+                "id": 2767,
+                "name": "Ulsan Hyundai FC",
+                "logo": "https://media.api-sports.io/football/teams/2767.png"
+              },
+              "points": 37,
+              "goalsDiff": 2,
+              "group": "K-League",
+              "form": "LLLWW",
+              "status": "same",
+              "description": "Promotion - K League 1 (Championship Group)",
+              "all": {
+                "played": 25,
+                "win": 11,
+                "draw": 4,
+                "lose": 10,
+                "goals": {
+                  "for": 38,
+                  "against": 36
+                }
+              },
+              "home": {
+                "played": 12,
+                "win": 5,
+                "draw": 1,
+                "lose": 6,
+                "goals": {
+                  "for": 20,
+                  "against": 21
+                }
+              },
+              "away": {
+                "played": 13,
+                "win": 6,
+                "draw": 3,
+                "lose": 4,
+                "goals": {
+                  "for": 18,
+                  "against": 15
+                }
+              },
+              "update": "2026-08-26T00:00:00+00:00"
+            },
+            {
+              "rank": 4,
+              "team": {
+                "id": 2746,
+                "name": "Gangwon FC",
+                "logo": "https://media.api-sports.io/football/teams/2746.png"
+              },
+              "points": 36,
+              "goalsDiff": 6,
+              "group": "K-League",
+              "form": "DLWLL",
+              "status": "same",
+              "description": "Promotion - K League 1 (Championship Group)",
+              "all": {
+                "played": 24,
+                "win": 9,
+                "draw": 9,
+                "lose": 6,
+                "goals": {
+                  "for": 30,
+                  "against": 24
+                }
+              },
+              "home": {
+                "played": 11,
+                "win": 4,
+                "draw": 5,
+                "lose": 2,
+                "goals": {
+                  "for": 16,
+                  "against": 11
+                }
+              },
+              "away": {
+                "played": 13,
+                "win": 5,
+                "draw": 4,
+                "lose": 4,
+                "goals": {
+                  "for": 14,
+                  "against": 13
+                }
+              },
+              "update": "2026-08-26T00:00:00+00:00"
+            },
+            {
+              "rank": 5,
+              "team": {
+                "id": 2761,
+                "name": "Jeju United FC",
+                "logo": "https://media.api-sports.io/football/teams/2761.png"
+              },
+              "points": 35,
+              "goalsDiff": 2,
+              "group": "K-League",
+              "form": "LDWWD",
+              "status": "same",
+              "description": "Promotion - K League 1 (Championship Group)",
+              "all": {
+                "played": 25,
+                "win": 9,
+                "draw": 8,
+                "lose": 8,
+                "goals": {
+                  "for": 28,
+                  "against": 26
+                }
+              },
+              "home": {
+                "played": 15,
+                "win": 4,
+                "draw": 6,
                 "lose": 5,
                 "goals": {
-                  "for": 44,
+                  "for": 15,
+                  "against": 17
+                }
+              },
+              "away": {
+                "played": 10,
+                "win": 5,
+                "draw": 2,
+                "lose": 3,
+                "goals": {
+                  "for": 13,
+                  "against": 9
+                }
+              },
+              "update": "2026-08-26T00:00:00+00:00"
+            },
+            {
+              "rank": 6,
+              "team": {
+                "id": 2764,
+                "name": "Pohang Steelers",
+                "logo": "https://media.api-sports.io/football/teams/2764.png"
+              },
+              "points": 34,
+              "goalsDiff": -5,
+              "group": "K-League",
+              "form": "WLWLL",
+              "status": "same",
+              "description": "Promotion - K League 1 (Championship Group)",
+              "all": {
+                "played": 25,
+                "win": 10,
+                "draw": 4,
+                "lose": 11,
+                "goals": {
+                  "for": 24,
                   "against": 29
                 }
-              }
+              },
+              "home": {
+                "played": 11,
+                "win": 3,
+                "draw": 2,
+                "lose": 6,
+                "goals": {
+                  "for": 4,
+                  "against": 10
+                }
+              },
+              "away": {
+                "played": 14,
+                "win": 7,
+                "draw": 2,
+                "lose": 5,
+                "goals": {
+                  "for": 20,
+                  "against": 19
+                }
+              },
+              "update": "2026-08-26T00:00:00+00:00"
+            },
+            {
+              "rank": 7,
+              "team": {
+                "id": 2748,
+                "name": "FC Anyang",
+                "logo": "https://media.api-sports.io/football/teams/2748.png"
+              },
+              "points": 33,
+              "goalsDiff": -6,
+              "group": "K-League",
+              "form": "WLLLL",
+              "status": "same",
+              "description": "K League 1 (Relegation Group)",
+              "all": {
+                "played": 25,
+                "win": 8,
+                "draw": 9,
+                "lose": 8,
+                "goals": {
+                  "for": 32,
+                  "against": 38
+                }
+              },
+              "home": {
+                "played": 13,
+                "win": 3,
+                "draw": 5,
+                "lose": 5,
+                "goals": {
+                  "for": 15,
+                  "against": 23
+                }
+              },
+              "away": {
+                "played": 12,
+                "win": 5,
+                "draw": 4,
+                "lose": 3,
+                "goals": {
+                  "for": 17,
+                  "against": 15
+                }
+              },
+              "update": "2026-08-26T00:00:00+00:00"
+            },
+            {
+              "rank": 8,
+              "team": {
+                "id": 2763,
+                "name": "Incheon United",
+                "logo": "https://media.api-sports.io/football/teams/2763.png"
+              },
+              "points": 33,
+              "goalsDiff": 4,
+              "group": "K-League",
+              "form": "LWDDD",
+              "status": "same",
+              "description": "K League 1 (Relegation Group)",
+              "all": {
+                "played": 24,
+                "win": 9,
+                "draw": 6,
+                "lose": 9,
+                "goals": {
+                  "for": 31,
+                  "against": 27
+                }
+              },
+              "home": {
+                "played": 12,
+                "win": 4,
+                "draw": 2,
+                "lose": 6,
+                "goals": {
+                  "for": 13,
+                  "against": 13
+                }
+              },
+              "away": {
+                "played": 12,
+                "win": 5,
+                "draw": 4,
+                "lose": 3,
+                "goals": {
+                  "for": 18,
+                  "against": 14
+                }
+              },
+              "update": "2026-08-26T00:00:00+00:00"
+            },
+            {
+              "rank": 9,
+              "team": {
+                "id": 2750,
+                "name": "Daejeon Citizen",
+                "logo": "https://media.api-sports.io/football/teams/2750.png"
+              },
+              "points": 32,
+              "goalsDiff": 5,
+              "group": "K-League",
+              "form": "WWLWW",
+              "status": "same",
+              "description": "K League 1 (Relegation Group)",
+              "all": {
+                "played": 25,
+                "win": 8,
+                "draw": 8,
+                "lose": 9,
+                "goals": {
+                  "for": 34,
+                  "against": 29
+                }
+              },
+              "home": {
+                "played": 13,
+                "win": 3,
+                "draw": 5,
+                "lose": 5,
+                "goals": {
+                  "for": 14,
+                  "against": 15
+                }
+              },
+              "away": {
+                "played": 12,
+                "win": 5,
+                "draw": 3,
+                "lose": 4,
+                "goals": {
+                  "for": 20,
+                  "against": 14
+                }
+              },
+              "update": "2026-08-26T00:00:00+00:00"
+            },
+            {
+              "rank": 10,
+              "team": {
+                "id": 2745,
+                "name": "Bucheon FC 1995",
+                "logo": "https://media.api-sports.io/football/teams/2745.png"
+              },
+              "points": 30,
+              "goalsDiff": -1,
+              "group": "K-League",
+              "form": "LWWDW",
+              "status": "same",
+              "description": "K League 1 (Relegation Group)",
+              "all": {
+                "played": 25,
+                "win": 7,
+                "draw": 9,
+                "lose": 9,
+                "goals": {
+                  "for": 27,
+                  "against": 28
+                }
+              },
+              "home": {
+                "played": 13,
+                "win": 3,
+                "draw": 5,
+                "lose": 5,
+                "goals": {
+                  "for": 15,
+                  "against": 16
+                }
+              },
+              "away": {
+                "played": 12,
+                "win": 4,
+                "draw": 4,
+                "lose": 4,
+                "goals": {
+                  "for": 12,
+                  "against": 12
+                }
+              },
+              "update": "2026-08-26T00:00:00+00:00"
+            },
+            {
+              "rank": 11,
+              "team": {
+                "id": 2768,
+                "name": "Gimcheon Sangmu FC",
+                "logo": "https://media.api-sports.io/football/teams/2768.png"
+              },
+              "points": 27,
+              "goalsDiff": -6,
+              "group": "K-League",
+              "form": "DDDDW",
+              "status": "same",
+              "description": "K League 1 (Relegation Group)",
+              "all": {
+                "played": 25,
+                "win": 4,
+                "draw": 15,
+                "lose": 6,
+                "goals": {
+                  "for": 23,
+                  "against": 29
+                }
+              },
+              "home": {
+                "played": 12,
+                "win": 1,
+                "draw": 8,
+                "lose": 3,
+                "goals": {
+                  "for": 10,
+                  "against": 16
+                }
+              },
+              "away": {
+                "played": 13,
+                "win": 3,
+                "draw": 7,
+                "lose": 3,
+                "goals": {
+                  "for": 13,
+                  "against": 13
+                }
+              },
+              "update": "2026-08-26T00:00:00+00:00"
+            },
+            {
+              "rank": 12,
+              "team": {
+                "id": 2759,
+                "name": "Gwangju FC",
+                "logo": "https://media.api-sports.io/football/teams/2759.png"
+              },
+              "points": 12,
+              "goalsDiff": -38,
+              "group": "K-League",
+              "form": "DLLDL",
+              "status": "same",
+              "description": "K League 1 (Relegation Group)",
+              "all": {
+                "played": 25,
+                "win": 1,
+                "draw": 9,
+                "lose": 15,
+                "goals": {
+                  "for": 14,
+                  "against": 52
+                }
+              },
+              "home": {
+                "played": 13,
+                "win": 1,
+                "draw": 4,
+                "lose": 8,
+                "goals": {
+                  "for": 9,
+                  "against": 24
+                }
+              },
+              "away": {
+                "played": 12,
+                "win": 0,
+                "draw": 5,
+                "lose": 7,
+                "goals": {
+                  "for": 5,
+                  "against": 28
+                }
+              },
+              "update": "2026-08-26T00:00:00+00:00"
             }
           ]
         ]

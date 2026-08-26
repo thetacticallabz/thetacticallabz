@@ -1,44 +1,1912 @@
 {
-  "_nota": "DATOS DE EJEMPLO (--sample) — no son datos reales.",
+  "get": "players/topscorers",
+  "parameters": {
+    "league": "98",
+    "season": "2026"
+  },
+  "errors": [],
+  "results": 20,
+  "paging": {
+    "current": 1,
+    "total": 1
+  },
   "response": [
     {
       "player": {
-        "id": 10,
-        "name": "Jugador Demo A",
-        "photo": null
+        "id": 352457,
+        "name": "K. Tanimura",
+        "firstname": "Kaina",
+        "lastname": "Tanimura",
+        "age": 27,
+        "birth": {
+          "date": "1998-03-05",
+          "place": null,
+          "country": "Japan"
+        },
+        "nationality": "Japan",
+        "height": null,
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/352457.png"
       },
       "statistics": [
         {
           "team": {
-            "name": "Equipo Local Demo"
+            "id": 296,
+            "name": "Yokohama F. Marinos",
+            "logo": "https://media.api-sports.io/football/teams/296.png"
+          },
+          "league": {
+            "id": 98,
+            "name": "J1 League",
+            "country": "Japan",
+            "logo": "https://media.api-sports.io/football/leagues/98.png",
+            "flag": "https://media.api-sports.io/flags/jp.svg",
+            "season": 2026
           },
           "games": {
-            "appearences": 27
+            "appearences": 19,
+            "lineups": 17,
+            "minutes": 1479,
+            "number": 9,
+            "position": "Attacker",
+            "rating": "6.88",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 10,
+            "bench": 2
+          },
+          "shots": {
+            "total": 35,
+            "on": 17
           },
           "goals": {
-            "total": 19,
-            "assists": 5
+            "total": 10,
+            "conceded": 0,
+            "assists": 2,
+            "saves": null
+          },
+          "passes": {
+            "total": 207,
+            "key": 9,
+            "accuracy": 60
+          },
+          "tackles": {
+            "total": 12,
+            "blocks": 3,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 208,
+            "won": 69
+          },
+          "dribbles": {
+            "attempts": 11,
+            "success": 6,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 7,
+            "committed": 28
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
           }
         }
       ]
     },
     {
       "player": {
-        "id": 11,
-        "name": "Jugador Demo B",
-        "photo": null
+        "id": 33976,
+        "name": "Y. Yamagishi",
+        "firstname": "Yuya",
+        "lastname": "Yamagishi",
+        "age": 32,
+        "birth": {
+          "date": "1993-08-29",
+          "place": "Kashiwa",
+          "country": "Japan"
+        },
+        "nationality": "Japan",
+        "height": "183",
+        "weight": "80",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/33976.png"
       },
       "statistics": [
         {
           "team": {
-            "name": "Equipo Demo C"
+            "id": 288,
+            "name": "Nagoya Grampus",
+            "logo": "https://media.api-sports.io/football/teams/288.png"
+          },
+          "league": {
+            "id": 98,
+            "name": "J1 League",
+            "country": "Japan",
+            "logo": "https://media.api-sports.io/football/leagues/98.png",
+            "flag": "https://media.api-sports.io/flags/jp.svg",
+            "season": 2026
           },
           "games": {
-            "appearences": 25
+            "appearences": 19,
+            "lineups": 19,
+            "minutes": 1290,
+            "number": 11,
+            "position": "Attacker",
+            "rating": "7.07",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 15,
+            "bench": 0
+          },
+          "shots": {
+            "total": 29,
+            "on": 13
           },
           "goals": {
+            "total": 10,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 248,
+            "key": 19,
+            "accuracy": 66
+          },
+          "tackles": {
+            "total": 9,
+            "blocks": 1,
+            "interceptions": 2
+          },
+          "duels": {
+            "total": 128,
+            "won": 63
+          },
+          "dribbles": {
+            "attempts": 3,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 20,
+            "committed": 12
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 9550,
+        "name": "Léo Ceará",
+        "firstname": "Leonardo",
+        "lastname": "de Sousa Pereira",
+        "age": 30,
+        "birth": {
+          "date": "1995-02-03",
+          "place": "Fortaleza",
+          "country": "Brazil"
+        },
+        "nationality": "Brazil",
+        "height": "178",
+        "weight": "78",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/9550.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 290,
+            "name": "Kashima",
+            "logo": "https://media.api-sports.io/football/teams/290.png"
+          },
+          "league": {
+            "id": 98,
+            "name": "J1 League",
+            "country": "Japan",
+            "logo": "https://media.api-sports.io/football/leagues/98.png",
+            "flag": "https://media.api-sports.io/flags/jp.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 20,
+            "lineups": 20,
+            "minutes": 1742,
+            "number": 9,
+            "position": "Attacker",
+            "rating": "7.3",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 11,
+            "bench": 0
+          },
+          "shots": {
+            "total": 49,
+            "on": 21
+          },
+          "goals": {
+            "total": 10,
+            "conceded": 0,
+            "assists": 3,
+            "saves": null
+          },
+          "passes": {
+            "total": 380,
+            "key": 16,
+            "accuracy": 74
+          },
+          "tackles": {
+            "total": 17,
+            "blocks": null,
+            "interceptions": 10
+          },
+          "duels": {
+            "total": 209,
+            "won": 111
+          },
+          "dribbles": {
+            "attempts": 32,
+            "success": 17,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 31,
+            "committed": 16
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 2,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 319007,
+        "name": "Y. Kimura",
+        "firstname": "Yudai",
+        "lastname": "Kimura",
+        "age": 24,
+        "birth": {
+          "date": "2001-02-28",
+          "place": "Sakai",
+          "country": "Japan"
+        },
+        "nationality": "Japan",
+        "height": "184",
+        "weight": "82",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/319007.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 288,
+            "name": "Nagoya Grampus",
+            "logo": "https://media.api-sports.io/football/teams/288.png"
+          },
+          "league": {
+            "id": 98,
+            "name": "J1 League",
+            "country": "Japan",
+            "logo": "https://media.api-sports.io/football/leagues/98.png",
+            "flag": "https://media.api-sports.io/flags/jp.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 20,
+            "lineups": 18,
+            "minutes": 1605,
+            "number": 22,
+            "position": "Attacker",
+            "rating": "7.06",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 5,
+            "bench": 2
+          },
+          "shots": {
+            "total": 36,
+            "on": 22
+          },
+          "goals": {
+            "total": 9,
+            "conceded": 0,
+            "assists": 2,
+            "saves": null
+          },
+          "passes": {
+            "total": 301,
+            "key": 11,
+            "accuracy": 76
+          },
+          "tackles": {
+            "total": 12,
+            "blocks": 2,
+            "interceptions": 2
+          },
+          "duels": {
+            "total": 201,
+            "won": 84
+          },
+          "dribbles": {
+            "attempts": 49,
+            "success": 19,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 34,
+            "committed": 22
+          },
+          "cards": {
+            "yellow": 3,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 10074,
+        "name": "Erik",
+        "firstname": "Erik",
+        "lastname": "Nascimento de Lima",
+        "age": 31,
+        "birth": {
+          "date": "1994-07-18",
+          "place": "Novo Repartimento",
+          "country": "Brazil"
+        },
+        "nationality": "Brazil",
+        "height": "170",
+        "weight": "68",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/10074.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 303,
+            "name": "Machida Zelvia",
+            "logo": "https://media.api-sports.io/football/teams/303.png"
+          },
+          "league": {
+            "id": 98,
+            "name": "J1 League",
+            "country": "Japan",
+            "logo": "https://media.api-sports.io/football/leagues/98.png",
+            "flag": "https://media.api-sports.io/flags/jp.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 18,
+            "lineups": 15,
+            "minutes": 1168,
+            "number": 27,
+            "position": "Attacker",
+            "rating": "6.99",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 3,
+            "out": 13,
+            "bench": 3
+          },
+          "shots": {
+            "total": 17,
+            "on": 12
+          },
+          "goals": {
+            "total": 8,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 304,
+            "key": 18,
+            "accuracy": 81
+          },
+          "tackles": {
+            "total": 16,
+            "blocks": 1,
+            "interceptions": 7
+          },
+          "duels": {
+            "total": 135,
+            "won": 51
+          },
+          "dribbles": {
+            "attempts": 30,
+            "success": 14,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 10,
+            "committed": 21
+          },
+          "cards": {
+            "yellow": 3,
+            "yellowred": 0,
+            "red": 1
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 48077,
+        "name": "D. Hümmet",
+        "firstname": "Deniz",
+        "lastname": "Hümmet",
+        "age": 29,
+        "birth": {
+          "date": "1996-09-13",
+          "place": "Malmö",
+          "country": "Sweden"
+        },
+        "nationality": "Türkiye",
+        "height": "189",
+        "weight": "80",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/48077.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 293,
+            "name": "Gamba Osaka",
+            "logo": "https://media.api-sports.io/football/teams/293.png"
+          },
+          "league": {
+            "id": 98,
+            "name": "J1 League",
+            "country": "Japan",
+            "logo": "https://media.api-sports.io/football/leagues/98.png",
+            "flag": "https://media.api-sports.io/flags/jp.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 18,
+            "lineups": 14,
+            "minutes": 1258,
+            "number": 23,
+            "position": "Attacker",
+            "rating": "7.06",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 4,
+            "out": 8,
+            "bench": 5
+          },
+          "shots": {
+            "total": 34,
+            "on": 25
+          },
+          "goals": {
+            "total": 8,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 241,
+            "key": 11,
+            "accuracy": 71
+          },
+          "tackles": {
+            "total": 12,
+            "blocks": null,
+            "interceptions": 6
+          },
+          "duels": {
+            "total": 95,
+            "won": 33
+          },
+          "dribbles": {
+            "attempts": 24,
+            "success": 11,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 3,
+            "committed": 13
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 1,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 199882,
+        "name": "S. Sakuragawa",
+        "firstname": "Solomon",
+        "lastname": "Sakuragawa",
+        "age": 24,
+        "birth": {
+          "date": "2001-08-04",
+          "place": "Chiba",
+          "country": "Japan"
+        },
+        "nationality": "Japan",
+        "height": "190",
+        "weight": "91",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/199882.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 291,
+            "name": "Cerezo Osaka",
+            "logo": "https://media.api-sports.io/football/teams/291.png"
+          },
+          "league": {
+            "id": 98,
+            "name": "J1 League",
+            "country": "Japan",
+            "logo": "https://media.api-sports.io/football/leagues/98.png",
+            "flag": "https://media.api-sports.io/flags/jp.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 20,
+            "lineups": 11,
+            "minutes": 1194,
+            "number": 9,
+            "position": "Attacker",
+            "rating": "6.88",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 9,
+            "out": 4,
+            "bench": 9
+          },
+          "shots": {
+            "total": 26,
+            "on": 16
+          },
+          "goals": {
+            "total": 8,
+            "conceded": 0,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 308,
+            "key": 15,
+            "accuracy": 62
+          },
+          "tackles": {
+            "total": 9,
+            "blocks": 4,
+            "interceptions": 2
+          },
+          "duels": {
+            "total": 226,
+            "won": 93
+          },
+          "dribbles": {
+            "attempts": 19,
+            "success": 6,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 15,
+            "committed": 28
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": 1,
+            "commited": null,
+            "scored": 1,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 9396,
+        "name": "Matheus Jesus",
+        "firstname": "Matheus",
+        "lastname": "Sousa de Jesus",
+        "age": 29,
+        "birth": {
+          "date": "1997-04-10",
+          "place": "Salvador",
+          "country": "Brazil"
+        },
+        "nationality": "Brazil",
+        "height": "186 cm",
+        "weight": "80 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/9396.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 285,
+            "name": "V-varen Nagasaki",
+            "logo": "https://media.api-sports.io/football/teams/285.png"
+          },
+          "league": {
+            "id": 98,
+            "name": "J1 League",
+            "country": "Japan",
+            "logo": "https://media.api-sports.io/football/leagues/98.png",
+            "flag": "https://media.api-sports.io/flags/jp.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 18,
+            "lineups": 16,
+            "minutes": 1354,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "7.316666",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": 31,
+            "on": 17
+          },
+          "goals": {
+            "total": 7,
+            "conceded": 0,
+            "assists": 4,
+            "saves": null
+          },
+          "passes": {
+            "total": 435,
+            "key": 14,
+            "accuracy": null
+          },
+          "tackles": {
             "total": 14,
-            "assists": 4
+            "blocks": 2,
+            "interceptions": 4
+          },
+          "duels": {
+            "total": 206,
+            "won": 101
+          },
+          "dribbles": {
+            "attempts": 52,
+            "success": 28,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 32,
+            "committed": 20
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": null,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 1,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 99186,
+        "name": "Oh Se-Hun",
+        "firstname": "Se-Hun",
+        "lastname": "Oh",
+        "age": 26,
+        "birth": {
+          "date": "1999-01-15",
+          "place": "Ulsan",
+          "country": "Korea Republic"
+        },
+        "nationality": "Korea Republic",
+        "height": "193",
+        "weight": "89",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/99186.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 283,
+            "name": "Shimizu S-pulse",
+            "logo": "https://media.api-sports.io/football/teams/283.png"
+          },
+          "league": {
+            "id": 98,
+            "name": "J1 League",
+            "country": "Japan",
+            "logo": "https://media.api-sports.io/football/leagues/98.png",
+            "flag": "https://media.api-sports.io/flags/jp.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 19,
+            "lineups": 18,
+            "minutes": 1629,
+            "number": 9,
+            "position": "Attacker",
+            "rating": "7.2",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 4,
+            "bench": 1
+          },
+          "shots": {
+            "total": 38,
+            "on": 17
+          },
+          "goals": {
+            "total": 7,
+            "conceded": 0,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 526,
+            "key": 17,
+            "accuracy": 62
+          },
+          "tackles": {
+            "total": 6,
+            "blocks": 3,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 450,
+            "won": 225
+          },
+          "dribbles": {
+            "attempts": 12,
+            "success": 9,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 15,
+            "committed": 26
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 2,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 195985,
+        "name": "Erison",
+        "firstname": "Erison Danilo",
+        "lastname": "de Souza",
+        "age": 27,
+        "birth": {
+          "date": "1999-04-13",
+          "place": "Campinas",
+          "country": "Brazil"
+        },
+        "nationality": "Brazil",
+        "height": "180",
+        "weight": "84",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/195985.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 294,
+            "name": "Kawasaki Frontale",
+            "logo": "https://media.api-sports.io/football/teams/294.png"
+          },
+          "league": {
+            "id": 98,
+            "name": "J1 League",
+            "country": "Japan",
+            "logo": "https://media.api-sports.io/football/leagues/98.png",
+            "flag": "https://media.api-sports.io/flags/jp.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 15,
+            "lineups": 13,
+            "minutes": 825,
+            "number": null,
+            "position": "Forward",
+            "rating": "6.886666",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": 26,
+            "on": 13
+          },
+          "goals": {
+            "total": 7,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 138,
+            "key": 9,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 4,
+            "blocks": 2,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 133,
+            "won": 55
+          },
+          "dribbles": {
+            "attempts": 14,
+            "success": 4,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 15,
+            "committed": 11
+          },
+          "cards": {
+            "yellow": 3,
+            "yellowred": null,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 2,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 33016,
+        "name": "J. Amano",
+        "firstname": "Jun",
+        "lastname": "Amano",
+        "age": 34,
+        "birth": {
+          "date": "1991-07-19",
+          "place": "Miura",
+          "country": "Japan"
+        },
+        "nationality": "Japan",
+        "height": "175",
+        "weight": "67",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/33016.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 296,
+            "name": "Yokohama F. Marinos",
+            "logo": "https://media.api-sports.io/football/teams/296.png"
+          },
+          "league": {
+            "id": 98,
+            "name": "J1 League",
+            "country": "Japan",
+            "logo": "https://media.api-sports.io/football/leagues/98.png",
+            "flag": "https://media.api-sports.io/flags/jp.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 19,
+            "lineups": 10,
+            "minutes": 1095,
+            "number": 40,
+            "position": "Midfielder",
+            "rating": "7.04",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 9,
+            "out": 7,
+            "bench": 9
+          },
+          "shots": {
+            "total": 24,
+            "on": 10
+          },
+          "goals": {
+            "total": 6,
+            "conceded": 0,
+            "assists": 4,
+            "saves": null
+          },
+          "passes": {
+            "total": 351,
+            "key": 26,
+            "accuracy": 77
+          },
+          "tackles": {
+            "total": 14,
+            "blocks": null,
+            "interceptions": 8
+          },
+          "duels": {
+            "total": 98,
+            "won": 43
+          },
+          "dribbles": {
+            "attempts": 24,
+            "success": 9,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 17,
+            "committed": 20
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 9896,
+        "name": "Rafael Elias",
+        "firstname": "Rafael Elias",
+        "lastname": "da Silva Bataglia",
+        "age": 26,
+        "birth": {
+          "date": "1999-04-12",
+          "place": "São Paulo",
+          "country": "Brazil"
+        },
+        "nationality": "Brazil",
+        "height": "177",
+        "weight": "83",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/9896.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 302,
+            "name": "Kyoto Sanga",
+            "logo": "https://media.api-sports.io/football/teams/302.png"
+          },
+          "league": {
+            "id": 98,
+            "name": "J1 League",
+            "country": "Japan",
+            "logo": "https://media.api-sports.io/football/leagues/98.png",
+            "flag": "https://media.api-sports.io/flags/jp.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 15,
+            "lineups": 12,
+            "minutes": 1097,
+            "number": 9,
+            "position": "Attacker",
+            "rating": "7.21",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 3,
+            "out": 1,
+            "bench": 3
+          },
+          "shots": {
+            "total": 34,
+            "on": 22
+          },
+          "goals": {
+            "total": 6,
+            "conceded": 0,
+            "assists": 3,
+            "saves": null
+          },
+          "passes": {
+            "total": 299,
+            "key": 21,
+            "accuracy": 62
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": 4,
+            "interceptions": 2
+          },
+          "duels": {
+            "total": 150,
+            "won": 61
+          },
+          "dribbles": {
+            "attempts": 26,
+            "success": 10,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 17,
+            "committed": 20
+          },
+          "cards": {
+            "yellow": 3,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 288011,
+        "name": "Thiago Andrade",
+        "firstname": "Thiago Eduardo",
+        "lastname": "de Andrade",
+        "age": 25,
+        "birth": {
+          "date": "2000-10-31",
+          "place": null,
+          "country": "Brazil"
+        },
+        "nationality": "Brazil",
+        "height": "180",
+        "weight": "68",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/288011.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 291,
+            "name": "Cerezo Osaka",
+            "logo": "https://media.api-sports.io/football/teams/291.png"
+          },
+          "league": {
+            "id": 98,
+            "name": "J1 League",
+            "country": "Japan",
+            "logo": "https://media.api-sports.io/football/leagues/98.png",
+            "flag": "https://media.api-sports.io/flags/jp.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 19,
+            "lineups": 17,
+            "minutes": 1180,
+            "number": 11,
+            "position": "Midfielder",
+            "rating": "6.85",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 17,
+            "bench": 2
+          },
+          "shots": {
+            "total": 20,
+            "on": 15
+          },
+          "goals": {
+            "total": 6,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 243,
+            "key": 15,
+            "accuracy": 79
+          },
+          "tackles": {
+            "total": 17,
+            "blocks": null,
+            "interceptions": 8
+          },
+          "duels": {
+            "total": 119,
+            "won": 46
+          },
+          "dribbles": {
+            "attempts": 25,
+            "success": 12,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 6,
+            "committed": 24
+          },
+          "cards": {
+            "yellow": 3,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 367572,
+        "name": "H. Minamino",
+        "firstname": "Harumi",
+        "lastname": "Minamino",
+        "age": 21,
+        "birth": {
+          "date": "2004-05-13",
+          "place": null,
+          "country": "Japan"
+        },
+        "nationality": "Japan",
+        "height": "176",
+        "weight": "71",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/367572.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 293,
+            "name": "Gamba Osaka",
+            "logo": "https://media.api-sports.io/football/teams/293.png"
+          },
+          "league": {
+            "id": 98,
+            "name": "J1 League",
+            "country": "Japan",
+            "logo": "https://media.api-sports.io/football/leagues/98.png",
+            "flag": "https://media.api-sports.io/flags/jp.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 17,
+            "lineups": 7,
+            "minutes": 814,
+            "number": 42,
+            "position": "Attacker",
+            "rating": "6.9",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 10,
+            "out": 4,
+            "bench": 13
+          },
+          "shots": {
+            "total": 23,
+            "on": 12
+          },
+          "goals": {
+            "total": 6,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 128,
+            "key": 6,
+            "accuracy": 76
+          },
+          "tackles": {
+            "total": 4,
+            "blocks": 1,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 127,
+            "won": 48
+          },
+          "dribbles": {
+            "attempts": 10,
+            "success": 4,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 17,
+            "committed": 10
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": 1,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 288013,
+        "name": "Marcelo Ryan",
+        "firstname": "Marcelo Ryan",
+        "lastname": "Silvestre dos Santos",
+        "age": 23,
+        "birth": {
+          "date": "2002-06-08",
+          "place": "Aracaju",
+          "country": "Brazil"
+        },
+        "nationality": "Brazil",
+        "height": "188",
+        "weight": "83",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/288013.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 292,
+            "name": "FC Tokyo",
+            "logo": "https://media.api-sports.io/football/teams/292.png"
+          },
+          "league": {
+            "id": 98,
+            "name": "J1 League",
+            "country": "Japan",
+            "logo": "https://media.api-sports.io/football/leagues/98.png",
+            "flag": "https://media.api-sports.io/flags/jp.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 18,
+            "lineups": 16,
+            "minutes": 1246,
+            "number": 9,
+            "position": "Attacker",
+            "rating": "6.99",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 15,
+            "bench": 2
+          },
+          "shots": {
+            "total": 46,
+            "on": 21
+          },
+          "goals": {
+            "total": 6,
+            "conceded": 0,
+            "assists": 4,
+            "saves": null
+          },
+          "passes": {
+            "total": 200,
+            "key": 22,
+            "accuracy": 71
+          },
+          "tackles": {
+            "total": 6,
+            "blocks": 1,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 132,
+            "won": 51
+          },
+          "dribbles": {
+            "attempts": 19,
+            "success": 11,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 14,
+            "committed": 18
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": 1,
+            "commited": null,
+            "scored": 1,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 542861,
+        "name": "R. Sato",
+        "firstname": "Ryunosuke",
+        "lastname": "Sato",
+        "age": 19,
+        "birth": {
+          "date": "2006-10-16",
+          "place": null,
+          "country": "Japan"
+        },
+        "nationality": "Japan",
+        "height": null,
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/542861.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 292,
+            "name": "FC Tokyo",
+            "logo": "https://media.api-sports.io/football/teams/292.png"
+          },
+          "league": {
+            "id": 98,
+            "name": "J1 League",
+            "country": "Japan",
+            "logo": "https://media.api-sports.io/football/leagues/98.png",
+            "flag": "https://media.api-sports.io/flags/jp.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 19,
+            "lineups": 15,
+            "minutes": 1309,
+            "number": 23,
+            "position": "Midfielder",
+            "rating": "7.22",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 4,
+            "out": 10,
+            "bench": 4
+          },
+          "shots": {
+            "total": 26,
+            "on": 17
+          },
+          "goals": {
+            "total": 6,
+            "conceded": 0,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 477,
+            "key": 30,
+            "accuracy": 82
+          },
+          "tackles": {
+            "total": 23,
+            "blocks": null,
+            "interceptions": 2
+          },
+          "duels": {
+            "total": 125,
+            "won": 53
+          },
+          "dribbles": {
+            "attempts": 31,
+            "success": 17,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 9,
+            "committed": 17
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 1,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 41218,
+        "name": "Thiago Santana",
+        "firstname": "Thiago",
+        "lastname": "Santos Santana",
+        "age": 33,
+        "birth": {
+          "date": "1993-02-04",
+          "place": "Serrinha",
+          "country": "Brazil"
+        },
+        "nationality": "Brazil",
+        "height": "184",
+        "weight": "80",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/41218.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 285,
+            "name": "V-varen Nagasaki",
+            "logo": "https://media.api-sports.io/football/teams/285.png"
+          },
+          "league": {
+            "id": 98,
+            "name": "J1 League",
+            "country": "Japan",
+            "logo": "https://media.api-sports.io/football/leagues/98.png",
+            "flag": "https://media.api-sports.io/flags/jp.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 15,
+            "lineups": 15,
+            "minutes": 966,
+            "number": null,
+            "position": "Forward",
+            "rating": "6.653333",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": 22,
+            "on": 13
+          },
+          "goals": {
+            "total": 6,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 168,
+            "key": 9,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 4,
+            "blocks": 2,
+            "interceptions": 2
+          },
+          "duels": {
+            "total": 158,
+            "won": 49
+          },
+          "dribbles": {
+            "attempts": 23,
+            "success": 10,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 11,
+            "committed": 17
+          },
+          "cards": {
+            "yellow": 3,
+            "yellowred": null,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 1,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 33089,
+        "name": "Y. Suzuki",
+        "firstname": "Yuma",
+        "lastname": "Suzuki",
+        "age": 29,
+        "birth": {
+          "date": "1996-04-26",
+          "place": "Chōshi",
+          "country": "Japan"
+        },
+        "nationality": "Japan",
+        "height": "182",
+        "weight": "75",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/33089.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 290,
+            "name": "Kashima",
+            "logo": "https://media.api-sports.io/football/teams/290.png"
+          },
+          "league": {
+            "id": 98,
+            "name": "J1 League",
+            "country": "Japan",
+            "logo": "https://media.api-sports.io/football/leagues/98.png",
+            "flag": "https://media.api-sports.io/flags/jp.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 19,
+            "lineups": 18,
+            "minutes": 1626,
+            "number": 40,
+            "position": "Attacker",
+            "rating": "6.92",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 5,
+            "bench": 1
+          },
+          "shots": {
+            "total": 23,
+            "on": 9
+          },
+          "goals": {
+            "total": 6,
+            "conceded": 0,
+            "assists": 5,
+            "saves": null
+          },
+          "passes": {
+            "total": 660,
+            "key": 23,
+            "accuracy": 76
+          },
+          "tackles": {
+            "total": 14,
+            "blocks": 1,
+            "interceptions": 7
+          },
+          "duels": {
+            "total": 198,
+            "won": 83
+          },
+          "dribbles": {
+            "attempts": 27,
+            "success": 5,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 33,
+            "committed": 27
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 2,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 351015,
+        "name": "A. Suzuki",
+        "firstname": "Akito",
+        "lastname": "Suzuki",
+        "age": 22,
+        "birth": {
+          "date": "2003-07-30",
+          "place": "Osaka",
+          "country": "Japan"
+        },
+        "nationality": "Japan",
+        "height": "180",
+        "weight": "73",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/351015.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 282,
+            "name": "Sanfrecce Hiroshima",
+            "logo": "https://media.api-sports.io/football/teams/282.png"
+          },
+          "league": {
+            "id": 98,
+            "name": "J1 League",
+            "country": "Japan",
+            "logo": "https://media.api-sports.io/football/leagues/98.png",
+            "flag": "https://media.api-sports.io/flags/jp.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 20,
+            "lineups": 15,
+            "minutes": 1274,
+            "number": 10,
+            "position": "Attacker",
+            "rating": "6.95",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 5,
+            "out": 14,
+            "bench": 5
+          },
+          "shots": {
+            "total": 29,
+            "on": 16
+          },
+          "goals": {
+            "total": 5,
+            "conceded": 0,
+            "assists": 4,
+            "saves": null
+          },
+          "passes": {
+            "total": 314,
+            "key": 23,
+            "accuracy": 75
+          },
+          "tackles": {
+            "total": 13,
+            "blocks": 1,
+            "interceptions": 6
+          },
+          "duels": {
+            "total": 142,
+            "won": 50
+          },
+          "dribbles": {
+            "attempts": 15,
+            "success": 6,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 17,
+            "committed": 28
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 508070,
+        "name": "S. Nakamura",
+        "firstname": "Sota",
+        "lastname": "Nakamura",
+        "age": 23,
+        "birth": {
+          "date": "2002-10-15",
+          "place": "Takasaki",
+          "country": "Japan"
+        },
+        "nationality": "Japan",
+        "height": "168",
+        "weight": "64",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/508070.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 282,
+            "name": "Sanfrecce Hiroshima",
+            "logo": "https://media.api-sports.io/football/teams/282.png"
+          },
+          "league": {
+            "id": 98,
+            "name": "J1 League",
+            "country": "Japan",
+            "logo": "https://media.api-sports.io/football/leagues/98.png",
+            "flag": "https://media.api-sports.io/flags/jp.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 16,
+            "lineups": 10,
+            "minutes": 963,
+            "number": 39,
+            "position": "Attacker",
+            "rating": "7.08",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 6,
+            "out": 7,
+            "bench": 7
+          },
+          "shots": {
+            "total": 15,
+            "on": 7
+          },
+          "goals": {
+            "total": 5,
+            "conceded": 0,
+            "assists": 2,
+            "saves": null
+          },
+          "passes": {
+            "total": 300,
+            "key": 22,
+            "accuracy": 77
+          },
+          "tackles": {
+            "total": 17,
+            "blocks": null,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 81,
+            "won": 38
+          },
+          "dribbles": {
+            "attempts": 19,
+            "success": 12,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 7,
+            "committed": 12
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": 1,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
           }
         }
       ]

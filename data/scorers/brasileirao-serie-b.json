@@ -1,0 +1,1915 @@
+{
+  "get": "players/topscorers",
+  "parameters": {
+    "league": "72",
+    "season": "2026"
+  },
+  "errors": [],
+  "results": 20,
+  "paging": {
+    "current": 1,
+    "total": 1
+  },
+  "response": [
+    {
+      "player": {
+        "id": 137607,
+        "name": "Mikael",
+        "firstname": "Mikael Filipe",
+        "lastname": "Viana de Sousa",
+        "age": 26,
+        "birth": {
+          "date": "1999-05-28",
+          "place": "Bacabal",
+          "country": "Brazil"
+        },
+        "nationality": "Brazil",
+        "height": "184",
+        "weight": "95",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/137607.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 146,
+            "name": "CRB",
+            "logo": "https://media.api-sports.io/football/teams/146.png"
+          },
+          "league": {
+            "id": 72,
+            "name": "Serie B",
+            "country": "Brazil",
+            "logo": "https://media.api-sports.io/football/leagues/72.png",
+            "flag": "https://media.api-sports.io/flags/br.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 23,
+            "lineups": 22,
+            "minutes": 1816,
+            "number": 28,
+            "position": "Attacker",
+            "rating": "7.08",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 11,
+            "bench": 1
+          },
+          "shots": {
+            "total": 69,
+            "on": 35
+          },
+          "goals": {
+            "total": 14,
+            "conceded": 0,
+            "assists": 2,
+            "saves": null
+          },
+          "passes": {
+            "total": 197,
+            "key": 21,
+            "accuracy": 76
+          },
+          "tackles": {
+            "total": 8,
+            "blocks": null,
+            "interceptions": 4
+          },
+          "duels": {
+            "total": 182,
+            "won": 77
+          },
+          "dribbles": {
+            "attempts": 41,
+            "success": 19,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 26,
+            "committed": 18
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 3,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 77821,
+        "name": "Robson",
+        "firstname": "Robson",
+        "lastname": "dos Santos Fernandes",
+        "age": 34,
+        "birth": {
+          "date": "1991-05-30",
+          "place": "Campinas",
+          "country": "Brazil"
+        },
+        "nationality": "Brazil",
+        "height": null,
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/77821.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 7834,
+            "name": "Novorizontino",
+            "logo": "https://media.api-sports.io/football/teams/7834.png"
+          },
+          "league": {
+            "id": 72,
+            "name": "Serie B",
+            "country": "Brazil",
+            "logo": "https://media.api-sports.io/football/leagues/72.png",
+            "flag": "https://media.api-sports.io/flags/br.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 23,
+            "lineups": 23,
+            "minutes": 1825,
+            "number": 11,
+            "position": "Attacker",
+            "rating": "7.07",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 17,
+            "bench": 0
+          },
+          "shots": {
+            "total": 38,
+            "on": 23
+          },
+          "goals": {
+            "total": 12,
+            "conceded": 0,
+            "assists": 4,
+            "saves": null
+          },
+          "passes": {
+            "total": 384,
+            "key": 31,
+            "accuracy": 67
+          },
+          "tackles": {
+            "total": 19,
+            "blocks": 3,
+            "interceptions": 5
+          },
+          "duels": {
+            "total": 230,
+            "won": 101
+          },
+          "dribbles": {
+            "attempts": 23,
+            "success": 10,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 36,
+            "committed": 30
+          },
+          "cards": {
+            "yellow": 3,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": 1,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 159843,
+        "name": "Bruno Santos",
+        "firstname": "Bruno",
+        "lastname": "Santos de Oliveira",
+        "age": 29,
+        "birth": {
+          "date": "1996-11-18",
+          "place": null,
+          "country": "Brazil"
+        },
+        "nationality": "Brazil",
+        "height": "185",
+        "weight": "80",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/159843.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 148,
+            "name": "Londrina",
+            "logo": "https://media.api-sports.io/football/teams/148.png"
+          },
+          "league": {
+            "id": 72,
+            "name": "Serie B",
+            "country": "Brazil",
+            "logo": "https://media.api-sports.io/football/leagues/72.png",
+            "flag": "https://media.api-sports.io/flags/br.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 16,
+            "lineups": 15,
+            "minutes": 1433,
+            "number": 9,
+            "position": "Attacker",
+            "rating": "7.28",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": 35,
+            "on": 19
+          },
+          "goals": {
+            "total": 11,
+            "conceded": 0,
+            "assists": 3,
+            "saves": 0
+          },
+          "passes": {
+            "total": 275,
+            "key": 15,
+            "accuracy": 71
+          },
+          "tackles": {
+            "total": 10,
+            "blocks": 1,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 171,
+            "won": 82
+          },
+          "dribbles": {
+            "attempts": 30,
+            "success": 10,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 30,
+            "committed": 17
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 3,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 10220,
+        "name": "Perotti",
+        "firstname": "Pedro Henrique",
+        "lastname": "Perotti",
+        "age": 28,
+        "birth": {
+          "date": "1997-11-22",
+          "place": "Rodeio Bonito",
+          "country": "Brazil"
+        },
+        "nationality": "Brazil",
+        "height": "186",
+        "weight": "78",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/10220.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 123,
+            "name": "Sport Recife",
+            "logo": "https://media.api-sports.io/football/teams/123.png"
+          },
+          "league": {
+            "id": 72,
+            "name": "Serie B",
+            "country": "Brazil",
+            "logo": "https://media.api-sports.io/football/leagues/72.png",
+            "flag": "https://media.api-sports.io/flags/br.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 23,
+            "lineups": 22,
+            "minutes": 2003,
+            "number": 9,
+            "position": "Attacker",
+            "rating": "6.93",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 7,
+            "bench": 1
+          },
+          "shots": {
+            "total": 51,
+            "on": 28
+          },
+          "goals": {
+            "total": 10,
+            "conceded": 0,
+            "assists": 0,
+            "saves": 0
+          },
+          "passes": {
+            "total": 301,
+            "key": 12,
+            "accuracy": 72
+          },
+          "tackles": {
+            "total": 15,
+            "blocks": 6,
+            "interceptions": 2
+          },
+          "duels": {
+            "total": 281,
+            "won": 132
+          },
+          "dribbles": {
+            "attempts": 24,
+            "success": 14,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 62,
+            "committed": 42
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 1,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 21093,
+        "name": "Boschilia",
+        "firstname": "Gabriel",
+        "lastname": "Boschilia",
+        "age": 29,
+        "birth": {
+          "date": "1996-03-05",
+          "place": "Piracicaba",
+          "country": "Brazil"
+        },
+        "nationality": "Brazil",
+        "height": "172",
+        "weight": "63",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/21093.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 1223,
+            "name": "Operario-PR",
+            "logo": "https://media.api-sports.io/football/teams/1223.png"
+          },
+          "league": {
+            "id": 72,
+            "name": "Serie B",
+            "country": "Brazil",
+            "logo": "https://media.api-sports.io/football/leagues/72.png",
+            "flag": "https://media.api-sports.io/flags/br.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 21,
+            "lineups": 21,
+            "minutes": 1825,
+            "number": 10,
+            "position": "Midfielder",
+            "rating": "7.37",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 0
+          },
+          "shots": {
+            "total": 47,
+            "on": 24
+          },
+          "goals": {
+            "total": 10,
+            "conceded": 0,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 949,
+            "key": 38,
+            "accuracy": 87
+          },
+          "tackles": {
+            "total": 23,
+            "blocks": 2,
+            "interceptions": 4
+          },
+          "duels": {
+            "total": 180,
+            "won": 85
+          },
+          "dribbles": {
+            "attempts": 39,
+            "success": 16,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 45,
+            "committed": 29
+          },
+          "cards": {
+            "yellow": 6,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 4,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 10423,
+        "name": "Gustavo Coutinho",
+        "firstname": "Gustavo",
+        "lastname": "Coutinho Silva Lopes",
+        "age": 26,
+        "birth": {
+          "date": "1999-01-19",
+          "place": "Rio de Janeiro",
+          "country": "Brazil"
+        },
+        "nationality": "Brazil",
+        "height": "187",
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/10423.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 144,
+            "name": "Atletico Goianiense",
+            "logo": "https://media.api-sports.io/football/teams/144.png"
+          },
+          "league": {
+            "id": 72,
+            "name": "Serie B",
+            "country": "Brazil",
+            "logo": "https://media.api-sports.io/football/leagues/72.png",
+            "flag": "https://media.api-sports.io/flags/br.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 20,
+            "lineups": 19,
+            "minutes": 1465,
+            "number": 20,
+            "position": "Attacker",
+            "rating": "6.79",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 9,
+            "bench": 1
+          },
+          "shots": {
+            "total": 38,
+            "on": 21
+          },
+          "goals": {
+            "total": 9,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 229,
+            "key": 17,
+            "accuracy": 76
+          },
+          "tackles": {
+            "total": 8,
+            "blocks": 2,
+            "interceptions": 4
+          },
+          "duels": {
+            "total": 167,
+            "won": 63
+          },
+          "dribbles": {
+            "attempts": 12,
+            "success": 4,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 22,
+            "committed": 24
+          },
+          "cards": {
+            "yellow": 5,
+            "yellowred": 0,
+            "red": 1
+          },
+          "penalty": {
+            "won": 2,
+            "commited": null,
+            "scored": 5,
+            "missed": 1,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 237706,
+        "name": "Chrystian Barletta",
+        "firstname": "Chrystian",
+        "lastname": "Amaral Barletta de Almeida",
+        "age": 24,
+        "birth": {
+          "date": "2001-07-05",
+          "place": "Limeira",
+          "country": "Brazil"
+        },
+        "nationality": "Brazil",
+        "height": null,
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/237706.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 123,
+            "name": "Sport Recife",
+            "logo": "https://media.api-sports.io/football/teams/123.png"
+          },
+          "league": {
+            "id": 72,
+            "name": "Serie B",
+            "country": "Brazil",
+            "logo": "https://media.api-sports.io/football/leagues/72.png",
+            "flag": "https://media.api-sports.io/flags/br.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 19,
+            "lineups": 19,
+            "minutes": 1647,
+            "number": 30,
+            "position": "Attacker",
+            "rating": "7.33",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 7,
+            "bench": 0
+          },
+          "shots": {
+            "total": 35,
+            "on": 17
+          },
+          "goals": {
+            "total": 9,
+            "conceded": 0,
+            "assists": 3,
+            "saves": 0
+          },
+          "passes": {
+            "total": 511,
+            "key": 32,
+            "accuracy": 75
+          },
+          "tackles": {
+            "total": 24,
+            "blocks": 3,
+            "interceptions": 7
+          },
+          "duels": {
+            "total": 216,
+            "won": 111
+          },
+          "dribbles": {
+            "attempts": 66,
+            "success": 32,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 48,
+            "committed": 16
+          },
+          "cards": {
+            "yellow": 7,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 6,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 9847,
+        "name": "Everton Morelli",
+        "firstname": "Everton",
+        "lastname": "Morelli Casimiro",
+        "age": 28,
+        "birth": {
+          "date": "1997-11-04",
+          "place": "Batatais",
+          "country": "Brazil"
+        },
+        "nationality": "Brazil",
+        "height": "179",
+        "weight": "72",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/9847.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 2618,
+            "name": "Botafogo SP",
+            "logo": "https://media.api-sports.io/football/teams/2618.png"
+          },
+          "league": {
+            "id": 72,
+            "name": "Serie B",
+            "country": "Brazil",
+            "logo": "https://media.api-sports.io/football/leagues/72.png",
+            "flag": "https://media.api-sports.io/flags/br.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 23,
+            "lineups": 23,
+            "minutes": 1907,
+            "number": 8,
+            "position": "Midfielder",
+            "rating": "7.01",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 5,
+            "bench": 0
+          },
+          "shots": {
+            "total": 36,
+            "on": 13
+          },
+          "goals": {
+            "total": 7,
+            "conceded": 0,
+            "assists": 2,
+            "saves": null
+          },
+          "passes": {
+            "total": 595,
+            "key": 17,
+            "accuracy": 79
+          },
+          "tackles": {
+            "total": 26,
+            "blocks": 6,
+            "interceptions": 18
+          },
+          "duels": {
+            "total": 232,
+            "won": 116
+          },
+          "dribbles": {
+            "attempts": 23,
+            "success": 10,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 44,
+            "committed": 33
+          },
+          "cards": {
+            "yellow": 4,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 10260,
+        "name": "Janderson",
+        "firstname": "Janderson",
+        "lastname": "Santos de Souza",
+        "age": 26,
+        "birth": {
+          "date": "1999-02-26",
+          "place": "Barreiras",
+          "country": "Brazil"
+        },
+        "nationality": "Brazil",
+        "height": "161",
+        "weight": "61",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/10260.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 142,
+            "name": "Vila Nova",
+            "logo": "https://media.api-sports.io/football/teams/142.png"
+          },
+          "league": {
+            "id": 72,
+            "name": "Serie B",
+            "country": "Brazil",
+            "logo": "https://media.api-sports.io/football/leagues/72.png",
+            "flag": "https://media.api-sports.io/flags/br.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 23,
+            "lineups": 23,
+            "minutes": 1867,
+            "number": 99,
+            "position": "Midfielder",
+            "rating": "7.09",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 13,
+            "bench": 0
+          },
+          "shots": {
+            "total": 29,
+            "on": 19
+          },
+          "goals": {
+            "total": 6,
+            "conceded": 0,
+            "assists": 6,
+            "saves": null
+          },
+          "passes": {
+            "total": 549,
+            "key": 33,
+            "accuracy": 80
+          },
+          "tackles": {
+            "total": 29,
+            "blocks": null,
+            "interceptions": 6
+          },
+          "duels": {
+            "total": 245,
+            "won": 116
+          },
+          "dribbles": {
+            "attempts": 81,
+            "success": 38,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 46,
+            "committed": 30
+          },
+          "cards": {
+            "yellow": 3,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 576689,
+        "name": "Kadu",
+        "firstname": null,
+        "lastname": null,
+        "age": 23,
+        "birth": {
+          "date": null,
+          "place": null,
+          "country": null
+        },
+        "nationality": null,
+        "height": null,
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/576689.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 151,
+            "name": "Goias",
+            "logo": "https://media.api-sports.io/football/teams/151.png"
+          },
+          "league": {
+            "id": 72,
+            "name": "Serie B",
+            "country": "Brazil",
+            "logo": "https://media.api-sports.io/football/leagues/72.png",
+            "flag": "https://media.api-sports.io/flags/br.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 14,
+            "lineups": 13,
+            "minutes": 959,
+            "number": 40,
+            "position": "Attacker",
+            "rating": "6.97",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 11,
+            "bench": 6
+          },
+          "shots": {
+            "total": 27,
+            "on": 11
+          },
+          "goals": {
+            "total": 6,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 215,
+            "key": 4,
+            "accuracy": 70
+          },
+          "tackles": {
+            "total": 22,
+            "blocks": 3,
+            "interceptions": 11
+          },
+          "duels": {
+            "total": 182,
+            "won": 83
+          },
+          "dribbles": {
+            "attempts": 23,
+            "success": 11,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 24,
+            "committed": 27
+          },
+          "cards": {
+            "yellow": 3,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": 1,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 9660,
+        "name": "Vinícius",
+        "firstname": "Vinícius",
+        "lastname": "Santos Silva",
+        "age": 32,
+        "birth": {
+          "date": "1993-08-03",
+          "place": "São Paulo",
+          "country": "Brazil"
+        },
+        "nationality": "Brazil",
+        "height": "180",
+        "weight": "81",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/9660.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 755,
+            "name": "Nautico Recife",
+            "logo": "https://media.api-sports.io/football/teams/755.png"
+          },
+          "league": {
+            "id": 72,
+            "name": "Serie B",
+            "country": "Brazil",
+            "logo": "https://media.api-sports.io/football/leagues/72.png",
+            "flag": "https://media.api-sports.io/flags/br.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 16,
+            "lineups": 15,
+            "minutes": 1271,
+            "number": 7,
+            "position": "Attacker",
+            "rating": "7.27",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 2,
+            "bench": 1
+          },
+          "shots": {
+            "total": 37,
+            "on": 20
+          },
+          "goals": {
+            "total": 6,
+            "conceded": 0,
+            "assists": 2,
+            "saves": null
+          },
+          "passes": {
+            "total": 554,
+            "key": 29,
+            "accuracy": 76
+          },
+          "tackles": {
+            "total": 11,
+            "blocks": null,
+            "interceptions": 5
+          },
+          "duels": {
+            "total": 98,
+            "won": 54
+          },
+          "dribbles": {
+            "attempts": 27,
+            "success": 15,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 19,
+            "committed": 10
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 1,
+            "missed": 1,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 64364,
+        "name": "Dadá Belmonte",
+        "firstname": "Adaílson",
+        "lastname": "Freire Pereira da Silva",
+        "age": 28,
+        "birth": {
+          "date": "1997-02-08",
+          "place": "São José do Belmonte",
+          "country": "Brazil"
+        },
+        "nationality": "Brazil",
+        "height": "166 cm",
+        "weight": "59 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/64364.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 146,
+            "name": "CRB",
+            "logo": "https://media.api-sports.io/football/teams/146.png"
+          },
+          "league": {
+            "id": 72,
+            "name": "Serie B",
+            "country": "Brazil",
+            "logo": "https://media.api-sports.io/football/leagues/72.png",
+            "flag": "https://media.api-sports.io/flags/br.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 22,
+            "lineups": 22,
+            "minutes": 1799,
+            "number": 97,
+            "position": "Midfielder",
+            "rating": "7.29",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 13,
+            "bench": 0
+          },
+          "shots": {
+            "total": 42,
+            "on": 19
+          },
+          "goals": {
+            "total": 5,
+            "conceded": 0,
+            "assists": 5,
+            "saves": null
+          },
+          "passes": {
+            "total": 456,
+            "key": 33,
+            "accuracy": 83
+          },
+          "tackles": {
+            "total": 27,
+            "blocks": 4,
+            "interceptions": 12
+          },
+          "duels": {
+            "total": 234,
+            "won": 130
+          },
+          "dribbles": {
+            "attempts": 70,
+            "success": 37,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 59,
+            "committed": 17
+          },
+          "cards": {
+            "yellow": 3,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 353028,
+        "name": "Raí",
+        "firstname": "Raí",
+        "lastname": "da Silva Pessanha",
+        "age": 23,
+        "birth": {
+          "date": "2002-04-21",
+          "place": null,
+          "country": "Brazil"
+        },
+        "nationality": "Brazil",
+        "height": null,
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/353028.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 152,
+            "name": "Juventude",
+            "logo": "https://media.api-sports.io/football/teams/152.png"
+          },
+          "league": {
+            "id": 72,
+            "name": "Serie B",
+            "country": "Brazil",
+            "logo": "https://media.api-sports.io/football/leagues/72.png",
+            "flag": "https://media.api-sports.io/flags/br.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 23,
+            "lineups": 22,
+            "minutes": 1798,
+            "number": 75,
+            "position": "Midfielder",
+            "rating": "7.45",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 10,
+            "bench": 1
+          },
+          "shots": {
+            "total": 27,
+            "on": 13
+          },
+          "goals": {
+            "total": 5,
+            "conceded": 0,
+            "assists": 3,
+            "saves": null
+          },
+          "passes": {
+            "total": 680,
+            "key": 35,
+            "accuracy": 84
+          },
+          "tackles": {
+            "total": 39,
+            "blocks": 5,
+            "interceptions": 16
+          },
+          "duels": {
+            "total": 190,
+            "won": 121
+          },
+          "dribbles": {
+            "attempts": 17,
+            "success": 11,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 62,
+            "committed": 24
+          },
+          "cards": {
+            "yellow": 3,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 9976,
+        "name": "Pablo",
+        "firstname": "Pablo Felipe",
+        "lastname": "Teixeira",
+        "age": 33,
+        "birth": {
+          "date": "1992-06-23",
+          "place": "Londrina",
+          "country": "Brazil"
+        },
+        "nationality": "Brazil",
+        "height": "187",
+        "weight": "78",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/9976.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 1223,
+            "name": "Operario-PR",
+            "logo": "https://media.api-sports.io/football/teams/1223.png"
+          },
+          "league": {
+            "id": 72,
+            "name": "Serie B",
+            "country": "Brazil",
+            "logo": "https://media.api-sports.io/football/leagues/72.png",
+            "flag": "https://media.api-sports.io/flags/br.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 21,
+            "lineups": 20,
+            "minutes": 1544,
+            "number": 92,
+            "position": "Attacker",
+            "rating": "6.8",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 18,
+            "bench": 1
+          },
+          "shots": {
+            "total": 29,
+            "on": 14
+          },
+          "goals": {
+            "total": 5,
+            "conceded": 0,
+            "assists": 3,
+            "saves": null
+          },
+          "passes": {
+            "total": 423,
+            "key": 28,
+            "accuracy": 80
+          },
+          "tackles": {
+            "total": 7,
+            "blocks": 1,
+            "interceptions": 7
+          },
+          "duels": {
+            "total": 163,
+            "won": 64
+          },
+          "dribbles": {
+            "attempts": 18,
+            "success": 6,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 36,
+            "committed": 33
+          },
+          "cards": {
+            "yellow": 4,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 158434,
+        "name": "J. Miritello",
+        "firstname": "Juan Bautista",
+        "lastname": "Miritello",
+        "age": 26,
+        "birth": {
+          "date": "1999-02-08",
+          "place": "Luján",
+          "country": "Argentina"
+        },
+        "nationality": "Argentina",
+        "height": "183",
+        "weight": "78",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/158434.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 154,
+            "name": "Fortaleza EC",
+            "logo": "https://media.api-sports.io/football/teams/154.png"
+          },
+          "league": {
+            "id": 72,
+            "name": "Serie B",
+            "country": "Brazil",
+            "logo": "https://media.api-sports.io/football/leagues/72.png",
+            "flag": "https://media.api-sports.io/flags/br.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 20,
+            "lineups": 17,
+            "minutes": 1399,
+            "number": 9,
+            "position": "Attacker",
+            "rating": "6.64",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 3,
+            "out": 8,
+            "bench": 3
+          },
+          "shots": {
+            "total": 33,
+            "on": 21
+          },
+          "goals": {
+            "total": 5,
+            "conceded": 0,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 239,
+            "key": 19,
+            "accuracy": 81
+          },
+          "tackles": {
+            "total": 2,
+            "blocks": 1,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 147,
+            "won": 58
+          },
+          "dribbles": {
+            "attempts": 6,
+            "success": 5,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 24,
+            "committed": 27
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 2
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 80480,
+        "name": "Hygor",
+        "firstname": "Hygor Cleber",
+        "lastname": "Garcia Silva",
+        "age": 33,
+        "birth": {
+          "date": "1992-08-13",
+          "place": "Franca",
+          "country": "Brazil"
+        },
+        "nationality": "Brazil",
+        "height": "187",
+        "weight": "78",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/80480.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 2618,
+            "name": "Botafogo SP",
+            "logo": "https://media.api-sports.io/football/teams/2618.png"
+          },
+          "league": {
+            "id": 72,
+            "name": "Serie B",
+            "country": "Brazil",
+            "logo": "https://media.api-sports.io/football/leagues/72.png",
+            "flag": "https://media.api-sports.io/flags/br.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 17,
+            "lineups": 17,
+            "minutes": 1194,
+            "number": 9,
+            "position": "Attacker",
+            "rating": "6.58",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 12,
+            "bench": 0
+          },
+          "shots": {
+            "total": 22,
+            "on": 11
+          },
+          "goals": {
+            "total": 5,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 123,
+            "key": 8,
+            "accuracy": 65
+          },
+          "tackles": {
+            "total": 5,
+            "blocks": 5,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 140,
+            "won": 54
+          },
+          "dribbles": {
+            "attempts": 14,
+            "success": 3,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 27,
+            "committed": 13
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 9756,
+        "name": "Anselmo Ramon",
+        "firstname": "Anselmo Ramon",
+        "lastname": "Alves Herculano",
+        "age": 37,
+        "birth": {
+          "date": "1988-06-23",
+          "place": "Camaçari",
+          "country": "Brazil"
+        },
+        "nationality": "Brazil",
+        "height": "176",
+        "weight": "60",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/9756.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 151,
+            "name": "Goias",
+            "logo": "https://media.api-sports.io/football/teams/151.png"
+          },
+          "league": {
+            "id": 72,
+            "name": "Serie B",
+            "country": "Brazil",
+            "logo": "https://media.api-sports.io/football/leagues/72.png",
+            "flag": "https://media.api-sports.io/flags/br.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 22,
+            "lineups": 12,
+            "minutes": 1146,
+            "number": 9,
+            "position": "Attacker",
+            "rating": "6.75",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 10,
+            "out": 7,
+            "bench": 12
+          },
+          "shots": {
+            "total": 18,
+            "on": 9
+          },
+          "goals": {
+            "total": 5,
+            "conceded": 0,
+            "assists": 3,
+            "saves": null
+          },
+          "passes": {
+            "total": 239,
+            "key": 13,
+            "accuracy": 77
+          },
+          "tackles": {
+            "total": 10,
+            "blocks": null,
+            "interceptions": 3
+          },
+          "duels": {
+            "total": 92,
+            "won": 46
+          },
+          "dribbles": {
+            "attempts": 13,
+            "success": 7,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 16,
+            "committed": 7
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 1,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 306885,
+        "name": "Dodozinho",
+        "firstname": "Vinicius",
+        "lastname": "Rodrigues Adelino dos Santos",
+        "age": 24,
+        "birth": {
+          "date": "2001-06-15",
+          "place": null,
+          "country": "Brazil"
+        },
+        "nationality": "Brazil",
+        "height": "170",
+        "weight": "67",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/306885.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 755,
+            "name": "Nautico Recife",
+            "logo": "https://media.api-sports.io/football/teams/755.png"
+          },
+          "league": {
+            "id": 72,
+            "name": "Serie B",
+            "country": "Brazil",
+            "logo": "https://media.api-sports.io/football/leagues/72.png",
+            "flag": "https://media.api-sports.io/flags/br.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 16,
+            "lineups": 16,
+            "minutes": 1297,
+            "number": 10,
+            "position": "Midfielder",
+            "rating": "7.17",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 6,
+            "bench": 0
+          },
+          "shots": {
+            "total": 36,
+            "on": 18
+          },
+          "goals": {
+            "total": 5,
+            "conceded": 0,
+            "assists": 2,
+            "saves": null
+          },
+          "passes": {
+            "total": 461,
+            "key": 43,
+            "accuracy": 80
+          },
+          "tackles": {
+            "total": 3,
+            "blocks": 1,
+            "interceptions": 2
+          },
+          "duels": {
+            "total": 149,
+            "won": 67
+          },
+          "dribbles": {
+            "attempts": 53,
+            "success": 22,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 41,
+            "committed": 14
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": 1,
+            "commited": null,
+            "scored": 1,
+            "missed": 1,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 9298,
+        "name": "Alisson Safira",
+        "firstname": "Alisson",
+        "lastname": "Pelegrini Safira",
+        "age": 31,
+        "birth": {
+          "date": "1995-03-17",
+          "place": "Foz do Iguaçu",
+          "country": "Brazil"
+        },
+        "nationality": "Brazil",
+        "height": "185",
+        "weight": "75",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/9298.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 152,
+            "name": "Juventude",
+            "logo": "https://media.api-sports.io/football/teams/152.png"
+          },
+          "league": {
+            "id": 72,
+            "name": "Serie B",
+            "country": "Brazil",
+            "logo": "https://media.api-sports.io/football/leagues/72.png",
+            "flag": "https://media.api-sports.io/flags/br.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 23,
+            "lineups": 13,
+            "minutes": 1221,
+            "number": 25,
+            "position": "Attacker",
+            "rating": "6.73",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 10,
+            "out": 8,
+            "bench": 11
+          },
+          "shots": {
+            "total": 31,
+            "on": 13
+          },
+          "goals": {
+            "total": 5,
+            "conceded": 0,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 203,
+            "key": 16,
+            "accuracy": 67
+          },
+          "tackles": {
+            "total": 17,
+            "blocks": 3,
+            "interceptions": 2
+          },
+          "duels": {
+            "total": 233,
+            "won": 117
+          },
+          "dribbles": {
+            "attempts": 8,
+            "success": 4,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 51,
+            "committed": 49
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": 1,
+            "commited": 1,
+            "scored": 1,
+            "missed": 1,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 41789,
+        "name": "Ronaldo Tavares",
+        "firstname": "Ronaldo",
+        "lastname": "Rodrigues Tavares",
+        "age": 28,
+        "birth": {
+          "date": "1997-07-22",
+          "place": "Seixal",
+          "country": "Portugal"
+        },
+        "nationality": "Portugal",
+        "height": "194",
+        "weight": "93",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/41789.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 13975,
+            "name": "Athletic Club",
+            "logo": "https://media.api-sports.io/football/teams/13975.png"
+          },
+          "league": {
+            "id": 72,
+            "name": "Serie B",
+            "country": "Brazil",
+            "logo": "https://media.api-sports.io/football/leagues/72.png",
+            "flag": "https://media.api-sports.io/flags/br.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 6,
+            "lineups": 6,
+            "minutes": 460,
+            "number": 9,
+            "position": "Attacker",
+            "rating": "7.48",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 4,
+            "bench": 0
+          },
+          "shots": {
+            "total": 15,
+            "on": 9
+          },
+          "goals": {
+            "total": 5,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 62,
+            "key": 2,
+            "accuracy": 74
+          },
+          "tackles": {
+            "total": 6,
+            "blocks": null,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 48,
+            "won": 23
+          },
+          "dribbles": {
+            "attempts": 13,
+            "success": 4,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 4,
+            "committed": 11
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 1,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    }
+  ]
+}

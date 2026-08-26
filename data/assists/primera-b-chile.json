@@ -1,0 +1,300 @@
+{
+  "get": "players/topassists",
+  "parameters": {
+    "league": "266",
+    "season": "2026"
+  },
+  "errors": [],
+  "results": 3,
+  "paging": {
+    "current": 1,
+    "total": 1
+  },
+  "response": [
+    {
+      "player": {
+        "id": 6218,
+        "name": "S. Ribas",
+        "firstname": "Sebastián César Helios",
+        "lastname": "Ribas Barbato",
+        "age": 38,
+        "birth": {
+          "date": "1988-03-11",
+          "place": "Montevideo",
+          "country": "Uruguay"
+        },
+        "nationality": "Uruguay",
+        "height": "189 cm",
+        "weight": "86 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/6218.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 2344,
+            "name": "Rangers de Talca",
+            "logo": "https://media.api-sports.io/football/teams/2344.png"
+          },
+          "league": {
+            "id": 266,
+            "name": "Primera B",
+            "country": "Chile",
+            "logo": "https://media.api-sports.io/football/leagues/266.png",
+            "flag": "https://media.api-sports.io/flags/cl.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 6,
+            "lineups": null,
+            "minutes": null,
+            "number": null,
+            "position": "Forward",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": null,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 1,
+            "conceded": null,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": null,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 41451,
+        "name": "J. Delgado",
+        "firstname": "Juan Antonio",
+        "lastname": "Delgado Baeza",
+        "age": 33,
+        "birth": {
+          "date": "1993-03-05",
+          "place": "Santiago de Chile",
+          "country": "Chile"
+        },
+        "nationality": "Chile",
+        "height": "177",
+        "weight": "72",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/41451.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 2346,
+            "name": "Deportes Santa Cruz",
+            "logo": "https://media.api-sports.io/football/teams/2346.png"
+          },
+          "league": {
+            "id": 266,
+            "name": "Primera B",
+            "country": "Chile",
+            "logo": "https://media.api-sports.io/football/leagues/266.png",
+            "flag": "https://media.api-sports.io/flags/cl.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 9,
+            "lineups": null,
+            "minutes": null,
+            "number": null,
+            "position": "Forward",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": null,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 3,
+            "yellowred": null,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 41572,
+        "name": "S. Ramírez",
+        "firstname": "Simon Alonso",
+        "lastname": "Ramírez Cuevas",
+        "age": 27,
+        "birth": {
+          "date": "1998-11-03",
+          "place": "Talcahuano",
+          "country": "Chile"
+        },
+        "nationality": "Chile",
+        "height": "178",
+        "weight": "66",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/41572.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 2327,
+            "name": "Antofagasta",
+            "logo": "https://media.api-sports.io/football/teams/2327.png"
+          },
+          "league": {
+            "id": 266,
+            "name": "Primera B",
+            "country": "Chile",
+            "logo": "https://media.api-sports.io/football/leagues/266.png",
+            "flag": "https://media.api-sports.io/flags/cl.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 6,
+            "lineups": null,
+            "minutes": null,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": null,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": null,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1915 @@
+{
+  "get": "players/topassists",
+  "parameters": {
+    "league": "624",
+    "season": "2026"
+  },
+  "errors": [],
+  "results": 20,
+  "paging": {
+    "current": 1,
+    "total": 1
+  },
+  "response": [
+    {
+      "player": {
+        "id": 54095,
+        "name": "Anderson Rosa",
+        "firstname": "Anderson",
+        "lastname": "Indalêncio da Rosa",
+        "age": 32,
+        "birth": {
+          "date": "1993-03-11",
+          "place": "Laguna",
+          "country": "Brazil"
+        },
+        "nationality": "Brazil",
+        "height": "175",
+        "weight": "75",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/54095.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 7835,
+            "name": "Portuguesa RJ",
+            "logo": "https://media.api-sports.io/football/teams/7835.png"
+          },
+          "league": {
+            "id": 624,
+            "name": "Carioca - 1",
+            "country": "Brazil",
+            "logo": "https://media.api-sports.io/football/leagues/624.png",
+            "flag": "https://media.api-sports.io/flags/br.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 10,
+            "lineups": 5,
+            "minutes": 565,
+            "number": 7,
+            "position": "Midfielder",
+            "rating": "6.99",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 5,
+            "out": 3,
+            "bench": 5
+          },
+          "shots": {
+            "total": 11,
+            "on": 3
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 4,
+            "saves": null
+          },
+          "passes": {
+            "total": 204,
+            "key": 13,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 9,
+            "blocks": 0,
+            "interceptions": 5
+          },
+          "duels": {
+            "total": 95,
+            "won": 50
+          },
+          "dribbles": {
+            "attempts": 16,
+            "success": 13,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 21,
+            "committed": 16
+          },
+          "cards": {
+            "yellow": 4,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": 1,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 634194,
+        "name": "Andrade Rodrigo",
+        "firstname": "Andrade",
+        "lastname": "Rodrigo",
+        "age": 37,
+        "birth": {
+          "date": "1988-02-05",
+          "place": null,
+          "country": "Brazil"
+        },
+        "nationality": "Brazil",
+        "height": null,
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/634194.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 13115,
+            "name": "Sampaio Corrêa RJ",
+            "logo": "https://media.api-sports.io/football/teams/13115.png"
+          },
+          "league": {
+            "id": 624,
+            "name": "Carioca - 1",
+            "country": "Brazil",
+            "logo": "https://media.api-sports.io/football/leagues/624.png",
+            "flag": "https://media.api-sports.io/flags/br.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 12,
+            "lineups": 11,
+            "minutes": 590,
+            "number": 25,
+            "position": "Attacker",
+            "rating": "7.2",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 9,
+            "bench": 1
+          },
+          "shots": {
+            "total": 8,
+            "on": 3
+          },
+          "goals": {
+            "total": 2,
+            "conceded": 0,
+            "assists": 3,
+            "saves": null
+          },
+          "passes": {
+            "total": 149,
+            "key": 20,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 5,
+            "blocks": 0,
+            "interceptions": 3
+          },
+          "duels": {
+            "total": 74,
+            "won": 35
+          },
+          "dribbles": {
+            "attempts": 11,
+            "success": 6,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 14,
+            "committed": 13
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 28336,
+        "name": "Isael",
+        "firstname": "Isael",
+        "lastname": "da Silva Barbosa",
+        "age": 38,
+        "birth": {
+          "date": "1988-05-13",
+          "place": "São Paulo",
+          "country": "Brazil"
+        },
+        "nationality": "Brazil",
+        "height": "171",
+        "weight": "62",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/28336.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 2206,
+            "name": "Boavista SC",
+            "logo": "https://media.api-sports.io/football/teams/2206.png"
+          },
+          "league": {
+            "id": 624,
+            "name": "Carioca - 1",
+            "country": "Brazil",
+            "logo": "https://media.api-sports.io/football/leagues/624.png",
+            "flag": "https://media.api-sports.io/flags/br.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 9,
+            "lineups": 9,
+            "minutes": 731,
+            "number": 10,
+            "position": "Midfielder",
+            "rating": "7.13",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 5,
+            "bench": 0
+          },
+          "shots": {
+            "total": 11,
+            "on": 7
+          },
+          "goals": {
+            "total": 2,
+            "conceded": 0,
+            "assists": 3,
+            "saves": null
+          },
+          "passes": {
+            "total": 199,
+            "key": 22,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 11,
+            "blocks": 0,
+            "interceptions": 6
+          },
+          "duels": {
+            "total": 72,
+            "won": 35
+          },
+          "dribbles": {
+            "attempts": 16,
+            "success": 8,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 14,
+            "committed": 12
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 576768,
+        "name": "Guilherme Silveira",
+        "firstname": null,
+        "lastname": null,
+        "age": 25,
+        "birth": {
+          "date": null,
+          "place": null,
+          "country": null
+        },
+        "nationality": null,
+        "height": null,
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/576768.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 7835,
+            "name": "Portuguesa RJ",
+            "logo": "https://media.api-sports.io/football/teams/7835.png"
+          },
+          "league": {
+            "id": 624,
+            "name": "Carioca - 1",
+            "country": "Brazil",
+            "logo": "https://media.api-sports.io/football/leagues/624.png",
+            "flag": "https://media.api-sports.io/flags/br.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 8,
+            "lineups": 6,
+            "minutes": 501,
+            "number": 20,
+            "position": "Midfielder",
+            "rating": "6.93",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 4,
+            "bench": 6
+          },
+          "shots": {
+            "total": 11,
+            "on": 5
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": 3,
+            "saves": null
+          },
+          "passes": {
+            "total": 121,
+            "key": 7,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 12,
+            "blocks": 1,
+            "interceptions": 3
+          },
+          "duels": {
+            "total": 81,
+            "won": 39
+          },
+          "dribbles": {
+            "attempts": 19,
+            "success": 12,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 13,
+            "committed": 8
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 5994,
+        "name": "J. Carrascal",
+        "firstname": "Jorge Andrés",
+        "lastname": "Carrascal Guardo",
+        "age": 27,
+        "birth": {
+          "date": "1998-05-25",
+          "place": "Cartagena",
+          "country": "Colombia"
+        },
+        "nationality": "Colombia",
+        "height": "180",
+        "weight": "75",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/5994.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 127,
+            "name": "Flamengo",
+            "logo": "https://media.api-sports.io/football/teams/127.png"
+          },
+          "league": {
+            "id": 624,
+            "name": "Carioca - 1",
+            "country": "Brazil",
+            "logo": "https://media.api-sports.io/football/leagues/624.png",
+            "flag": "https://media.api-sports.io/flags/br.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 7,
+            "lineups": 7,
+            "minutes": 410,
+            "number": 15,
+            "position": "Midfielder",
+            "rating": "6.9",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 7,
+            "bench": 0
+          },
+          "shots": {
+            "total": 4,
+            "on": 2
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": 3,
+            "saves": null
+          },
+          "passes": {
+            "total": 166,
+            "key": 14,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 6,
+            "blocks": null,
+            "interceptions": 3
+          },
+          "duels": {
+            "total": 61,
+            "won": 27
+          },
+          "dribbles": {
+            "attempts": 15,
+            "success": 6,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 12,
+            "committed": 14
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 1566,
+        "name": "Emerson Royal",
+        "firstname": "Emerson Aparecido",
+        "lastname": "Leite de Souza Júnior",
+        "age": 26,
+        "birth": {
+          "date": "1999-01-14",
+          "place": "São Paulo",
+          "country": "Brazil"
+        },
+        "nationality": "Brazil",
+        "height": "181",
+        "weight": "79",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/1566.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 127,
+            "name": "Flamengo",
+            "logo": "https://media.api-sports.io/football/teams/127.png"
+          },
+          "league": {
+            "id": 624,
+            "name": "Carioca - 1",
+            "country": "Brazil",
+            "logo": "https://media.api-sports.io/football/leagues/624.png",
+            "flag": "https://media.api-sports.io/flags/br.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 6,
+            "lineups": 6,
+            "minutes": 477,
+            "number": 22,
+            "position": "Defender",
+            "rating": "6.9",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": 4,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 3,
+            "saves": null
+          },
+          "passes": {
+            "total": 270,
+            "key": 9,
+            "accuracy": 40
+          },
+          "tackles": {
+            "total": 12,
+            "blocks": 1,
+            "interceptions": 4
+          },
+          "duels": {
+            "total": 53,
+            "won": 30
+          },
+          "dribbles": {
+            "attempts": 7,
+            "success": 3,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 10,
+            "committed": 8
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 157038,
+        "name": "Ygor Catatau",
+        "firstname": "Ygor",
+        "lastname": "de Oliveira Ferreira",
+        "age": 31,
+        "birth": {
+          "date": "1995-07-01",
+          "place": "Rio de Janeiro",
+          "country": "Brazil"
+        },
+        "nationality": "Brazil",
+        "height": "183",
+        "weight": "79",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/157038.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 7814,
+            "name": "Volta Redonda",
+            "logo": "https://media.api-sports.io/football/teams/7814.png"
+          },
+          "league": {
+            "id": 624,
+            "name": "Carioca - 1",
+            "country": "Brazil",
+            "logo": "https://media.api-sports.io/football/leagues/624.png",
+            "flag": "https://media.api-sports.io/flags/br.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 8,
+            "lineups": 8,
+            "minutes": 731,
+            "number": 9,
+            "position": "Forward",
+            "rating": "7.19",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 0
+          },
+          "shots": {
+            "total": 18,
+            "on": 8
+          },
+          "goals": {
+            "total": 3,
+            "conceded": 0,
+            "assists": 2,
+            "saves": null
+          },
+          "passes": {
+            "total": 148,
+            "key": 9,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 2,
+            "blocks": 1,
+            "interceptions": 3
+          },
+          "duels": {
+            "total": 144,
+            "won": 75
+          },
+          "dribbles": {
+            "attempts": 20,
+            "success": 12,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 32,
+            "committed": 18
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": 1,
+            "commited": null,
+            "scored": 1,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 9770,
+        "name": "Guilherme",
+        "firstname": "Guilherme",
+        "lastname": "dos Santos Souza",
+        "age": 32,
+        "birth": {
+          "date": "1993-01-28",
+          "place": "Rio de Janeiro",
+          "country": "Brazil"
+        },
+        "nationality": "Brazil",
+        "height": "173",
+        "weight": "73",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/9770.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 13115,
+            "name": "Sampaio Corrêa RJ",
+            "logo": "https://media.api-sports.io/football/teams/13115.png"
+          },
+          "league": {
+            "id": 624,
+            "name": "Carioca - 1",
+            "country": "Brazil",
+            "logo": "https://media.api-sports.io/football/leagues/624.png",
+            "flag": "https://media.api-sports.io/flags/br.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 12,
+            "lineups": 12,
+            "minutes": 858,
+            "number": 6,
+            "position": "Defender",
+            "rating": "7.07",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": 8,
+            "on": 4
+          },
+          "goals": {
+            "total": 2,
+            "conceded": 0,
+            "assists": 2,
+            "saves": null
+          },
+          "passes": {
+            "total": 301,
+            "key": 6,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 21,
+            "blocks": 2,
+            "interceptions": 12
+          },
+          "duels": {
+            "total": 123,
+            "won": 71
+          },
+          "dribbles": {
+            "attempts": 16,
+            "success": 7,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 25,
+            "committed": 17
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": 1,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 126936,
+        "name": "Samuel Lino",
+        "firstname": "Samuel",
+        "lastname": "Dias Lino",
+        "age": 26,
+        "birth": {
+          "date": "1999-12-23",
+          "place": "Santo André",
+          "country": "Brazil"
+        },
+        "nationality": "Brazil",
+        "height": "170 cm",
+        "weight": "69 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/126936.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 127,
+            "name": "Flamengo",
+            "logo": "https://media.api-sports.io/football/teams/127.png"
+          },
+          "league": {
+            "id": 624,
+            "name": "Carioca - 1",
+            "country": "Brazil",
+            "logo": "https://media.api-sports.io/football/leagues/624.png",
+            "flag": "https://media.api-sports.io/flags/br.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 7,
+            "lineups": 4,
+            "minutes": 316,
+            "number": 16,
+            "position": "Forward",
+            "rating": "7.43",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 3,
+            "out": 4,
+            "bench": 3
+          },
+          "shots": {
+            "total": 7,
+            "on": 6
+          },
+          "goals": {
+            "total": 2,
+            "conceded": 0,
+            "assists": 2,
+            "saves": null
+          },
+          "passes": {
+            "total": 183,
+            "key": 10,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 6,
+            "blocks": null,
+            "interceptions": 3
+          },
+          "duels": {
+            "total": 48,
+            "won": 28
+          },
+          "dribbles": {
+            "attempts": 16,
+            "success": 13,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 7,
+            "committed": 9
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 194945,
+        "name": "Octávio",
+        "firstname": "Octávio",
+        "lastname": "Cruz Manhães",
+        "age": 28,
+        "birth": {
+          "date": "1997-02-13",
+          "place": "Rio de Janeiro",
+          "country": "Brazil"
+        },
+        "nationality": "Brazil",
+        "height": null,
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/194945.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 13115,
+            "name": "Sampaio Corrêa RJ",
+            "logo": "https://media.api-sports.io/football/teams/13115.png"
+          },
+          "league": {
+            "id": 624,
+            "name": "Carioca - 1",
+            "country": "Brazil",
+            "logo": "https://media.api-sports.io/football/leagues/624.png",
+            "flag": "https://media.api-sports.io/flags/br.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 12,
+            "lineups": 12,
+            "minutes": 726,
+            "number": 11,
+            "position": "Midfielder",
+            "rating": "6.86",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 11,
+            "bench": 0
+          },
+          "shots": {
+            "total": 12,
+            "on": 6
+          },
+          "goals": {
+            "total": 2,
+            "conceded": 0,
+            "assists": 2,
+            "saves": null
+          },
+          "passes": {
+            "total": 203,
+            "key": 11,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 8,
+            "blocks": 0,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 69,
+            "won": 31
+          },
+          "dribbles": {
+            "attempts": 12,
+            "success": 5,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 5,
+            "committed": 13
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": 1,
+            "commited": null,
+            "scored": 1,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 10180,
+        "name": "Bruno Henrique",
+        "firstname": "Bruno Henrique",
+        "lastname": "Pinto",
+        "age": 35,
+        "birth": {
+          "date": "1990-12-30",
+          "place": "Belo Horizonte",
+          "country": "Brazil"
+        },
+        "nationality": "Brazil",
+        "height": "183",
+        "weight": "74",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/10180.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 127,
+            "name": "Flamengo",
+            "logo": "https://media.api-sports.io/football/teams/127.png"
+          },
+          "league": {
+            "id": 624,
+            "name": "Carioca - 1",
+            "country": "Brazil",
+            "logo": "https://media.api-sports.io/football/leagues/624.png",
+            "flag": "https://media.api-sports.io/flags/br.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 4,
+            "lineups": 2,
+            "minutes": 184,
+            "number": 27,
+            "position": "Attacker",
+            "rating": "7.18",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 2,
+            "bench": 2
+          },
+          "shots": {
+            "total": 8,
+            "on": 4
+          },
+          "goals": {
+            "total": 2,
+            "conceded": 0,
+            "assists": 2,
+            "saves": null
+          },
+          "passes": {
+            "total": 53,
+            "key": 6,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": null,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 28,
+            "won": 17
+          },
+          "dribbles": {
+            "attempts": 9,
+            "success": 4,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 5,
+            "committed": 4
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 1,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 404733,
+        "name": "Xandinho",
+        "firstname": "Alexandre Junio",
+        "lastname": "Santos da Silva",
+        "age": 28,
+        "birth": {
+          "date": "1997-04-29",
+          "place": null,
+          "country": "Brazil"
+        },
+        "nationality": "Brazil",
+        "height": "168",
+        "weight": "70",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/404733.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 7782,
+            "name": "Nova Iguaçu",
+            "logo": "https://media.api-sports.io/football/teams/7782.png"
+          },
+          "league": {
+            "id": 624,
+            "name": "Carioca - 1",
+            "country": "Brazil",
+            "logo": "https://media.api-sports.io/football/leagues/624.png",
+            "flag": "https://media.api-sports.io/flags/br.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 12,
+            "lineups": 12,
+            "minutes": 713,
+            "number": 7,
+            "position": "Midfielder",
+            "rating": "6.83",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 0
+          },
+          "shots": {
+            "total": 10,
+            "on": 4
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": 2,
+            "saves": null
+          },
+          "passes": {
+            "total": 199,
+            "key": 9,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 5,
+            "blocks": 1,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 85,
+            "won": 45
+          },
+          "dribbles": {
+            "attempts": 21,
+            "success": 14,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 23,
+            "committed": 11
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": 1,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 9418,
+        "name": "Guilherme Santos",
+        "firstname": "Guilherme",
+        "lastname": "Oliveira Santos",
+        "age": 37,
+        "birth": {
+          "date": "1988-02-05",
+          "place": "Jequié",
+          "country": "Brazil"
+        },
+        "nationality": "Brazil",
+        "height": "173 cm",
+        "weight": "77 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/9418.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 7835,
+            "name": "Portuguesa RJ",
+            "logo": "https://media.api-sports.io/football/teams/7835.png"
+          },
+          "league": {
+            "id": 624,
+            "name": "Carioca - 1",
+            "country": "Brazil",
+            "logo": "https://media.api-sports.io/football/leagues/624.png",
+            "flag": "https://media.api-sports.io/flags/br.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 12,
+            "lineups": 12,
+            "minutes": 906,
+            "number": 33,
+            "position": "Defender",
+            "rating": "6.99",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 0
+          },
+          "shots": {
+            "total": 3,
+            "on": 2
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": 2,
+            "saves": null
+          },
+          "passes": {
+            "total": 401,
+            "key": 12,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 5,
+            "blocks": 4,
+            "interceptions": 10
+          },
+          "duels": {
+            "total": 60,
+            "won": 28
+          },
+          "dribbles": {
+            "attempts": 9,
+            "success": 7,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 8,
+            "committed": 14
+          },
+          "cards": {
+            "yellow": 4,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 114627,
+        "name": "Luizinho",
+        "firstname": "Luiz Henrique",
+        "lastname": "Alves Angelo",
+        "age": 29,
+        "birth": {
+          "date": "1996-01-07",
+          "place": "São Paulo",
+          "country": "Brazil"
+        },
+        "nationality": "Brazil",
+        "height": "175",
+        "weight": "70",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/114627.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 7854,
+            "name": "Bangu",
+            "logo": "https://media.api-sports.io/football/teams/7854.png"
+          },
+          "league": {
+            "id": 624,
+            "name": "Carioca - 1",
+            "country": "Brazil",
+            "logo": "https://media.api-sports.io/football/leagues/624.png",
+            "flag": "https://media.api-sports.io/flags/br.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 8,
+            "lineups": 4,
+            "minutes": 470,
+            "number": 17,
+            "position": "Midfielder",
+            "rating": "6.77",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 4,
+            "out": 3,
+            "bench": 5
+          },
+          "shots": {
+            "total": 8,
+            "on": 5
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": 2,
+            "saves": null
+          },
+          "passes": {
+            "total": 151,
+            "key": 5,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 2,
+            "blocks": null,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 30,
+            "won": 15
+          },
+          "dribbles": {
+            "attempts": 8,
+            "success": 4,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 8,
+            "committed": 3
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 350433,
+        "name": "Wender",
+        "firstname": "Wender",
+        "lastname": "dos Santos Almeida",
+        "age": 27,
+        "birth": {
+          "date": "1998-07-04",
+          "place": null,
+          "country": "Brazil"
+        },
+        "nationality": "Brazil",
+        "height": null,
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/350433.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 7782,
+            "name": "Nova Iguaçu",
+            "logo": "https://media.api-sports.io/football/teams/7782.png"
+          },
+          "league": {
+            "id": 624,
+            "name": "Carioca - 1",
+            "country": "Brazil",
+            "logo": "https://media.api-sports.io/football/leagues/624.png",
+            "flag": "https://media.api-sports.io/flags/br.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 12,
+            "lineups": 12,
+            "minutes": 681,
+            "number": 3,
+            "position": "Defender",
+            "rating": "6.71",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 4,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 2,
+            "saves": null
+          },
+          "passes": {
+            "total": 288,
+            "key": 15,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 9,
+            "blocks": 3,
+            "interceptions": 3
+          },
+          "duels": {
+            "total": 74,
+            "won": 34
+          },
+          "dribbles": {
+            "attempts": 5,
+            "success": 2,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 8,
+            "committed": 14
+          },
+          "cards": {
+            "yellow": 3,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 50763,
+        "name": "L. Acosta",
+        "firstname": "Luciano Federico",
+        "lastname": "Acosta",
+        "age": 31,
+        "birth": {
+          "date": "1994-05-31",
+          "place": "Buenos Aires",
+          "country": "Argentina"
+        },
+        "nationality": "Argentina",
+        "height": "161",
+        "weight": "61",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/50763.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 124,
+            "name": "Fluminense",
+            "logo": "https://media.api-sports.io/football/teams/124.png"
+          },
+          "league": {
+            "id": 624,
+            "name": "Carioca - 1",
+            "country": "Brazil",
+            "logo": "https://media.api-sports.io/football/leagues/624.png",
+            "flag": "https://media.api-sports.io/flags/br.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 8,
+            "lineups": 4,
+            "minutes": 418,
+            "number": 32,
+            "position": "Midfielder",
+            "rating": "6.78",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 4,
+            "out": 3,
+            "bench": 4
+          },
+          "shots": {
+            "total": 7,
+            "on": 3
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 2,
+            "saves": null
+          },
+          "passes": {
+            "total": 172,
+            "key": 17,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 4,
+            "blocks": null,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 53,
+            "won": 19
+          },
+          "dribbles": {
+            "attempts": 4,
+            "success": 3,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 12,
+            "committed": 18
+          },
+          "cards": {
+            "yellow": 3,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 306059,
+        "name": "Caio Vitor",
+        "firstname": "Caio Vitor",
+        "lastname": "da Silva Souza",
+        "age": 25,
+        "birth": {
+          "date": "2000-08-18",
+          "place": "Angra dos Reis",
+          "country": "Brazil"
+        },
+        "nationality": "Brazil",
+        "height": "180",
+        "weight": "72",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/306059.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 14000,
+            "name": "CFRJ / Maricá",
+            "logo": "https://media.api-sports.io/football/teams/14000.png"
+          },
+          "league": {
+            "id": 624,
+            "name": "Carioca - 1",
+            "country": "Brazil",
+            "logo": "https://media.api-sports.io/football/leagues/624.png",
+            "flag": "https://media.api-sports.io/flags/br.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 8,
+            "lineups": 4,
+            "minutes": 478,
+            "number": 17,
+            "position": "Midfielder",
+            "rating": "6.63",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 4,
+            "out": 3,
+            "bench": 6
+          },
+          "shots": {
+            "total": 7,
+            "on": 1
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 2,
+            "saves": null
+          },
+          "passes": {
+            "total": 147,
+            "key": 8,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 11,
+            "blocks": 0,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 43,
+            "won": 22
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 9,
+            "committed": 8
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 54705,
+        "name": "Wagninho",
+        "firstname": "Luiz Wagner",
+        "lastname": "da Silva Costa",
+        "age": 25,
+        "birth": {
+          "date": "2000-04-27",
+          "place": "Cabo de Santo Agostinho",
+          "country": "Brazil"
+        },
+        "nationality": "Brazil",
+        "height": null,
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/54705.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 7814,
+            "name": "Volta Redonda",
+            "logo": "https://media.api-sports.io/football/teams/7814.png"
+          },
+          "league": {
+            "id": 624,
+            "name": "Carioca - 1",
+            "country": "Brazil",
+            "logo": "https://media.api-sports.io/football/leagues/624.png",
+            "flag": "https://media.api-sports.io/flags/br.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 8,
+            "lineups": 5,
+            "minutes": 524,
+            "number": 17,
+            "position": "Midfielder",
+            "rating": "6.77",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 3,
+            "out": 3,
+            "bench": 3
+          },
+          "shots": {
+            "total": 2,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 2,
+            "saves": null
+          },
+          "passes": {
+            "total": 217,
+            "key": 5,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 13,
+            "blocks": 1,
+            "interceptions": 8
+          },
+          "duels": {
+            "total": 74,
+            "won": 33
+          },
+          "dribbles": {
+            "attempts": 4,
+            "success": 3,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 7,
+            "committed": 21
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 351920,
+        "name": "J. Rojas",
+        "firstname": "Johan",
+        "lastname": "Rojas Echavarría",
+        "age": 23,
+        "birth": {
+          "date": "2002-09-20",
+          "place": "Medellín",
+          "country": "Colombia"
+        },
+        "nationality": "Colombia",
+        "height": "176",
+        "weight": "67",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/351920.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 133,
+            "name": "Vasco DA Gama",
+            "logo": "https://media.api-sports.io/football/teams/133.png"
+          },
+          "league": {
+            "id": 624,
+            "name": "Carioca - 1",
+            "country": "Brazil",
+            "logo": "https://media.api-sports.io/football/leagues/624.png",
+            "flag": "https://media.api-sports.io/flags/br.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 7,
+            "lineups": 4,
+            "minutes": 398,
+            "number": 29,
+            "position": "Attacker",
+            "rating": "7.04",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 3,
+            "out": 3,
+            "bench": 4
+          },
+          "shots": {
+            "total": 10,
+            "on": 4
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 2,
+            "saves": null
+          },
+          "passes": {
+            "total": 214,
+            "key": 12,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 5,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 42,
+            "won": 29
+          },
+          "dribbles": {
+            "attempts": 15,
+            "success": 10,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 11,
+            "committed": 4
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 316519,
+        "name": "F. Bernal",
+        "firstname": "Facundo",
+        "lastname": "Bernal Cruz",
+        "age": 22,
+        "birth": {
+          "date": "2003-08-21",
+          "place": "Montevideo",
+          "country": "Uruguay"
+        },
+        "nationality": "Uruguay",
+        "height": "189",
+        "weight": "80",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/316519.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 124,
+            "name": "Fluminense",
+            "logo": "https://media.api-sports.io/football/teams/124.png"
+          },
+          "league": {
+            "id": 624,
+            "name": "Carioca - 1",
+            "country": "Brazil",
+            "logo": "https://media.api-sports.io/football/leagues/624.png",
+            "flag": "https://media.api-sports.io/flags/br.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 4,
+            "lineups": 4,
+            "minutes": 334,
+            "number": 5,
+            "position": "Midfielder",
+            "rating": "6.78",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 2
+          },
+          "shots": {
+            "total": 5,
+            "on": 2
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 2,
+            "saves": null
+          },
+          "passes": {
+            "total": 165,
+            "key": 3,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 9,
+            "blocks": null,
+            "interceptions": 7
+          },
+          "duels": {
+            "total": 33,
+            "won": 17
+          },
+          "dribbles": {
+            "attempts": 5,
+            "success": 4,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 3,
+            "committed": 7
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 1
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    }
+  ]
+}

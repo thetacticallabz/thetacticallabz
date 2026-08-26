@@ -1,0 +1,490 @@
+{
+  "get": "players/topscorers",
+  "parameters": {
+    "league": "99",
+    "season": "2026"
+  },
+  "errors": [],
+  "results": 5,
+  "paging": {
+    "current": 1,
+    "total": 1
+  },
+  "response": [
+    {
+      "player": {
+        "id": 278724,
+        "name": "K. Safo",
+        "firstname": "Kinglord",
+        "lastname": "Safo",
+        "age": 24,
+        "birth": {
+          "date": "2002-01-09",
+          "place": null,
+          "country": "Ghana"
+        },
+        "nationality": "Ghana",
+        "height": "178",
+        "weight": "84",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/278724.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 279,
+            "name": "Consadole Sapporo",
+            "logo": "https://media.api-sports.io/football/teams/279.png"
+          },
+          "league": {
+            "id": 99,
+            "name": "J2 League",
+            "country": "Japan",
+            "logo": "https://media.api-sports.io/football/leagues/99.png",
+            "flag": "https://media.api-sports.io/flags/jp.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 13,
+            "lineups": null,
+            "minutes": null,
+            "number": null,
+            "position": "Forward",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": null,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 1,
+            "conceded": null,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": null,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 109397,
+        "name": "S. Kawasaki",
+        "firstname": "Shuhei",
+        "lastname": "Kawasaki",
+        "age": 25,
+        "birth": {
+          "date": "2001-04-28",
+          "place": "Kishiwada",
+          "country": "Japan"
+        },
+        "nationality": "Japan",
+        "height": "168",
+        "weight": "66",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/109397.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 7135,
+            "name": "Nara Club",
+            "logo": "https://media.api-sports.io/football/teams/7135.png"
+          },
+          "league": {
+            "id": 99,
+            "name": "J2 League",
+            "country": "Japan",
+            "logo": "https://media.api-sports.io/football/leagues/99.png",
+            "flag": "https://media.api-sports.io/flags/jp.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 11,
+            "lineups": null,
+            "minutes": null,
+            "number": null,
+            "position": "Forward",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": null,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 1,
+            "conceded": null,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": null,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 80330,
+        "name": "Pedro Augusto",
+        "firstname": "Pedro Augusto",
+        "lastname": "Borges da Costa",
+        "age": 29,
+        "birth": {
+          "date": "1997-03-03",
+          "place": "Ubá",
+          "country": "Brazil"
+        },
+        "nationality": "Brazil",
+        "height": "181",
+        "weight": "71",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/80330.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 7145,
+            "name": "Tochigi City",
+            "logo": "https://media.api-sports.io/football/teams/7145.png"
+          },
+          "league": {
+            "id": 99,
+            "name": "J2 League",
+            "country": "Japan",
+            "logo": "https://media.api-sports.io/football/leagues/99.png",
+            "flag": "https://media.api-sports.io/flags/jp.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 9,
+            "lineups": null,
+            "minutes": null,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": null,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 5,
+            "yellowred": null,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 658888,
+        "name": "Haruka Suzuki",
+        "firstname": "Haruka",
+        "lastname": "Suzuki",
+        "age": 22,
+        "birth": {
+          "date": "2004-02-21",
+          "place": null,
+          "country": "Japan"
+        },
+        "nationality": "Japan",
+        "height": null,
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/658888.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 300,
+            "name": "Kanazawa",
+            "logo": "https://media.api-sports.io/football/teams/300.png"
+          },
+          "league": {
+            "id": 99,
+            "name": "J2 League",
+            "country": "Japan",
+            "logo": "https://media.api-sports.io/football/leagues/99.png",
+            "flag": "https://media.api-sports.io/flags/jp.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": null,
+            "minutes": null,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": null,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": null,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 640817,
+        "name": "Taro Kagawa",
+        "firstname": "Taro",
+        "lastname": "Kagawa",
+        "age": 21,
+        "birth": {
+          "date": "2004-07-14",
+          "place": null,
+          "country": "Japan"
+        },
+        "nationality": "Japan",
+        "height": null,
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/640817.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 4322,
+            "name": "Kataller Toyama",
+            "logo": "https://media.api-sports.io/football/teams/4322.png"
+          },
+          "league": {
+            "id": 99,
+            "name": "J2 League",
+            "country": "Japan",
+            "logo": "https://media.api-sports.io/football/leagues/99.png",
+            "flag": "https://media.api-sports.io/flags/jp.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": null,
+            "minutes": null,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": null,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": null,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    }
+  ]
+}

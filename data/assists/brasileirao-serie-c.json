@@ -1,0 +1,1915 @@
+{
+  "get": "players/topassists",
+  "parameters": {
+    "league": "75",
+    "season": "2026"
+  },
+  "errors": [],
+  "results": 20,
+  "paging": {
+    "current": 1,
+    "total": 1
+  },
+  "response": [
+    {
+      "player": {
+        "id": 31033,
+        "name": "N. Schiappacasse",
+        "firstname": "Nicolás Javier",
+        "lastname": "Schiappacasse Oliva",
+        "age": 27,
+        "birth": {
+          "date": "1999-01-12",
+          "place": "Montevideo",
+          "country": "Uruguay"
+        },
+        "nationality": "Uruguay",
+        "height": "182 cm",
+        "weight": "78 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/31033.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 10862,
+            "name": "Amazonas",
+            "logo": "https://media.api-sports.io/football/teams/10862.png"
+          },
+          "league": {
+            "id": 75,
+            "name": "Serie C",
+            "country": "Brazil",
+            "logo": "https://media.api-sports.io/football/leagues/75.png",
+            "flag": "https://media.api-sports.io/flags/br.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 11,
+            "lineups": null,
+            "minutes": null,
+            "number": null,
+            "position": "Forward",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": null,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 3,
+            "conceded": null,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": null,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 306260,
+        "name": "Gui Pira",
+        "firstname": "Guilherme Henrique",
+        "lastname": "Silva Gonçalves",
+        "age": 26,
+        "birth": {
+          "date": "2000-07-07",
+          "place": "Piracicaba",
+          "country": "Brazil"
+        },
+        "nationality": "Brazil",
+        "height": "177",
+        "weight": "82",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/306260.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 7833,
+            "name": "Maringá",
+            "logo": "https://media.api-sports.io/football/teams/7833.png"
+          },
+          "league": {
+            "id": 75,
+            "name": "Serie C",
+            "country": "Brazil",
+            "logo": "https://media.api-sports.io/football/leagues/75.png",
+            "flag": "https://media.api-sports.io/flags/br.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 11,
+            "lineups": null,
+            "minutes": null,
+            "number": null,
+            "position": "Forward",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": null,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 3,
+            "conceded": null,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": null,
+            "red": 1
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 157038,
+        "name": "Ygor Catatau",
+        "firstname": "Ygor",
+        "lastname": "de Oliveira Ferreira",
+        "age": 31,
+        "birth": {
+          "date": "1995-07-01",
+          "place": "Rio de Janeiro",
+          "country": "Brazil"
+        },
+        "nationality": "Brazil",
+        "height": "183",
+        "weight": "79",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/157038.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 7814,
+            "name": "Volta Redonda",
+            "logo": "https://media.api-sports.io/football/teams/7814.png"
+          },
+          "league": {
+            "id": 75,
+            "name": "Serie C",
+            "country": "Brazil",
+            "logo": "https://media.api-sports.io/football/leagues/75.png",
+            "flag": "https://media.api-sports.io/flags/br.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 9,
+            "lineups": null,
+            "minutes": null,
+            "number": null,
+            "position": "Forward",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": null,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 3,
+            "conceded": null,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": null,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 69198,
+        "name": "Patrick",
+        "firstname": "Patrick",
+        "lastname": "Machado Ferreira",
+        "age": 27,
+        "birth": {
+          "date": "1998-11-23",
+          "place": "Porto Alegre",
+          "country": "Brazil"
+        },
+        "nationality": "Brazil",
+        "height": "175",
+        "weight": "65",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/69198.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 7772,
+            "name": "Confiança",
+            "logo": "https://media.api-sports.io/football/teams/7772.png"
+          },
+          "league": {
+            "id": 75,
+            "name": "Serie C",
+            "country": "Brazil",
+            "logo": "https://media.api-sports.io/football/leagues/75.png",
+            "flag": "https://media.api-sports.io/flags/br.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 13,
+            "lineups": null,
+            "minutes": null,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": null,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 2,
+            "conceded": null,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": null,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 401477,
+        "name": "A. Udeh",
+        "firstname": "Arinze Clinton",
+        "lastname": "Udeh",
+        "age": 24,
+        "birth": {
+          "date": "2002-12-25",
+          "place": "Orlu",
+          "country": "Nigeria"
+        },
+        "nationality": "Nigeria",
+        "height": "174",
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/401477.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 1211,
+            "name": "Brusque",
+            "logo": "https://media.api-sports.io/football/teams/1211.png"
+          },
+          "league": {
+            "id": 75,
+            "name": "Serie C",
+            "country": "Brazil",
+            "logo": "https://media.api-sports.io/football/leagues/75.png",
+            "flag": "https://media.api-sports.io/flags/br.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 11,
+            "lineups": null,
+            "minutes": null,
+            "number": null,
+            "position": "Forward",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": null,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 1,
+            "conceded": null,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": null,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 33094,
+        "name": "Maurício Antônio",
+        "firstname": "Maurício",
+        "lastname": "de Carvalho Antônio",
+        "age": 34,
+        "birth": {
+          "date": "1992-02-06",
+          "place": "São Paulo",
+          "country": "Brazil"
+        },
+        "nationality": "Brazil",
+        "height": "177",
+        "weight": "80",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/33094.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 138,
+            "name": "Guarani Campinas",
+            "logo": "https://media.api-sports.io/football/teams/138.png"
+          },
+          "league": {
+            "id": 75,
+            "name": "Serie C",
+            "country": "Brazil",
+            "logo": "https://media.api-sports.io/football/leagues/75.png",
+            "flag": "https://media.api-sports.io/flags/br.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 11,
+            "lineups": null,
+            "minutes": null,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": null,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 1,
+            "conceded": null,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 3,
+            "yellowred": null,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 54754,
+        "name": "Karl",
+        "firstname": "Karl",
+        "lastname": "Cachoeira Della Vedova Júnior",
+        "age": 33,
+        "birth": {
+          "date": "1993-04-07",
+          "place": "Tubarão",
+          "country": "Brazil"
+        },
+        "nationality": "Brazil",
+        "height": "182",
+        "weight": "74",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/54754.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 2204,
+            "name": "AO Itabaiana",
+            "logo": "https://media.api-sports.io/football/teams/2204.png"
+          },
+          "league": {
+            "id": 75,
+            "name": "Serie C",
+            "country": "Brazil",
+            "logo": "https://media.api-sports.io/football/leagues/75.png",
+            "flag": "https://media.api-sports.io/flags/br.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 11,
+            "lineups": null,
+            "minutes": null,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": null,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 1,
+            "conceded": null,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": null,
+            "red": 1
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 54460,
+        "name": "Ewerton",
+        "firstname": "Ewerton",
+        "lastname": "Ferreira da Silva",
+        "age": 28,
+        "birth": {
+          "date": "1998-05-07",
+          "place": "Santo Antônio",
+          "country": "Brazil"
+        },
+        "nationality": "Brazil",
+        "height": "190",
+        "weight": "80",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/54460.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 18271,
+            "name": "Barra",
+            "logo": "https://media.api-sports.io/football/teams/18271.png"
+          },
+          "league": {
+            "id": 75,
+            "name": "Serie C",
+            "country": "Brazil",
+            "logo": "https://media.api-sports.io/football/leagues/75.png",
+            "flag": "https://media.api-sports.io/flags/br.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 14,
+            "lineups": null,
+            "minutes": null,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": null,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": null,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 12915,
+        "name": "Henrique Dourado",
+        "firstname": "Jose Henrique",
+        "lastname": "da Silva Dourado",
+        "age": 36,
+        "birth": {
+          "date": "1989-09-15",
+          "place": "São Paulo",
+          "country": "Brazil"
+        },
+        "nationality": "Brazil",
+        "height": "186",
+        "weight": "80",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/12915.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 1197,
+            "name": "Botafogo PB",
+            "logo": "https://media.api-sports.io/football/teams/1197.png"
+          },
+          "league": {
+            "id": 75,
+            "name": "Serie C",
+            "country": "Brazil",
+            "logo": "https://media.api-sports.io/football/leagues/75.png",
+            "flag": "https://media.api-sports.io/flags/br.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 13,
+            "lineups": null,
+            "minutes": null,
+            "number": null,
+            "position": "Forward",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": null,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": null,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 352374,
+        "name": "Petterson",
+        "firstname": "Petterson",
+        "lastname": "Novaes Reis",
+        "age": 22,
+        "birth": {
+          "date": "2004-01-04",
+          "place": "Florianópolis",
+          "country": "Brazil"
+        },
+        "nationality": "Brazil",
+        "height": "181",
+        "weight": "75",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/352374.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 1211,
+            "name": "Brusque",
+            "logo": "https://media.api-sports.io/football/teams/1211.png"
+          },
+          "league": {
+            "id": 75,
+            "name": "Serie C",
+            "country": "Brazil",
+            "logo": "https://media.api-sports.io/football/leagues/75.png",
+            "flag": "https://media.api-sports.io/flags/br.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 13,
+            "lineups": null,
+            "minutes": null,
+            "number": null,
+            "position": "Forward",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": null,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 3,
+            "yellowred": null,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 152617,
+        "name": "Matheusinho",
+        "firstname": "Matheus",
+        "lastname": "Santos Soares",
+        "age": 27,
+        "birth": {
+          "date": "1998-07-29",
+          "place": "São Bernardo do Campo",
+          "country": "Brazil"
+        },
+        "nationality": "Brazil",
+        "height": "176",
+        "weight": "71",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/152617.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 7774,
+            "name": "Floresta",
+            "logo": "https://media.api-sports.io/football/teams/7774.png"
+          },
+          "league": {
+            "id": 75,
+            "name": "Serie C",
+            "country": "Brazil",
+            "logo": "https://media.api-sports.io/football/leagues/75.png",
+            "flag": "https://media.api-sports.io/flags/br.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 12,
+            "lineups": null,
+            "minutes": null,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": null,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": null,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 166726,
+        "name": "Gustavo Henrique",
+        "firstname": "Gustavo Henrique",
+        "lastname": "Alves Rodrigues",
+        "age": 27,
+        "birth": {
+          "date": "1999-05-24",
+          "place": "Edéia",
+          "country": "Brazil"
+        },
+        "nationality": "Brazil",
+        "height": "176 cm",
+        "weight": "71 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/166726.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 7852,
+            "name": "Anápolis",
+            "logo": "https://media.api-sports.io/football/teams/7852.png"
+          },
+          "league": {
+            "id": 75,
+            "name": "Serie C",
+            "country": "Brazil",
+            "logo": "https://media.api-sports.io/football/leagues/75.png",
+            "flag": "https://media.api-sports.io/flags/br.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 12,
+            "lineups": null,
+            "minutes": null,
+            "number": null,
+            "position": "Forward",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": null,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": null,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 26212,
+        "name": "Marcelo Freitas",
+        "firstname": "Marcelo",
+        "lastname": "de Freitas Costa",
+        "age": 32,
+        "birth": {
+          "date": "1994-06-01",
+          "place": "Engenheiro Coelho",
+          "country": "Brazil"
+        },
+        "nationality": "Brazil",
+        "height": "183",
+        "weight": "76",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/26212.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 7770,
+            "name": "Caxias",
+            "logo": "https://media.api-sports.io/football/teams/7770.png"
+          },
+          "league": {
+            "id": 75,
+            "name": "Serie C",
+            "country": "Brazil",
+            "logo": "https://media.api-sports.io/football/leagues/75.png",
+            "flag": "https://media.api-sports.io/flags/br.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 11,
+            "lineups": null,
+            "minutes": null,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": null,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": null,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 80252,
+        "name": "William Alves",
+        "firstname": "William Augusto",
+        "lastname": "Alves Conserva",
+        "age": 39,
+        "birth": {
+          "date": "1987-04-29",
+          "place": "Marília",
+          "country": "Brazil"
+        },
+        "nationality": "Brazil",
+        "height": "188",
+        "weight": "84",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/80252.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 753,
+            "name": "Santa Cruz",
+            "logo": "https://media.api-sports.io/football/teams/753.png"
+          },
+          "league": {
+            "id": 75,
+            "name": "Serie C",
+            "country": "Brazil",
+            "logo": "https://media.api-sports.io/football/leagues/75.png",
+            "flag": "https://media.api-sports.io/flags/br.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 11,
+            "lineups": null,
+            "minutes": null,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": null,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 5,
+            "yellowred": null,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 41244,
+        "name": "Jonatan Lucca",
+        "firstname": "Jonatan",
+        "lastname": "Lucca",
+        "age": 32,
+        "birth": {
+          "date": "1994-06-02",
+          "place": "Santa Maria",
+          "country": "Brazil"
+        },
+        "nationality": "Brazil",
+        "height": "184 cm",
+        "weight": "77 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/41244.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 1211,
+            "name": "Brusque",
+            "logo": "https://media.api-sports.io/football/teams/1211.png"
+          },
+          "league": {
+            "id": 75,
+            "name": "Serie C",
+            "country": "Brazil",
+            "logo": "https://media.api-sports.io/football/leagues/75.png",
+            "flag": "https://media.api-sports.io/flags/br.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 10,
+            "lineups": null,
+            "minutes": null,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": null,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": null,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 41363,
+        "name": "Dener",
+        "firstname": "Dener",
+        "lastname": "Gomes Clemente",
+        "age": 34,
+        "birth": {
+          "date": "1992-03-13",
+          "place": "São Paulo",
+          "country": "Brazil"
+        },
+        "nationality": "Brazil",
+        "height": "185",
+        "weight": "81",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/41363.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 7814,
+            "name": "Volta Redonda",
+            "logo": "https://media.api-sports.io/football/teams/7814.png"
+          },
+          "league": {
+            "id": 75,
+            "name": "Serie C",
+            "country": "Brazil",
+            "logo": "https://media.api-sports.io/football/leagues/75.png",
+            "flag": "https://media.api-sports.io/flags/br.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 10,
+            "lineups": null,
+            "minutes": null,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": null,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": null,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 126935,
+        "name": "Arthur Henrique",
+        "firstname": "Arthur Henrique",
+        "lastname": "Peixoto Santos",
+        "age": 32,
+        "birth": {
+          "date": "1994-05-17",
+          "place": "São Paulo",
+          "country": "Brazil"
+        },
+        "nationality": "Brazil",
+        "height": "176",
+        "weight": "68",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/126935.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 137,
+            "name": "Figueirense",
+            "logo": "https://media.api-sports.io/football/teams/137.png"
+          },
+          "league": {
+            "id": 75,
+            "name": "Serie C",
+            "country": "Brazil",
+            "logo": "https://media.api-sports.io/football/leagues/75.png",
+            "flag": "https://media.api-sports.io/flags/br.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 10,
+            "lineups": null,
+            "minutes": null,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": null,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 3,
+            "yellowred": null,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 9291,
+        "name": "Marcelinho",
+        "firstname": "Marcelo Antônio",
+        "lastname": "de Oliveira",
+        "age": 30,
+        "birth": {
+          "date": "1996-07-17",
+          "place": "Cascavel",
+          "country": "Brazil"
+        },
+        "nationality": "Brazil",
+        "height": "176",
+        "weight": "71",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/9291.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 1221,
+            "name": "Ypiranga-RS",
+            "logo": "https://media.api-sports.io/football/teams/1221.png"
+          },
+          "league": {
+            "id": 75,
+            "name": "Serie C",
+            "country": "Brazil",
+            "logo": "https://media.api-sports.io/football/leagues/75.png",
+            "flag": "https://media.api-sports.io/flags/br.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 8,
+            "lineups": null,
+            "minutes": null,
+            "number": null,
+            "position": "Forward",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": null,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": null,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 311394,
+        "name": "Gabriel Souza",
+        "firstname": "Gabriel",
+        "lastname": "Gonçalves de Souza",
+        "age": 21,
+        "birth": {
+          "date": "2004-08-03",
+          "place": "Vila Velha",
+          "country": "Brazil"
+        },
+        "nationality": "Brazil",
+        "height": "193",
+        "weight": "83",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/311394.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 753,
+            "name": "Santa Cruz",
+            "logo": "https://media.api-sports.io/football/teams/753.png"
+          },
+          "league": {
+            "id": 75,
+            "name": "Serie C",
+            "country": "Brazil",
+            "logo": "https://media.api-sports.io/football/leagues/75.png",
+            "flag": "https://media.api-sports.io/flags/br.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 8,
+            "lineups": null,
+            "minutes": null,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": null,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": null,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 288287,
+        "name": "Ryan",
+        "firstname": "Ryan Carlos",
+        "lastname": "Santos de Sousa",
+        "age": 24,
+        "birth": {
+          "date": "2002-05-14",
+          "place": "Diadema",
+          "country": "Brazil"
+        },
+        "nationality": "Brazil",
+        "height": "172",
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/288287.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 137,
+            "name": "Figueirense",
+            "logo": "https://media.api-sports.io/football/teams/137.png"
+          },
+          "league": {
+            "id": 75,
+            "name": "Serie C",
+            "country": "Brazil",
+            "logo": "https://media.api-sports.io/football/leagues/75.png",
+            "flag": "https://media.api-sports.io/flags/br.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 6,
+            "lineups": null,
+            "minutes": null,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": null,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": null,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    }
+  ]
+}

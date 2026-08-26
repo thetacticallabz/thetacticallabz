@@ -1,0 +1,300 @@
+{
+  "get": "players/topscorers",
+  "parameters": {
+    "league": "299",
+    "season": "2026"
+  },
+  "errors": [],
+  "results": 3,
+  "paging": {
+    "current": 1,
+    "total": 1
+  },
+  "response": [
+    {
+      "player": {
+        "id": 52515,
+        "name": "E. Farías",
+        "firstname": "Edder José",
+        "lastname": "Farías Martínez",
+        "age": 38,
+        "birth": {
+          "date": "1988-04-12",
+          "place": "Maturín",
+          "country": "Venezuela"
+        },
+        "nationality": "Venezuela",
+        "height": "184",
+        "weight": "83",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/52515.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 2811,
+            "name": "Monagas SC",
+            "logo": "https://media.api-sports.io/football/teams/2811.png"
+          },
+          "league": {
+            "id": 299,
+            "name": "Primera División",
+            "country": "Venezuela",
+            "logo": "https://media.api-sports.io/football/leagues/299.png",
+            "flag": "https://media.api-sports.io/flags/ve.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 7,
+            "lineups": null,
+            "minutes": null,
+            "number": null,
+            "position": "Forward",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": null,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 2,
+            "conceded": null,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": null,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 61365,
+        "name": "E. Ramírez",
+        "firstname": "Eric Kleybel",
+        "lastname": "Ramírez Matheus",
+        "age": 27,
+        "birth": {
+          "date": "1998-11-20",
+          "place": "Barinas",
+          "country": "Venezuela"
+        },
+        "nationality": "Venezuela",
+        "height": "190",
+        "weight": "85",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/61365.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 2810,
+            "name": "Carabobo FC",
+            "logo": "https://media.api-sports.io/football/teams/2810.png"
+          },
+          "league": {
+            "id": 299,
+            "name": "Primera División",
+            "country": "Venezuela",
+            "logo": "https://media.api-sports.io/football/leagues/299.png",
+            "flag": "https://media.api-sports.io/flags/ve.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 4,
+            "lineups": null,
+            "minutes": null,
+            "number": null,
+            "position": "Forward",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": null,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 2,
+            "conceded": null,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": null,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 52707,
+        "name": "J. Vargas",
+        "firstname": "Jefre José",
+        "lastname": "Vargas Belisario",
+        "age": 31,
+        "birth": {
+          "date": "1995-01-12",
+          "place": "Caracas",
+          "country": "Venezuela"
+        },
+        "nationality": "Venezuela",
+        "height": "180",
+        "weight": "70",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/52707.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 2827,
+            "name": "Puerto Cabello",
+            "logo": "https://media.api-sports.io/football/teams/2827.png"
+          },
+          "league": {
+            "id": 299,
+            "name": "Primera División",
+            "country": "Venezuela",
+            "logo": "https://media.api-sports.io/football/leagues/299.png",
+            "flag": "https://media.api-sports.io/flags/ve.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 9,
+            "lineups": null,
+            "minutes": null,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": null,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 1,
+            "conceded": null,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 3,
+            "yellowred": null,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    }
+  ]
+}

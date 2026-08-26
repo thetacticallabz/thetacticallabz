@@ -1,0 +1,300 @@
+{
+  "get": "players/topscorers",
+  "parameters": {
+    "league": "865",
+    "season": "2026"
+  },
+  "errors": [],
+  "results": 3,
+  "paging": {
+    "current": 1,
+    "total": 1
+  },
+  "response": [
+    {
+      "player": {
+        "id": 279274,
+        "name": "Bernardo Lourenço",
+        "firstname": "Bernardo José",
+        "lastname": "Almeida Lourenço",
+        "age": 23,
+        "birth": {
+          "date": "2002-08-21",
+          "place": "Soure",
+          "country": "Portugal"
+        },
+        "nationality": "Portugal",
+        "height": "179",
+        "weight": "70",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/279274.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 4872,
+            "name": "Atlético CP",
+            "logo": "https://media.api-sports.io/football/teams/4872.png"
+          },
+          "league": {
+            "id": 865,
+            "name": "Liga 3",
+            "country": "Portugal",
+            "logo": "https://media.api-sports.io/football/leagues/865.png",
+            "flag": "https://media.api-sports.io/flags/pt.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": null,
+            "minutes": null,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": null,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": null,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 451933,
+        "name": "E. Opara",
+        "firstname": "Ejike Julius",
+        "lastname": "Opara",
+        "age": 21,
+        "birth": {
+          "date": "2005-07-05",
+          "place": "Lagos",
+          "country": "Nigeria"
+        },
+        "nationality": "Nigeria",
+        "height": null,
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/451933.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 232,
+            "name": "Guimaraes B",
+            "logo": "https://media.api-sports.io/football/teams/232.png"
+          },
+          "league": {
+            "id": 865,
+            "name": "Liga 3",
+            "country": "Portugal",
+            "logo": "https://media.api-sports.io/football/leagues/865.png",
+            "flag": "https://media.api-sports.io/flags/pt.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": null,
+            "minutes": null,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": null,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": null,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 525382,
+        "name": "Kauan Gomes",
+        "firstname": "Kauan",
+        "lastname": "de Souza Gomes",
+        "age": 21,
+        "birth": {
+          "date": "2005-04-26",
+          "place": "Rio de Janeiro",
+          "country": "Brazil"
+        },
+        "nationality": "Brazil",
+        "height": null,
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/525382.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 236,
+            "name": "SC Covilha",
+            "logo": "https://media.api-sports.io/football/teams/236.png"
+          },
+          "league": {
+            "id": 865,
+            "name": "Liga 3",
+            "country": "Portugal",
+            "logo": "https://media.api-sports.io/football/leagues/865.png",
+            "flag": "https://media.api-sports.io/flags/pt.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": null,
+            "minutes": null,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": null,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": null,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    }
+  ]
+}

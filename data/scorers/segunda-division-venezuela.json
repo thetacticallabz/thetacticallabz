@@ -1,0 +1,110 @@
+{
+  "get": "players/topscorers",
+  "parameters": {
+    "league": "300",
+    "season": "2026"
+  },
+  "errors": [],
+  "results": 1,
+  "paging": {
+    "current": 1,
+    "total": 1
+  },
+  "response": [
+    {
+      "player": {
+        "id": 656744,
+        "name": "Yonder Guevara",
+        "firstname": "Yonder",
+        "lastname": "Guevara",
+        "age": 24,
+        "birth": {
+          "date": "2002-04-09",
+          "place": null,
+          "country": "Venezuela"
+        },
+        "nationality": "Venezuela",
+        "height": null,
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/656744.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 2841,
+            "name": "Zamora FC B",
+            "logo": "https://media.api-sports.io/football/teams/2841.png"
+          },
+          "league": {
+            "id": 300,
+            "name": "Segunda División",
+            "country": "Venezuela",
+            "logo": "https://media.api-sports.io/football/leagues/300.png",
+            "flag": "https://media.api-sports.io/flags/ve.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": null,
+            "minutes": null,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": null,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 1,
+            "conceded": null,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": null,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    }
+  ]
+}

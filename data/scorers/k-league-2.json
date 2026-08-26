@@ -1,0 +1,1725 @@
+{
+  "get": "players/topscorers",
+  "parameters": {
+    "league": "293",
+    "season": "2026"
+  },
+  "errors": [],
+  "results": 18,
+  "paging": {
+    "current": 1,
+    "total": 1
+  },
+  "response": [
+    {
+      "player": {
+        "id": 34476,
+        "name": "Edgar",
+        "firstname": "Edgar Bruno",
+        "lastname": "da Silva",
+        "age": 39,
+        "birth": {
+          "date": "1987-01-03",
+          "place": "São Carlos",
+          "country": "Brazil"
+        },
+        "nationality": "Brazil",
+        "height": "191",
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/34476.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 2747,
+            "name": "Daegu FC",
+            "logo": "https://media.api-sports.io/football/teams/2747.png"
+          },
+          "league": {
+            "id": 293,
+            "name": "K League 2",
+            "country": "South-Korea",
+            "logo": "https://media.api-sports.io/football/leagues/293.png",
+            "flag": "https://media.api-sports.io/flags/kr.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 11,
+            "lineups": null,
+            "minutes": null,
+            "number": null,
+            "position": "Forward",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": null,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 6,
+            "conceded": null,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": null,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 34144,
+        "name": "Willyan",
+        "firstname": "Willyan",
+        "lastname": "da Silva Barbosa",
+        "age": 32,
+        "birth": {
+          "date": "1994-02-17",
+          "place": "Belo Monte",
+          "country": "Brazil"
+        },
+        "nationality": "Brazil",
+        "height": "169",
+        "weight": "62",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/34144.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 2756,
+            "name": "Suwon City FC",
+            "logo": "https://media.api-sports.io/football/teams/2756.png"
+          },
+          "league": {
+            "id": 293,
+            "name": "K League 2",
+            "country": "South-Korea",
+            "logo": "https://media.api-sports.io/football/leagues/293.png",
+            "flag": "https://media.api-sports.io/flags/kr.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 9,
+            "lineups": null,
+            "minutes": null,
+            "number": null,
+            "position": "Forward",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": null,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 5,
+            "conceded": null,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": null,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 41215,
+        "name": "Bruno Lamas",
+        "firstname": "Bruno José",
+        "lastname": "Pavan Lamas",
+        "age": 32,
+        "birth": {
+          "date": "1994-04-13",
+          "place": "São José do Rio Preto",
+          "country": "Brazil"
+        },
+        "nationality": "Brazil",
+        "height": "176",
+        "weight": "78",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/41215.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 7060,
+            "name": "Cheonan City",
+            "logo": "https://media.api-sports.io/football/teams/7060.png"
+          },
+          "league": {
+            "id": 293,
+            "name": "K League 2",
+            "country": "South-Korea",
+            "logo": "https://media.api-sports.io/football/leagues/293.png",
+            "flag": "https://media.api-sports.io/flags/kr.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 12,
+            "lineups": null,
+            "minutes": null,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": null,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 4,
+            "conceded": null,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": null,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 22018,
+        "name": "Suk Hyun-Jun",
+        "firstname": "Hyun-Jun",
+        "lastname": "Suk",
+        "age": 34,
+        "birth": {
+          "date": "1991-06-29",
+          "place": "Chungju",
+          "country": "Korea Republic"
+        },
+        "nationality": "Korea Republic",
+        "height": "190 cm",
+        "weight": "82 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/22018.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 9171,
+            "name": "Yongin City",
+            "logo": "https://media.api-sports.io/football/teams/9171.png"
+          },
+          "league": {
+            "id": 293,
+            "name": "K League 2",
+            "country": "South-Korea",
+            "logo": "https://media.api-sports.io/football/leagues/293.png",
+            "flag": "https://media.api-sports.io/flags/kr.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 11,
+            "lineups": null,
+            "minutes": null,
+            "number": null,
+            "position": "Forward",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": null,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 3,
+            "conceded": null,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": null,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 41195,
+        "name": "Ronan",
+        "firstname": "Ronan David",
+        "lastname": "Jerônimo",
+        "age": 31,
+        "birth": {
+          "date": "1995-04-22",
+          "place": "Piraúba",
+          "country": "Brazil"
+        },
+        "nationality": "Brazil",
+        "height": "195 cm",
+        "weight": "88 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/41195.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 2760,
+            "name": "Jeonnam Dragons",
+            "logo": "https://media.api-sports.io/football/teams/2760.png"
+          },
+          "league": {
+            "id": 293,
+            "name": "K League 2",
+            "country": "South-Korea",
+            "logo": "https://media.api-sports.io/football/leagues/293.png",
+            "flag": "https://media.api-sports.io/flags/kr.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 10,
+            "lineups": null,
+            "minutes": null,
+            "number": null,
+            "position": "Forward",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": null,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 2,
+            "conceded": null,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": null,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 303441,
+        "name": "Choi Kang-min",
+        "firstname": "Kang-min",
+        "lastname": "Choi",
+        "age": 24,
+        "birth": {
+          "date": "2002-04-24",
+          "place": null,
+          "country": "Korea Republic"
+        },
+        "nationality": "Korea Republic",
+        "height": "176",
+        "weight": "70",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/303441.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 2747,
+            "name": "Daegu FC",
+            "logo": "https://media.api-sports.io/football/teams/2747.png"
+          },
+          "league": {
+            "id": 293,
+            "name": "K League 2",
+            "country": "South-Korea",
+            "logo": "https://media.api-sports.io/football/leagues/293.png",
+            "flag": "https://media.api-sports.io/flags/kr.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 5,
+            "lineups": null,
+            "minutes": null,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": null,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 1,
+            "conceded": null,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": null,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 644908,
+        "name": "Hye-seong Kim",
+        "firstname": "Hye-seong",
+        "lastname": "Kim",
+        "age": 29,
+        "birth": {
+          "date": "1996-04-11",
+          "place": null,
+          "country": "South Korea"
+        },
+        "nationality": "South Korea",
+        "height": null,
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/644908.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 2753,
+            "name": "Asan Mugunghwa",
+            "logo": "https://media.api-sports.io/football/teams/2753.png"
+          },
+          "league": {
+            "id": 293,
+            "name": "K League 2",
+            "country": "South-Korea",
+            "logo": "https://media.api-sports.io/football/leagues/293.png",
+            "flag": "https://media.api-sports.io/flags/kr.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": null,
+            "minutes": null,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": null,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 1,
+            "conceded": null,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": null,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 379,
+        "name": "Bruno Costa",
+        "firstname": "Bruno Xavier",
+        "lastname": "Almeida Costa",
+        "age": 29,
+        "birth": {
+          "date": "1997-04-19",
+          "place": "Oliveira de Azeméis",
+          "country": "Portugal"
+        },
+        "nationality": "Portugal",
+        "height": "174 cm",
+        "weight": "65 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/379.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 7076,
+            "name": "Gimhae City",
+            "logo": "https://media.api-sports.io/football/teams/7076.png"
+          },
+          "league": {
+            "id": 293,
+            "name": "K League 2",
+            "country": "South-Korea",
+            "logo": "https://media.api-sports.io/football/leagues/293.png",
+            "flag": "https://media.api-sports.io/flags/kr.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 10,
+            "lineups": null,
+            "minutes": null,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": null,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": null,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 159718,
+        "name": "Matheus Babi",
+        "firstname": "Matheus",
+        "lastname": "Barcelos da Silva",
+        "age": 28,
+        "birth": {
+          "date": "1997-07-18",
+          "place": "Macaé",
+          "country": "Brazil"
+        },
+        "nationality": "Brazil",
+        "height": "191",
+        "weight": "78",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/159718.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 2756,
+            "name": "Suwon City FC",
+            "logo": "https://media.api-sports.io/football/teams/2756.png"
+          },
+          "league": {
+            "id": 293,
+            "name": "K League 2",
+            "country": "South-Korea",
+            "logo": "https://media.api-sports.io/football/leagues/293.png",
+            "flag": "https://media.api-sports.io/flags/kr.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 7,
+            "lineups": null,
+            "minutes": null,
+            "number": null,
+            "position": "Forward",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": null,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": null,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 2904,
+        "name": "Kim Jung-Min",
+        "firstname": "Jung-Min",
+        "lastname": "Kim",
+        "age": 26,
+        "birth": {
+          "date": "1999-11-13",
+          "place": "Incheon",
+          "country": "Korea Republic"
+        },
+        "nationality": "Korea Republic",
+        "height": "184",
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/2904.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 7087,
+            "name": "Hwaseong",
+            "logo": "https://media.api-sports.io/football/teams/7087.png"
+          },
+          "league": {
+            "id": 293,
+            "name": "K League 2",
+            "country": "South-Korea",
+            "logo": "https://media.api-sports.io/football/leagues/293.png",
+            "flag": "https://media.api-sports.io/flags/kr.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 5,
+            "lineups": null,
+            "minutes": null,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": null,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": null,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 41562,
+        "name": "Walterson",
+        "firstname": "Walterson",
+        "lastname": "Silva",
+        "age": 31,
+        "birth": {
+          "date": "1994-12-28",
+          "place": "São Gotardo",
+          "country": "Brazil"
+        },
+        "nationality": "Brazil",
+        "height": "180",
+        "weight": "72",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/41562.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 7098,
+            "name": "Paju Citizen",
+            "logo": "https://media.api-sports.io/football/teams/7098.png"
+          },
+          "league": {
+            "id": 293,
+            "name": "K League 2",
+            "country": "South-Korea",
+            "logo": "https://media.api-sports.io/football/leagues/293.png",
+            "flag": "https://media.api-sports.io/flags/kr.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 4,
+            "lineups": null,
+            "minutes": null,
+            "number": null,
+            "position": "Forward",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": null,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": null,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 1487,
+        "name": "Francisco Geraldes",
+        "firstname": "Francisco",
+        "lastname": "de Oliveira Geraldes",
+        "age": 31,
+        "birth": {
+          "date": "1995-04-18",
+          "place": "Lisboa",
+          "country": "Portugal"
+        },
+        "nationality": "Portugal",
+        "height": "171",
+        "weight": "66",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/1487.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 2749,
+            "name": "Seoul E-Land FC",
+            "logo": "https://media.api-sports.io/football/teams/2749.png"
+          },
+          "league": {
+            "id": 293,
+            "name": "K League 2",
+            "country": "South-Korea",
+            "logo": "https://media.api-sports.io/football/leagues/293.png",
+            "flag": "https://media.api-sports.io/flags/kr.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 3,
+            "lineups": null,
+            "minutes": null,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": null,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": null,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 182768,
+        "name": "Jardel",
+        "firstname": "Esmiraldo",
+        "lastname": "Sá da Silva",
+        "age": 28,
+        "birth": {
+          "date": "1997-09-20",
+          "place": "Bissau",
+          "country": "Guinea-Bissau"
+        },
+        "nationality": "Guinea-Bissau",
+        "height": "184",
+        "weight": "82",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/182768.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 9171,
+            "name": "Yongin City",
+            "logo": "https://media.api-sports.io/football/teams/9171.png"
+          },
+          "league": {
+            "id": 293,
+            "name": "K League 2",
+            "country": "South-Korea",
+            "logo": "https://media.api-sports.io/football/leagues/293.png",
+            "flag": "https://media.api-sports.io/flags/kr.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": null,
+            "minutes": null,
+            "number": null,
+            "position": "Forward",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": null,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": null,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 319944,
+        "name": "Geovani",
+        "firstname": "Geovani",
+        "lastname": "Reis Nascimento Júnior",
+        "age": 25,
+        "birth": {
+          "date": "2001-05-15",
+          "place": "Marabá",
+          "country": "Brazil"
+        },
+        "nationality": "Brazil",
+        "height": "181",
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/319944.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 2747,
+            "name": "Daegu FC",
+            "logo": "https://media.api-sports.io/football/teams/2747.png"
+          },
+          "league": {
+            "id": 293,
+            "name": "K League 2",
+            "country": "South-Korea",
+            "logo": "https://media.api-sports.io/football/leagues/293.png",
+            "flag": "https://media.api-sports.io/flags/kr.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": null,
+            "minutes": null,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": null,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": null,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 644909,
+        "name": "Seung-ik Roh",
+        "firstname": "Seung-ik",
+        "lastname": "Roh",
+        "age": 21,
+        "birth": {
+          "date": "2004-07-26",
+          "place": null,
+          "country": "South Korea"
+        },
+        "nationality": "South Korea",
+        "height": null,
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/644909.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 7098,
+            "name": "Paju Citizen",
+            "logo": "https://media.api-sports.io/football/teams/7098.png"
+          },
+          "league": {
+            "id": 293,
+            "name": "K League 2",
+            "country": "South-Korea",
+            "logo": "https://media.api-sports.io/football/leagues/293.png",
+            "flag": "https://media.api-sports.io/flags/kr.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": null,
+            "minutes": null,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": null,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": null,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 644910,
+        "name": "Jae-jun You",
+        "firstname": "Jae-jun",
+        "lastname": "You",
+        "age": 21,
+        "birth": {
+          "date": "2004-09-01",
+          "place": null,
+          "country": "South Korea"
+        },
+        "nationality": "South Korea",
+        "height": null,
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/644910.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 7098,
+            "name": "Paju Citizen",
+            "logo": "https://media.api-sports.io/football/teams/7098.png"
+          },
+          "league": {
+            "id": 293,
+            "name": "K League 2",
+            "country": "South-Korea",
+            "logo": "https://media.api-sports.io/football/leagues/293.png",
+            "flag": "https://media.api-sports.io/flags/kr.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": null,
+            "minutes": null,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": null,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": null,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 644911,
+        "name": "Min-seung Kim",
+        "firstname": "Min-seung",
+        "lastname": "Kim",
+        "age": 21,
+        "birth": {
+          "date": "2005-02-09",
+          "place": null,
+          "country": "South Korea"
+        },
+        "nationality": "South Korea",
+        "height": null,
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/644911.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 7098,
+            "name": "Paju Citizen",
+            "logo": "https://media.api-sports.io/football/teams/7098.png"
+          },
+          "league": {
+            "id": 293,
+            "name": "K League 2",
+            "country": "South-Korea",
+            "logo": "https://media.api-sports.io/football/leagues/293.png",
+            "flag": "https://media.api-sports.io/flags/kr.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": null,
+            "minutes": null,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": null,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": null,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 644912,
+        "name": "Min-Sung Kim",
+        "firstname": "Min-Sung",
+        "lastname": "Kim",
+        "age": 25,
+        "birth": {
+          "date": "2000-05-11",
+          "place": null,
+          "country": "South Korea"
+        },
+        "nationality": "South Korea",
+        "height": null,
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/644912.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 7098,
+            "name": "Paju Citizen",
+            "logo": "https://media.api-sports.io/football/teams/7098.png"
+          },
+          "league": {
+            "id": 293,
+            "name": "K League 2",
+            "country": "South-Korea",
+            "logo": "https://media.api-sports.io/football/leagues/293.png",
+            "flag": "https://media.api-sports.io/flags/kr.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": null,
+            "minutes": null,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": null,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": null,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    }
+  ]
+}
