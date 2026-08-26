@@ -1,22 +1,43 @@
 ---
+import { getCollection } from 'astro:content';
 import BaseLayout from '../../../layouts/BaseLayout.astro';
-import { todasLasLigasConEquipos } from '../../../lib/datos.js';
+import { todasLasLigasConEquipos, slugify } from '../../../lib/datos.js';
 
 export async function getStaticPaths() {
   const ligas = await todasLasLigasConEquipos();
+
+  // Artículos publicados, indexados por el slug de cada equipo que mencionan,
+  // para poder mostrarlos en la ficha correspondiente.
+  const articulos = (await getCollection('articulos', ({ data }) => !data.draft)).sort(
+    (a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
+  );
+  const porEquipo = new Map();
+  for (const art of articulos) {
+    for (const nombreEquipo of art.data.equipos ?? []) {
+      const clave = slugify(nombreEquipo);
+      if (!porEquipo.has(clave)) porEquipo.set(clave, []);
+      porEquipo.get(clave).push({
+        titulo: art.data.title,
+        descripcion: art.data.description,
+        fecha: art.data.pubDate.toISOString(),
+        url: `/articulos/${art.slug}`,
+      });
+    }
+  }
+
   const rutas = [];
   for (const { liga, equipos } of ligas) {
     for (const equipo of equipos) {
       rutas.push({
         params: { liga: liga.slug, equipo: equipo.slug },
-        props: { liga, equipo },
+        props: { liga, equipo, articulos: porEquipo.get(equipo.slug) ?? [] },
       });
     }
   }
   return rutas;
 }
 
-const { liga, equipo } = Astro.props;
+const { liga, equipo, articulos } = Astro.props;
 
 const fmtFecha = (iso: string) =>
   new Date(iso).toLocaleDateString('es-ES', { day: 'numeric', month: 'short' });
@@ -218,6 +239,24 @@ const structuredData = {
     </section>
   )}
 
+  {articulos.length > 0 && (
+    <section class="bloque">
+      <h2>Lo que hemos escrito sobre este equipo</h2>
+      <ul class="articulos-equipo">
+        {
+          articulos.map((a: any) => (
+            <li>
+              <a href={a.url}>
+                <span class="titulo-art">{a.titulo}</span>
+                <span class="muted desc-art">{a.descripcion}</span>
+              </a>
+            </li>
+          ))
+        }
+      </ul>
+    </section>
+  )}
+
   <nav class="volver">
     <a href={`/datos/${liga.slug}/clasificacion`}>← Clasificación de {liga.nombre}</a>
   </nav>
@@ -412,6 +451,40 @@ const structuredData = {
   }
 
   .fila-etiqueta { font-weight: 600; }
+
+  .articulos-equipo {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 0.75rem;
+  }
+
+  .articulos-equipo a {
+    display: block;
+    background: var(--color-bg-elevated);
+    border: 1px solid var(--color-border);
+    border-radius: 0.5rem;
+    padding: 0.9rem 1.1rem;
+    text-decoration: none;
+    color: inherit;
+    transition: border-color 0.15s ease;
+  }
+
+  .articulos-equipo a:hover { border-color: var(--color-accent); }
+
+  .titulo-art {
+    display: block;
+    font-weight: 600;
+    margin-bottom: 0.25rem;
+  }
+
+  .desc-art {
+    display: block;
+    font-size: 0.88rem;
+    line-height: 1.5;
+  }
 
   .volver {
     margin: 3rem 0 4rem;

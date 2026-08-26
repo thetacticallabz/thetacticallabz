@@ -138,3 +138,43 @@ export async function todasLasLigasConEquipos() {
   }
   return resultado;
 }
+
+/**
+ * Índice global de equipos: slug del equipo -> TODAS las fichas con ese nombre.
+ * Devuelve una lista porque un mismo nombre puede existir en varias ligas
+ * (el Nacional uruguayo y el portugués, o un equipo que aparece en primera y
+ * en segunda). Quien consulta el índice decide cuál quiere.
+ */
+export async function indiceDeEquipos() {
+  const indice = new Map();
+  for (const { liga, equipos } of await todasLasLigasConEquipos()) {
+    for (const equipo of equipos) {
+      if (!indice.has(equipo.slug)) indice.set(equipo.slug, []);
+      indice.get(equipo.slug).push({
+        nombre: equipo.nombre,
+        logo: equipo.logo,
+        ligaSlug: liga.slug,
+        ligaNombre: liga.nombre,
+        url: `/equipos/${liga.slug}/${equipo.slug}`,
+      });
+    }
+  }
+  return indice;
+}
+
+/**
+ * Elige la ficha correcta entre varias candidatas: si el artículo declara una
+ * liga, gana la de esa liga; si no, la primera según el orden de la
+ * configuración.
+ */
+export function elegirFicha(candidatas, ligaDelArticulo) {
+  if (!candidatas || candidatas.length === 0) return null;
+  if (ligaDelArticulo) {
+    const objetivo = slugify(ligaDelArticulo);
+    const exacta = candidatas.find(
+      (c) => slugify(c.ligaNombre) === objetivo || c.ligaSlug === objetivo
+    );
+    if (exacta) return exacta;
+  }
+  return candidatas[0];
+}
