@@ -1,0 +1,1915 @@
+{
+  "get": "players/topassists",
+  "parameters": {
+    "league": "136",
+    "season": "2026"
+  },
+  "errors": [],
+  "results": 20,
+  "paging": {
+    "current": 1,
+    "total": 1
+  },
+  "response": [
+    {
+      "player": {
+        "id": 341974,
+        "name": "T. Corazza",
+        "firstname": "Tommaso",
+        "lastname": "Corazza",
+        "age": 21,
+        "birth": {
+          "date": "2004-06-29",
+          "place": "Bologna",
+          "country": "Italy"
+        },
+        "nationality": "Italy",
+        "height": "174",
+        "weight": "64",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/341974.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 1584,
+            "name": "Vicenza Virtus",
+            "logo": "https://media.api-sports.io/football/teams/1584.png"
+          },
+          "league": {
+            "id": 136,
+            "name": "Serie B",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/136.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 0,
+            "minutes": 14,
+            "number": 21,
+            "position": "Defender",
+            "rating": "7.2",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 7,
+            "key": 1,
+            "accuracy": 100
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 1,
+            "won": 1
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 126766,
+        "name": "N. Rauti",
+        "firstname": "Nicola",
+        "lastname": "Rauti",
+        "age": 25,
+        "birth": {
+          "date": "2000-04-17",
+          "place": null,
+          "country": "Italy"
+        },
+        "nationality": "Italy",
+        "height": "180 cm",
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/126766.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 1584,
+            "name": "Vicenza Virtus",
+            "logo": "https://media.api-sports.io/football/teams/1584.png"
+          },
+          "league": {
+            "id": 136,
+            "name": "Serie B",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/136.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 0,
+            "minutes": 19,
+            "number": 7,
+            "position": "Attacker",
+            "rating": "6.9",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": 3,
+            "on": 2
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 5,
+            "key": 1,
+            "accuracy": 80
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 9,
+            "won": 6
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 3,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 264513,
+        "name": "M. Palumbo",
+        "firstname": "Martin",
+        "lastname": "Njøten Palumbo",
+        "age": 23,
+        "birth": {
+          "date": "2002-03-05",
+          "place": null,
+          "country": "Norway"
+        },
+        "nationality": "Norway",
+        "height": null,
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/264513.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 528,
+            "name": "Avellino",
+            "logo": "https://media.api-sports.io/football/teams/528.png"
+          },
+          "league": {
+            "id": 136,
+            "name": "Serie B",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/136.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 63,
+            "number": 20,
+            "position": "Midfielder",
+            "rating": "6.9",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 32,
+            "key": 1,
+            "accuracy": 81
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 2,
+            "won": 2
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 562612,
+        "name": "A. Le Borgne",
+        "firstname": null,
+        "lastname": null,
+        "age": 19,
+        "birth": {
+          "date": null,
+          "place": null,
+          "country": null
+        },
+        "nationality": null,
+        "height": null,
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/562612.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 504,
+            "name": "Hellas Verona",
+            "logo": "https://media.api-sports.io/football/teams/504.png"
+          },
+          "league": {
+            "id": 136,
+            "name": "Serie B",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/136.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 71,
+            "number": 17,
+            "position": "Midfielder",
+            "rating": "7.3",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 27,
+            "key": 1,
+            "accuracy": 81
+          },
+          "tackles": {
+            "total": 2,
+            "blocks": null,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 7,
+            "won": 4
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 31207,
+        "name": "S. Damiani",
+        "firstname": "Samuele",
+        "lastname": "Damiani",
+        "age": 27,
+        "birth": {
+          "date": "1998-01-30",
+          "place": "Poggibonsi",
+          "country": "Italy"
+        },
+        "nationality": "Italy",
+        "height": "178 cm",
+        "weight": "74 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/31207.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 507,
+            "name": "Ascoli",
+            "logo": "https://media.api-sports.io/football/teams/507.png"
+          },
+          "league": {
+            "id": 136,
+            "name": "Serie B",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/136.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 74,
+            "number": 4,
+            "position": "Midfielder",
+            "rating": "7.3",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 43,
+            "key": 1,
+            "accuracy": 93
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": null,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 5,
+            "won": 3
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 30854,
+        "name": "F. Costa",
+        "firstname": "Filippo",
+        "lastname": "Costa",
+        "age": 30,
+        "birth": {
+          "date": "1995-05-21",
+          "place": "Noventa Vicentina",
+          "country": "Italy"
+        },
+        "nationality": "Italy",
+        "height": "175 cm",
+        "weight": "70 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/30854.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 1584,
+            "name": "Vicenza Virtus",
+            "logo": "https://media.api-sports.io/football/teams/1584.png"
+          },
+          "league": {
+            "id": 136,
+            "name": "Serie B",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/136.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 76,
+            "number": 32,
+            "position": "Midfielder",
+            "rating": "7.3",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 24,
+            "key": 3,
+            "accuracy": 62
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": 1,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 4,
+            "won": 3
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 2,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 336608,
+        "name": "G. Alesi",
+        "firstname": "Gabriele",
+        "lastname": "Alesi",
+        "age": 21,
+        "birth": {
+          "date": "2004-01-28",
+          "place": "Alcamo",
+          "country": "Italy"
+        },
+        "nationality": "Italy",
+        "height": "175",
+        "weight": "\n    ",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/336608.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 1687,
+            "name": "Catanzaro",
+            "logo": "https://media.api-sports.io/football/teams/1687.png"
+          },
+          "league": {
+            "id": 136,
+            "name": "Serie B",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/136.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 82,
+            "number": 30,
+            "position": "Midfielder",
+            "rating": "6.9",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 0
+          },
+          "shots": {
+            "total": 1,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 36,
+            "key": 3,
+            "accuracy": 100
+          },
+          "tackles": {
+            "total": 2,
+            "blocks": null,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 8,
+            "won": 6
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 3,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 553234,
+        "name": "M. A. Chakir",
+        "firstname": null,
+        "lastname": null,
+        "age": 24,
+        "birth": {
+          "date": null,
+          "place": null,
+          "country": null
+        },
+        "nationality": null,
+        "height": null,
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/553234.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 507,
+            "name": "Ascoli",
+            "logo": "https://media.api-sports.io/football/teams/507.png"
+          },
+          "league": {
+            "id": 136,
+            "name": "Serie B",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/136.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 83,
+            "number": 9,
+            "position": "Attacker",
+            "rating": "7.6",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 0
+          },
+          "shots": {
+            "total": 4,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 21,
+            "key": 1,
+            "accuracy": 47
+          },
+          "tackles": {
+            "total": 3,
+            "blocks": 1,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 24,
+            "won": 18
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 3,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 986,
+        "name": "J. Pohjanpalo",
+        "firstname": "Joel Julius Ilmari",
+        "lastname": "Pohjanpalo",
+        "age": 31,
+        "birth": {
+          "date": "1994-09-13",
+          "place": "Helsinki",
+          "country": "Finland"
+        },
+        "nationality": "Finland",
+        "height": "186",
+        "weight": "83",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/986.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 522,
+            "name": "Palermo",
+            "logo": "https://media.api-sports.io/football/teams/522.png"
+          },
+          "league": {
+            "id": 136,
+            "name": "Serie B",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/136.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 85,
+            "number": 20,
+            "position": "Attacker",
+            "rating": "6.9",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 0
+          },
+          "shots": {
+            "total": 2,
+            "on": 2
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 15,
+            "key": 1,
+            "accuracy": 73
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 6,
+            "won": 2
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": 2
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 427079,
+        "name": "A. Castellini",
+        "firstname": "Alessio",
+        "lastname": "Castellini",
+        "age": 22,
+        "birth": {
+          "date": "2003-04-01",
+          "place": null,
+          "country": "Italy"
+        },
+        "nationality": "Italy",
+        "height": "186",
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/427079.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 1693,
+            "name": "Mantova",
+            "logo": "https://media.api-sports.io/football/teams/1693.png"
+          },
+          "league": {
+            "id": 136,
+            "name": "Serie B",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/136.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 90,
+            "number": 27,
+            "position": "Defender",
+            "rating": "6.9",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 63,
+            "key": 1,
+            "accuracy": 79
+          },
+          "tackles": {
+            "total": 2,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 8,
+            "won": 2
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 195746,
+        "name": "S. Righetti",
+        "firstname": "Samuele",
+        "lastname": "Righetti",
+        "age": 24,
+        "birth": {
+          "date": "2001-10-10",
+          "place": "Perugia",
+          "country": "Italy"
+        },
+        "nationality": "Italy",
+        "height": null,
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/195746.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 876,
+            "name": "Arezzo",
+            "logo": "https://media.api-sports.io/football/teams/876.png"
+          },
+          "league": {
+            "id": 136,
+            "name": "Serie B",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/136.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 90,
+            "number": 37,
+            "position": "Defender",
+            "rating": "7.2",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": 1,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 48,
+            "key": 4,
+            "accuracy": 83
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": null,
+            "interceptions": 4
+          },
+          "duels": {
+            "total": 4,
+            "won": 1
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": 2
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 32095,
+        "name": "C. Cauz",
+        "firstname": "Cristian",
+        "lastname": "Cauz",
+        "age": 29,
+        "birth": {
+          "date": "1996-08-15",
+          "place": "Pordenone",
+          "country": "Italy"
+        },
+        "nationality": "Italy",
+        "height": "188",
+        "weight": "80",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/32095.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 511,
+            "name": "Empoli",
+            "logo": "https://media.api-sports.io/football/teams/511.png"
+          },
+          "league": {
+            "id": 136,
+            "name": "Serie B",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/136.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 90,
+            "number": 33,
+            "position": "Defender",
+            "rating": "7.2",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": 1,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 32,
+            "key": 2,
+            "accuracy": 90
+          },
+          "tackles": {
+            "total": 2,
+            "blocks": null,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 6,
+            "won": 3
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": 2
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 91399,
+        "name": "Matias Antonini",
+        "firstname": "Matias",
+        "lastname": "Antonini Lui",
+        "age": 27,
+        "birth": {
+          "date": "1998-04-09",
+          "place": "Porto Alegre",
+          "country": "Brazil"
+        },
+        "nationality": "Brazil",
+        "height": "191",
+        "weight": "82",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/91399.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 1687,
+            "name": "Catanzaro",
+            "logo": "https://media.api-sports.io/football/teams/1687.png"
+          },
+          "league": {
+            "id": 136,
+            "name": "Serie B",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/136.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 90,
+            "number": 4,
+            "position": "Defender",
+            "rating": "7",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 40,
+            "key": 1,
+            "accuracy": 85
+          },
+          "tackles": {
+            "total": 2,
+            "blocks": 1,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 11,
+            "won": 6
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": 2
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 357996,
+        "name": "M. Cissé",
+        "firstname": "Moustapha Elhadji",
+        "lastname": "Cissé",
+        "age": 22,
+        "birth": {
+          "date": "2003-09-14",
+          "place": null,
+          "country": "Guinea"
+        },
+        "nationality": "Guinea",
+        "height": "184",
+        "weight": "75",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/357996.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 1581,
+            "name": "Carrarese",
+            "logo": "https://media.api-sports.io/football/teams/1581.png"
+          },
+          "league": {
+            "id": 136,
+            "name": "Serie B",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/136.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 90,
+            "number": 11,
+            "position": "Attacker",
+            "rating": "6.3",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": 3,
+            "on": 1
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 19,
+            "key": 1,
+            "accuracy": 57
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 14,
+            "won": 5
+          },
+          "dribbles": {
+            "attempts": 3,
+            "success": 2,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": 2
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 15605,
+        "name": "S. Gartenmann",
+        "firstname": "Stefan",
+        "lastname": "Gartenmann",
+        "age": 28,
+        "birth": {
+          "date": "1997-02-02",
+          "place": "Roskilde",
+          "country": "Denmark"
+        },
+        "nationality": "Denmark",
+        "height": "185",
+        "weight": "75",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/15605.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 498,
+            "name": "Sampdoria",
+            "logo": "https://media.api-sports.io/football/teams/498.png"
+          },
+          "league": {
+            "id": 136,
+            "name": "Serie B",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/136.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 90,
+            "number": 3,
+            "position": "Defender",
+            "rating": "7.5",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": 1,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 82,
+            "key": 1,
+            "accuracy": 95
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": null,
+            "interceptions": 2
+          },
+          "duels": {
+            "total": 11,
+            "won": 7
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 4,
+            "committed": 3
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 32201,
+        "name": "E. Gliozzi",
+        "firstname": "Ettore",
+        "lastname": "Gliozzi",
+        "age": 30,
+        "birth": {
+          "date": "1995-09-23",
+          "place": "Siderno",
+          "country": "Italy"
+        },
+        "nationality": "Italy",
+        "height": "186",
+        "weight": "83",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/32201.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 1693,
+            "name": "Mantova",
+            "logo": "https://media.api-sports.io/football/teams/1693.png"
+          },
+          "league": {
+            "id": 136,
+            "name": "Serie B",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/136.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 90,
+            "number": 9,
+            "position": "Attacker",
+            "rating": "6.5",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": 2,
+            "on": 1
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 21,
+            "key": 2,
+            "accuracy": 66
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": null,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 21,
+            "won": 10
+          },
+          "dribbles": {
+            "attempts": 2,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 3,
+            "committed": 2
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 385810,
+        "name": "M. Guidi",
+        "firstname": "Matteo",
+        "lastname": "Guidi",
+        "age": 22,
+        "birth": {
+          "date": "2003-07-03",
+          "place": "Prato",
+          "country": "Italy"
+        },
+        "nationality": "Italy",
+        "height": null,
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/385810.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 509,
+            "name": "Cesena",
+            "logo": "https://media.api-sports.io/football/teams/509.png"
+          },
+          "league": {
+            "id": 136,
+            "name": "Serie B",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/136.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 76,
+            "number": 18,
+            "position": "Midfielder",
+            "rating": "6.9",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": 1,
+            "on": 1
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 9,
+            "key": 1,
+            "accuracy": 77
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 7,
+            "won": 2
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": 2
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 56211,
+        "name": "C. Morra",
+        "firstname": "Claudio",
+        "lastname": "Morra",
+        "age": 30,
+        "birth": {
+          "date": "1995-01-22",
+          "place": null,
+          "country": "Italy"
+        },
+        "nationality": "Italy",
+        "height": "185 cm",
+        "weight": "79 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/56211.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 1584,
+            "name": "Vicenza Virtus",
+            "logo": "https://media.api-sports.io/football/teams/1584.png"
+          },
+          "league": {
+            "id": 136,
+            "name": "Serie B",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/136.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 0,
+            "minutes": 14,
+            "number": 9,
+            "position": "Attacker",
+            "rating": "7.9",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": 2,
+            "on": 1
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 4,
+            "key": 2,
+            "accuracy": 100
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 1,
+            "won": 1
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 133638,
+        "name": "S. Davì",
+        "firstname": "Simone",
+        "lastname": "Davì",
+        "age": 26,
+        "birth": {
+          "date": "1999-09-16",
+          "place": null,
+          "country": "Italy"
+        },
+        "nationality": "Italy",
+        "height": "178",
+        "weight": "73",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/133638.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 1578,
+            "name": "Sudtirol",
+            "logo": "https://media.api-sports.io/football/teams/1578.png"
+          },
+          "league": {
+            "id": 136,
+            "name": "Serie B",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/136.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 0,
+            "minutes": 14,
+            "number": 24,
+            "position": "Defender",
+            "rating": "7.6",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": 1,
+            "on": 1
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 2,
+            "key": null,
+            "accuracy": 50
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 2,
+            "won": 1
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 470737,
+        "name": "P. Pinelli",
+        "firstname": "Pietro",
+        "lastname": "Pinelli",
+        "age": 19,
+        "birth": {
+          "date": "2006-02-18",
+          "place": null,
+          "country": "Italy"
+        },
+        "nationality": "Italy",
+        "height": null,
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/470737.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 1581,
+            "name": "Carrarese",
+            "logo": "https://media.api-sports.io/football/teams/1581.png"
+          },
+          "league": {
+            "id": 136,
+            "name": "Serie B",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/136.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 0,
+            "minutes": 15,
+            "number": 66,
+            "position": "Midfielder",
+            "rating": "7.7",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": 1,
+            "on": 1
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 5,
+            "key": null,
+            "accuracy": 100
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 4,
+            "won": 2
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    }
+  ]
+}

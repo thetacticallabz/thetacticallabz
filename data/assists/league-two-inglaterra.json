@@ -1,0 +1,1915 @@
+{
+  "get": "players/topassists",
+  "parameters": {
+    "league": "42",
+    "season": "2026"
+  },
+  "errors": [],
+  "results": 20,
+  "paging": {
+    "current": 1,
+    "total": 1
+  },
+  "response": [
+    {
+      "player": {
+        "id": 87898,
+        "name": "K. Tshimanga",
+        "firstname": "Kabongo",
+        "lastname": "Tshimanga",
+        "age": 28,
+        "birth": {
+          "date": "1997-09-22",
+          "place": "Kinshasa",
+          "country": "Congo DR"
+        },
+        "nationality": "England",
+        "height": "180",
+        "weight": "78",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/87898.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 1369,
+            "name": "Barnet",
+            "logo": "https://media.api-sports.io/football/teams/1369.png"
+          },
+          "league": {
+            "id": 42,
+            "name": "League Two",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/42.png",
+            "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 2,
+            "minutes": 179,
+            "number": 20,
+            "position": "Attacker",
+            "rating": "7.1",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 0
+          },
+          "shots": {
+            "total": 1,
+            "on": 1
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": 2,
+            "saves": null
+          },
+          "passes": {
+            "total": 16,
+            "key": 3,
+            "accuracy": 81
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 9,
+            "won": 3
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 2,
+            "committed": 4
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 17494,
+        "name": "C. Doidge",
+        "firstname": "Christian Rhys",
+        "lastname": "Doidge",
+        "age": 33,
+        "birth": {
+          "date": "1992-08-25",
+          "place": "Newport",
+          "country": "Wales"
+        },
+        "nationality": "Wales",
+        "height": "185",
+        "weight": "77",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/17494.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 1367,
+            "name": "Newport County",
+            "logo": "https://media.api-sports.io/football/teams/1367.png"
+          },
+          "league": {
+            "id": 42,
+            "name": "League Two",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/42.png",
+            "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 2,
+            "minutes": 139,
+            "number": 27,
+            "position": "Attacker",
+            "rating": "6.9",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 2,
+            "bench": 0
+          },
+          "shots": {
+            "total": 2,
+            "on": 1
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 2,
+            "saves": null
+          },
+          "passes": {
+            "total": 23,
+            "key": 2,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": 1,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 33,
+            "won": 16
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": 3
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 284434,
+        "name": "O. Thorn",
+        "firstname": "Oscar",
+        "lastname": "Thorn",
+        "age": 21,
+        "birth": {
+          "date": "2004-03-22",
+          "place": null,
+          "country": "England"
+        },
+        "nationality": "England",
+        "height": null,
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/284434.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 1361,
+            "name": "Colchester",
+            "logo": "https://media.api-sports.io/football/teams/1361.png"
+          },
+          "league": {
+            "id": 42,
+            "name": "League Two",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/42.png",
+            "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 2,
+            "minutes": 180,
+            "number": 27,
+            "position": "Midfielder",
+            "rating": "7.1",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": 2,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 2,
+            "saves": null
+          },
+          "passes": {
+            "total": 41,
+            "key": 5,
+            "accuracy": 68
+          },
+          "tackles": {
+            "total": 3,
+            "blocks": null,
+            "interceptions": 3
+          },
+          "duels": {
+            "total": 34,
+            "won": 17
+          },
+          "dribbles": {
+            "attempts": 9,
+            "success": 4,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 4,
+            "committed": 2
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 118360,
+        "name": "A. Newby",
+        "firstname": "Alexander Lewis",
+        "lastname": "Newby",
+        "age": 30,
+        "birth": {
+          "date": "1995-11-21",
+          "place": "Barrow-in-Furness",
+          "country": "England"
+        },
+        "nationality": "England",
+        "height": "173 cm",
+        "weight": "70 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/118360.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 1828,
+            "name": "York",
+            "logo": "https://media.api-sports.io/football/teams/1828.png"
+          },
+          "league": {
+            "id": 42,
+            "name": "League Two",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/42.png",
+            "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 1,
+            "minutes": 137,
+            "number": 30,
+            "position": "Midfielder",
+            "rating": "8.25",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": 6,
+            "on": 5
+          },
+          "goals": {
+            "total": 2,
+            "conceded": 0,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 45,
+            "key": 1,
+            "accuracy": 82
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 16,
+            "won": 7
+          },
+          "dribbles": {
+            "attempts": 5,
+            "success": 2,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 4,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 288065,
+        "name": "H. Boyes",
+        "firstname": "Harry",
+        "lastname": "Boyes",
+        "age": 24,
+        "birth": {
+          "date": "2001-11-02",
+          "place": "Barnsley",
+          "country": "England"
+        },
+        "nationality": "England",
+        "height": "176",
+        "weight": "73",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/288065.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 1828,
+            "name": "York",
+            "logo": "https://media.api-sports.io/football/teams/1828.png"
+          },
+          "league": {
+            "id": 42,
+            "name": "League Two",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/42.png",
+            "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 2,
+            "minutes": 173,
+            "number": 12,
+            "position": "Midfielder",
+            "rating": "7.9",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 0
+          },
+          "shots": {
+            "total": 3,
+            "on": 2
+          },
+          "goals": {
+            "total": 2,
+            "conceded": 0,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 54,
+            "key": 7,
+            "accuracy": 77
+          },
+          "tackles": {
+            "total": 4,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 21,
+            "won": 12
+          },
+          "dribbles": {
+            "attempts": 2,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 6,
+            "committed": 2
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": 1,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 19529,
+        "name": "C. Lakin",
+        "firstname": "Charlie",
+        "lastname": "Lakin",
+        "age": 26,
+        "birth": {
+          "date": "1999-05-08",
+          "place": "Solihull",
+          "country": "England"
+        },
+        "nationality": "England",
+        "height": "183",
+        "weight": "76",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/19529.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 1369,
+            "name": "Barnet",
+            "logo": "https://media.api-sports.io/football/teams/1369.png"
+          },
+          "league": {
+            "id": 42,
+            "name": "League Two",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/42.png",
+            "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 2,
+            "minutes": 180,
+            "number": 8,
+            "position": "Midfielder",
+            "rating": "7.75",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": 3,
+            "on": 2
+          },
+          "goals": {
+            "total": 2,
+            "conceded": 0,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 59,
+            "key": 7,
+            "accuracy": 54
+          },
+          "tackles": {
+            "total": 3,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 29,
+            "won": 10
+          },
+          "dribbles": {
+            "attempts": 4,
+            "success": 2,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 3,
+            "committed": 4
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 387106,
+        "name": "F. Cavegn",
+        "firstname": "Fabrizio",
+        "lastname": "Cavegn",
+        "age": 23,
+        "birth": {
+          "date": "2002-08-28",
+          "place": null,
+          "country": "Switzerland"
+        },
+        "nationality": "Switzerland",
+        "height": "178",
+        "weight": "78",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/387106.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 1334,
+            "name": "Bristol Rovers",
+            "logo": "https://media.api-sports.io/football/teams/1334.png"
+          },
+          "league": {
+            "id": 42,
+            "name": "League Two",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/42.png",
+            "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 2,
+            "minutes": 180,
+            "number": 29,
+            "position": "Attacker",
+            "rating": "8.05",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": 7,
+            "on": 5
+          },
+          "goals": {
+            "total": 2,
+            "conceded": 0,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 30,
+            "key": 3,
+            "accuracy": 76
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 27,
+            "won": 8
+          },
+          "dribbles": {
+            "attempts": 6,
+            "success": 3,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 3,
+            "committed": 2
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 17810,
+        "name": "R. Broom",
+        "firstname": "Ryan James",
+        "lastname": "Broom",
+        "age": 29,
+        "birth": {
+          "date": "1996-09-04",
+          "place": "Newport",
+          "country": "Wales"
+        },
+        "nationality": "Wales",
+        "height": "177",
+        "weight": "80",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/17810.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 1372,
+            "name": "Cheltenham",
+            "logo": "https://media.api-sports.io/football/teams/1372.png"
+          },
+          "league": {
+            "id": 42,
+            "name": "League Two",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/42.png",
+            "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 1,
+            "minutes": 89,
+            "number": 14,
+            "position": "Midfielder",
+            "rating": "6.9",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 1,
+            "bench": 1
+          },
+          "shots": {
+            "total": 2,
+            "on": 2
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 23,
+            "key": 1,
+            "accuracy": 73
+          },
+          "tackles": {
+            "total": 2,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 17,
+            "won": 5
+          },
+          "dribbles": {
+            "attempts": 4,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 538375,
+        "name": "Y. Bamba",
+        "firstname": null,
+        "lastname": null,
+        "age": 26,
+        "birth": {
+          "date": null,
+          "place": null,
+          "country": null
+        },
+        "nationality": null,
+        "height": null,
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/538375.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 1367,
+            "name": "Newport County",
+            "logo": "https://media.api-sports.io/football/teams/1367.png"
+          },
+          "league": {
+            "id": 42,
+            "name": "League Two",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/42.png",
+            "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 2,
+            "minutes": 175,
+            "number": 20,
+            "position": "Midfielder",
+            "rating": "7.45",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 0
+          },
+          "shots": {
+            "total": 2,
+            "on": 1
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 16,
+            "key": 1,
+            "accuracy": 50
+          },
+          "tackles": {
+            "total": 4,
+            "blocks": null,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 24,
+            "won": 11
+          },
+          "dribbles": {
+            "attempts": 3,
+            "success": 2,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 2,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 20088,
+        "name": "H. Biggins",
+        "firstname": "Harrison",
+        "lastname": "Biggins",
+        "age": 29,
+        "birth": {
+          "date": "1996-03-15",
+          "place": "Sheffield",
+          "country": "England"
+        },
+        "nationality": "England",
+        "height": "175",
+        "weight": "68",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/20088.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 1367,
+            "name": "Newport County",
+            "logo": "https://media.api-sports.io/football/teams/1367.png"
+          },
+          "league": {
+            "id": 42,
+            "name": "League Two",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/42.png",
+            "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 2,
+            "minutes": 179,
+            "number": 10,
+            "position": "Midfielder",
+            "rating": "7.65",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 0
+          },
+          "shots": {
+            "total": 4,
+            "on": 1
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 44,
+            "key": 2,
+            "accuracy": 68
+          },
+          "tackles": {
+            "total": 2,
+            "blocks": 1,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 15,
+            "won": 8
+          },
+          "dribbles": {
+            "attempts": 2,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 4,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 334036,
+        "name": "R. Russell-Denny",
+        "firstname": "Reiss-Alexander",
+        "lastname": "Russell-Denny",
+        "age": 19,
+        "birth": {
+          "date": "2006-05-11",
+          "place": "Reading",
+          "country": "England"
+        },
+        "nationality": "England",
+        "height": "178",
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/334036.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 1334,
+            "name": "Bristol Rovers",
+            "logo": "https://media.api-sports.io/football/teams/1334.png"
+          },
+          "league": {
+            "id": 42,
+            "name": "League Two",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/42.png",
+            "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 0,
+            "minutes": 37,
+            "number": 8,
+            "position": "Midfielder",
+            "rating": "6.6",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 0,
+            "bench": 2
+          },
+          "shots": {
+            "total": 2,
+            "on": 1
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 7,
+            "key": 1,
+            "accuracy": 71
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 3,
+            "won": 1
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 656954,
+        "name": "Alfie Merritt",
+        "firstname": null,
+        "lastname": null,
+        "age": 17,
+        "birth": {
+          "date": null,
+          "place": null,
+          "country": null
+        },
+        "nationality": null,
+        "height": null,
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/656954.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 1367,
+            "name": "Newport County",
+            "logo": "https://media.api-sports.io/football/teams/1367.png"
+          },
+          "league": {
+            "id": 42,
+            "name": "League Two",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/42.png",
+            "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 0,
+            "minutes": 41,
+            "number": 17,
+            "position": "Defender",
+            "rating": "6.2",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 0,
+            "bench": 2
+          },
+          "shots": {
+            "total": 2,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 11,
+            "key": 1,
+            "accuracy": 63
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 7,
+            "won": 3
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 339741,
+        "name": "J. Tabiner",
+        "firstname": "Joel",
+        "lastname": "Tabiner",
+        "age": 22,
+        "birth": {
+          "date": "2003-11-30",
+          "place": "Birkenhead",
+          "country": "England"
+        },
+        "nationality": "England",
+        "height": "178",
+        "weight": "66",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/339741.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 1363,
+            "name": "Crewe",
+            "logo": "https://media.api-sports.io/football/teams/1363.png"
+          },
+          "league": {
+            "id": 42,
+            "name": "League Two",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/42.png",
+            "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 1,
+            "minutes": 108,
+            "number": 11,
+            "position": "Midfielder",
+            "rating": "7.55",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 1,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 51,
+            "key": 4,
+            "accuracy": 84
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 8,
+            "won": 5
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 3,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 421227,
+        "name": "C. Clarke",
+        "firstname": "Courtney",
+        "lastname": "Clarke",
+        "age": 28,
+        "birth": {
+          "date": "1997-02-24",
+          "place": null,
+          "country": "England"
+        },
+        "nationality": "England",
+        "height": null,
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/421227.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 1342,
+            "name": "Walsall",
+            "logo": "https://media.api-sports.io/football/teams/1342.png"
+          },
+          "league": {
+            "id": 42,
+            "name": "League Two",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/42.png",
+            "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 1,
+            "minutes": 119,
+            "number": 17,
+            "position": "Midfielder",
+            "rating": "7.1",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 1,
+            "bench": 1
+          },
+          "shots": {
+            "total": 5,
+            "on": 3
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 29,
+            "key": 3,
+            "accuracy": 65
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": 3,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 15,
+            "won": 5
+          },
+          "dribbles": {
+            "attempts": 4,
+            "success": 2,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": 3
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 20318,
+        "name": "S. Whalley",
+        "firstname": "Shaun James",
+        "lastname": "Whalley",
+        "age": 38,
+        "birth": {
+          "date": "1987-08-07",
+          "place": "Whiston",
+          "country": "England"
+        },
+        "nationality": "England",
+        "height": "175",
+        "weight": "67",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/20318.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 1360,
+            "name": "Accrington ST",
+            "logo": "https://media.api-sports.io/football/teams/1360.png"
+          },
+          "league": {
+            "id": 42,
+            "name": "League Two",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/42.png",
+            "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 2,
+            "minutes": 138,
+            "number": 7,
+            "position": "Attacker",
+            "rating": "6.75",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 2,
+            "bench": 0
+          },
+          "shots": {
+            "total": 4,
+            "on": 2
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 42,
+            "key": 5,
+            "accuracy": 69
+          },
+          "tackles": {
+            "total": 4,
+            "blocks": null,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 23,
+            "won": 10
+          },
+          "dribbles": {
+            "attempts": 6,
+            "success": 2,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 3,
+            "committed": 4
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 20255,
+        "name": "Fábio Tavares",
+        "firstname": "Fábio André",
+        "lastname": "Tavares Desidério",
+        "age": 24,
+        "birth": {
+          "date": "2001-01-22",
+          "place": "Rochdale",
+          "country": "Portugal"
+        },
+        "nationality": "Portugal",
+        "height": "178",
+        "weight": "70",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/20255.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 73,
+            "name": "Rotherham",
+            "logo": "https://media.api-sports.io/football/teams/73.png"
+          },
+          "league": {
+            "id": 42,
+            "name": "League Two",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/42.png",
+            "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 2,
+            "minutes": 146,
+            "number": 7,
+            "position": "Attacker",
+            "rating": "6.05",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 0
+          },
+          "shots": {
+            "total": 1,
+            "on": 1
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 35,
+            "key": 5,
+            "accuracy": 82
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": 2
+          },
+          "duels": {
+            "total": 12,
+            "won": 1
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 18570,
+        "name": "M. Fondop-Talum",
+        "firstname": "Karl Mike",
+        "lastname": "Fondop-Talum",
+        "age": 32,
+        "birth": {
+          "date": "1993-11-27",
+          "place": "Yaoundé",
+          "country": "Cameroon"
+        },
+        "nationality": "England",
+        "height": "190",
+        "weight": "86",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/18570.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 1349,
+            "name": "Oldham",
+            "logo": "https://media.api-sports.io/football/teams/1349.png"
+          },
+          "league": {
+            "id": 42,
+            "name": "League Two",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/42.png",
+            "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 2,
+            "minutes": 150,
+            "number": 9,
+            "position": "Attacker",
+            "rating": "7.9",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 2,
+            "bench": 0
+          },
+          "shots": {
+            "total": 1,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 33,
+            "key": 2,
+            "accuracy": 69
+          },
+          "tackles": {
+            "total": 2,
+            "blocks": 1,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 34,
+            "won": 25
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 6,
+            "committed": 2
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 17794,
+        "name": "J. Powell",
+        "firstname": "Joe James",
+        "lastname": "Powell",
+        "age": 27,
+        "birth": {
+          "date": "1998-10-30",
+          "place": "Newham",
+          "country": "England"
+        },
+        "nationality": "England",
+        "height": "178",
+        "weight": "68",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/17794.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 1844,
+            "name": "Salford City",
+            "logo": "https://media.api-sports.io/football/teams/1844.png"
+          },
+          "league": {
+            "id": 42,
+            "name": "League Two",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/42.png",
+            "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 2,
+            "minutes": 151,
+            "number": 6,
+            "position": "Midfielder",
+            "rating": "6.9",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 0
+          },
+          "shots": {
+            "total": 1,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 76,
+            "key": 3,
+            "accuracy": 81
+          },
+          "tackles": {
+            "total": 3,
+            "blocks": 1,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 23,
+            "won": 12
+          },
+          "dribbles": {
+            "attempts": 3,
+            "success": 2,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 6,
+            "committed": 2
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 19612,
+        "name": "R. East",
+        "firstname": "Ryan Henry",
+        "lastname": "East",
+        "age": 27,
+        "birth": {
+          "date": "1998-08-07",
+          "place": null,
+          "country": "England"
+        },
+        "nationality": "England",
+        "height": "176",
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/19612.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 1339,
+            "name": "Rochdale",
+            "logo": "https://media.api-sports.io/football/teams/1339.png"
+          },
+          "league": {
+            "id": 42,
+            "name": "League Two",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/42.png",
+            "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 2,
+            "minutes": 152,
+            "number": 4,
+            "position": "Midfielder",
+            "rating": "6.85",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 2,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 63,
+            "key": 2,
+            "accuracy": 93
+          },
+          "tackles": {
+            "total": 3,
+            "blocks": null,
+            "interceptions": 2
+          },
+          "duels": {
+            "total": 9,
+            "won": 6
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 377796,
+        "name": "C. O&apos;Brien",
+        "firstname": "Connor",
+        "lastname": "O'Brien",
+        "age": 21,
+        "birth": {
+          "date": "2007-07-12",
+          "place": "Accrington",
+          "country": "England"
+        },
+        "nationality": "England",
+        "height": "181",
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/377796.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 1360,
+            "name": "Accrington ST",
+            "logo": "https://media.api-sports.io/football/teams/1360.png"
+          },
+          "league": {
+            "id": 42,
+            "name": "League Two",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/42.png",
+            "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 2,
+            "minutes": 168,
+            "number": 38,
+            "position": "Midfielder",
+            "rating": "6.7",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 62,
+            "key": 2,
+            "accuracy": 66
+          },
+          "tackles": {
+            "total": 3,
+            "blocks": null,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 20,
+            "won": 9
+          },
+          "dribbles": {
+            "attempts": 5,
+            "success": 2,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": 5
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    }
+  ]
+}

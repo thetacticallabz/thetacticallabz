@@ -1,0 +1,1135 @@
+{
+  "get": "fixtures",
+  "parameters": {
+    "league": "187",
+    "season": "2026"
+  },
+  "errors": [],
+  "results": 16,
+  "paging": {
+    "current": 1,
+    "total": 1
+  },
+  "response": [
+    {
+      "fixture": {
+        "id": 1628324,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2026-09-04T12:00:00+00:00",
+        "timestamp": 1788523200,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": null,
+          "name": null,
+          "city": null
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 187,
+        "name": "Ligue 2",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/leagues/187.png",
+        "flag": "https://media.api-sports.io/flags/dz.svg",
+        "season": 2026,
+        "round": "Regular Season - 1",
+        "standings": false
+      },
+      "teams": {
+        "home": {
+          "id": 913,
+          "name": "Hussein Dey",
+          "logo": "https://media.api-sports.io/football/teams/913.png",
+          "winner": null
+        },
+        "away": {
+          "id": 28238,
+          "name": "Taghit",
+          "logo": "https://media.api-sports.io/football/teams/28238.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1628314,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2026-09-04T12:00:00+00:00",
+        "timestamp": 1788523200,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": null,
+          "name": null,
+          "city": null
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 187,
+        "name": "Ligue 2",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/leagues/187.png",
+        "flag": "https://media.api-sports.io/flags/dz.svg",
+        "season": 2026,
+        "round": "Regular Season - 1",
+        "standings": false
+      },
+      "teams": {
+        "home": {
+          "id": 919,
+          "name": "Usm El Harrach",
+          "logo": "https://media.api-sports.io/football/teams/919.png",
+          "winner": null
+        },
+        "away": {
+          "id": 924,
+          "name": "ASM Oran",
+          "logo": "https://media.api-sports.io/football/teams/924.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1628317,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2026-09-04T12:00:00+00:00",
+        "timestamp": 1788523200,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": null,
+          "name": null,
+          "city": null
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 187,
+        "name": "Ligue 2",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/leagues/187.png",
+        "flag": "https://media.api-sports.io/flags/dz.svg",
+        "season": 2026,
+        "round": "Regular Season - 1",
+        "standings": false
+      },
+      "teams": {
+        "home": {
+          "id": 920,
+          "name": "MO Bejaia",
+          "logo": "https://media.api-sports.io/football/teams/920.png",
+          "winner": null
+        },
+        "away": {
+          "id": 10713,
+          "name": "MO Constantine",
+          "logo": "https://media.api-sports.io/football/teams/10713.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1628311,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2026-09-04T12:00:00+00:00",
+        "timestamp": 1788523200,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": 11107,
+          "name": "Stade Seffouhi",
+          "city": "Batna"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 187,
+        "name": "Ligue 2",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/leagues/187.png",
+        "flag": "https://media.api-sports.io/flags/dz.svg",
+        "season": 2026,
+        "round": "Regular Season - 1",
+        "standings": false
+      },
+      "teams": {
+        "home": {
+          "id": 922,
+          "name": "CA Batna",
+          "logo": "https://media.api-sports.io/football/teams/922.png",
+          "winner": null
+        },
+        "away": {
+          "id": 10810,
+          "name": "Azazga",
+          "logo": "https://media.api-sports.io/football/teams/10810.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1628313,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2026-09-04T12:00:00+00:00",
+        "timestamp": 1788523200,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": null,
+          "name": null,
+          "city": null
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 187,
+        "name": "Ligue 2",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/leagues/187.png",
+        "flag": "https://media.api-sports.io/flags/dz.svg",
+        "season": 2026,
+        "round": "Regular Season - 1",
+        "standings": false
+      },
+      "teams": {
+        "home": {
+          "id": 927,
+          "name": "GC Mascara",
+          "logo": "https://media.api-sports.io/football/teams/927.png",
+          "winner": null
+        },
+        "away": {
+          "id": 937,
+          "name": "RC Arba",
+          "logo": "https://media.api-sports.io/football/teams/937.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1628322,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2026-09-04T12:00:00+00:00",
+        "timestamp": 1788523200,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": null,
+          "name": null,
+          "city": null
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 187,
+        "name": "Ligue 2",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/leagues/187.png",
+        "flag": "https://media.api-sports.io/flags/dz.svg",
+        "season": 2026,
+        "round": "Regular Season - 1",
+        "standings": false
+      },
+      "teams": {
+        "home": {
+          "id": 928,
+          "name": "WA Tlemcen",
+          "logo": "https://media.api-sports.io/football/teams/928.png",
+          "winner": null
+        },
+        "away": {
+          "id": 10786,
+          "name": "Tiaret",
+          "logo": "https://media.api-sports.io/football/teams/10786.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1628320,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2026-09-04T12:00:00+00:00",
+        "timestamp": 1788523200,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": null,
+          "name": null,
+          "city": null
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 187,
+        "name": "Ligue 2",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/leagues/187.png",
+        "flag": "https://media.api-sports.io/flags/dz.svg",
+        "season": 2026,
+        "round": "Regular Season - 1",
+        "standings": false
+      },
+      "teams": {
+        "home": {
+          "id": 933,
+          "name": "JSM Skikda",
+          "logo": "https://media.api-sports.io/football/teams/933.png",
+          "winner": null
+        },
+        "away": {
+          "id": 20696,
+          "name": "IRB Nezla",
+          "logo": "https://media.api-sports.io/football/teams/20696.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1628319,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2026-09-04T12:00:00+00:00",
+        "timestamp": 1788523200,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": null,
+          "name": null,
+          "city": null
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 187,
+        "name": "Ligue 2",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/leagues/187.png",
+        "flag": "https://media.api-sports.io/flags/dz.svg",
+        "season": 2026,
+        "round": "Regular Season - 1",
+        "standings": false
+      },
+      "teams": {
+        "home": {
+          "id": 934,
+          "name": "MC Saida",
+          "logo": "https://media.api-sports.io/football/teams/934.png",
+          "winner": null
+        },
+        "away": {
+          "id": 20703,
+          "name": "WA Mostaganem",
+          "logo": "https://media.api-sports.io/football/teams/20703.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1628315,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2026-09-04T12:00:00+00:00",
+        "timestamp": 1788523200,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": null,
+          "name": null,
+          "city": null
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 187,
+        "name": "Ligue 2",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/leagues/187.png",
+        "flag": "https://media.api-sports.io/flags/dz.svg",
+        "season": 2026,
+        "round": "Regular Season - 1",
+        "standings": false
+      },
+      "teams": {
+        "home": {
+          "id": 936,
+          "name": "Khroub",
+          "logo": "https://media.api-sports.io/football/teams/936.png",
+          "winner": null
+        },
+        "away": {
+          "id": 915,
+          "name": "Paradou AC",
+          "logo": "https://media.api-sports.io/football/teams/915.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1628310,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2026-09-04T12:00:00+00:00",
+        "timestamp": 1788523200,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": null,
+          "name": null,
+          "city": null
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 187,
+        "name": "Ligue 2",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/leagues/187.png",
+        "flag": "https://media.api-sports.io/flags/dz.svg",
+        "season": 2026,
+        "round": "Regular Season - 1",
+        "standings": false
+      },
+      "teams": {
+        "home": {
+          "id": 1069,
+          "name": "USM Annaba",
+          "logo": "https://media.api-sports.io/football/teams/1069.png",
+          "winner": null
+        },
+        "away": {
+          "id": 1071,
+          "name": "NC Magra",
+          "logo": "https://media.api-sports.io/football/teams/1071.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1628318,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2026-09-04T12:00:00+00:00",
+        "timestamp": 1788523200,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": null,
+          "name": "Stade Belhamiti Larbi",
+          "city": "Mostaganem"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 187,
+        "name": "Ligue 2",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/leagues/187.png",
+        "flag": "https://media.api-sports.io/flags/dz.svg",
+        "season": 2026,
+        "round": "Regular Season - 1",
+        "standings": false
+      },
+      "teams": {
+        "home": {
+          "id": 1070,
+          "name": "Mostaganem",
+          "logo": "https://media.api-sports.io/football/teams/1070.png",
+          "winner": null
+        },
+        "away": {
+          "id": 912,
+          "name": "Blida",
+          "logo": "https://media.api-sports.io/football/teams/912.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1628323,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2026-09-04T12:00:00+00:00",
+        "timestamp": 1788523200,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": null,
+          "name": null,
+          "city": null
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 187,
+        "name": "Ligue 2",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/leagues/187.png",
+        "flag": "https://media.api-sports.io/flags/dz.svg",
+        "season": 2026,
+        "round": "Regular Season - 1",
+        "standings": false
+      },
+      "teams": {
+        "home": {
+          "id": 10708,
+          "name": "US Chaouia",
+          "logo": "https://media.api-sports.io/football/teams/10708.png",
+          "winner": null
+        },
+        "away": {
+          "id": 26608,
+          "name": "Nrb Beni Oulbene",
+          "logo": "https://media.api-sports.io/football/teams/26608.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1628316,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2026-09-04T12:00:00+00:00",
+        "timestamp": 1788523200,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": null,
+          "name": null,
+          "city": null
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 187,
+        "name": "Ligue 2",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/leagues/187.png",
+        "flag": "https://media.api-sports.io/flags/dz.svg",
+        "season": 2026,
+        "round": "Regular Season - 1",
+        "standings": false
+      },
+      "teams": {
+        "home": {
+          "id": 10710,
+          "name": "Koléa",
+          "logo": "https://media.api-sports.io/football/teams/10710.png",
+          "winner": null
+        },
+        "away": {
+          "id": 935,
+          "name": "RC Kouba",
+          "logo": "https://media.api-sports.io/football/teams/935.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1628321,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2026-09-04T12:00:00+00:00",
+        "timestamp": 1788523200,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": null,
+          "name": null,
+          "city": null
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 187,
+        "name": "Ligue 2",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/leagues/187.png",
+        "flag": "https://media.api-sports.io/flags/dz.svg",
+        "season": 2026,
+        "round": "Regular Season - 1",
+        "standings": false
+      },
+      "teams": {
+        "home": {
+          "id": 10806,
+          "name": "Teleghma",
+          "logo": "https://media.api-sports.io/football/teams/10806.png",
+          "winner": null
+        },
+        "away": {
+          "id": 10712,
+          "name": "MSP Batna",
+          "logo": "https://media.api-sports.io/football/teams/10712.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1628312,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2026-09-04T12:00:00+00:00",
+        "timestamp": 1788523200,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": null,
+          "name": null,
+          "city": null
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 187,
+        "name": "Ligue 2",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/leagues/187.png",
+        "flag": "https://media.api-sports.io/flags/dz.svg",
+        "season": 2026,
+        "round": "Regular Season - 1",
+        "standings": false
+      },
+      "teams": {
+        "home": {
+          "id": 20712,
+          "name": "JS Jijel",
+          "logo": "https://media.api-sports.io/football/teams/20712.png",
+          "winner": null
+        },
+        "away": {
+          "id": 10735,
+          "name": "CR Béni Thour",
+          "logo": "https://media.api-sports.io/football/teams/10735.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1628325,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2026-09-04T12:00:00+00:00",
+        "timestamp": 1788523200,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": null,
+          "name": null,
+          "city": null
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 187,
+        "name": "Ligue 2",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/leagues/187.png",
+        "flag": "https://media.api-sports.io/flags/dz.svg",
+        "season": 2026,
+        "round": "Regular Season - 1",
+        "standings": false
+      },
+      "teams": {
+        "home": {
+          "id": 28237,
+          "name": "Sidi Benali",
+          "logo": "https://media.api-sports.io/football/teams/28237.png",
+          "winner": null
+        },
+        "away": {
+          "id": 10743,
+          "name": "El Bayadh",
+          "logo": "https://media.api-sports.io/football/teams/10743.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    }
+  ]
+}

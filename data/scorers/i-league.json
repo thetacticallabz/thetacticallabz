@@ -1,0 +1,205 @@
+{
+  "get": "players/topscorers",
+  "parameters": {
+    "league": "324",
+    "season": "2025"
+  },
+  "errors": [],
+  "results": 2,
+  "paging": {
+    "current": 1,
+    "total": 1
+  },
+  "response": [
+    {
+      "player": {
+        "id": 41341,
+        "name": "A. Dialló",
+        "firstname": "Abdoulaye",
+        "lastname": "Dialló",
+        "age": 30,
+        "birth": {
+          "date": "1996-01-15",
+          "place": "Thiès",
+          "country": "Senegal"
+        },
+        "nationality": "Senegal",
+        "height": "184 cm",
+        "weight": "72 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/41341.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 22596,
+            "name": "Namdhari",
+            "logo": "https://media.api-sports.io/football/teams/22596.png"
+          },
+          "league": {
+            "id": 324,
+            "name": "I-League",
+            "country": "India",
+            "logo": "https://media.api-sports.io/football/leagues/324.png",
+            "flag": "https://media.api-sports.io/flags/in.svg",
+            "season": 2025
+          },
+          "games": {
+            "appearences": 6,
+            "lineups": null,
+            "minutes": null,
+            "number": null,
+            "position": "Forward",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": null,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 1,
+            "conceded": null,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": null,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 662997,
+        "name": "Amzard Khan",
+        "firstname": "Amzard",
+        "lastname": "Khan",
+        "age": 20,
+        "birth": {
+          "date": "2006-03-10",
+          "place": null,
+          "country": "India"
+        },
+        "nationality": "India",
+        "height": null,
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/662997.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 21601,
+            "name": "Diamond Harbour",
+            "logo": "https://media.api-sports.io/football/teams/21601.png"
+          },
+          "league": {
+            "id": 324,
+            "name": "I-League",
+            "country": "India",
+            "logo": "https://media.api-sports.io/football/leagues/324.png",
+            "flag": "https://media.api-sports.io/flags/in.svg",
+            "season": 2025
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": null,
+            "minutes": null,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": null,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": null,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    }
+  ]
+}

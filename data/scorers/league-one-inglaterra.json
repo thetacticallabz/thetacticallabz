@@ -1,0 +1,1915 @@
+{
+  "get": "players/topscorers",
+  "parameters": {
+    "league": "41",
+    "season": "2026"
+  },
+  "errors": [],
+  "results": 20,
+  "paging": {
+    "current": 1,
+    "total": 1
+  },
+  "response": [
+    {
+      "player": {
+        "id": 19225,
+        "name": "J. Marriott",
+        "firstname": "Jack",
+        "lastname": "Marriott",
+        "age": 31,
+        "birth": {
+          "date": "1994-09-09",
+          "place": "Beverley",
+          "country": "England"
+        },
+        "nationality": "England",
+        "height": "173",
+        "weight": "71",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/19225.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 53,
+            "name": "Reading",
+            "logo": "https://media.api-sports.io/football/teams/53.png"
+          },
+          "league": {
+            "id": 41,
+            "name": "League One",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/41.png",
+            "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 2,
+            "minutes": 155,
+            "number": 7,
+            "position": "Attacker",
+            "rating": "8",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 0
+          },
+          "shots": {
+            "total": 6,
+            "on": 5
+          },
+          "goals": {
+            "total": 3,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 14,
+            "key": 3,
+            "accuracy": 71
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 12,
+            "won": 3
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 2,
+            "committed": 4
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 19274,
+        "name": "K. Palmer",
+        "firstname": "Kasey Remel",
+        "lastname": "Palmer",
+        "age": 29,
+        "birth": {
+          "date": "1996-11-09",
+          "place": "London",
+          "country": "Jamaica"
+        },
+        "nationality": "Jamaica",
+        "height": "175",
+        "weight": "70",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/19274.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 1359,
+            "name": "Luton",
+            "logo": "https://media.api-sports.io/football/teams/1359.png"
+          },
+          "league": {
+            "id": 41,
+            "name": "League One",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/41.png",
+            "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 2,
+            "minutes": 171,
+            "number": 45,
+            "position": "Midfielder",
+            "rating": "7.05",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 0
+          },
+          "shots": {
+            "total": 5,
+            "on": 3
+          },
+          "goals": {
+            "total": 2,
+            "conceded": 0,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 58,
+            "key": 2,
+            "accuracy": 70
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": 2
+          },
+          "duels": {
+            "total": 24,
+            "won": 8
+          },
+          "dribbles": {
+            "attempts": 7,
+            "success": 3,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 3,
+            "committed": 3
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 19801,
+        "name": "V. Adeboyejo",
+        "firstname": "Victor",
+        "lastname": "Adeboyejo",
+        "age": 27,
+        "birth": {
+          "date": "1998-01-12",
+          "place": "Ibadan",
+          "country": "Nigeria"
+        },
+        "nationality": "Nigeria",
+        "height": "178",
+        "weight": "75",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/19801.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 1832,
+            "name": "Bromley",
+            "logo": "https://media.api-sports.io/football/teams/1832.png"
+          },
+          "league": {
+            "id": 41,
+            "name": "League One",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/41.png",
+            "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 0,
+            "minutes": 40,
+            "number": 20,
+            "position": "Attacker",
+            "rating": "7.05",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 0,
+            "bench": 2
+          },
+          "shots": {
+            "total": 2,
+            "on": 2
+          },
+          "goals": {
+            "total": 2,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 6,
+            "key": null,
+            "accuracy": 83
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 5,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 272455,
+        "name": "D. Sanches Fernandes",
+        "firstname": "Derensili",
+        "lastname": "Sanches Fernandes",
+        "age": 24,
+        "birth": {
+          "date": "2001-05-28",
+          "place": "Rotterdam",
+          "country": "Netherlands"
+        },
+        "nationality": "Netherlands",
+        "height": "178",
+        "weight": "74",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/272455.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 37,
+            "name": "Huddersfield",
+            "logo": "https://media.api-sports.io/football/teams/37.png"
+          },
+          "league": {
+            "id": 41,
+            "name": "League One",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/41.png",
+            "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 2,
+            "minutes": 148,
+            "number": 30,
+            "position": "Attacker",
+            "rating": "7.9",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 2,
+            "bench": 0
+          },
+          "shots": {
+            "total": 5,
+            "on": 4
+          },
+          "goals": {
+            "total": 2,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 38,
+            "key": 4,
+            "accuracy": 76
+          },
+          "tackles": {
+            "total": 3,
+            "blocks": null,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 18,
+            "won": 7
+          },
+          "dribbles": {
+            "attempts": 7,
+            "success": 2,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 17551,
+        "name": "A. Collins",
+        "firstname": "Aaron Graham John",
+        "lastname": "Collins",
+        "age": 28,
+        "birth": {
+          "date": "1997-05-27",
+          "place": "Newport",
+          "country": "Wales"
+        },
+        "nationality": "Wales",
+        "height": "178",
+        "weight": "74",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/17551.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 1348,
+            "name": "Milton Keynes Dons",
+            "logo": "https://media.api-sports.io/football/teams/1348.png"
+          },
+          "league": {
+            "id": 41,
+            "name": "League One",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/41.png",
+            "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 2,
+            "minutes": 153,
+            "number": 10,
+            "position": "Attacker",
+            "rating": "7.55",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 2,
+            "bench": 0
+          },
+          "shots": {
+            "total": 6,
+            "on": 2
+          },
+          "goals": {
+            "total": 2,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 17,
+            "key": 3,
+            "accuracy": 52
+          },
+          "tackles": {
+            "total": 3,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 23,
+            "won": 10
+          },
+          "dribbles": {
+            "attempts": 3,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 2,
+            "committed": 2
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 294756,
+        "name": "G. O&apos;Donkor",
+        "firstname": "Gatlin",
+        "lastname": "O'Donkor",
+        "age": 21,
+        "birth": {
+          "date": "2004-10-14",
+          "place": "Reading",
+          "country": "England"
+        },
+        "nationality": "England",
+        "height": null,
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/294756.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 1338,
+            "name": "Oxford United",
+            "logo": "https://media.api-sports.io/football/teams/1338.png"
+          },
+          "league": {
+            "id": 41,
+            "name": "League One",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/41.png",
+            "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 0,
+            "minutes": 51,
+            "number": 19,
+            "position": "Attacker",
+            "rating": "7.45",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 0,
+            "bench": 2
+          },
+          "shots": {
+            "total": 1,
+            "on": 1
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 8,
+            "key": 1,
+            "accuracy": 87
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 22,
+            "won": 9
+          },
+          "dribbles": {
+            "attempts": 2,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 4,
+            "committed": 4
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": 1,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 179651,
+        "name": "J. Taylor",
+        "firstname": "Joseph  William John",
+        "lastname": "Taylor",
+        "age": 23,
+        "birth": {
+          "date": "2002-11-18",
+          "place": "Peterborough",
+          "country": "England"
+        },
+        "nationality": "Wales",
+        "height": "170",
+        "weight": "75",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/179651.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 37,
+            "name": "Huddersfield",
+            "logo": "https://media.api-sports.io/football/teams/37.png"
+          },
+          "league": {
+            "id": 41,
+            "name": "League One",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/41.png",
+            "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 2,
+            "minutes": 110,
+            "number": 9,
+            "position": "Attacker",
+            "rating": "7.4",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 2,
+            "bench": 0
+          },
+          "shots": {
+            "total": 5,
+            "on": 3
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 19,
+            "key": 1,
+            "accuracy": 84
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 15,
+            "won": 5
+          },
+          "dribbles": {
+            "attempts": 2,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": 2
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 87773,
+        "name": "J. Diamond",
+        "firstname": "Jack Tyler",
+        "lastname": "Diamond",
+        "age": 25,
+        "birth": {
+          "date": "2000-01-12",
+          "place": "Gateshead",
+          "country": "England"
+        },
+        "nationality": "England",
+        "height": "175",
+        "weight": "61",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/87773.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 4686,
+            "name": "Stockport County",
+            "logo": "https://media.api-sports.io/football/teams/4686.png"
+          },
+          "league": {
+            "id": 41,
+            "name": "League One",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/41.png",
+            "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 2,
+            "minutes": 160,
+            "number": 7,
+            "position": "Midfielder",
+            "rating": "7.95",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 0
+          },
+          "shots": {
+            "total": 6,
+            "on": 2
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 53,
+            "key": 4,
+            "accuracy": 81
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": null,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 26,
+            "won": 16
+          },
+          "dribbles": {
+            "attempts": 16,
+            "success": 10,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 4,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 17860,
+        "name": "R. Oates",
+        "firstname": "Rhys Derek",
+        "lastname": "Oates",
+        "age": 31,
+        "birth": {
+          "date": "1994-12-04",
+          "place": "Pontefract",
+          "country": "England"
+        },
+        "nationality": "England",
+        "height": "183",
+        "weight": "74",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/17860.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 1374,
+            "name": "Mansfield Town",
+            "logo": "https://media.api-sports.io/football/teams/1374.png"
+          },
+          "league": {
+            "id": 41,
+            "name": "League One",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/41.png",
+            "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 2,
+            "minutes": 179,
+            "number": 18,
+            "position": "Attacker",
+            "rating": "7.25",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 0
+          },
+          "shots": {
+            "total": 4,
+            "on": 2
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 29,
+            "key": 2,
+            "accuracy": 79
+          },
+          "tackles": {
+            "total": 3,
+            "blocks": null,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 25,
+            "won": 11
+          },
+          "dribbles": {
+            "attempts": 4,
+            "success": 2,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": 3
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 430831,
+        "name": "J. Richards",
+        "firstname": "Jake",
+        "lastname": "Richards",
+        "age": 18,
+        "birth": {
+          "date": "2007-08-08",
+          "place": null,
+          "country": "England"
+        },
+        "nationality": "England",
+        "height": null,
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/430831.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 1359,
+            "name": "Luton",
+            "logo": "https://media.api-sports.io/football/teams/1359.png"
+          },
+          "league": {
+            "id": 41,
+            "name": "League One",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/41.png",
+            "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 2,
+            "minutes": 180,
+            "number": 7,
+            "position": "Midfielder",
+            "rating": "7.2",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": 4,
+            "on": 1
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 38,
+            "key": 4,
+            "accuracy": 65
+          },
+          "tackles": {
+            "total": 3,
+            "blocks": null,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 15,
+            "won": 9
+          },
+          "dribbles": {
+            "attempts": 3,
+            "success": 2,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 4,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 284522,
+        "name": "O. Sanderson",
+        "firstname": "Oliver",
+        "lastname": "Sanderson",
+        "age": 22,
+        "birth": {
+          "date": "2003-12-30",
+          "place": null,
+          "country": "England"
+        },
+        "nationality": "England",
+        "height": "183",
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/284522.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 1368,
+            "name": "Stevenage",
+            "logo": "https://media.api-sports.io/football/teams/1368.png"
+          },
+          "league": {
+            "id": 41,
+            "name": "League One",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/41.png",
+            "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 0,
+            "minutes": 22,
+            "number": 18,
+            "position": "Attacker",
+            "rating": "6.95",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 0,
+            "bench": 2
+          },
+          "shots": {
+            "total": 2,
+            "on": 2
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 5,
+            "key": null,
+            "accuracy": 100
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 6,
+            "won": 1
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 19562,
+        "name": "N. Powell",
+        "firstname": "Nick",
+        "lastname": "Powell",
+        "age": 31,
+        "birth": {
+          "date": "1994-03-23",
+          "place": "Crewe",
+          "country": "England"
+        },
+        "nationality": "England",
+        "height": "183",
+        "weight": "65",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/19562.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 1343,
+            "name": "Bradford",
+            "logo": "https://media.api-sports.io/football/teams/1343.png"
+          },
+          "league": {
+            "id": 41,
+            "name": "League One",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/41.png",
+            "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 0,
+            "minutes": 29,
+            "number": 25,
+            "position": "Midfielder",
+            "rating": "7.05",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 0,
+            "bench": 2
+          },
+          "shots": {
+            "total": 1,
+            "on": 1
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 14,
+            "key": null,
+            "accuracy": 64
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 10,
+            "won": 4
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": 2
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 344707,
+        "name": "C. Marshall",
+        "firstname": "Callum",
+        "lastname": "Marshall",
+        "age": 21,
+        "birth": {
+          "date": "2004-11-28",
+          "place": "Glengormley",
+          "country": "Northern Ireland"
+        },
+        "nationality": "Northern Ireland",
+        "height": "172",
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/344707.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 1359,
+            "name": "Luton",
+            "logo": "https://media.api-sports.io/football/teams/1359.png"
+          },
+          "league": {
+            "id": 41,
+            "name": "League One",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/41.png",
+            "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 0,
+            "minutes": 48,
+            "number": 9,
+            "position": "Attacker",
+            "rating": "7.2",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 0,
+            "bench": 2
+          },
+          "shots": {
+            "total": 2,
+            "on": 1
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 13,
+            "key": 2,
+            "accuracy": 61
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 8,
+            "won": 4
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": 2
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 294638,
+        "name": "Finley Munroe",
+        "firstname": "Finley",
+        "lastname": "Munroe",
+        "age": 20,
+        "birth": {
+          "date": "2005-02-08",
+          "place": null,
+          "country": "England"
+        },
+        "nationality": "England",
+        "height": null,
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/294638.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 1356,
+            "name": "Blackpool",
+            "logo": "https://media.api-sports.io/football/teams/1356.png"
+          },
+          "league": {
+            "id": 41,
+            "name": "League One",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/41.png",
+            "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 0,
+            "minutes": 48,
+            "number": 26,
+            "position": "Defender",
+            "rating": "6.75",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 0,
+            "bench": 2
+          },
+          "shots": {
+            "total": 1,
+            "on": 1
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 6,
+            "key": null,
+            "accuracy": 50
+          },
+          "tackles": {
+            "total": 3,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 13,
+            "won": 3
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": 2
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 137225,
+        "name": "C. Grant",
+        "firstname": "Conor Michael",
+        "lastname": "Grant",
+        "age": 24,
+        "birth": {
+          "date": "2001-07-23",
+          "place": "Dublin",
+          "country": "Republic of Ireland"
+        },
+        "nationality": "Republic of Ireland",
+        "height": "185",
+        "weight": "70",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/137225.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 1376,
+            "name": "Notts County",
+            "logo": "https://media.api-sports.io/football/teams/1376.png"
+          },
+          "league": {
+            "id": 41,
+            "name": "League One",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/41.png",
+            "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 0,
+            "minutes": 51,
+            "number": 11,
+            "position": "Midfielder",
+            "rating": "7.2",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 0,
+            "bench": 2
+          },
+          "shots": {
+            "total": 1,
+            "on": 1
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 13,
+            "key": null,
+            "accuracy": 61
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": null,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 12,
+            "won": 5
+          },
+          "dribbles": {
+            "attempts": 2,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": 2
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 138792,
+        "name": "B. Radulović",
+        "firstname": "Bojan",
+        "lastname": "Radulović Samouković",
+        "age": 26,
+        "birth": {
+          "date": "1999-12-29",
+          "place": "Lleida",
+          "country": "Spain"
+        },
+        "nationality": "Serbia",
+        "height": "191",
+        "weight": "79",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/138792.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 37,
+            "name": "Huddersfield",
+            "logo": "https://media.api-sports.io/football/teams/37.png"
+          },
+          "league": {
+            "id": 41,
+            "name": "League One",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/41.png",
+            "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 0,
+            "minutes": 52,
+            "number": 25,
+            "position": "Attacker",
+            "rating": "7",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 0,
+            "bench": 2
+          },
+          "shots": {
+            "total": 3,
+            "on": 1
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 25,
+            "key": 1,
+            "accuracy": 68
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 11,
+            "won": 6
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": 2
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 310529,
+        "name": "G. Kodua",
+        "firstname": "Gideon Mensah",
+        "lastname": "Kodua",
+        "age": 21,
+        "birth": {
+          "date": "2004-10-02",
+          "place": null,
+          "country": "England"
+        },
+        "nationality": "England",
+        "height": null,
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/310529.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 1359,
+            "name": "Luton",
+            "logo": "https://media.api-sports.io/football/teams/1359.png"
+          },
+          "league": {
+            "id": 41,
+            "name": "League One",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/41.png",
+            "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 0,
+            "minutes": 81,
+            "number": 30,
+            "position": "Attacker",
+            "rating": "6.65",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 0,
+            "bench": 2
+          },
+          "shots": {
+            "total": 4,
+            "on": 1
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 21,
+            "key": null,
+            "accuracy": 76
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": null,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 17,
+            "won": 9
+          },
+          "dribbles": {
+            "attempts": 3,
+            "success": 2,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 4,
+            "committed": 2
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 17379,
+        "name": "J. Roberts",
+        "firstname": "Jordan Stephen",
+        "lastname": "Roberts",
+        "age": 31,
+        "birth": {
+          "date": "1994-01-05",
+          "place": "Watford",
+          "country": "England"
+        },
+        "nationality": "England",
+        "height": "185",
+        "weight": "81",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/17379.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 1368,
+            "name": "Stevenage",
+            "logo": "https://media.api-sports.io/football/teams/1368.png"
+          },
+          "league": {
+            "id": 41,
+            "name": "League One",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/41.png",
+            "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 1,
+            "minutes": 85,
+            "number": 11,
+            "position": "Midfielder",
+            "rating": "6.8",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 1,
+            "bench": 1
+          },
+          "shots": {
+            "total": 1,
+            "on": 1
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 18,
+            "key": null,
+            "accuracy": 44
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 9,
+            "won": 3
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 2,
+            "committed": 2
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 280678,
+        "name": "T. Bloxham",
+        "firstname": "Tom",
+        "lastname": "Bloxham",
+        "age": 22,
+        "birth": {
+          "date": "2003-11-01",
+          "place": null,
+          "country": "England"
+        },
+        "nationality": "England",
+        "height": null,
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/280678.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 1356,
+            "name": "Blackpool",
+            "logo": "https://media.api-sports.io/football/teams/1356.png"
+          },
+          "league": {
+            "id": 41,
+            "name": "League One",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/41.png",
+            "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 1,
+            "minutes": 91,
+            "number": 14,
+            "position": "Attacker",
+            "rating": "7",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 1,
+            "bench": 1
+          },
+          "shots": {
+            "total": 3,
+            "on": 2
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 10,
+            "key": 3,
+            "accuracy": 70
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": 2
+          },
+          "duels": {
+            "total": 12,
+            "won": 2
+          },
+          "dribbles": {
+            "attempts": 2,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": 2
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 126876,
+        "name": "X. Amaechi",
+        "firstname": "Xavier Casmier",
+        "lastname": "Amaechi",
+        "age": 24,
+        "birth": {
+          "date": "2001-01-05",
+          "place": "Bath",
+          "country": "England"
+        },
+        "nationality": "England",
+        "height": "179",
+        "weight": "79",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/126876.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 1357,
+            "name": "Plymouth",
+            "logo": "https://media.api-sports.io/football/teams/1357.png"
+          },
+          "league": {
+            "id": 41,
+            "name": "League One",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/41.png",
+            "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 1,
+            "minutes": 97,
+            "number": 10,
+            "position": "Attacker",
+            "rating": "7.3",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 1,
+            "bench": 1
+          },
+          "shots": {
+            "total": 3,
+            "on": 1
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 18,
+            "key": 1,
+            "accuracy": 83
+          },
+          "tackles": {
+            "total": 4,
+            "blocks": null,
+            "interceptions": 2
+          },
+          "duels": {
+            "total": 11,
+            "won": 6
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    }
+  ]
+}
