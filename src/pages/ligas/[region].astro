@@ -1,0 +1,124 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import ArticleCard from '../../components/ArticleCard.astro';
+import { REGIONES } from '../../content/config';
+import leaguesConfig from '../../../config/leagues.json';
+
+export async function getStaticPaths() {
+  return REGIONES.map((region) => ({ params: { region } }));
+}
+
+const { region } = Astro.params;
+
+const ligasDeLaRegion = leaguesConfig.ligas.filter((l) => l.region === region);
+
+const REGION_LABEL: Record<string, string> = {
+  portugal: 'Portugal',
+  sudamerica: 'Sudamérica',
+  asia: 'Asia',
+  africa: 'África',
+  oceania: 'Oceanía',
+  'equipos-desconocidos-grandes-ligas': 'Equipos desconocidos de las grandes ligas',
+};
+
+const label = REGION_LABEL[region as string] ?? region;
+
+const articles = (
+  await getCollection('articulos', ({ data }) => !data.draft && data.region === region)
+).sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+
+const description = `Análisis táctico, de equipos y jugadores centrado en ${label}.`;
+---
+
+<BaseLayout title={label as string} description={description}>
+  <section class="hero">
+    <p class="tag">Región</p>
+    <h1>{label}</h1>
+    <p class="muted">{description}</p>
+  </section>
+
+  {ligasDeLaRegion.length > 0 && (
+    <section class="ligas-datos">
+      <h2>Datos por liga</h2>
+      <ul class="ligas-lista">
+        {
+          ligasDeLaRegion.map((liga) => (
+            <li class="card">
+              <p class="liga-nombre">{liga.nombre}</p>
+              <div class="liga-links">
+                <a href={`/datos/${liga.slug}/clasificacion`}>Clasificación</a>
+                <a href={`/datos/${liga.slug}/goleadores`}>Goleadores</a>
+                <a href={`/datos/${liga.slug}/asistencias`}>Asistencias</a>
+              </div>
+            </li>
+          ))
+        }
+      </ul>
+    </section>
+  )}
+
+  <section class="article-grid">
+    {articles.length === 0 && (
+      <p class="muted">Todavía no hay artículos publicados en esta región.</p>
+    )}
+    {articles.map((entry) => <ArticleCard entry={entry} />)}
+  </section>
+</BaseLayout>
+
+<style>
+  .hero {
+    padding-block: 3rem 2rem;
+  }
+
+  .hero h1 {
+    margin: 0.5rem 0;
+  }
+
+  .article-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(18rem, 1fr));
+    gap: 1.25rem;
+    padding-bottom: 4rem;
+  }
+
+  .ligas-datos {
+    padding-bottom: 2.5rem;
+  }
+
+  .ligas-datos h2 {
+    font-size: 1.1rem;
+    margin-bottom: 0.75rem;
+  }
+
+  .ligas-lista {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(16rem, 1fr));
+    gap: 1rem;
+  }
+
+  .liga-nombre {
+    font-weight: 600;
+    margin: 0 0 0.6rem;
+  }
+
+  .liga-links {
+    display: flex;
+    gap: 0.9rem;
+    flex-wrap: wrap;
+  }
+
+  .liga-links a {
+    font-size: 0.85rem;
+    color: var(--color-text-muted);
+    text-decoration: none;
+    border-bottom: 1px solid var(--color-border);
+  }
+
+  .liga-links a:hover {
+    color: var(--color-accent);
+  }
+</style>

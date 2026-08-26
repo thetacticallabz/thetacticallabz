@@ -1,0 +1,54 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import ArticleCard from '../components/ArticleCard.astro';
+
+const allArticles = (await getCollection('articulos', ({ data }) => !data.draft)).sort(
+  (a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
+);
+
+const description =
+  'Análisis táctico de fútbol centrado en las ligas y equipos que las grandes coberturas dejan fuera: Portugal, Sudamérica, Asia, África, Oceanía y los desconocidos de las grandes ligas.';
+---
+
+<BaseLayout title="The Tactical Labz" description={description}>
+  <section class="hero">
+    <p class="tag">Blog de The Tactical Labz</p>
+    <h1>El fútbol que las grandes coberturas no analizan</h1>
+    <p class="lede muted">{description}</p>
+  </section>
+
+  <section class="article-grid">
+    {allArticles.length === 0 && (
+      <p class="muted">
+        Todavía no hay artículos publicados — este es el esqueleto del sitio.
+        Añade contenido en <code>src/content/articulos/</code>.
+      </p>
+    )}
+    {allArticles.map((entry) => <ArticleCard entry={entry} />)}
+  </section>
+</BaseLayout>
+
+<style>
+  .hero {
+    padding-block: 3rem 2.5rem;
+    max-width: 42rem;
+  }
+
+  .hero h1 {
+    font-size: 2.25rem;
+    line-height: 1.15;
+    margin: 0.75rem 0 1rem;
+  }
+
+  .lede {
+    font-size: 1.05rem;
+  }
+
+  .article-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(18rem, 1fr));
+    gap: 1.25rem;
+    padding-bottom: 4rem;
+  }
+</style>

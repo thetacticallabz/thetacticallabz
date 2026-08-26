@@ -1,0 +1,209 @@
+---
+import { readFile } from 'node:fs/promises';
+import path from 'node:path';
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import leaguesConfig from '../../../../config/leagues.json';
+import { TIPOS_DATOS } from '../../../lib/tipos-datos.js';
+
+export async function getStaticPaths() {
+  const paths = [];
+  for (const liga of leaguesConfig.ligas) {
+    for (const tipo of TIPOS_DATOS) {
+      paths.push({ params: { liga: liga.slug, tipo: tipo.slug }, props: { liga, tipoInfo: tipo } });
+    }
+  }
+  return paths;
+}
+
+const { liga, tipoInfo } = Astro.props;
+
+async function readJsonIfExists(filePath: string): Promise<any> {
+  try {
+    const raw = await readFile(filePath, 'utf-8');
+    return JSON.parse(raw);
+  } catch {
+    return null;
+  }
+}
+
+const dataPath = path.resolve('data', tipoInfo.dataDir, `${liga.slug}.json`);
+const raw = await readJsonIfExists(dataPath);
+
+// Formas reales de la API de API-Football (ver documentación v3):
+// - standings: response[0].league.standings[0] = array de filas de tabla
+// - topscorers / topassists: response = array de { player, statistics: [...] }
+const standingsRows = tipoInfo.slug === 'clasificacion' ? raw?.response?.[0]?.league?.standings?.[0] ?? null : null;
+const playerRows = tipoInfo.slug !== 'clasificacion' ? raw?.response ?? null : null;
+const isSample = raw?._nota != null;
+
+const otherTipos = TIPOS_DATOS.filter((t) => t.slug !== tipoInfo.slug);
+
+const description = `${tipoInfo.label} de ${liga.nombre}, actualizada vía API-Football.`;
+---
+
+<BaseLayout title={`${tipoInfo.label} · ${liga.nombre}`} description={description}>
+  <section class="hero">
+    <p class="tag">{liga.nombre}</p>
+    <h1>{tipoInfo.label}</h1>
+    <nav class="subnav muted">
+      {
+        otherTipos.map((t) => (
+          <a href={`/datos/${liga.slug}/${t.slug}`}>{t.label}</a>
+        ))
+      }
+    </nav>
+    {isSample && (
+      <p class="muted sample-notice">
+        ⚠ Estos son datos de ejemplo (modo --sample) — todavía no hay clave de API-Football
+        configurada. Verás datos reales en cuanto se rellene config/leagues.json con el ID
+        real de esta liga y se ejecute el pipeline con la API key.
+      </p>
+    )}
+  </section>
+
+  {!raw && (
+    <p class="muted">
+      Todavía no hay datos descargados para esta liga. Ejecuta
+      <code> node scripts/fetch-league-data.mjs --type {tipoInfo.dataDir === 'standings' ? 'standings' : tipoInfo.dataDir === 'scorers' ? 'topscorers' : 'topassists'} --slug {liga.slug} --sample</code>
+      para probar, o con --league/--season para datos reales.
+    </p>
+  )}
+
+  {standingsRows && (
+    <div class="table-scroll">
+      <table>
+        <thead>
+          <tr>
+            <th>#</th>
+            <th>Equipo</th>
+            <th>PJ</th>
+            <th>G</th>
+            <th>E</th>
+            <th>P</th>
+            <th>GF</th>
+            <th>GC</th>
+            <th>DG</th>
+            <th>Pts</th>
+          </tr>
+        </thead>
+        <tbody>
+          {
+            standingsRows.map((row: any) => (
+              <tr>
+                <td>{row.rank}</td>
+                <td>{row.team.name}</td>
+                <td>{row.all.played}</td>
+                <td>{row.all.win}</td>
+                <td>{row.all.draw}</td>
+                <td>{row.all.lose}</td>
+                <td>{row.all.goals.for}</td>
+                <td>{row.all.goals.against}</td>
+                <td>{row.goalsDiff}</td>
+                <td class="pts">{row.points}</td>
+              </tr>
+            ))
+          }
+        </tbody>
+      </table>
+    </div>
+  )}
+
+  {playerRows && (
+    <div class="table-scroll">
+      <table>
+        <thead>
+          <tr>
+            <th>#</th>
+            <th>Jugador</th>
+            <th>Equipo</th>
+            <th>PJ</th>
+            <th>{tipoInfo.slug === 'goleadores' ? 'Goles' : 'Asistencias'}</th>
+          </tr>
+        </thead>
+        <tbody>
+          {
+            playerRows.map((row: any, i: number) => {
+              const stat = row.statistics?.[0];
+              const value =
+                tipoInfo.slug === 'goleadores' ? stat?.goals?.total : stat?.goals?.assists;
+              return (
+                <tr>
+                  <td>{i + 1}</td>
+                  <td>{row.player.name}</td>
+                  <td>{stat?.team?.name ?? '—'}</td>
+                  <td>{stat?.games?.appearences ?? '—'}</td>
+                  <td class="pts">{value ?? '—'}</td>
+                </tr>
+              );
+            })
+          }
+        </tbody>
+      </table>
+    </div>
+  )}
+</BaseLayout>
+
+<style>
+  .hero {
+    padding-block: 2.5rem 1.5rem;
+  }
+
+  .hero h1 {
+    margin: 0.5rem 0 1rem;
+  }
+
+  .subnav {
+    display: flex;
+    gap: 1rem;
+    margin-bottom: 1rem;
+  }
+
+  .subnav a {
+    text-decoration: none;
+    font-size: 0.9rem;
+    border-bottom: 1px solid var(--color-border);
+  }
+
+  .subnav a:hover {
+    color: var(--color-accent);
+  }
+
+  .sample-notice {
+    font-size: 0.85rem;
+    border: 1px dashed var(--color-border);
+    padding: 0.5rem 0.75rem;
+    border-radius: 0.5rem;
+  }
+
+  .table-scroll {
+    overflow-x: auto;
+    padding-bottom: 3rem;
+  }
+
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 0.9rem;
+  }
+
+  th,
+  td {
+    text-align: left;
+    padding: 0.5rem 0.6rem;
+    border-bottom: 1px solid var(--color-border);
+    white-space: nowrap;
+  }
+
+  th {
+    color: var(--color-text-muted);
+    font-weight: 600;
+    font-size: 0.75rem;
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
+  }
+
+  .pts {
+    font-weight: 700;
+    color: var(--color-accent);
+  }
+</style>

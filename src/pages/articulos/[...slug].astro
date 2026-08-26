@@ -1,0 +1,68 @@
+---
+import { getCollection, type CollectionEntry } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+
+export async function getStaticPaths() {
+  const articles = await getCollection('articulos');
+  return articles.map((entry) => ({
+    params: { slug: entry.slug },
+    props: { entry },
+  }));
+}
+
+interface Props {
+  entry: CollectionEntry<'articulos'>;
+}
+
+const { entry } = Astro.props;
+const { Content } = await entry.render();
+const { title, description, pubDate, updatedDate, liga, equipos, jugadores, autor, fuenteDatos } =
+  entry.data;
+
+// Datos estructurados básicos para que Google entienda que es un artículo
+// periodístico/análisis, no solo texto suelto.
+const structuredData = {
+  '@context': 'https://schema.org',
+  '@type': 'Article',
+  headline: title,
+  description,
+  datePublished: pubDate.toISOString(),
+  dateModified: (updatedDate ?? pubDate).toISOString(),
+  author: { '@type': 'Organization', name: autor },
+};
+---
+
+<BaseLayout title={title} description={description} structuredData={structuredData}>
+  <article class="prose">
+    <p class="tag">{liga}</p>
+    <h1>{title}</h1>
+    <p class="muted meta">
+      {pubDate.toLocaleDateString('es-ES', { year: 'numeric', month: 'long', day: 'numeric' })}
+      · {autor}
+      {fuenteDatos === 'api-football' && ' · Datos vía API-Football'}
+    </p>
+
+    <Content />
+
+    {(equipos.length > 0 || jugadores.length > 0) && (
+      <footer class="entities muted">
+        {equipos.length > 0 && <p>Equipos mencionados: {equipos.join(', ')}</p>}
+        {jugadores.length > 0 && <p>Jugadores mencionados: {jugadores.join(', ')}</p>}
+      </footer>
+    )}
+  </article>
+</BaseLayout>
+
+<style>
+  .meta {
+    margin-top: 0.5rem;
+    margin-bottom: 2rem;
+  }
+
+  .entities {
+    margin-top: 3rem;
+    border-top: 1px solid var(--color-border);
+    padding-top: 1rem;
+    font-size: 0.9rem;
+  }
+</style>

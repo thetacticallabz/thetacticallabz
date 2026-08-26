@@ -1,0 +1,55 @@
+{
+  "_nota": "DATOS DE EJEMPLO (--sample) — no son datos reales.",
+  "response": [
+    {
+      "league": {
+        "id": 0,
+        "name": "africa-por-definir",
+        "standings": [
+          [
+            {
+              "rank": 1,
+              "team": {
+                "id": 1,
+                "name": "Equipo Local Demo"
+              },
+              "points": 62,
+              "goalsDiff": 24,
+              "form": "WWDWL",
+              "all": {
+                "played": 28,
+                "win": 19,
+                "draw": 5,
+                "lose": 4,
+                "goals": {
+                  "for": 52,
+                  "against": 28
+                }
+              }
+            },
+            {
+              "rank": 2,
+              "team": {
+                "id": 2,
+                "name": "Equipo Demo C"
+              },
+              "points": 55,
+              "goalsDiff": 15,
+              "form": "WDWWD",
+              "all": {
+                "played": 28,
+                "win": 16,
+                "draw": 7,
+                "lose": 5,
+                "goals": {
+                  "for": 44,
+                  "against": 29
+                }
+              }
+            }
+          ]
+        ]
+      }
+    }
+  ]
+}

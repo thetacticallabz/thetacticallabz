@@ -1,0 +1,35 @@
+{
+  "_nota": "DATOS DE EJEMPLO (--sample) — no son datos reales.",
+  "response": [
+    {
+      "fixture": {
+        "id": 900001,
+        "date": "2026-08-23T18:00:00+00:00",
+        "status": {
+          "short": "FT"
+        }
+      },
+      "league": {
+        "id": 0,
+        "name": "k-league-1",
+        "round": "Jornada 3"
+      },
+      "teams": {
+        "home": {
+          "id": 1,
+          "name": "Equipo Local Demo",
+          "winner": true
+        },
+        "away": {
+          "id": 2,
+          "name": "Equipo Visitante Demo",
+          "winner": false
+        }
+      },
+      "goals": {
+        "home": 2,
+        "away": 1
+      }
+    }
+  ]
+}

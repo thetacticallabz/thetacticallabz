@@ -1,0 +1,13 @@
+{
+  "_instrucciones": "Rellena 'id' para cada liga ejecutando scripts/discover-leagues.mjs --country <país>. No se han puesto IDs por defecto porque los IDs de API-Football hay que verificarlos con una clave real y confirmar que la temporada objetivo está disponible. 'slug' es el identificador que usa el sitio web en las URLs (/datos/<slug>/clasificacion) — puedes cambiarlo, pero si lo haces borra los archivos viejos en data/.",
+  "ligas": [
+    { "region": "portugal", "nombre": "Primeira Liga", "slug": "primeira-liga", "id": null, "temporada": 2026 },
+    { "region": "portugal", "nombre": "Liga Portugal 2", "slug": "liga-portugal-2", "id": null, "temporada": 2026 },
+    { "region": "sudamerica", "nombre": "Brasileirão Série A", "slug": "brasileirao-serie-a", "id": null, "temporada": 2026 },
+    { "region": "sudamerica", "nombre": "Liga Profesional Argentina", "slug": "liga-profesional-argentina", "id": null, "temporada": 2026 },
+    { "region": "asia", "nombre": "J1 League", "slug": "j1-league", "id": null, "temporada": 2026 },
+    { "region": "asia", "nombre": "K League 1", "slug": "k-league-1", "id": null, "temporada": 2026 },
+    { "region": "africa", "nombre": "Por definir según scouting inicial", "slug": "africa-por-definir", "id": null, "temporada": 2026 },
+    { "region": "oceania", "nombre": "A-League Men (Australia)", "slug": "a-league-men", "id": null, "temporada": 2026 }
+  ]
+}

@@ -1,0 +1,73 @@
+---
+import type { CollectionEntry } from 'astro:content';
+
+interface Props {
+  entry: CollectionEntry<'articulos'>;
+}
+
+const { entry } = Astro.props;
+const { title, description, pubDate, liga, tipo, region } = entry.data;
+
+const REGION_LABEL: Record<string, string> = {
+  portugal: 'Portugal',
+  sudamerica: 'Sudamérica',
+  asia: 'Asia',
+  africa: 'África',
+  oceania: 'Oceanía',
+  'equipos-desconocidos-grandes-ligas': 'Equipo desconocido · Grandes ligas',
+};
+
+const TIPO_LABEL: Record<string, string> = {
+  'analisis-equipo': 'Análisis de equipo',
+  'analisis-tactico': 'Análisis táctico',
+  'analisis-jugador': 'Análisis de jugador',
+  'sistema-de-juego': 'Sistema de juego',
+  'datos-liga': 'Datos de liga',
+};
+---
+
+<a class="card article-card" href={`/articulos/${entry.slug}`}>
+  <div class="tags">
+    <span class="tag">{REGION_LABEL[region] ?? region}</span>
+    <span class="tag tag-secondary">{TIPO_LABEL[tipo] ?? tipo}</span>
+  </div>
+  <h3>{title}</h3>
+  <p class="muted">{description}</p>
+  <p class="meta muted">
+    {liga} · {pubDate.toLocaleDateString('es-ES', { year: 'numeric', month: 'long', day: 'numeric' })}
+  </p>
+</a>
+
+<style>
+  .article-card {
+    display: block;
+    text-decoration: none;
+    color: inherit;
+    transition: border-color 0.15s ease;
+  }
+
+  .article-card:hover {
+    border-color: var(--color-accent);
+  }
+
+  .tags {
+    display: flex;
+    gap: 0.5rem;
+    flex-wrap: wrap;
+    margin-bottom: 0.75rem;
+  }
+
+  .tag-secondary {
+    color: var(--color-text-muted);
+  }
+
+  h3 {
+    margin: 0 0 0.5rem;
+    font-size: 1.15rem;
+  }
+
+  .meta {
+    margin-top: 0.75rem;
+    font-size: 0.85rem;
+  }
+</style>

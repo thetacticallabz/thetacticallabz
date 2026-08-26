@@ -1,0 +1,72 @@
+---
+const nav = [
+  { href: '/', label: 'Inicio' },
+  { href: '/ligas/portugal', label: 'Portugal' },
+  { href: '/ligas/sudamerica', label: 'Sudamérica' },
+  { href: '/ligas/asia', label: 'Asia' },
+  { href: '/ligas/africa', label: 'África' },
+  { href: '/ligas/oceania', label: 'Oceanía' },
+  { href: '/ligas/equipos-desconocidos-grandes-ligas', label: 'Equipos desconocidos' },
+];
+---
+
+<header class="site-header">
+  <div class="container header-inner">
+    <a href="/" class="brand">
+      The Tactical Labz <span class="muted">· Blog</span>
+    </a>
+    <nav aria-label="Secciones por región">
+      <ul>
+        {
+          nav.map((item) => (
+            <li>
+              <a href={item.href}>{item.label}</a>
+            </li>
+          ))
+        }
+      </ul>
+    </nav>
+  </div>
+</header>
+
+<style>
+  .site-header {
+    border-bottom: 1px solid var(--color-border);
+    background: var(--color-bg-elevated);
+  }
+
+  .header-inner {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 0.75rem;
+    padding-block: 1rem;
+  }
+
+  .brand {
+    font-weight: 700;
+    font-size: 1.1rem;
+    text-decoration: none;
+    color: var(--color-text);
+  }
+
+  nav ul {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  nav a {
+    text-decoration: none;
+    font-size: 0.9rem;
+    color: var(--color-text-muted);
+  }
+
+  nav a:hover {
+    color: var(--color-accent);
+  }
+</style>

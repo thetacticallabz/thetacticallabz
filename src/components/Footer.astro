@@ -1,0 +1,32 @@
+---
+const year = new Date().getFullYear();
+---
+
+<footer class="site-footer">
+  <div class="container footer-inner">
+    <p class="muted">
+      © {year} The Tactical Labz. Análisis táctico de ligas y equipos que las
+      grandes coberturas dejan fuera.
+    </p>
+    <p class="muted footer-note">
+      Datos de partidos vía API-Football cuando hay cobertura disponible;
+      el resto es análisis editorial.
+    </p>
+  </div>
+</footer>
+
+<style>
+  .site-footer {
+    border-top: 1px solid var(--color-border);
+    margin-top: 4rem;
+  }
+
+  .footer-inner {
+    padding-block: 2rem;
+  }
+
+  .footer-note {
+    font-size: 0.85rem;
+    margin-top: 0.25rem;
+  }
+</style>

@@ -1,0 +1,47 @@
+{
+  "_nota": "DATOS DE EJEMPLO (--sample) — no son datos reales.",
+  "response": [
+    {
+      "player": {
+        "id": 10,
+        "name": "Jugador Demo A",
+        "photo": null
+      },
+      "statistics": [
+        {
+          "team": {
+            "name": "Equipo Local Demo"
+          },
+          "games": {
+            "appearences": 27
+          },
+          "goals": {
+            "total": 8,
+            "assists": 11
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 11,
+        "name": "Jugador Demo B",
+        "photo": null
+      },
+      "statistics": [
+        {
+          "team": {
+            "name": "Equipo Demo C"
+          },
+          "games": {
+            "appearences": 25
+          },
+          "goals": {
+            "total": 6,
+            "assists": 9
+          }
+        }
+      ]
+    }
+  ]
+}

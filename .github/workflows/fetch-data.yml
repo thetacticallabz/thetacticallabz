@@ -1,0 +1,40 @@
+name: Actualizar datos de API-Football
+
+# Corre en un runner de GitHub Actions, NO depende de esta sesión de Claude ni
+# de que el ordenador de Daniel esté encendido — así el pipeline de datos
+# sigue vivo aunque no se toque el proyecto en semanas.
+on:
+  schedule:
+    # Cada lunes a las 06:00 UTC (tras el grueso de la jornada de fin de
+    # semana en Europa/Sudamérica). Ajustar según la cadencia editorial real.
+    - cron: '0 6 * * 1'
+  workflow_dispatch: {} # permite lanzarlo a mano desde la pestaña Actions
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - run: npm install
+
+      # Rellena antes config/leagues.json con los IDs reales (ver
+      # scripts/discover-leagues.mjs) — fetch-all.mjs recorre automáticamente
+      # todas las ligas que ya tengan "id" y trae fixtures + clasificación +
+      # goleadores + asistencias de cada una.
+      - name: Descargar datos (fixtures, clasificación, goleadores, asistencias)
+        env:
+          API_FOOTBALL_KEY: ${{ secrets.API_FOOTBALL_KEY }}
+        run: node scripts/fetch-all.mjs
+
+      - name: Commit de los datos actualizados (si cambiaron)
+        run: |
+          git config user.name "tactical-labz-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add data/
+          git diff --cached --quiet || git commit -m "chore: actualizar datos de API-Football"
+          git push
