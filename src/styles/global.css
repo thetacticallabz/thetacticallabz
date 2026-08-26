@@ -97,3 +97,77 @@ a {
   border-radius: 0.5rem;
   text-decoration: none;
 }
+
+/* --- Pizarra táctica: diagramas dentro de los artículos --------------------
+   Los artículos incrustan SVG con estas clases. Se definen aquí (y no en cada
+   artículo) para que todos compartan el mismo lenguaje visual y respondan al
+   tema del sitio. */
+
+.pizarra {
+  background: var(--color-bg-elevated);
+  border: 1px solid var(--color-border);
+  border-radius: 0.75rem;
+  padding: 1.1rem 1.1rem 0.85rem;
+  margin: 1.75rem 0;
+}
+
+.pizarra svg {
+  display: block;
+  width: 100%;
+  height: auto;
+  max-width: 26rem;
+  margin-inline: auto;
+}
+
+.pizarra figcaption {
+  text-align: center;
+  font-size: 0.82rem;
+  color: var(--color-text-muted);
+  margin-top: 0.7rem;
+  line-height: 1.45;
+}
+
+.pizarra .campo { fill: #101a15; stroke: #22332a; stroke-width: 0.6; }
+.pizarra .linea-campo { stroke: #22332a; stroke-width: 0.6; fill: none; }
+.pizarra .trayectoria { stroke: #e08a3a; stroke-width: 1.1; stroke-dasharray: 3 2.5; fill: none; }
+.pizarra .jugador-lateral { fill: #e08a3a; }
+.pizarra .jugador-libero { fill: #4d86e6; }
+.pizarra .fantasma { opacity: 0.28; }
+.pizarra .rotulo {
+  fill: var(--color-text-muted);
+  font-size: 4.4px;
+  font-family: inherit;
+}
+.pizarra .rotulo-fuerte { fill: var(--color-text); font-weight: 600; }
+
+.prose .apunte {
+  border-left: 2px solid var(--color-accent);
+  padding-left: 1rem;
+  margin: 1.75rem 0;
+  color: var(--color-text-muted);
+  font-size: 0.95rem;
+}
+
+.prose .tabla-scroll { overflow-x: auto; margin: 1.5rem 0; }
+
+.prose table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.9rem;
+}
+
+.prose th,
+.prose td {
+  text-align: left;
+  padding: 0.55rem 0.7rem;
+  border-bottom: 1px solid var(--color-border);
+  vertical-align: top;
+}
+
+.prose th {
+  color: var(--color-text-muted);
+  font-size: 0.72rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  font-weight: 600;
+}

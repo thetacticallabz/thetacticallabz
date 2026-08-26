@@ -15,6 +15,7 @@ const REGIONES = [
   'asia',
   'africa',
   'oceania',
+  'arqueologia-tactica',
 ] as const;
 
 const TIPOS = [
@@ -35,7 +36,7 @@ const articulos = defineCollection({
       updatedDate: z.coerce.date().optional(),
       region: z.enum(REGIONES),
       tipo: z.enum(TIPOS),
-      liga: z.string(),
+      liga: z.string().optional(),
       equipos: z.array(z.string()).default([]),
       jugadores: z.array(z.string()).default([]),
       autor: z.string().default('The Tactical Labz'),
