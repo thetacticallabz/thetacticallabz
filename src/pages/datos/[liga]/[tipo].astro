@@ -4,6 +4,7 @@ import path from 'node:path';
 import BaseLayout from '../../../layouts/BaseLayout.astro';
 import leaguesConfig from '../../../../config/leagues.json';
 import { TIPOS_DATOS } from '../../../lib/tipos-datos.js';
+import { slugify } from '../../../lib/datos.js';
 
 export async function getStaticPaths() {
   const paths = [];
@@ -91,7 +92,12 @@ const description = `${tipoInfo.label} de ${liga.nombre}, actualizada vía API-F
             standingsRows.map((row: any) => (
               <tr>
                 <td>{row.rank}</td>
-                <td>{row.team.name}</td>
+                <td class="equipo">
+                  {row.team.logo && (
+                    <img src={row.team.logo} alt="" width="18" height="18" loading="lazy" />
+                  )}
+                  <a href={`/equipos/${liga.slug}/${slugify(row.team.name)}`}>{row.team.name}</a>
+                </td>
                 <td>{row.all.played}</td>
                 <td>{row.all.win}</td>
                 <td>{row.all.draw}</td>
@@ -205,5 +211,27 @@ const description = `${tipoInfo.label} de ${liga.nombre}, actualizada vía API-F
   .pts {
     font-weight: 700;
     color: var(--color-accent);
+  }
+
+  .equipo {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+  }
+
+  .equipo img {
+    object-fit: contain;
+    flex-shrink: 0;
+  }
+
+  .equipo a {
+    color: inherit;
+    text-decoration: none;
+    border-bottom: 1px solid transparent;
+  }
+
+  .equipo a:hover {
+    color: var(--color-accent);
+    border-bottom-color: var(--color-accent);
   }
 </style>

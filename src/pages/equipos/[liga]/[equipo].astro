@@ -1,0 +1,431 @@
+---
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import { todasLasLigasConEquipos } from '../../../lib/datos.js';
+
+export async function getStaticPaths() {
+  const ligas = await todasLasLigasConEquipos();
+  const rutas = [];
+  for (const { liga, equipos } of ligas) {
+    for (const equipo of equipos) {
+      rutas.push({
+        params: { liga: liga.slug, equipo: equipo.slug },
+        props: { liga, equipo },
+      });
+    }
+  }
+  return rutas;
+}
+
+const { liga, equipo } = Astro.props;
+
+const fmtFecha = (iso: string) =>
+  new Date(iso).toLocaleDateString('es-ES', { day: 'numeric', month: 'short' });
+
+const descripcion = `${equipo.nombre}: posición, racha, últimos resultados, próximos partidos y goleadores en ${liga.nombre}.`;
+
+const structuredData = {
+  '@context': 'https://schema.org',
+  '@type': 'SportsTeam',
+  name: equipo.nombre,
+  sport: 'Football',
+  memberOf: { '@type': 'SportsOrganization', name: liga.nombre },
+};
+
+---
+
+<BaseLayout
+  title={`${equipo.nombre} · ${liga.nombre}`}
+  description={descripcion}
+  structuredData={structuredData}
+>
+  <header class="cabecera">
+    {equipo.logo && <img src={equipo.logo} alt="" width="72" height="72" loading="lazy" />}
+    <div>
+      <p class="tag">{liga.nombre}</p>
+      <h1>{equipo.nombre}</h1>
+      {equipo.descripcion && <p class="muted zona">{equipo.descripcion}</p>}
+    </div>
+  </header>
+
+  {equipo.total && (
+    <section class="resumen">
+      <div class="dato">
+        <span class="etiqueta">Posición</span>
+        <strong>{equipo.posicion ?? '—'}</strong>
+      </div>
+      <div class="dato">
+        <span class="etiqueta">Puntos</span>
+        <strong>{equipo.puntos ?? '—'}</strong>
+      </div>
+      <div class="dato">
+        <span class="etiqueta">Jugados</span>
+        <strong>{equipo.total.played ?? '—'}</strong>
+      </div>
+      <div class="dato">
+        <span class="etiqueta">G · E · P</span>
+        <strong>{equipo.total.win}·{equipo.total.draw}·{equipo.total.lose}</strong>
+      </div>
+      <div class="dato">
+        <span class="etiqueta">Goles</span>
+        <strong>{equipo.total.goals?.for}:{equipo.total.goals?.against}</strong>
+      </div>
+      <div class="dato">
+        <span class="etiqueta">Diferencia</span>
+        <strong>{equipo.diferencia > 0 ? `+${equipo.diferencia}` : equipo.diferencia}</strong>
+      </div>
+    </section>
+  )}
+
+  {equipo.racha && (
+    <section class="bloque">
+      <h2>Racha</h2>
+      <div class="racha">
+        {
+          equipo.racha.split('').map((letra: string) => (
+            <span class={`bola ${letra === 'W' ? 'v' : letra === 'L' ? 'd' : 'e'}`}>
+              {letra === 'W' ? 'V' : letra === 'L' ? 'D' : 'E'}
+            </span>
+          ))
+        }
+      </div>
+      <p class="muted nota">De más antiguo a más reciente.</p>
+    </section>
+  )}
+
+  {equipo.casa && equipo.fuera && (
+    <section class="bloque">
+      <h2>Casa y fuera</h2>
+      <p class="muted nota">
+        El desglose donde se ve si un equipo depende de su estadio o si compite igual lejos de él.
+      </p>
+      <div class="table-scroll">
+        <table>
+          <thead>
+            <tr>
+              <th></th>
+              <th>PJ</th>
+              <th>G</th>
+              <th>E</th>
+              <th>P</th>
+              <th>GF</th>
+              <th>GC</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td class="fila-etiqueta">Casa</td>
+              <td>{equipo.casa.played}</td>
+              <td>{equipo.casa.win}</td>
+              <td>{equipo.casa.draw}</td>
+              <td>{equipo.casa.lose}</td>
+              <td>{equipo.casa.goals?.for}</td>
+              <td>{equipo.casa.goals?.against}</td>
+            </tr>
+            <tr>
+              <td class="fila-etiqueta">Fuera</td>
+              <td>{equipo.fuera.played}</td>
+              <td>{equipo.fuera.win}</td>
+              <td>{equipo.fuera.draw}</td>
+              <td>{equipo.fuera.lose}</td>
+              <td>{equipo.fuera.goals?.for}</td>
+              <td>{equipo.fuera.goals?.against}</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </section>
+  )}
+
+  {equipo.ultimos.length > 0 && (
+    <section class="bloque">
+      <h2>Últimos partidos</h2>
+      <ul class="partidos">
+        {
+          equipo.ultimos.map((p: any) => (
+            <li class="partido">
+              <span class={`marca ${p.resultado === 'V' ? 'v' : p.resultado === 'D' ? 'd' : 'e'}`}>
+                {p.resultado ?? '·'}
+              </span>
+              <span class="fecha muted">{fmtFecha(p.fecha)}</span>
+              <span class="sede muted">{p.local ? 'Casa' : 'Fuera'}</span>
+              {p.rivalLogo && <img src={p.rivalLogo} alt="" width="20" height="20" loading="lazy" />}
+              <span class="rival">{p.rival}</span>
+              <span class="marcador">{p.golesPropios}–{p.golesRival}</span>
+            </li>
+          ))
+        }
+      </ul>
+    </section>
+  )}
+
+  {equipo.proximos.length > 0 && (
+    <section class="bloque">
+      <h2>Próximos partidos</h2>
+      <ul class="partidos">
+        {
+          equipo.proximos.map((p: any) => (
+            <li class="partido">
+              <span class="marca proximo">→</span>
+              <span class="fecha muted">{fmtFecha(p.fecha)}</span>
+              <span class="sede muted">{p.local ? 'Casa' : 'Fuera'}</span>
+              {p.rivalLogo && <img src={p.rivalLogo} alt="" width="20" height="20" loading="lazy" />}
+              <span class="rival">{p.rival}</span>
+            </li>
+          ))
+        }
+      </ul>
+    </section>
+  )}
+
+  {(equipo.goleadores.length > 0 || equipo.asistentes.length > 0) && (
+    <section class="bloque">
+      <h2>Quién produce</h2>
+      <div class="dos-columnas">
+        {equipo.goleadores.length > 0 && (
+          <div>
+            <h3>Goleadores</h3>
+            <ul class="jugadores">
+              {
+                equipo.goleadores.map((j: any) => (
+                  <li>
+                    <span>{j.nombre}</span>
+                    <strong>{j.valor}</strong>
+                  </li>
+                ))
+              }
+            </ul>
+          </div>
+        )}
+        {equipo.asistentes.length > 0 && (
+          <div>
+            <h3>Asistentes</h3>
+            <ul class="jugadores">
+              {
+                equipo.asistentes.map((j: any) => (
+                  <li>
+                    <span>{j.nombre}</span>
+                    <strong>{j.valor}</strong>
+                  </li>
+                ))
+              }
+            </ul>
+          </div>
+        )}
+      </div>
+      <p class="muted nota">
+        Solo aparecen los jugadores que están entre los mejores de la liga; no es la plantilla completa.
+      </p>
+    </section>
+  )}
+
+  <nav class="volver">
+    <a href={`/datos/${liga.slug}/clasificacion`}>← Clasificación de {liga.nombre}</a>
+  </nav>
+</BaseLayout>
+
+<style>
+  .cabecera {
+    display: flex;
+    align-items: center;
+    gap: 1.25rem;
+    padding-block: 2.5rem 1.5rem;
+  }
+
+  .cabecera img {
+    object-fit: contain;
+    flex-shrink: 0;
+  }
+
+  .cabecera h1 {
+    margin: 0.4rem 0 0;
+    font-size: 2rem;
+    line-height: 1.1;
+  }
+
+  .zona {
+    margin: 0.35rem 0 0;
+    font-size: 0.85rem;
+  }
+
+  .resumen {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(7rem, 1fr));
+    gap: 1px;
+    background: var(--color-border);
+    border: 1px solid var(--color-border);
+    border-radius: 0.5rem;
+    overflow: hidden;
+  }
+
+  .dato {
+    background: var(--color-bg-elevated);
+    padding: 0.85rem 1rem;
+    display: flex;
+    flex-direction: column;
+    gap: 0.2rem;
+  }
+
+  .etiqueta {
+    font-size: 0.68rem;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    color: var(--color-text-muted);
+  }
+
+  .dato strong {
+    font-size: 1.3rem;
+    font-variant-numeric: tabular-nums;
+  }
+
+  .bloque {
+    margin-top: 2.5rem;
+  }
+
+  .bloque h2 {
+    font-size: 1.15rem;
+    margin: 0 0 0.75rem;
+  }
+
+  .bloque h3 {
+    font-size: 0.8rem;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    color: var(--color-text-muted);
+    margin: 0 0 0.6rem;
+  }
+
+  .nota {
+    font-size: 0.82rem;
+    margin: 0.6rem 0 0;
+  }
+
+  .racha {
+    display: flex;
+    gap: 0.4rem;
+  }
+
+  .bola {
+    width: 1.9rem;
+    height: 1.9rem;
+    display: grid;
+    place-items: center;
+    border-radius: 50%;
+    font-size: 0.8rem;
+    font-weight: 700;
+    border: 1px solid var(--color-border);
+  }
+
+  .bola.v, .marca.v { background: var(--color-accent); color: #06110c; }
+  .bola.e, .marca.e { background: var(--color-tag-bg); color: var(--color-text-muted); }
+  .bola.d, .marca.d { background: #3a1d1d; color: #e88c8c; }
+
+  .partidos {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 1px;
+    background: var(--color-border);
+    border: 1px solid var(--color-border);
+    border-radius: 0.5rem;
+    overflow: hidden;
+  }
+
+  .partido {
+    background: var(--color-bg-elevated);
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    padding: 0.6rem 0.9rem;
+    font-size: 0.92rem;
+  }
+
+  .marca {
+    width: 1.5rem;
+    height: 1.5rem;
+    display: grid;
+    place-items: center;
+    border-radius: 0.3rem;
+    font-size: 0.72rem;
+    font-weight: 700;
+    flex-shrink: 0;
+  }
+
+  .marca.proximo { background: var(--color-tag-bg); color: var(--color-accent); }
+
+  .fecha { min-width: 4.2rem; font-size: 0.82rem; }
+  .sede { min-width: 3.2rem; font-size: 0.82rem; }
+  .rival { flex: 1; }
+  .marcador { font-variant-numeric: tabular-nums; font-weight: 600; }
+
+  .partido img { object-fit: contain; flex-shrink: 0; }
+
+  .dos-columnas {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(13rem, 1fr));
+    gap: 1.5rem;
+  }
+
+  .jugadores {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 0.35rem;
+  }
+
+  .jugadores li {
+    display: flex;
+    justify-content: space-between;
+    gap: 1rem;
+    font-size: 0.92rem;
+    border-bottom: 1px solid var(--color-border);
+    padding-bottom: 0.35rem;
+  }
+
+  .jugadores strong { font-variant-numeric: tabular-nums; color: var(--color-accent); }
+
+  .table-scroll { overflow-x: auto; }
+
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 0.9rem;
+  }
+
+  th, td {
+    text-align: left;
+    padding: 0.5rem 0.7rem;
+    border-bottom: 1px solid var(--color-border);
+    white-space: nowrap;
+    font-variant-numeric: tabular-nums;
+  }
+
+  th {
+    color: var(--color-text-muted);
+    font-weight: 600;
+    font-size: 0.7rem;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+  }
+
+  .fila-etiqueta { font-weight: 600; }
+
+  .volver {
+    margin: 3rem 0 4rem;
+  }
+
+  .volver a {
+    color: var(--color-text-muted);
+    text-decoration: none;
+    font-size: 0.9rem;
+  }
+
+  .volver a:hover { color: var(--color-accent); }
+
+  @media (max-width: 32rem) {
+    .sede { display: none; }
+  }
+</style>

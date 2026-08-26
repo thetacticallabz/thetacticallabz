@@ -45,87 +45,106 @@ function parseArgs(argv) {
   return args;
 }
 
+// Los datos de ejemplo replican la FORMA exacta de las respuestas reales de
+// API-Football (comprobada contra datos en producción), para poder desarrollar
+// y probar el sitio sin clave y sin gastar peticiones.
+const EQUIPOS_DEMO = [
+  { id: 9001, name: 'Atlético Demo', logo: null },
+  { id: 9002, name: 'Unión Ejemplo', logo: null },
+  { id: 9003, name: 'Deportivo Muestra', logo: null },
+  { id: 9004, name: 'Racing Prueba', logo: null },
+];
+
 function sampleData(type, slug) {
   const base = { _nota: 'DATOS DE EJEMPLO (--sample) — no son datos reales.' };
 
   if (type === 'standings') {
-    return {
-      ...base,
-      response: [
-        {
-          league: {
-            id: 0,
-            name: slug,
-            standings: [
-              [
-                {
-                  rank: 1,
-                  team: { id: 1, name: 'Equipo Local Demo' },
-                  points: 62,
-                  goalsDiff: 24,
-                  form: 'WWDWL',
-                  all: { played: 28, win: 19, draw: 5, lose: 4, goals: { for: 52, against: 28 } },
-                },
-                {
-                  rank: 2,
-                  team: { id: 2, name: 'Equipo Demo C' },
-                  points: 55,
-                  goalsDiff: 15,
-                  form: 'WDWWD',
-                  all: { played: 28, win: 16, draw: 7, lose: 5, goals: { for: 44, against: 29 } },
-                },
-              ],
-            ],
-          },
-        },
-      ],
-    };
+    const filas = EQUIPOS_DEMO.map((team, i) => {
+      const jugados = 6;
+      const ganados = 5 - i;
+      const empatados = i % 2;
+      const perdidos = jugados - ganados - empatados;
+      const aFavor = 14 - i * 2;
+      const enContra = 4 + i * 2;
+      return {
+        rank: i + 1,
+        team,
+        points: ganados * 3 + empatados,
+        goalsDiff: aFavor - enContra,
+        group: slug,
+        form: ['WWWDW', 'WDWLW', 'DLWDL', 'LLDLW'][i],
+        status: 'same',
+        description: i === 0 ? 'Promotion - Champions League' : null,
+        all: { played: jugados, win: ganados, draw: empatados, lose: perdidos, goals: { for: aFavor, against: enContra } },
+        home: (() => {
+          const g = Math.min(3, Math.max(0, Math.ceil(ganados / 2)));
+          const e = Math.min(3 - g, empatados);
+          return { played: 3, win: g, draw: e, lose: 3 - g - e, goals: { for: Math.round(aFavor / 2), against: Math.round(enContra / 2) } };
+        })(),
+        away: (() => {
+          const g = Math.min(3, Math.max(0, Math.floor(ganados / 2)));
+          const e = Math.min(3 - g, empatados);
+          return { played: 3, win: g, draw: e, lose: 3 - g - e, goals: { for: Math.floor(aFavor / 2), against: Math.floor(enContra / 2) } };
+        })(),
+        update: '2026-08-25T00:00:00+00:00',
+      };
+    });
+    return { ...base, response: [{ league: { id: 0, name: slug, standings: [filas] } }] };
   }
 
   if (type === 'topscorers' || type === 'topassists') {
-    const statKey = type === 'topscorers' ? 'goals' : 'assists';
+    const esGoles = type === 'topscorers';
     return {
       ...base,
-      response: [
-        {
-          player: { id: 10, name: 'Jugador Demo A', photo: null },
+      response: EQUIPOS_DEMO.flatMap((team, i) =>
+        [0, 1].map((j) => ({
+          player: { id: 9100 + i * 10 + j, name: `Jugador Demo ${i + 1}${j === 0 ? 'A' : 'B'}`, photo: null },
           statistics: [
             {
-              team: { name: 'Equipo Local Demo' },
-              games: { appearences: 27 },
-              goals: { total: statKey === 'goals' ? 19 : 8, assists: statKey === 'assists' ? 11 : 5 },
+              team,
+              games: { appearences: 6 - j },
+              goals: {
+                total: esGoles ? 8 - i - j * 2 : 3,
+                assists: esGoles ? 2 : 6 - i - j * 2,
+              },
             },
           ],
-        },
-        {
-          player: { id: 11, name: 'Jugador Demo B', photo: null },
-          statistics: [
-            {
-              team: { name: 'Equipo Demo C' },
-              games: { appearences: 25 },
-              goals: { total: statKey === 'goals' ? 14 : 6, assists: statKey === 'assists' ? 9 : 4 },
-            },
-          ],
-        },
-      ],
+        }))
+      ),
     };
   }
 
-  // fixtures
-  return {
-    ...base,
-    response: [
-      {
-        fixture: { id: 900001, date: '2026-08-23T18:00:00+00:00', status: { short: 'FT' } },
-        league: { id: 0, name: slug, round: 'Jornada 3' },
-        teams: {
-          home: { id: 1, name: 'Equipo Local Demo', winner: true },
-          away: { id: 2, name: 'Equipo Visitante Demo', winner: false },
+  // fixtures: unos cuantos jugados y unos cuantos por jugar
+  const partidos = [];
+  let id = 900000;
+  for (let jornada = 1; jornada <= 4; jornada++) {
+    const jugado = jornada <= 3;
+    for (let par = 0; par < 2; par++) {
+      const local = EQUIPOS_DEMO[(jornada + par) % 4];
+      const visitante = EQUIPOS_DEMO[(jornada + par + 1) % 4];
+      partidos.push({
+        fixture: {
+          id: id++,
+          date: `2026-08-${String(5 + jornada * 5).padStart(2, '0')}T18:00:00+00:00`,
+          venue: { name: 'Estadio de Ejemplo', city: 'Ciudad Demo' },
+          status: jugado
+            ? { long: 'Match Finished', short: 'FT', elapsed: 90 }
+            : { long: 'Not Started', short: 'NS', elapsed: null },
         },
-        goals: { home: 2, away: 1 },
-      },
-    ],
-  };
+        league: { id: 0, name: slug, season: 2026, round: `Regular Season - ${jornada}` },
+        teams: {
+          home: { ...local, winner: jugado ? true : null },
+          away: { ...visitante, winner: jugado ? false : null },
+        },
+        goals: jugado ? { home: 2, away: 1 } : { home: null, away: null },
+        score: {
+          halftime: jugado ? { home: 1, away: 0 } : { home: null, away: null },
+          fulltime: jugado ? { home: 2, away: 1 } : { home: null, away: null },
+        },
+      });
+    }
+  }
+  return { ...base, response: partidos };
 }
 
 export async function fetchLeagueData({ type, league, season, slug, sample }) {
