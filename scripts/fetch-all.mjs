@@ -52,8 +52,15 @@ async function main() {
     }
   }
 
-  console.log(`\nHecho: ${ok} archivo(s) actualizados, ${fail} fallo(s).`);
-  if (fail > 0) process.exitCode = 1;
+    console.log(`\nHecho: ${ok} archivo(s) actualizados, ${fail} fallo(s).`);
+  // Solo damos el proceso por fallido si NO se pudo descargar nada. Si algunas
+  // ligas fallan pero otras funcionan, guardamos lo que sí tenemos.
+  if (ok === 0) {
+    console.error('No se pudo descargar ningún dato.');
+    process.exitCode = 1;
+  } else if (fail > 0) {
+    console.warn(`Atención: ${fail} descarga(s) fallaron, pero se guardan las que sí funcionaron.`);
+  }
 }
 
 main().catch((err) => {
