@@ -47,7 +47,7 @@
           "games": {
             "appearences": 23,
             "lineups": 23,
-            "minutes": 1861,
+            "minutes": 1854,
             "number": 8,
             "position": "Midfielder",
             "rating": "7.21",
@@ -69,18 +69,18 @@
             "saves": null
           },
           "passes": {
-            "total": 1035,
+            "total": 1034,
             "key": 51,
             "accuracy": 87
           },
           "tackles": {
-            "total": 21,
+            "total": 20,
             "blocks": 3,
             "interceptions": 10
           },
           "duels": {
             "total": 128,
-            "won": 58
+            "won": 57
           },
           "dribbles": {
             "attempts": 21,
@@ -617,10 +617,10 @@
           "games": {
             "appearences": 21,
             "lineups": 19,
-            "minutes": 1591,
+            "minutes": 1584,
             "number": 42,
             "position": "Attacker",
-            "rating": "7.08",
+            "rating": "7.09",
             "captain": false
           },
           "substitutes": {
@@ -650,7 +650,7 @@
           },
           "duels": {
             "total": 296,
-            "won": 138
+            "won": 139
           },
           "dribbles": {
             "attempts": 64,
@@ -658,7 +658,7 @@
             "past": null
           },
           "fouls": {
-            "drawn": 45,
+            "drawn": 46,
             "committed": 30
           },
           "cards": {
@@ -900,51 +900,51 @@
             "season": 2026
           },
           "games": {
-            "appearences": 22,
+            "appearences": 23,
             "lineups": 19,
-            "minutes": 1594,
+            "minutes": 1615,
             "number": 33,
             "position": "Attacker",
-            "rating": "7.06",
+            "rating": "7.1",
             "captain": false
           },
           "substitutes": {
-            "in": 3,
+            "in": 4,
             "out": 15,
-            "bench": 4
+            "bench": 5
           },
           "shots": {
-            "total": 17,
-            "on": 9
+            "total": 18,
+            "on": 10
           },
           "goals": {
-            "total": 2,
+            "total": 3,
             "conceded": 0,
             "assists": 4,
             "saves": null
           },
           "passes": {
-            "total": 567,
-            "key": 29,
+            "total": 578,
+            "key": 30,
             "accuracy": 75
           },
           "tackles": {
-            "total": 12,
+            "total": 13,
             "blocks": null,
             "interceptions": 2
           },
           "duels": {
-            "total": 161,
-            "won": 86
+            "total": 165,
+            "won": 89
           },
           "dribbles": {
-            "attempts": 48,
-            "success": 26,
+            "attempts": 50,
+            "success": 28,
             "past": null
           },
           "fouls": {
             "drawn": 45,
-            "committed": 8
+            "committed": 10
           },
           "cards": {
             "yellow": 1,
@@ -995,18 +995,18 @@
             "season": 2026
           },
           "games": {
-            "appearences": 15,
+            "appearences": 16,
             "lineups": 10,
-            "minutes": 1110,
+            "minutes": 1130,
             "number": 2,
             "position": "Defender",
-            "rating": "6.87",
+            "rating": "6.83",
             "captain": false
           },
           "substitutes": {
-            "in": 5,
+            "in": 6,
             "out": 1,
-            "bench": 10
+            "bench": 11
           },
           "shots": {
             "total": 21,
@@ -1019,18 +1019,18 @@
             "saves": null
           },
           "passes": {
-            "total": 442,
+            "total": 445,
             "key": 24,
             "accuracy": 83
           },
           "tackles": {
-            "total": 12,
+            "total": 13,
             "blocks": 3,
             "interceptions": 9
           },
           "duels": {
-            "total": 91,
-            "won": 61
+            "total": 92,
+            "won": 62
           },
           "dribbles": {
             "attempts": 9,
@@ -1399,7 +1399,7 @@
             "saves": null
           },
           "passes": {
-            "total": 664,
+            "total": 663,
             "key": 52,
             "accuracy": 74
           },
@@ -1504,7 +1504,7 @@
             "interceptions": 2
           },
           "duels": {
-            "total": 198,
+            "total": 199,
             "won": 91
           },
           "dribbles": {
@@ -1518,6 +1518,101 @@
           },
           "cards": {
             "yellow": 2,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 350927,
+        "name": "Henry Mosquera",
+        "firstname": "Henry David",
+        "lastname": "Mosquera Sánchez",
+        "age": 24,
+        "birth": {
+          "date": "2001-11-15",
+          "place": "Quibdó",
+          "country": "Colombia"
+        },
+        "nationality": "Colombia",
+        "height": null,
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/350927.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 794,
+            "name": "RB Bragantino",
+            "logo": "https://media.api-sports.io/football/teams/794.png"
+          },
+          "league": {
+            "id": 71,
+            "name": "Serie A",
+            "country": "Brazil",
+            "logo": "https://media.api-sports.io/football/leagues/71.png",
+            "flag": "https://media.api-sports.io/flags/br.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 19,
+            "lineups": 14,
+            "minutes": 1220,
+            "number": 30,
+            "position": "Attacker",
+            "rating": "7.05",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 5,
+            "out": 11,
+            "bench": 5
+          },
+          "shots": {
+            "total": 22,
+            "on": 10
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 4,
+            "saves": null
+          },
+          "passes": {
+            "total": 304,
+            "key": 35,
+            "accuracy": 82
+          },
+          "tackles": {
+            "total": 14,
+            "blocks": 2,
+            "interceptions": 4
+          },
+          "duels": {
+            "total": 195,
+            "won": 108
+          },
+          "dribbles": {
+            "attempts": 109,
+            "success": 75,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 14,
+            "committed": 21
+          },
+          "cards": {
+            "yellow": 5,
             "yellowred": 0,
             "red": 0
           },
@@ -1671,7 +1766,7 @@
           "substitutes": {
             "in": 4,
             "out": 6,
-            "bench": 9
+            "bench": 10
           },
           "shots": {
             "total": 6,
@@ -1810,101 +1905,6 @@
             "won": null,
             "commited": null,
             "scored": 0,
-            "missed": 0,
-            "saved": null
-          }
-        }
-      ]
-    },
-    {
-      "player": {
-        "id": 13198,
-        "name": "K. Viveros",
-        "firstname": "Kevin Stiben",
-        "lastname": "Viveros Rodallega",
-        "age": 25,
-        "birth": {
-          "date": "2000-04-26",
-          "place": "Buenaventura",
-          "country": "Colombia"
-        },
-        "nationality": "Colombia",
-        "height": "180",
-        "weight": "77",
-        "injured": false,
-        "photo": "https://media.api-sports.io/football/players/13198.png"
-      },
-      "statistics": [
-        {
-          "team": {
-            "id": 134,
-            "name": "Atletico Paranaense",
-            "logo": "https://media.api-sports.io/football/teams/134.png"
-          },
-          "league": {
-            "id": 71,
-            "name": "Serie A",
-            "country": "Brazil",
-            "logo": "https://media.api-sports.io/football/leagues/71.png",
-            "flag": "https://media.api-sports.io/flags/br.svg",
-            "season": 2026
-          },
-          "games": {
-            "appearences": 23,
-            "lineups": 23,
-            "minutes": 2105,
-            "number": 9,
-            "position": "Attacker",
-            "rating": "7.24",
-            "captain": false
-          },
-          "substitutes": {
-            "in": 0,
-            "out": 5,
-            "bench": 0
-          },
-          "shots": {
-            "total": 53,
-            "on": 37
-          },
-          "goals": {
-            "total": 16,
-            "conceded": 0,
-            "assists": 3,
-            "saves": null
-          },
-          "passes": {
-            "total": 224,
-            "key": 15,
-            "accuracy": 76
-          },
-          "tackles": {
-            "total": 4,
-            "blocks": 2,
-            "interceptions": 1
-          },
-          "duels": {
-            "total": 274,
-            "won": 101
-          },
-          "dribbles": {
-            "attempts": 45,
-            "success": 11,
-            "past": null
-          },
-          "fouls": {
-            "drawn": 74,
-            "committed": 51
-          },
-          "cards": {
-            "yellow": 4,
-            "yellowred": 0,
-            "red": 0
-          },
-          "penalty": {
-            "won": 4,
-            "commited": null,
-            "scored": 2,
             "missed": 0,
             "saved": null
           }

@@ -64,25 +64,70 @@
                   "against": 0
                 }
               },
-              "update": "2026-08-24T00:00:00+00:00"
+              "update": "2026-08-30T00:00:00+00:00"
             },
             {
               "rank": 2,
+              "team": {
+                "id": 93,
+                "name": "Reims",
+                "logo": "https://media.api-sports.io/football/teams/93.png"
+              },
+              "points": 8,
+              "goalsDiff": 5,
+              "group": "Ligue 2",
+              "form": "WWDD",
+              "status": "same",
+              "description": "Promotion - Ligue 1",
+              "all": {
+                "played": 4,
+                "win": 2,
+                "draw": 2,
+                "lose": 0,
+                "goals": {
+                  "for": 10,
+                  "against": 5
+                }
+              },
+              "home": {
+                "played": 2,
+                "win": 1,
+                "draw": 1,
+                "lose": 0,
+                "goals": {
+                  "for": 6,
+                  "against": 4
+                }
+              },
+              "away": {
+                "played": 2,
+                "win": 1,
+                "draw": 1,
+                "lose": 0,
+                "goals": {
+                  "for": 4,
+                  "against": 1
+                }
+              },
+              "update": "2026-08-30T00:00:00+00:00"
+            },
+            {
+              "rank": 3,
               "team": {
                 "id": 82,
                 "name": "Montpellier",
                 "logo": "https://media.api-sports.io/football/teams/82.png"
               },
-              "points": 7,
+              "points": 8,
               "goalsDiff": 2,
               "group": "Ligue 2",
-              "form": "WWD",
+              "form": "DWWD",
               "status": "same",
-              "description": "Promotion - Ligue 1",
+              "description": "Promotion - Ligue 1 (Promotion - Play Offs: Final)",
               "all": {
-                "played": 3,
+                "played": 4,
                 "win": 2,
-                "draw": 1,
+                "draw": 2,
                 "lose": 0,
                 "goals": {
                   "for": 3,
@@ -90,9 +135,9 @@
                 }
               },
               "home": {
-                "played": 1,
+                "played": 2,
                 "win": 0,
-                "draw": 1,
+                "draw": 2,
                 "lose": 0,
                 "goals": {
                   "for": 1,
@@ -109,39 +154,39 @@
                   "against": 0
                 }
               },
-              "update": "2026-08-24T00:00:00+00:00"
+              "update": "2026-08-30T00:00:00+00:00"
             },
             {
-              "rank": 3,
+              "rank": 4,
               "team": {
                 "id": 1301,
                 "name": "Rodez",
                 "logo": "https://media.api-sports.io/football/teams/1301.png"
               },
-              "points": 6,
+              "points": 7,
               "goalsDiff": 3,
               "group": "Ligue 2",
-              "form": "WLW",
+              "form": "DWLW",
               "status": "same",
-              "description": "Promotion - Ligue 1 (Promotion - Play Offs: Final)",
+              "description": "Promotion - Ligue 1 (Promotion - Play Offs: Semi-finals)",
               "all": {
-                "played": 3,
+                "played": 4,
                 "win": 2,
-                "draw": 0,
+                "draw": 1,
                 "lose": 1,
                 "goals": {
-                  "for": 8,
-                  "against": 5
+                  "for": 10,
+                  "against": 7
                 }
               },
               "home": {
-                "played": 1,
+                "played": 2,
                 "win": 1,
-                "draw": 0,
+                "draw": 1,
                 "lose": 0,
                 "goals": {
-                  "for": 3,
-                  "against": 1
+                  "for": 5,
+                  "against": 3
                 }
               },
               "away": {
@@ -154,122 +199,122 @@
                   "against": 4
                 }
               },
-              "update": "2026-08-24T00:00:00+00:00"
+              "update": "2026-08-30T00:00:00+00:00"
             },
             {
-              "rank": 4,
+              "rank": 5,
+              "team": {
+                "id": 102,
+                "name": "Nancy",
+                "logo": "https://media.api-sports.io/football/teams/102.png"
+              },
+              "points": 7,
+              "goalsDiff": 2,
+              "group": "Ligue 2",
+              "form": "WWLD",
+              "status": "same",
+              "description": "Promotion - Ligue 1 (Promotion - Play Offs: Semi-finals)",
+              "all": {
+                "played": 4,
+                "win": 2,
+                "draw": 1,
+                "lose": 1,
+                "goals": {
+                  "for": 3,
+                  "against": 1
+                }
+              },
+              "home": {
+                "played": 2,
+                "win": 1,
+                "draw": 0,
+                "lose": 1,
+                "goals": {
+                  "for": 2,
+                  "against": 1
+                }
+              },
+              "away": {
+                "played": 2,
+                "win": 1,
+                "draw": 1,
+                "lose": 0,
+                "goals": {
+                  "for": 1,
+                  "against": 0
+                }
+              },
+              "update": "2026-08-30T00:00:00+00:00"
+            },
+            {
+              "rank": 6,
               "team": {
                 "id": 3012,
                 "name": "Annecy",
                 "logo": "https://media.api-sports.io/football/teams/3012.png"
               },
+              "points": 7,
+              "goalsDiff": 1,
+              "group": "Ligue 2",
+              "form": "DLWW",
+              "status": "same",
+              "description": null,
+              "all": {
+                "played": 4,
+                "win": 2,
+                "draw": 1,
+                "lose": 1,
+                "goals": {
+                  "for": 5,
+                  "against": 4
+                }
+              },
+              "home": {
+                "played": 2,
+                "win": 1,
+                "draw": 1,
+                "lose": 0,
+                "goals": {
+                  "for": 3,
+                  "against": 1
+                }
+              },
+              "away": {
+                "played": 2,
+                "win": 1,
+                "draw": 0,
+                "lose": 1,
+                "goals": {
+                  "for": 2,
+                  "against": 3
+                }
+              },
+              "update": "2026-08-30T00:00:00+00:00"
+            },
+            {
+              "rank": 7,
+              "team": {
+                "id": 112,
+                "name": "Metz",
+                "logo": "https://media.api-sports.io/football/teams/112.png"
+              },
               "points": 6,
               "goalsDiff": 1,
               "group": "Ligue 2",
-              "form": "LWW",
+              "form": "DDDW",
               "status": "same",
-              "description": "Promotion - Ligue 1 (Promotion - Play Offs: Semi-finals)",
+              "description": null,
               "all": {
-                "played": 3,
-                "win": 2,
-                "draw": 0,
-                "lose": 1,
+                "played": 4,
+                "win": 1,
+                "draw": 3,
+                "lose": 0,
                 "goals": {
                   "for": 4,
                   "against": 3
                 }
               },
               "home": {
-                "played": 1,
-                "win": 1,
-                "draw": 0,
-                "lose": 0,
-                "goals": {
-                  "for": 2,
-                  "against": 0
-                }
-              },
-              "away": {
-                "played": 2,
-                "win": 1,
-                "draw": 0,
-                "lose": 1,
-                "goals": {
-                  "for": 2,
-                  "against": 3
-                }
-              },
-              "update": "2026-08-24T00:00:00+00:00"
-            },
-            {
-              "rank": 5,
-              "team": {
-                "id": 93,
-                "name": "Reims",
-                "logo": "https://media.api-sports.io/football/teams/93.png"
-              },
-              "points": 5,
-              "goalsDiff": 2,
-              "group": "Ligue 2",
-              "form": "WDD",
-              "status": "same",
-              "description": "Promotion - Ligue 1 (Promotion - Play Offs: Semi-finals)",
-              "all": {
-                "played": 3,
-                "win": 1,
-                "draw": 2,
-                "lose": 0,
-                "goals": {
-                  "for": 6,
-                  "against": 4
-                }
-              },
-              "home": {
-                "played": 2,
-                "win": 1,
-                "draw": 1,
-                "lose": 0,
-                "goals": {
-                  "for": 6,
-                  "against": 4
-                }
-              },
-              "away": {
-                "played": 1,
-                "win": 0,
-                "draw": 1,
-                "lose": 0,
-                "goals": {
-                  "for": 0,
-                  "against": 0
-                }
-              },
-              "update": "2026-08-24T00:00:00+00:00"
-            },
-            {
-              "rank": 6,
-              "team": {
-                "id": 112,
-                "name": "Metz",
-                "logo": "https://media.api-sports.io/football/teams/112.png"
-              },
-              "points": 5,
-              "goalsDiff": 1,
-              "group": "Ligue 2",
-              "form": "DDW",
-              "status": "same",
-              "description": null,
-              "all": {
-                "played": 3,
-                "win": 1,
-                "draw": 2,
-                "lose": 0,
-                "goals": {
-                  "for": 3,
-                  "against": 2
-                }
-              },
-              "home": {
                 "played": 2,
                 "win": 1,
                 "draw": 1,
@@ -280,48 +325,48 @@
                 }
               },
               "away": {
-                "played": 1,
+                "played": 2,
                 "win": 0,
-                "draw": 1,
+                "draw": 2,
                 "lose": 0,
                 "goals": {
-                  "for": 0,
-                  "against": 0
+                  "for": 1,
+                  "against": 1
                 }
               },
-              "update": "2026-08-24T00:00:00+00:00"
+              "update": "2026-08-30T00:00:00+00:00"
             },
             {
-              "rank": 7,
+              "rank": 8,
               "team": {
                 "id": 104,
                 "name": "RED Star FC 93",
                 "logo": "https://media.api-sports.io/football/teams/104.png"
               },
               "points": 5,
-              "goalsDiff": 1,
+              "goalsDiff": -2,
               "group": "Ligue 2",
-              "form": "DDW",
+              "form": "LDDW",
               "status": "same",
               "description": null,
               "all": {
-                "played": 3,
+                "played": 4,
                 "win": 1,
                 "draw": 2,
-                "lose": 0,
+                "lose": 1,
                 "goals": {
-                  "for": 2,
-                  "against": 1
+                  "for": 3,
+                  "against": 5
                 }
               },
               "home": {
-                "played": 1,
+                "played": 2,
                 "win": 0,
                 "draw": 1,
-                "lose": 0,
+                "lose": 1,
                 "goals": {
-                  "for": 0,
-                  "against": 0
+                  "for": 1,
+                  "against": 4
                 }
               },
               "away": {
@@ -334,84 +379,174 @@
                   "against": 1
                 }
               },
-              "update": "2026-08-24T00:00:00+00:00"
+              "update": "2026-08-30T00:00:00+00:00"
             },
             {
-              "rank": 8,
+              "rank": 9,
+              "team": {
+                "id": 115,
+                "name": "Sochaux",
+                "logo": "https://media.api-sports.io/football/teams/115.png"
+              },
+              "points": 5,
+              "goalsDiff": -2,
+              "group": "Ligue 2",
+              "form": "DWDL",
+              "status": "same",
+              "description": null,
+              "all": {
+                "played": 4,
+                "win": 1,
+                "draw": 2,
+                "lose": 1,
+                "goals": {
+                  "for": 1,
+                  "against": 3
+                }
+              },
+              "home": {
+                "played": 2,
+                "win": 1,
+                "draw": 0,
+                "lose": 1,
+                "goals": {
+                  "for": 1,
+                  "against": 3
+                }
+              },
+              "away": {
+                "played": 2,
+                "win": 0,
+                "draw": 2,
+                "lose": 0,
+                "goals": {
+                  "for": 0,
+                  "against": 0
+                }
+              },
+              "update": "2026-08-30T00:00:00+00:00"
+            },
+            {
+              "rank": 10,
               "team": {
                 "id": 1304,
                 "name": "Dunkerque",
                 "logo": "https://media.api-sports.io/football/teams/1304.png"
               },
               "points": 4,
-              "goalsDiff": 1,
+              "goalsDiff": -1,
               "group": "Ligue 2",
-              "form": "LDW",
+              "form": "LLDW",
               "status": "same",
               "description": null,
               "all": {
-                "played": 3,
+                "played": 4,
                 "win": 1,
+                "draw": 1,
+                "lose": 2,
+                "goals": {
+                  "for": 7,
+                  "against": 8
+                }
+              },
+              "home": {
+                "played": 2,
+                "win": 1,
+                "draw": 0,
+                "lose": 1,
+                "goals": {
+                  "for": 4,
+                  "against": 3
+                }
+              },
+              "away": {
+                "played": 2,
+                "win": 0,
                 "draw": 1,
                 "lose": 1,
                 "goals": {
-                  "for": 7,
+                  "for": 3,
+                  "against": 5
+                }
+              },
+              "update": "2026-08-30T00:00:00+00:00"
+            },
+            {
+              "rank": 11,
+              "team": {
+                "id": 90,
+                "name": "Guingamp",
+                "logo": "https://media.api-sports.io/football/teams/90.png"
+              },
+              "points": 4,
+              "goalsDiff": -1,
+              "group": "Ligue 2",
+              "form": "DLWL",
+              "status": "same",
+              "description": null,
+              "all": {
+                "played": 4,
+                "win": 1,
+                "draw": 1,
+                "lose": 2,
+                "goals": {
+                  "for": 5,
                   "against": 6
                 }
               },
               "home": {
                 "played": 2,
                 "win": 1,
-                "draw": 0,
-                "lose": 1,
+                "draw": 1,
+                "lose": 0,
                 "goals": {
                   "for": 4,
                   "against": 3
                 }
               },
               "away": {
-                "played": 1,
+                "played": 2,
                 "win": 0,
-                "draw": 1,
-                "lose": 0,
+                "draw": 0,
+                "lose": 2,
                 "goals": {
-                  "for": 3,
+                  "for": 1,
                   "against": 3
                 }
               },
-              "update": "2026-08-24T00:00:00+00:00"
+              "update": "2026-08-30T00:00:00+00:00"
             },
             {
-              "rank": 9,
+              "rank": 12,
               "team": {
-                "id": 102,
-                "name": "Nancy",
-                "logo": "https://media.api-sports.io/football/teams/102.png"
+                "id": 1297,
+                "name": "PAU",
+                "logo": "https://media.api-sports.io/football/teams/1297.png"
               },
               "points": 4,
-              "goalsDiff": 0,
+              "goalsDiff": -1,
               "group": "Ligue 2",
-              "form": "WLD",
+              "form": "DLWL",
               "status": "same",
               "description": null,
               "all": {
-                "played": 3,
+                "played": 4,
                 "win": 1,
                 "draw": 1,
-                "lose": 1,
+                "lose": 2,
                 "goals": {
-                  "for": 1,
-                  "against": 1
+                  "for": 3,
+                  "against": 4
                 }
               },
               "home": {
-                "played": 1,
+                "played": 2,
                 "win": 0,
                 "draw": 0,
-                "lose": 1,
+                "lose": 2,
                 "goals": {
                   "for": 0,
-                  "against": 1
+                  "against": 2
                 }
               },
               "away": {
@@ -420,43 +555,88 @@
                 "draw": 1,
                 "lose": 0,
                 "goals": {
-                  "for": 1,
+                  "for": 3,
+                  "against": 2
+                }
+              },
+              "update": "2026-08-30T00:00:00+00:00"
+            },
+            {
+              "rank": 13,
+              "team": {
+                "id": 101,
+                "name": "Grenoble",
+                "logo": "https://media.api-sports.io/football/teams/101.png"
+              },
+              "points": 4,
+              "goalsDiff": -3,
+              "group": "Ligue 2",
+              "form": "WLDL",
+              "status": "same",
+              "description": null,
+              "all": {
+                "played": 4,
+                "win": 1,
+                "draw": 1,
+                "lose": 2,
+                "goals": {
+                  "for": 5,
+                  "against": 8
+                }
+              },
+              "home": {
+                "played": 1,
+                "win": 0,
+                "draw": 1,
+                "lose": 0,
+                "goals": {
+                  "for": 0,
                   "against": 0
                 }
               },
-              "update": "2026-08-24T00:00:00+00:00"
+              "away": {
+                "played": 3,
+                "win": 1,
+                "draw": 0,
+                "lose": 2,
+                "goals": {
+                  "for": 5,
+                  "against": 8
+                }
+              },
+              "update": "2026-08-30T00:00:00+00:00"
             },
             {
-              "rank": 10,
+              "rank": 14,
               "team": {
                 "id": 433,
                 "name": "Laval",
                 "logo": "https://media.api-sports.io/football/teams/433.png"
               },
               "points": 4,
-              "goalsDiff": -1,
+              "goalsDiff": -4,
               "group": "Ligue 2",
-              "form": "DWL",
+              "form": "LDWL",
               "status": "same",
               "description": null,
               "all": {
-                "played": 3,
+                "played": 4,
                 "win": 1,
                 "draw": 1,
-                "lose": 1,
+                "lose": 2,
                 "goals": {
                   "for": 4,
-                  "against": 5
+                  "against": 8
                 }
               },
               "home": {
-                "played": 1,
+                "played": 2,
                 "win": 1,
                 "draw": 0,
-                "lose": 0,
+                "lose": 1,
                 "goals": {
                   "for": 2,
-                  "against": 1
+                  "against": 4
                 }
               },
               "away": {
@@ -469,145 +649,100 @@
                   "against": 4
                 }
               },
-              "update": "2026-08-24T00:00:00+00:00"
+              "update": "2026-08-30T00:00:00+00:00"
             },
             {
-              "rank": 11,
+              "rank": 15,
               "team": {
-                "id": 115,
-                "name": "Sochaux",
-                "logo": "https://media.api-sports.io/football/teams/115.png"
+                "id": 1299,
+                "name": "Boulogne",
+                "logo": "https://media.api-sports.io/football/teams/1299.png"
               },
-              "points": 4,
+              "points": 3,
+              "goalsDiff": -1,
+              "group": "Ligue 2",
+              "form": "DDLD",
+              "status": "same",
+              "description": null,
+              "all": {
+                "played": 4,
+                "win": 0,
+                "draw": 3,
+                "lose": 1,
+                "goals": {
+                  "for": 1,
+                  "against": 2
+                }
+              },
+              "home": {
+                "played": 2,
+                "win": 0,
+                "draw": 2,
+                "lose": 0,
+                "goals": {
+                  "for": 1,
+                  "against": 1
+                }
+              },
+              "away": {
+                "played": 2,
+                "win": 0,
+                "draw": 1,
+                "lose": 1,
+                "goals": {
+                  "for": 0,
+                  "against": 1
+                }
+              },
+              "update": "2026-08-30T00:00:00+00:00"
+            },
+            {
+              "rank": 16,
+              "team": {
+                "id": 99,
+                "name": "Clermont Foot",
+                "logo": "https://media.api-sports.io/football/teams/99.png"
+              },
+              "points": 3,
               "goalsDiff": -2,
               "group": "Ligue 2",
-              "form": "WDL",
+              "form": "DDLD",
               "status": "same",
-              "description": null,
+              "description": "Ligue 2 (Relegation)",
               "all": {
-                "played": 3,
-                "win": 1,
-                "draw": 1,
-                "lose": 1,
-                "goals": {
-                  "for": 1,
-                  "against": 3
-                }
-              },
-              "home": {
-                "played": 2,
-                "win": 1,
-                "draw": 0,
-                "lose": 1,
-                "goals": {
-                  "for": 1,
-                  "against": 3
-                }
-              },
-              "away": {
-                "played": 1,
+                "played": 4,
                 "win": 0,
-                "draw": 1,
-                "lose": 0,
-                "goals": {
-                  "for": 0,
-                  "against": 0
-                }
-              },
-              "update": "2026-08-24T00:00:00+00:00"
-            },
-            {
-              "rank": 12,
-              "team": {
-                "id": 90,
-                "name": "Guingamp",
-                "logo": "https://media.api-sports.io/football/teams/90.png"
-              },
-              "points": 3,
-              "goalsDiff": -1,
-              "group": "Ligue 2",
-              "form": "LWL",
-              "status": "same",
-              "description": null,
-              "all": {
-                "played": 3,
-                "win": 1,
-                "draw": 0,
-                "lose": 2,
+                "draw": 3,
+                "lose": 1,
                 "goals": {
                   "for": 2,
-                  "against": 3
+                  "against": 4
                 }
               },
               "home": {
-                "played": 1,
-                "win": 1,
-                "draw": 0,
-                "lose": 0,
-                "goals": {
-                  "for": 1,
-                  "against": 0
-                }
-              },
-              "away": {
-                "played": 2,
-                "win": 0,
-                "draw": 0,
-                "lose": 2,
-                "goals": {
-                  "for": 1,
-                  "against": 3
-                }
-              },
-              "update": "2026-08-24T00:00:00+00:00"
-            },
-            {
-              "rank": 13,
-              "team": {
-                "id": 1297,
-                "name": "PAU",
-                "logo": "https://media.api-sports.io/football/teams/1297.png"
-              },
-              "points": 3,
-              "goalsDiff": -1,
-              "group": "Ligue 2",
-              "form": "LWL",
-              "status": "same",
-              "description": null,
-              "all": {
                 "played": 3,
-                "win": 1,
-                "draw": 0,
-                "lose": 2,
+                "win": 0,
+                "draw": 3,
+                "lose": 0,
                 "goals": {
                   "for": 1,
-                  "against": 2
-                }
-              },
-              "home": {
-                "played": 2,
-                "win": 0,
-                "draw": 0,
-                "lose": 2,
-                "goals": {
-                  "for": 0,
-                  "against": 2
+                  "against": 1
                 }
               },
               "away": {
                 "played": 1,
-                "win": 1,
+                "win": 0,
                 "draw": 0,
-                "lose": 0,
+                "lose": 1,
                 "goals": {
                   "for": 1,
-                  "against": 0
+                  "against": 3
                 }
               },
-              "update": "2026-08-24T00:00:00+00:00"
+              "update": "2026-08-30T00:00:00+00:00"
             },
             {
-              "rank": 14,
+              "rank": 17,
               "team": {
                 "id": 89,
                 "name": "Dijon",
@@ -618,173 +753,38 @@
               "group": "Ligue 2",
               "form": "DLD",
               "status": "same",
-              "description": null,
-              "all": {
-                "played": 3,
-                "win": 0,
-                "draw": 2,
-                "lose": 1,
-                "goals": {
-                  "for": 2,
-                  "against": 3
-                }
-              },
-              "home": {
-                "played": 1,
-                "win": 0,
-                "draw": 0,
-                "lose": 1,
-                "goals": {
-                  "for": 0,
-                  "against": 1
-                }
-              },
-              "away": {
-                "played": 2,
-                "win": 0,
-                "draw": 2,
-                "lose": 0,
-                "goals": {
-                  "for": 2,
-                  "against": 2
-                }
-              },
-              "update": "2026-08-24T00:00:00+00:00"
-            },
-            {
-              "rank": 15,
-              "team": {
-                "id": 1299,
-                "name": "Boulogne",
-                "logo": "https://media.api-sports.io/football/teams/1299.png"
-              },
-              "points": 2,
-              "goalsDiff": -1,
-              "group": "Ligue 2",
-              "form": "DLD",
-              "status": "same",
-              "description": null,
-              "all": {
-                "played": 3,
-                "win": 0,
-                "draw": 2,
-                "lose": 1,
-                "goals": {
-                  "for": 1,
-                  "against": 2
-                }
-              },
-              "home": {
-                "played": 2,
-                "win": 0,
-                "draw": 2,
-                "lose": 0,
-                "goals": {
-                  "for": 1,
-                  "against": 1
-                }
-              },
-              "away": {
-                "played": 1,
-                "win": 0,
-                "draw": 0,
-                "lose": 1,
-                "goals": {
-                  "for": 0,
-                  "against": 1
-                }
-              },
-              "update": "2026-08-24T00:00:00+00:00"
-            },
-            {
-              "rank": 16,
-              "team": {
-                "id": 99,
-                "name": "Clermont Foot",
-                "logo": "https://media.api-sports.io/football/teams/99.png"
-              },
-              "points": 2,
-              "goalsDiff": -2,
-              "group": "Ligue 2",
-              "form": "DLD",
-              "status": "same",
-              "description": "Ligue 2 (Relegation)",
-              "all": {
-                "played": 3,
-                "win": 0,
-                "draw": 2,
-                "lose": 1,
-                "goals": {
-                  "for": 2,
-                  "against": 4
-                }
-              },
-              "home": {
-                "played": 2,
-                "win": 0,
-                "draw": 2,
-                "lose": 0,
-                "goals": {
-                  "for": 1,
-                  "against": 1
-                }
-              },
-              "away": {
-                "played": 1,
-                "win": 0,
-                "draw": 0,
-                "lose": 1,
-                "goals": {
-                  "for": 1,
-                  "against": 3
-                }
-              },
-              "update": "2026-08-24T00:00:00+00:00"
-            },
-            {
-              "rank": 17,
-              "team": {
-                "id": 101,
-                "name": "Grenoble",
-                "logo": "https://media.api-sports.io/football/teams/101.png"
-              },
-              "points": 1,
-              "goalsDiff": -6,
-              "group": "Ligue 2",
-              "form": "LDL",
-              "status": "same",
               "description": "Relegation - Ligue 3",
               "all": {
                 "played": 3,
                 "win": 0,
-                "draw": 1,
-                "lose": 2,
+                "draw": 2,
+                "lose": 1,
                 "goals": {
                   "for": 2,
-                  "against": 8
+                  "against": 3
                 }
               },
               "home": {
                 "played": 1,
                 "win": 0,
-                "draw": 1,
-                "lose": 0,
+                "draw": 0,
+                "lose": 1,
                 "goals": {
                   "for": 0,
-                  "against": 0
+                  "against": 1
                 }
               },
               "away": {
                 "played": 2,
                 "win": 0,
-                "draw": 0,
-                "lose": 2,
+                "draw": 2,
+                "lose": 0,
                 "goals": {
                   "for": 2,
-                  "against": 8
+                  "against": 2
                 }
               },
-              "update": "2026-08-24T00:00:00+00:00"
+              "update": "2026-08-30T00:00:00+00:00"
             },
             {
               "rank": 18,
@@ -793,20 +793,20 @@
                 "name": "Nantes",
                 "logo": "https://media.api-sports.io/football/teams/83.png"
               },
-              "points": 0,
+              "points": 1,
               "goalsDiff": -5,
               "group": "Ligue 2",
-              "form": "LLL",
+              "form": "DLLL",
               "status": "same",
               "description": "Relegation - Ligue 3",
               "all": {
-                "played": 3,
+                "played": 4,
                 "win": 0,
-                "draw": 0,
+                "draw": 1,
                 "lose": 3,
                 "goals": {
-                  "for": 3,
-                  "against": 8
+                  "for": 6,
+                  "against": 11
                 }
               },
               "home": {
@@ -820,16 +820,16 @@
                 }
               },
               "away": {
-                "played": 1,
+                "played": 2,
                 "win": 0,
-                "draw": 0,
+                "draw": 1,
                 "lose": 1,
                 "goals": {
-                  "for": 1,
-                  "against": 2
+                  "for": 4,
+                  "against": 5
                 }
               },
-              "update": "2026-08-24T00:00:00+00:00"
+              "update": "2026-08-30T00:00:00+00:00"
             }
           ]
         ]

@@ -1699,8 +1699,8 @@
         "date": "2026-08-29T11:30:00+00:00",
         "timestamp": 1788003000,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1788003000,
+          "second": 1788006600
         },
         "venue": {
           "id": null,
@@ -1708,9 +1708,9 @@
           "city": "Milton Keynes"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
           "extra": null
         }
       },
@@ -1739,17 +1739,17 @@
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 0,
+        "away": 0
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         },
         "extratime": {
           "home": null,
@@ -1769,8 +1769,8 @@
         "date": "2026-08-29T11:30:00+00:00",
         "timestamp": 1788003000,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1788003000,
+          "second": 1788006600
         },
         "venue": {
           "id": null,
@@ -1778,9 +1778,9 @@
           "city": "Blackpool"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
           "extra": null
         }
       },
@@ -1799,27 +1799,27 @@
           "id": 1356,
           "name": "Blackpool",
           "logo": "https://media.api-sports.io/football/teams/1356.png",
-          "winner": null
+          "winner": true
         },
         "away": {
           "id": 1350,
           "name": "Peterborough",
           "logo": "https://media.api-sports.io/football/teams/1350.png",
-          "winner": null
+          "winner": false
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 4,
+        "away": 0
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 0
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 4,
+          "away": 0
         },
         "extratime": {
           "home": null,
@@ -1839,8 +1839,8 @@
         "date": "2026-08-29T14:00:00+00:00",
         "timestamp": 1788012000,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1788012000,
+          "second": 1788015600
         },
         "venue": {
           "id": 582,
@@ -1848,9 +1848,9 @@
           "city": "Sheffield"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
           "extra": null
         }
       },
@@ -1869,27 +1869,27 @@
           "id": 74,
           "name": "Sheffield Wednesday",
           "logo": "https://media.api-sports.io/football/teams/74.png",
-          "winner": null
+          "winner": true
         },
         "away": {
           "id": 1832,
           "name": "Bromley",
           "logo": "https://media.api-sports.io/football/teams/1832.png",
-          "winner": null
+          "winner": false
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 7,
+        "away": 2
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 3,
+          "away": 0
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 7,
+          "away": 2
         },
         "extratime": {
           "home": null,
@@ -1909,8 +1909,8 @@
         "date": "2026-08-29T14:00:00+00:00",
         "timestamp": 1788012000,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1788012000,
+          "second": 1788015600
         },
         "venue": {
           "id": 571,
@@ -1918,9 +1918,9 @@
           "city": "Plymouth"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
           "extra": null
         }
       },
@@ -1939,27 +1939,27 @@
           "id": 1357,
           "name": "Plymouth",
           "logo": "https://media.api-sports.io/football/teams/1357.png",
-          "winner": null
+          "winner": true
         },
         "away": {
           "id": 1343,
           "name": "Bradford",
           "logo": "https://media.api-sports.io/football/teams/1343.png",
-          "winner": null
+          "winner": false
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 2,
+        "away": 0
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 0
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 0
         },
         "extratime": {
           "home": null,
@@ -1979,18 +1979,18 @@
         "date": "2026-08-29T14:00:00+00:00",
         "timestamp": 1788012000,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1788012000,
+          "second": 1788015600
         },
         "venue": {
           "id": null,
-          "name": "Lamex Stadium",
+          "name": "SPORTA Arena",
           "city": "Stevenage"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
           "extra": null
         }
       },
@@ -2019,17 +2019,17 @@
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 2,
+        "away": 2
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 2
         },
         "extratime": {
           "home": null,
@@ -2049,8 +2049,8 @@
         "date": "2026-08-29T14:00:00+00:00",
         "timestamp": 1788012000,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1788012000,
+          "second": 1788015600
         },
         "venue": {
           "id": null,
@@ -2058,9 +2058,9 @@
           "city": "Cambridge"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
           "extra": null
         }
       },
@@ -2079,27 +2079,27 @@
           "id": 1370,
           "name": "Cambridge United",
           "logo": "https://media.api-sports.io/football/teams/1370.png",
-          "winner": null
+          "winner": false
         },
         "away": {
           "id": 37,
           "name": "Huddersfield",
           "logo": "https://media.api-sports.io/football/teams/37.png",
-          "winner": null
+          "winner": true
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 1,
+        "away": 2
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 2
         },
         "extratime": {
           "home": null,
@@ -2119,8 +2119,8 @@
         "date": "2026-08-29T14:00:00+00:00",
         "timestamp": 1788012000,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1788012000,
+          "second": 1788015600
         },
         "venue": {
           "id": 18618,
@@ -2128,9 +2128,9 @@
           "city": "London"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
           "extra": null
         }
       },
@@ -2149,27 +2149,27 @@
           "id": 1373,
           "name": "Leyton Orient",
           "logo": "https://media.api-sports.io/football/teams/1373.png",
-          "winner": null
+          "winner": false
         },
         "away": {
           "id": 747,
           "name": "Barnsley",
           "logo": "https://media.api-sports.io/football/teams/747.png",
-          "winner": null
+          "winner": true
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 1,
+        "away": 3
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 1
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 3
         },
         "extratime": {
           "home": null,
@@ -2189,8 +2189,8 @@
         "date": "2026-08-29T14:00:00+00:00",
         "timestamp": 1788012000,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1788012000,
+          "second": 1788015600
         },
         "venue": {
           "id": null,
@@ -2198,9 +2198,9 @@
           "city": "Nottingham"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
           "extra": null
         }
       },
@@ -2219,27 +2219,27 @@
           "id": 1376,
           "name": "Notts County",
           "logo": "https://media.api-sports.io/football/teams/1376.png",
-          "winner": null
+          "winner": true
         },
         "away": {
           "id": 748,
           "name": "Burton Albion",
           "logo": "https://media.api-sports.io/football/teams/748.png",
-          "winner": null
+          "winner": false
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 2,
+        "away": 1
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 1
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 1
         },
         "extratime": {
           "home": null,
@@ -2259,8 +2259,8 @@
         "date": "2026-08-29T14:00:00+00:00",
         "timestamp": 1788012000,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1788012000,
+          "second": 1788015600
         },
         "venue": {
           "id": null,
@@ -2268,9 +2268,9 @@
           "city": "Stockport"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
           "extra": null
         }
       },
@@ -2289,27 +2289,27 @@
           "id": 4686,
           "name": "Stockport County",
           "logo": "https://media.api-sports.io/football/teams/4686.png",
-          "winner": null
+          "winner": true
         },
         "away": {
           "id": 1358,
           "name": "Wycombe",
           "logo": "https://media.api-sports.io/football/teams/1358.png",
-          "winner": null
+          "winner": false
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 5,
+        "away": 1
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 1
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 5,
+          "away": 1
         },
         "extratime": {
           "home": null,
@@ -2329,8 +2329,8 @@
         "date": "2026-08-30T13:00:00+00:00",
         "timestamp": 1788094800,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1788094800,
+          "second": 1788098400
         },
         "venue": {
           "id": 12456,
@@ -2338,10 +2338,10 @@
           "city": "London"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 10
         }
       },
       "league": {
@@ -2359,27 +2359,27 @@
           "id": 1333,
           "name": "AFC Wimbledon",
           "logo": "https://media.api-sports.io/football/teams/1333.png",
-          "winner": null
+          "winner": true
         },
         "away": {
           "id": 61,
           "name": "Wigan",
           "logo": "https://media.api-sports.io/football/teams/61.png",
-          "winner": null
+          "winner": false
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 1,
+        "away": 0
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 0
         },
         "extratime": {
           "home": null,
@@ -2399,8 +2399,8 @@
         "date": "2026-08-30T14:00:00+00:00",
         "timestamp": 1788098400,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1788098400,
+          "second": 1788102000
         },
         "venue": {
           "id": null,
@@ -2408,10 +2408,10 @@
           "city": "Mansfield"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 6
         }
       },
       "league": {
@@ -2429,27 +2429,27 @@
           "id": 1374,
           "name": "Mansfield Town",
           "logo": "https://media.api-sports.io/football/teams/1374.png",
-          "winner": null
+          "winner": true
         },
         "away": {
           "id": 1359,
           "name": "Luton",
           "logo": "https://media.api-sports.io/football/teams/1359.png",
-          "winner": null
+          "winner": false
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 5,
+        "away": 2
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 3,
+          "away": 0
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 5,
+          "away": 2
         },
         "extratime": {
           "home": null,
@@ -4224,7 +4224,7 @@
         },
         "venue": {
           "id": null,
-          "name": "Lamex Stadium",
+          "name": "SPORTA Arena",
           "city": "Stevenage"
         },
         "status": {

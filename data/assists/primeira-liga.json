@@ -45,51 +45,51 @@
             "season": 2026
           },
           "games": {
-            "appearences": 3,
-            "lineups": 3,
-            "minutes": 212,
+            "appearences": 4,
+            "lineups": 4,
+            "minutes": 277,
             "number": 10,
             "position": "Midfielder",
-            "rating": "6.97",
+            "rating": "7.05",
             "captain": false
           },
           "substitutes": {
             "in": 0,
-            "out": 3,
+            "out": 4,
             "bench": 0
           },
           "shots": {
-            "total": 1,
-            "on": 1
+            "total": 2,
+            "on": 2
           },
           "goals": {
-            "total": 0,
+            "total": 1,
             "conceded": 0,
             "assists": 3,
             "saves": null
           },
           "passes": {
-            "total": 87,
+            "total": 109,
             "key": 4,
-            "accuracy": 77
+            "accuracy": 76
           },
           "tackles": {
             "total": 3,
             "blocks": null,
-            "interceptions": null
+            "interceptions": 1
           },
           "duels": {
-            "total": 27,
-            "won": 16
+            "total": 37,
+            "won": 20
           },
           "dribbles": {
-            "attempts": 12,
-            "success": 7,
+            "attempts": 15,
+            "success": 9,
             "past": null
           },
           "fouls": {
-            "drawn": 6,
-            "committed": 2
+            "drawn": 8,
+            "committed": 4
           },
           "cards": {
             "yellow": 2,
@@ -140,22 +140,22 @@
             "season": 2026
           },
           "games": {
-            "appearences": 3,
-            "lineups": 3,
-            "minutes": 270,
+            "appearences": 4,
+            "lineups": 4,
+            "minutes": 357,
             "number": 7,
             "position": "Midfielder",
-            "rating": "7.27",
+            "rating": "7.03",
             "captain": false
           },
           "substitutes": {
             "in": 0,
-            "out": 0,
+            "out": 1,
             "bench": 0
           },
           "shots": {
-            "total": 3,
-            "on": 1
+            "total": 6,
+            "on": 2
           },
           "goals": {
             "total": 0,
@@ -164,26 +164,26 @@
             "saves": null
           },
           "passes": {
-            "total": 87,
+            "total": 127,
             "key": 5,
             "accuracy": 80
           },
           "tackles": {
-            "total": 4,
+            "total": 5,
             "blocks": null,
             "interceptions": 9
           },
           "duels": {
-            "total": 16,
-            "won": 6
+            "total": 25,
+            "won": 9
           },
           "dribbles": {
-            "attempts": 8,
-            "success": 2,
+            "attempts": 11,
+            "success": 3,
             "past": null
           },
           "fouls": {
-            "drawn": null,
+            "drawn": 1,
             "committed": null
           },
           "cards": {
@@ -195,6 +195,101 @@
             "won": null,
             "commited": null,
             "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 182504,
+        "name": "Gabri Veiga",
+        "firstname": "Gabriel",
+        "lastname": "Veiga Novas",
+        "age": 24,
+        "birth": {
+          "date": "2002-05-27",
+          "place": "O Porriño",
+          "country": "Spain"
+        },
+        "nationality": "Spain",
+        "height": "184",
+        "weight": "76",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/182504.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 212,
+            "name": "FC Porto",
+            "logo": "https://media.api-sports.io/football/teams/212.png"
+          },
+          "league": {
+            "id": 94,
+            "name": "Primeira Liga",
+            "country": "Portugal",
+            "logo": "https://media.api-sports.io/football/leagues/94.png",
+            "flag": "https://media.api-sports.io/flags/pt.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 4,
+            "lineups": 4,
+            "minutes": 311,
+            "number": 10,
+            "position": "Midfielder",
+            "rating": "8.03",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 3,
+            "bench": 0
+          },
+          "shots": {
+            "total": 6,
+            "on": 4
+          },
+          "goals": {
+            "total": 3,
+            "conceded": 0,
+            "assists": 2,
+            "saves": null
+          },
+          "passes": {
+            "total": 132,
+            "key": 10,
+            "accuracy": 84
+          },
+          "tackles": {
+            "total": 11,
+            "blocks": null,
+            "interceptions": 2
+          },
+          "duels": {
+            "total": 39,
+            "won": 21
+          },
+          "dribbles": {
+            "attempts": 9,
+            "success": 3,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 4,
+            "committed": 8
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 1,
             "missed": 0,
             "saved": null
           }
@@ -235,18 +330,18 @@
             "season": 2026
           },
           "games": {
-            "appearences": 2,
+            "appearences": 3,
             "lineups": 2,
-            "minutes": 136,
+            "minutes": 161,
             "number": 7,
             "position": "Attacker",
-            "rating": "7.4",
+            "rating": "7",
             "captain": false
           },
           "substitutes": {
-            "in": 0,
+            "in": 1,
             "out": 2,
-            "bench": 0
+            "bench": 1
           },
           "shots": {
             "total": 8,
@@ -259,9 +354,9 @@
             "saves": null
           },
           "passes": {
-            "total": 16,
-            "key": 2,
-            "accuracy": 75
+            "total": 22,
+            "key": 3,
+            "accuracy": 77
           },
           "tackles": {
             "total": 1,
@@ -280,6 +375,196 @@
           "fouls": {
             "drawn": 1,
             "committed": 3
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 10500,
+        "name": "Pepê Aquino",
+        "firstname": "Eduardo Gabriel",
+        "lastname": "Aquino Cossa",
+        "age": 29,
+        "birth": {
+          "date": "1997-02-24",
+          "place": "Foz do Iguaçu",
+          "country": "Brazil"
+        },
+        "nationality": "Brazil",
+        "height": "175",
+        "weight": "69",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/10500.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 212,
+            "name": "FC Porto",
+            "logo": "https://media.api-sports.io/football/teams/212.png"
+          },
+          "league": {
+            "id": 94,
+            "name": "Primeira Liga",
+            "country": "Portugal",
+            "logo": "https://media.api-sports.io/football/leagues/94.png",
+            "flag": "https://media.api-sports.io/flags/pt.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 4,
+            "lineups": 4,
+            "minutes": 329,
+            "number": 11,
+            "position": "Attacker",
+            "rating": "6.83",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 2,
+            "bench": 0
+          },
+          "shots": {
+            "total": 5,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 2,
+            "saves": null
+          },
+          "passes": {
+            "total": 93,
+            "key": 5,
+            "accuracy": 76
+          },
+          "tackles": {
+            "total": 2,
+            "blocks": null,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 25,
+            "won": 8
+          },
+          "dribbles": {
+            "attempts": 6,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 3,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 402225,
+        "name": "I. James",
+        "firstname": "Isaac",
+        "lastname": "James Ogiri",
+        "age": 22,
+        "birth": {
+          "date": "2004-08-28",
+          "place": "Okpo",
+          "country": "Nigeria"
+        },
+        "nationality": "Nigeria",
+        "height": "193 cm",
+        "weight": "84 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/402225.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 4724,
+            "name": "Alverca",
+            "logo": "https://media.api-sports.io/football/teams/4724.png"
+          },
+          "league": {
+            "id": 94,
+            "name": "Primeira Liga",
+            "country": "Portugal",
+            "logo": "https://media.api-sports.io/football/leagues/94.png",
+            "flag": "https://media.api-sports.io/flags/pt.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 4,
+            "lineups": 4,
+            "minutes": 345,
+            "number": 12,
+            "position": "Midfielder",
+            "rating": "6.7",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 2,
+            "saves": null
+          },
+          "passes": {
+            "total": 148,
+            "key": 5,
+            "accuracy": 81
+          },
+          "tackles": {
+            "total": 7,
+            "blocks": 2,
+            "interceptions": 3
+          },
+          "duels": {
+            "total": 20,
+            "won": 11
+          },
+          "dribbles": {
+            "attempts": 5,
+            "success": 2,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": 1
           },
           "cards": {
             "yellow": 0,
@@ -583,6 +868,101 @@
     },
     {
       "player": {
+        "id": 490759,
+        "name": "Flávio Gonçalves",
+        "firstname": "Flávio",
+        "lastname": "Ferreira Gonçalves",
+        "age": 19,
+        "birth": {
+          "date": "2007-05-30",
+          "place": "Mantes-la-Jolie",
+          "country": "France"
+        },
+        "nationality": "Portugal",
+        "height": "173 cm",
+        "weight": "65 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/490759.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 228,
+            "name": "Sporting CP",
+            "logo": "https://media.api-sports.io/football/teams/228.png"
+          },
+          "league": {
+            "id": 94,
+            "name": "Primeira Liga",
+            "country": "Portugal",
+            "logo": "https://media.api-sports.io/football/leagues/94.png",
+            "flag": "https://media.api-sports.io/flags/pt.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 4,
+            "lineups": 4,
+            "minutes": 260,
+            "number": 58,
+            "position": "Midfielder",
+            "rating": "7.28",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 4,
+            "bench": 0
+          },
+          "shots": {
+            "total": 7,
+            "on": 5
+          },
+          "goals": {
+            "total": 2,
+            "conceded": 0,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 91,
+            "key": 2,
+            "accuracy": 82
+          },
+          "tackles": {
+            "total": 7,
+            "blocks": null,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 32,
+            "won": 18
+          },
+          "dribbles": {
+            "attempts": 5,
+            "success": 3,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 7,
+            "committed": 2
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
         "id": 362755,
         "name": "G. Prestianni",
         "firstname": "Gianluca",
@@ -678,101 +1058,6 @@
     },
     {
       "player": {
-        "id": 182504,
-        "name": "Gabri Veiga",
-        "firstname": "Gabriel",
-        "lastname": "Veiga Novas",
-        "age": 24,
-        "birth": {
-          "date": "2002-05-27",
-          "place": "O Porriño",
-          "country": "Spain"
-        },
-        "nationality": "Spain",
-        "height": "184",
-        "weight": "76",
-        "injured": false,
-        "photo": "https://media.api-sports.io/football/players/182504.png"
-      },
-      "statistics": [
-        {
-          "team": {
-            "id": 212,
-            "name": "FC Porto",
-            "logo": "https://media.api-sports.io/football/teams/212.png"
-          },
-          "league": {
-            "id": 94,
-            "name": "Primeira Liga",
-            "country": "Portugal",
-            "logo": "https://media.api-sports.io/football/leagues/94.png",
-            "flag": "https://media.api-sports.io/flags/pt.svg",
-            "season": 2026
-          },
-          "games": {
-            "appearences": 3,
-            "lineups": 3,
-            "minutes": 221,
-            "number": 10,
-            "position": "Midfielder",
-            "rating": "7.83",
-            "captain": false
-          },
-          "substitutes": {
-            "in": 0,
-            "out": 3,
-            "bench": 0
-          },
-          "shots": {
-            "total": 5,
-            "on": 3
-          },
-          "goals": {
-            "total": 2,
-            "conceded": 0,
-            "assists": 1,
-            "saves": null
-          },
-          "passes": {
-            "total": 101,
-            "key": 9,
-            "accuracy": 87
-          },
-          "tackles": {
-            "total": 8,
-            "blocks": null,
-            "interceptions": 2
-          },
-          "duels": {
-            "total": 28,
-            "won": 14
-          },
-          "dribbles": {
-            "attempts": 6,
-            "success": 2,
-            "past": null
-          },
-          "fouls": {
-            "drawn": 1,
-            "committed": 5
-          },
-          "cards": {
-            "yellow": 0,
-            "yellowred": 0,
-            "red": 0
-          },
-          "penalty": {
-            "won": null,
-            "commited": null,
-            "scored": 1,
-            "missed": 0,
-            "saved": null
-          }
-        }
-      ]
-    },
-    {
-      "player": {
         "id": 47116,
         "name": "Héctor Hernández",
         "firstname": "Héctor José",
@@ -859,7 +1144,197 @@
           "penalty": {
             "won": null,
             "commited": null,
-            "scored": 2,
+            "scored": 1,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 449243,
+        "name": "William",
+        "firstname": "William",
+        "lastname": "Gomes Carvalho Santos",
+        "age": 20,
+        "birth": {
+          "date": "2006-03-15",
+          "place": null,
+          "country": "Brazil"
+        },
+        "nationality": "Brazil",
+        "height": "172",
+        "weight": "64",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/449243.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 212,
+            "name": "FC Porto",
+            "logo": "https://media.api-sports.io/football/teams/212.png"
+          },
+          "league": {
+            "id": 94,
+            "name": "Primeira Liga",
+            "country": "Portugal",
+            "logo": "https://media.api-sports.io/football/leagues/94.png",
+            "flag": "https://media.api-sports.io/flags/pt.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 4,
+            "lineups": 4,
+            "minutes": 260,
+            "number": 7,
+            "position": "Attacker",
+            "rating": "7.55",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 4,
+            "bench": 0
+          },
+          "shots": {
+            "total": 7,
+            "on": 5
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 64,
+            "key": 3,
+            "accuracy": 73
+          },
+          "tackles": {
+            "total": 11,
+            "blocks": null,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 34,
+            "won": 17
+          },
+          "dribbles": {
+            "attempts": 9,
+            "success": 2,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 3,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 348326,
+        "name": "Martín Tejón",
+        "firstname": "Martín",
+        "lastname": "Tejón Fauli",
+        "age": 22,
+        "birth": {
+          "date": "2004-04-12",
+          "place": null,
+          "country": "Spain"
+        },
+        "nationality": "Spain",
+        "height": "165 cm",
+        "weight": "60 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/348326.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 214,
+            "name": "Maritimo",
+            "logo": "https://media.api-sports.io/football/teams/214.png"
+          },
+          "league": {
+            "id": 94,
+            "name": "Primeira Liga",
+            "country": "Portugal",
+            "logo": "https://media.api-sports.io/football/leagues/94.png",
+            "flag": "https://media.api-sports.io/flags/pt.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 4,
+            "lineups": 4,
+            "minutes": 339,
+            "number": 10,
+            "position": "Midfielder",
+            "rating": "7.33",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 3,
+            "bench": 0
+          },
+          "shots": {
+            "total": 10,
+            "on": 5
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 86,
+            "key": 7,
+            "accuracy": 76
+          },
+          "tackles": {
+            "total": 6,
+            "blocks": null,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 52,
+            "won": 28
+          },
+          "dribbles": {
+            "attempts": 10,
+            "success": 8,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 13,
+            "committed": 5
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
             "missed": 0,
             "saved": null
           }
@@ -900,17 +1375,17 @@
             "season": 2026
           },
           "games": {
-            "appearences": 3,
-            "lineups": 3,
-            "minutes": 262,
+            "appearences": 4,
+            "lineups": 4,
+            "minutes": 348,
             "number": 11,
             "position": "Attacker",
-            "rating": "7.37",
+            "rating": "7.18",
             "captain": false
           },
           "substitutes": {
             "in": 0,
-            "out": 1,
+            "out": 2,
             "bench": 0
           },
           "shots": {
@@ -924,26 +1399,26 @@
             "saves": null
           },
           "passes": {
-            "total": 57,
-            "key": 3,
-            "accuracy": 77
+            "total": 87,
+            "key": 4,
+            "accuracy": 78
           },
           "tackles": {
             "total": 4,
             "blocks": null,
-            "interceptions": null
+            "interceptions": 2
           },
           "duels": {
-            "total": 29,
-            "won": 17
+            "total": 36,
+            "won": 23
           },
           "dribbles": {
-            "attempts": 5,
-            "success": 2,
+            "attempts": 7,
+            "success": 4,
             "past": null
           },
           "fouls": {
-            "drawn": 6,
+            "drawn": 10,
             "committed": 1
           },
           "cards": {
@@ -995,21 +1470,21 @@
             "season": 2026
           },
           "games": {
-            "appearences": 3,
-            "lineups": 3,
-            "minutes": 268,
+            "appearences": 4,
+            "lineups": 4,
+            "minutes": 349,
             "number": 17,
             "position": "Midfielder",
-            "rating": "7.27",
+            "rating": "7.13",
             "captain": false
           },
           "substitutes": {
             "in": 0,
-            "out": 1,
+            "out": 2,
             "bench": 0
           },
           "shots": {
-            "total": 3,
+            "total": 5,
             "on": 3
           },
           "goals": {
@@ -1019,22 +1494,22 @@
             "saves": null
           },
           "passes": {
-            "total": 116,
-            "key": 5,
-            "accuracy": 82
+            "total": 164,
+            "key": 7,
+            "accuracy": 85
           },
           "tackles": {
             "total": 6,
             "blocks": null,
-            "interceptions": 1
+            "interceptions": 2
           },
           "duels": {
-            "total": 38,
-            "won": 17
+            "total": 41,
+            "won": 18
           },
           "dribbles": {
-            "attempts": 14,
-            "success": 5,
+            "attempts": 15,
+            "success": 6,
             "past": null
           },
           "fouls": {
@@ -1153,28 +1628,28 @@
     },
     {
       "player": {
-        "id": 381619,
-        "name": "Pedro Carvalho",
-        "firstname": "Pedro Maria",
-        "lastname": "Salgueiro Costa Pessoa Carvalh",
-        "age": 23,
+        "id": 51776,
+        "name": "M. Araújo",
+        "firstname": "Maximiliano Javier",
+        "lastname": "Araújo Vilches",
+        "age": 26,
         "birth": {
-          "date": "2003-02-14",
-          "place": "Caldas da Rainha",
-          "country": "Portugal"
+          "date": "2000-02-15",
+          "place": "Montevideo",
+          "country": "Uruguay"
         },
-        "nationality": "Portugal",
-        "height": "176",
-        "weight": "70",
+        "nationality": "Uruguay",
+        "height": "179",
+        "weight": "73",
         "injured": false,
-        "photo": "https://media.api-sports.io/football/players/381619.png"
+        "photo": "https://media.api-sports.io/football/players/51776.png"
       },
       "statistics": [
         {
           "team": {
-            "id": 230,
-            "name": "Estoril",
-            "logo": "https://media.api-sports.io/football/teams/230.png"
+            "id": 228,
+            "name": "Sporting CP",
+            "logo": "https://media.api-sports.io/football/teams/228.png"
           },
           "league": {
             "id": 94,
@@ -1186,322 +1661,37 @@
           },
           "games": {
             "appearences": 3,
-            "lineups": 0,
-            "minutes": 60,
-            "number": 22,
+            "lineups": 3,
+            "minutes": 270,
+            "number": 20,
             "position": "Defender",
-            "rating": "6.73",
+            "rating": "6.67",
             "captain": false
           },
           "substitutes": {
-            "in": 3,
+            "in": 0,
             "out": 0,
-            "bench": 3
-          },
-          "shots": {
-            "total": null,
-            "on": null
-          },
-          "goals": {
-            "total": 0,
-            "conceded": 0,
-            "assists": 1,
-            "saves": null
-          },
-          "passes": {
-            "total": 26,
-            "key": 2,
-            "accuracy": 76
-          },
-          "tackles": {
-            "total": 3,
-            "blocks": 1,
-            "interceptions": 1
-          },
-          "duels": {
-            "total": 9,
-            "won": 5
-          },
-          "dribbles": {
-            "attempts": null,
-            "success": null,
-            "past": null
-          },
-          "fouls": {
-            "drawn": 1,
-            "committed": null
-          },
-          "cards": {
-            "yellow": 0,
-            "yellowred": 0,
-            "red": 0
-          },
-          "penalty": {
-            "won": null,
-            "commited": null,
-            "scored": 0,
-            "missed": 0,
-            "saved": null
-          }
-        }
-      ]
-    },
-    {
-      "player": {
-        "id": 237065,
-        "name": "Óscar Aranda",
-        "firstname": "Óscar",
-        "lastname": "Aranda Subiela",
-        "age": 24,
-        "birth": {
-          "date": "2002-04-29",
-          "place": "Granada",
-          "country": "Spain"
-        },
-        "nationality": "Spain",
-        "height": "181",
-        "weight": "78",
-        "injured": false,
-        "photo": "https://media.api-sports.io/football/players/237065.png"
-      },
-      "statistics": [
-        {
-          "team": {
-            "id": 242,
-            "name": "Famalicao",
-            "logo": "https://media.api-sports.io/football/teams/242.png"
-          },
-          "league": {
-            "id": 94,
-            "name": "Primeira Liga",
-            "country": "Portugal",
-            "logo": "https://media.api-sports.io/football/leagues/94.png",
-            "flag": "https://media.api-sports.io/flags/pt.svg",
-            "season": 2026
-          },
-          "games": {
-            "appearences": 3,
-            "lineups": 1,
-            "minutes": 83,
-            "number": 11,
-            "position": "Attacker",
-            "rating": "6.8",
-            "captain": false
-          },
-          "substitutes": {
-            "in": 2,
-            "out": 1,
-            "bench": 2
+            "bench": 0
           },
           "shots": {
             "total": 2,
             "on": 2
           },
           "goals": {
-            "total": 0,
-            "conceded": 0,
-            "assists": 1,
-            "saves": null
-          },
-          "passes": {
-            "total": 34,
-            "key": 1,
-            "accuracy": 82
-          },
-          "tackles": {
-            "total": null,
-            "blocks": null,
-            "interceptions": null
-          },
-          "duels": {
-            "total": 15,
-            "won": 9
-          },
-          "dribbles": {
-            "attempts": 5,
-            "success": 4,
-            "past": null
-          },
-          "fouls": {
-            "drawn": 5,
-            "committed": null
-          },
-          "cards": {
-            "yellow": 0,
-            "yellowred": 0,
-            "red": 0
-          },
-          "penalty": {
-            "won": null,
-            "commited": null,
-            "scored": 0,
-            "missed": 0,
-            "saved": null
-          }
-        }
-      ]
-    },
-    {
-      "player": {
-        "id": 370042,
-        "name": "T. Strata",
-        "firstname": "Tony",
-        "lastname": "Strata",
-        "age": 21,
-        "birth": {
-          "date": "2004-09-07",
-          "place": "Marseille",
-          "country": "France"
-        },
-        "nationality": "France",
-        "height": "177",
-        "weight": "68",
-        "injured": false,
-        "photo": "https://media.api-sports.io/football/players/370042.png"
-      },
-      "statistics": [
-        {
-          "team": {
-            "id": 224,
-            "name": "Vitória SC",
-            "logo": "https://media.api-sports.io/football/teams/224.png"
-          },
-          "league": {
-            "id": 94,
-            "name": "Primeira Liga",
-            "country": "Portugal",
-            "logo": "https://media.api-sports.io/football/leagues/94.png",
-            "flag": "https://media.api-sports.io/flags/pt.svg",
-            "season": 2026
-          },
-          "games": {
-            "appearences": 3,
-            "lineups": 1,
-            "minutes": 156,
-            "number": 23,
-            "position": "Defender",
-            "rating": "7.2",
-            "captain": false
-          },
-          "substitutes": {
-            "in": 2,
-            "out": 0,
-            "bench": 2
-          },
-          "shots": {
-            "total": 3,
-            "on": 1
-          },
-          "goals": {
-            "total": 0,
-            "conceded": 0,
-            "assists": 1,
-            "saves": null
-          },
-          "passes": {
-            "total": 89,
-            "key": 5,
-            "accuracy": 83
-          },
-          "tackles": {
-            "total": 6,
-            "blocks": 1,
-            "interceptions": 3
-          },
-          "duels": {
-            "total": 17,
-            "won": 8
-          },
-          "dribbles": {
-            "attempts": 2,
-            "success": null,
-            "past": null
-          },
-          "fouls": {
-            "drawn": 2,
-            "committed": 3
-          },
-          "cards": {
-            "yellow": 0,
-            "yellowred": 0,
-            "red": 0
-          },
-          "penalty": {
-            "won": null,
-            "commited": null,
-            "scored": 0,
-            "missed": 0,
-            "saved": null
-          }
-        }
-      ]
-    },
-    {
-      "player": {
-        "id": 1615,
-        "name": "Gil Dias",
-        "firstname": "Gil",
-        "lastname": "Bastião Dias",
-        "age": 29,
-        "birth": {
-          "date": "1996-09-28",
-          "place": "Gafanha da Nazaré",
-          "country": "Portugal"
-        },
-        "nationality": "Portugal",
-        "height": "183",
-        "weight": "75",
-        "injured": false,
-        "photo": "https://media.api-sports.io/football/players/1615.png"
-      },
-      "statistics": [
-        {
-          "team": {
-            "id": 242,
-            "name": "Famalicao",
-            "logo": "https://media.api-sports.io/football/teams/242.png"
-          },
-          "league": {
-            "id": 94,
-            "name": "Primeira Liga",
-            "country": "Portugal",
-            "logo": "https://media.api-sports.io/football/leagues/94.png",
-            "flag": "https://media.api-sports.io/flags/pt.svg",
-            "season": 2026
-          },
-          "games": {
-            "appearences": 3,
-            "lineups": 2,
-            "minutes": 167,
-            "number": 23,
-            "position": "Midfielder",
-            "rating": "6.1",
-            "captain": false
-          },
-          "substitutes": {
-            "in": 1,
-            "out": 2,
-            "bench": 1
-          },
-          "shots": {
             "total": 1,
-            "on": 1
-          },
-          "goals": {
-            "total": 0,
             "conceded": 0,
             "assists": 1,
             "saves": null
           },
           "passes": {
-            "total": 71,
-            "key": 2,
-            "accuracy": 64
+            "total": 137,
+            "key": 3,
+            "accuracy": 87
           },
           "tackles": {
-            "total": 6,
+            "total": 3,
             "blocks": null,
-            "interceptions": null
+            "interceptions": 3
           },
           "duels": {
             "total": 26,
@@ -1513,8 +1703,8 @@
             "past": null
           },
           "fouls": {
-            "drawn": 1,
-            "committed": 3
+            "drawn": 4,
+            "committed": 4
           },
           "cards": {
             "yellow": 0,
@@ -1533,211 +1723,21 @@
     },
     {
       "player": {
-        "id": 449243,
-        "name": "William",
-        "firstname": "William",
-        "lastname": "Gomes Carvalho Santos",
-        "age": 20,
+        "id": 133198,
+        "name": "Welinton Torrão",
+        "firstname": "Welinton",
+        "lastname": "Macedo dos Santos",
+        "age": 27,
         "birth": {
-          "date": "2006-03-15",
-          "place": null,
+          "date": "1999-06-30",
+          "place": "Taguaí",
           "country": "Brazil"
         },
         "nationality": "Brazil",
-        "height": "172",
-        "weight": "64",
-        "injured": false,
-        "photo": "https://media.api-sports.io/football/players/449243.png"
-      },
-      "statistics": [
-        {
-          "team": {
-            "id": 212,
-            "name": "FC Porto",
-            "logo": "https://media.api-sports.io/football/teams/212.png"
-          },
-          "league": {
-            "id": 94,
-            "name": "Primeira Liga",
-            "country": "Portugal",
-            "logo": "https://media.api-sports.io/football/leagues/94.png",
-            "flag": "https://media.api-sports.io/flags/pt.svg",
-            "season": 2026
-          },
-          "games": {
-            "appearences": 3,
-            "lineups": 3,
-            "minutes": 200,
-            "number": 7,
-            "position": "Attacker",
-            "rating": "7.3",
-            "captain": false
-          },
-          "substitutes": {
-            "in": 0,
-            "out": 3,
-            "bench": 0
-          },
-          "shots": {
-            "total": 6,
-            "on": 4
-          },
-          "goals": {
-            "total": 0,
-            "conceded": 0,
-            "assists": 1,
-            "saves": null
-          },
-          "passes": {
-            "total": 49,
-            "key": 3,
-            "accuracy": 71
-          },
-          "tackles": {
-            "total": 4,
-            "blocks": null,
-            "interceptions": null
-          },
-          "duels": {
-            "total": 21,
-            "won": 9
-          },
-          "dribbles": {
-            "attempts": 8,
-            "success": 2,
-            "past": null
-          },
-          "fouls": {
-            "drawn": 2,
-            "committed": null
-          },
-          "cards": {
-            "yellow": 0,
-            "yellowred": 0,
-            "red": 0
-          },
-          "penalty": {
-            "won": null,
-            "commited": null,
-            "scored": 0,
-            "missed": 0,
-            "saved": null
-          }
-        }
-      ]
-    },
-    {
-      "player": {
-        "id": 355171,
-        "name": "Lee Hyun-Ju",
-        "firstname": "Hyun-Ju",
-        "lastname": "Lee",
-        "age": 23,
-        "birth": {
-          "date": "2003-02-07",
-          "place": "Ansan",
-          "country": "Korea Republic"
-        },
-        "nationality": "Korea Republic",
-        "height": "171",
-        "weight": "68",
-        "injured": false,
-        "photo": "https://media.api-sports.io/football/players/355171.png"
-      },
-      "statistics": [
-        {
-          "team": {
-            "id": 240,
-            "name": "Arouca",
-            "logo": "https://media.api-sports.io/football/teams/240.png"
-          },
-          "league": {
-            "id": 94,
-            "name": "Primeira Liga",
-            "country": "Portugal",
-            "logo": "https://media.api-sports.io/football/leagues/94.png",
-            "flag": "https://media.api-sports.io/flags/pt.svg",
-            "season": 2026
-          },
-          "games": {
-            "appearences": 3,
-            "lineups": 3,
-            "minutes": 204,
-            "number": 14,
-            "position": "Midfielder",
-            "rating": "6.37",
-            "captain": false
-          },
-          "substitutes": {
-            "in": 0,
-            "out": 3,
-            "bench": 0
-          },
-          "shots": {
-            "total": 2,
-            "on": null
-          },
-          "goals": {
-            "total": 0,
-            "conceded": 0,
-            "assists": 1,
-            "saves": null
-          },
-          "passes": {
-            "total": 50,
-            "key": 1,
-            "accuracy": 84
-          },
-          "tackles": {
-            "total": 3,
-            "blocks": null,
-            "interceptions": 1
-          },
-          "duels": {
-            "total": 21,
-            "won": 6
-          },
-          "dribbles": {
-            "attempts": 2,
-            "success": null,
-            "past": null
-          },
-          "fouls": {
-            "drawn": 3,
-            "committed": 1
-          },
-          "cards": {
-            "yellow": 1,
-            "yellowred": 0,
-            "red": 0
-          },
-          "penalty": {
-            "won": null,
-            "commited": null,
-            "scored": 0,
-            "missed": 0,
-            "saved": null
-          }
-        }
-      ]
-    },
-    {
-      "player": {
-        "id": 631004,
-        "name": "Sorriso",
-        "firstname": "Sorriso",
-        "lastname": "Sorriso",
-        "age": 19,
-        "birth": {
-          "date": "2006-04-15",
-          "place": null,
-          "country": "Brazil"
-        },
-        "nationality": "Brazil",
-        "height": null,
+        "height": "183",
         "weight": null,
         "injured": false,
-        "photo": "https://media.api-sports.io/football/players/631004.png"
+        "photo": "https://media.api-sports.io/football/players/133198.png"
       },
       "statistics": [
         {
@@ -1755,22 +1755,22 @@
             "season": 2026
           },
           "games": {
-            "appearences": 3,
-            "lineups": 3,
-            "minutes": 205,
-            "number": 99,
-            "position": "Midfielder",
-            "rating": "7.03",
+            "appearences": 4,
+            "lineups": 0,
+            "minutes": 81,
+            "number": 11,
+            "position": "Attacker",
+            "rating": "6.6",
             "captain": false
           },
           "substitutes": {
-            "in": 0,
-            "out": 3,
-            "bench": 0
+            "in": 4,
+            "out": 0,
+            "bench": 4
           },
           "shots": {
-            "total": 1,
-            "on": 1
+            "total": null,
+            "on": null
           },
           "goals": {
             "total": 0,
@@ -1779,35 +1779,35 @@
             "saves": null
           },
           "passes": {
-            "total": 34,
-            "key": 5,
-            "accuracy": 79
+            "total": 31,
+            "key": 1,
+            "accuracy": 67
           },
           "tackles": {
-            "total": 1,
+            "total": 2,
             "blocks": null,
-            "interceptions": 1
+            "interceptions": null
           },
           "duels": {
-            "total": 24,
-            "won": 11
+            "total": 19,
+            "won": 7
           },
           "dribbles": {
-            "attempts": 8,
-            "success": 4,
+            "attempts": 3,
+            "success": 1,
             "past": null
           },
           "fouls": {
-            "drawn": 4,
-            "committed": 1
+            "drawn": 1,
+            "committed": 3
           },
           "cards": {
-            "yellow": 1,
+            "yellow": 0,
             "yellowred": 0,
             "red": 0
           },
           "penalty": {
-            "won": 1,
+            "won": null,
             "commited": null,
             "scored": 0,
             "missed": 0,
@@ -1818,28 +1818,28 @@
     },
     {
       "player": {
-        "id": 90693,
-        "name": "C. Kahraman",
-        "firstname": "Cihan",
-        "lastname": "Kahraman",
-        "age": 27,
+        "id": 161877,
+        "name": "Pablo Gozálbez",
+        "firstname": "Pablo",
+        "lastname": "Gozálbez Gilabert",
+        "age": 25,
         "birth": {
-          "date": "1998-10-08",
-          "place": "Berlin",
-          "country": "Germany"
+          "date": "2001-04-30",
+          "place": "Canet d'en Berenguer",
+          "country": "Spain"
         },
-        "nationality": "Türkiye",
-        "height": "175 cm",
-        "weight": "68 kg",
+        "nationality": "Spain",
+        "height": "170",
+        "weight": "66",
         "injured": false,
-        "photo": "https://media.api-sports.io/football/players/90693.png"
+        "photo": "https://media.api-sports.io/football/players/161877.png"
       },
       "statistics": [
         {
           "team": {
-            "id": 238,
-            "name": "Academico Viseu",
-            "logo": "https://media.api-sports.io/football/teams/238.png"
+            "id": 240,
+            "name": "Arouca",
+            "logo": "https://media.api-sports.io/football/teams/240.png"
           },
           "league": {
             "id": 94,
@@ -1850,21 +1850,21 @@
             "season": 2026
           },
           "games": {
-            "appearences": 3,
-            "lineups": 3,
-            "minutes": 217,
-            "number": 8,
+            "appearences": 4,
+            "lineups": 1,
+            "minutes": 145,
+            "number": 10,
             "position": "Midfielder",
-            "rating": "6.7",
+            "rating": "6.85",
             "captain": false
           },
           "substitutes": {
-            "in": 0,
-            "out": 3,
-            "bench": 0
+            "in": 3,
+            "out": 1,
+            "bench": 3
           },
           "shots": {
-            "total": 1,
+            "total": null,
             "on": null
           },
           "goals": {
@@ -1874,30 +1874,30 @@
             "saves": null
           },
           "passes": {
-            "total": 60,
-            "key": 5,
-            "accuracy": 83
+            "total": 39,
+            "key": 4,
+            "accuracy": 74
           },
           "tackles": {
             "total": 2,
             "blocks": null,
-            "interceptions": 2
+            "interceptions": null
           },
           "duels": {
-            "total": 21,
-            "won": 8
+            "total": 14,
+            "won": 4
           },
           "dribbles": {
-            "attempts": 7,
-            "success": 4,
+            "attempts": 1,
+            "success": null,
             "past": null
           },
           "fouls": {
-            "drawn": 2,
-            "committed": 4
+            "drawn": null,
+            "committed": 1
           },
           "cards": {
-            "yellow": 1,
+            "yellow": 0,
             "yellowred": 0,
             "red": 0
           },

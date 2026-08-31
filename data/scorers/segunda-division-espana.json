@@ -13,6 +13,291 @@
   "response": [
     {
       "player": {
+        "id": 281795,
+        "name": "Y. Asprilla",
+        "firstname": "Yáser Esnéider",
+        "lastname": "Asprilla Martínez",
+        "age": 22,
+        "birth": {
+          "date": "2003-11-19",
+          "place": "Bajo Baudó",
+          "country": "Colombia"
+        },
+        "nationality": "Colombia",
+        "height": "185",
+        "weight": "75",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/281795.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 547,
+            "name": "Girona",
+            "logo": "https://media.api-sports.io/football/teams/547.png"
+          },
+          "league": {
+            "id": 141,
+            "name": "Segunda División",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/141.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 3,
+            "lineups": 0,
+            "minutes": 89,
+            "number": 22,
+            "position": "Midfielder",
+            "rating": "8.17",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 3,
+            "out": 0,
+            "bench": 3
+          },
+          "shots": {
+            "total": 5,
+            "on": 5
+          },
+          "goals": {
+            "total": 3,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 33,
+            "key": 6,
+            "accuracy": 81
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 10,
+            "won": 6
+          },
+          "dribbles": {
+            "attempts": 6,
+            "success": 4,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 2,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 32972,
+        "name": "T. Miyashiro",
+        "firstname": "Taisei",
+        "lastname": "Miyashiro",
+        "age": 25,
+        "birth": {
+          "date": "2000-05-26",
+          "place": "Tokyo",
+          "country": "Japan"
+        },
+        "nationality": "Japan",
+        "height": "178",
+        "weight": "73",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/32972.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 534,
+            "name": "Las Palmas",
+            "logo": "https://media.api-sports.io/football/teams/534.png"
+          },
+          "league": {
+            "id": 141,
+            "name": "Segunda División",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/141.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 3,
+            "lineups": 3,
+            "minutes": 277,
+            "number": 11,
+            "position": "Midfielder",
+            "rating": "7.5",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": 2,
+            "on": 2
+          },
+          "goals": {
+            "total": 2,
+            "conceded": 0,
+            "assists": 2,
+            "saves": null
+          },
+          "passes": {
+            "total": 75,
+            "key": 5,
+            "accuracy": 86
+          },
+          "tackles": {
+            "total": 5,
+            "blocks": null,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 27,
+            "won": 11
+          },
+          "dribbles": {
+            "attempts": 3,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 6,
+            "committed": 4
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 47581,
+        "name": "Enric Gallego",
+        "firstname": "Enrique",
+        "lastname": "Gallego Puigsech",
+        "age": 39,
+        "birth": {
+          "date": "1986-09-12",
+          "place": "Barcelona",
+          "country": "Spain"
+        },
+        "nationality": "Spain",
+        "height": "189 cm",
+        "weight": "89 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/47581.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 719,
+            "name": "Tenerife",
+            "logo": "https://media.api-sports.io/football/teams/719.png"
+          },
+          "league": {
+            "id": 141,
+            "name": "Segunda División",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/141.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 3,
+            "lineups": 3,
+            "minutes": 215,
+            "number": 18,
+            "position": "Attacker",
+            "rating": "7.23",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 3,
+            "bench": 0
+          },
+          "shots": {
+            "total": 9,
+            "on": 4
+          },
+          "goals": {
+            "total": 2,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 51,
+            "key": 2,
+            "accuracy": 50
+          },
+          "tackles": {
+            "total": 2,
+            "blocks": null,
+            "interceptions": 2
+          },
+          "duels": {
+            "total": 39,
+            "won": 18
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": 7
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
         "id": 161962,
         "name": "Nacho Quintana",
         "firstname": "Ignacio",
@@ -203,101 +488,6 @@
     },
     {
       "player": {
-        "id": 47581,
-        "name": "Enric Gallego",
-        "firstname": "Enrique",
-        "lastname": "Gallego Puigsech",
-        "age": 39,
-        "birth": {
-          "date": "1986-09-12",
-          "place": "Barcelona",
-          "country": "Spain"
-        },
-        "nationality": "Spain",
-        "height": "189 cm",
-        "weight": "89 kg",
-        "injured": false,
-        "photo": "https://media.api-sports.io/football/players/47581.png"
-      },
-      "statistics": [
-        {
-          "team": {
-            "id": 719,
-            "name": "Tenerife",
-            "logo": "https://media.api-sports.io/football/teams/719.png"
-          },
-          "league": {
-            "id": 141,
-            "name": "Segunda División",
-            "country": "Spain",
-            "logo": "https://media.api-sports.io/football/leagues/141.png",
-            "flag": "https://media.api-sports.io/flags/es.svg",
-            "season": 2026
-          },
-          "games": {
-            "appearences": 2,
-            "lineups": 2,
-            "minutes": 133,
-            "number": 18,
-            "position": "Attacker",
-            "rating": "7.6",
-            "captain": false
-          },
-          "substitutes": {
-            "in": 0,
-            "out": 2,
-            "bench": 0
-          },
-          "shots": {
-            "total": 5,
-            "on": 2
-          },
-          "goals": {
-            "total": 2,
-            "conceded": 0,
-            "assists": 0,
-            "saves": null
-          },
-          "passes": {
-            "total": 36,
-            "key": 1,
-            "accuracy": 41
-          },
-          "tackles": {
-            "total": null,
-            "blocks": null,
-            "interceptions": 2
-          },
-          "duels": {
-            "total": 21,
-            "won": 12
-          },
-          "dribbles": {
-            "attempts": null,
-            "success": null,
-            "past": null
-          },
-          "fouls": {
-            "drawn": 1,
-            "committed": 3
-          },
-          "cards": {
-            "yellow": 0,
-            "yellowred": 0,
-            "red": 0
-          },
-          "penalty": {
-            "won": null,
-            "commited": null,
-            "scored": 0,
-            "missed": 0,
-            "saved": null
-          }
-        }
-      ]
-    },
-    {
-      "player": {
         "id": 514913,
         "name": "Hugo López",
         "firstname": "Hugo",
@@ -335,7 +525,7 @@
             "minutes": 162,
             "number": 29,
             "position": "Attacker",
-            "rating": "7.9",
+            "rating": "7.95",
             "captain": false
           },
           "substitutes": {
@@ -393,28 +583,28 @@
     },
     {
       "player": {
-        "id": 32972,
-        "name": "T. Miyashiro",
-        "firstname": "Taisei",
-        "lastname": "Miyashiro",
-        "age": 25,
+        "id": 155,
+        "name": "Abel Ruiz",
+        "firstname": "Abel",
+        "lastname": "Ruiz Ortega",
+        "age": 26,
         "birth": {
-          "date": "2000-05-26",
-          "place": "Tokyo",
-          "country": "Japan"
+          "date": "2000-01-28",
+          "place": "Almussafes",
+          "country": "Spain"
         },
-        "nationality": "Japan",
-        "height": "178",
+        "nationality": "Spain",
+        "height": "182",
         "weight": "73",
         "injured": false,
-        "photo": "https://media.api-sports.io/football/players/32972.png"
+        "photo": "https://media.api-sports.io/football/players/155.png"
       },
       "statistics": [
         {
           "team": {
-            "id": 534,
-            "name": "Las Palmas",
-            "logo": "https://media.api-sports.io/football/teams/534.png"
+            "id": 547,
+            "name": "Girona",
+            "logo": "https://media.api-sports.io/football/teams/547.png"
           },
           "league": {
             "id": 141,
@@ -425,42 +615,137 @@
             "season": 2026
           },
           "games": {
-            "appearences": 2,
+            "appearences": 3,
             "lineups": 2,
-            "minutes": 180,
-            "number": 11,
-            "position": "Midfielder",
-            "rating": "7.6",
+            "minutes": 168,
+            "number": 9,
+            "position": "Attacker",
+            "rating": "6.6",
             "captain": false
           },
           "substitutes": {
-            "in": 0,
-            "out": 0,
-            "bench": 0
+            "in": 1,
+            "out": 2,
+            "bench": 1
           },
           "shots": {
-            "total": 1,
+            "total": 3,
             "on": 1
           },
           "goals": {
             "total": 1,
             "conceded": 0,
-            "assists": 2,
+            "assists": 1,
             "saves": null
           },
           "passes": {
-            "total": 55,
-            "key": 5,
-            "accuracy": 87
+            "total": 34,
+            "key": 3,
+            "accuracy": 91
           },
           "tackles": {
-            "total": 4,
+            "total": 1,
             "blocks": null,
-            "interceptions": 1
+            "interceptions": null
           },
           "duels": {
-            "total": 18,
-            "won": 7
+            "total": 10,
+            "won": 1
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 128581,
+        "name": "Nico Melamed",
+        "firstname": "Nicolás",
+        "lastname": "Melamed Ribaudo",
+        "age": 24,
+        "birth": {
+          "date": "2001-04-11",
+          "place": "Barcelona",
+          "country": "Spain"
+        },
+        "nationality": "Spain",
+        "height": "173 cm",
+        "weight": "65 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/128581.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 723,
+            "name": "Almeria",
+            "logo": "https://media.api-sports.io/football/teams/723.png"
+          },
+          "league": {
+            "id": 141,
+            "name": "Segunda División",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/141.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 3,
+            "lineups": 3,
+            "minutes": 214,
+            "number": 10,
+            "position": "Midfielder",
+            "rating": "6.93",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 2,
+            "bench": 0
+          },
+          "shots": {
+            "total": 4,
+            "on": 2
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 67,
+            "key": 3,
+            "accuracy": 83
+          },
+          "tackles": {
+            "total": 2,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 21,
+            "won": 10
           },
           "dribbles": {
             "attempts": 2,
@@ -468,11 +753,201 @@
             "past": null
           },
           "fouls": {
+            "drawn": 4,
+            "committed": 2
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 327622,
+        "name": "Naim García",
+        "firstname": "Naim",
+        "lastname": "García García",
+        "age": 23,
+        "birth": {
+          "date": "2002-06-11",
+          "place": "Madrid",
+          "country": "Spain"
+        },
+        "nationality": "Spain",
+        "height": "179 cm",
+        "weight": "75 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/327622.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 537,
+            "name": "Leganes",
+            "logo": "https://media.api-sports.io/football/teams/537.png"
+          },
+          "league": {
+            "id": 141,
+            "name": "Segunda División",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/141.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 3,
+            "lineups": 3,
+            "minutes": 239,
+            "number": 11,
+            "position": "Defender",
+            "rating": "7.03",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 2,
+            "bench": 0
+          },
+          "shots": {
+            "total": 2,
+            "on": 2
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 70,
+            "key": 3,
+            "accuracy": 71
+          },
+          "tackles": {
+            "total": 5,
+            "blocks": null,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 32,
+            "won": 13
+          },
+          "dribbles": {
+            "attempts": 3,
+            "success": 3,
+            "past": null
+          },
+          "fouls": {
             "drawn": 3,
-            "committed": 3
+            "committed": null
           },
           "cards": {
             "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 47435,
+        "name": "Fran Beltrán",
+        "firstname": "Francisco José",
+        "lastname": "Beltrán Peinado",
+        "age": 26,
+        "birth": {
+          "date": "1999-02-03",
+          "place": "Madrid",
+          "country": "Spain"
+        },
+        "nationality": "Spain",
+        "height": "170",
+        "weight": "66",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/47435.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 547,
+            "name": "Girona",
+            "logo": "https://media.api-sports.io/football/teams/547.png"
+          },
+          "league": {
+            "id": 141,
+            "name": "Segunda División",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/141.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 3,
+            "lineups": 3,
+            "minutes": 264,
+            "number": 8,
+            "position": "Midfielder",
+            "rating": "7.07",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 0
+          },
+          "shots": {
+            "total": 2,
+            "on": 1
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 188,
+            "key": 5,
+            "accuracy": 92
+          },
+          "tackles": {
+            "total": 3,
+            "blocks": null,
+            "interceptions": 2
+          },
+          "duels": {
+            "total": 20,
+            "won": 8
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 3,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 1,
             "yellowred": 0,
             "red": 0
           },
@@ -678,196 +1153,6 @@
     },
     {
       "player": {
-        "id": 128581,
-        "name": "Nico Melamed",
-        "firstname": "Nicolás",
-        "lastname": "Melamed Ribaudo",
-        "age": 24,
-        "birth": {
-          "date": "2001-04-11",
-          "place": "Barcelona",
-          "country": "Spain"
-        },
-        "nationality": "Spain",
-        "height": "173 cm",
-        "weight": "65 kg",
-        "injured": false,
-        "photo": "https://media.api-sports.io/football/players/128581.png"
-      },
-      "statistics": [
-        {
-          "team": {
-            "id": 723,
-            "name": "Almeria",
-            "logo": "https://media.api-sports.io/football/teams/723.png"
-          },
-          "league": {
-            "id": 141,
-            "name": "Segunda División",
-            "country": "Spain",
-            "logo": "https://media.api-sports.io/football/leagues/141.png",
-            "flag": "https://media.api-sports.io/flags/es.svg",
-            "season": 2026
-          },
-          "games": {
-            "appearences": 2,
-            "lineups": 2,
-            "minutes": 156,
-            "number": 10,
-            "position": "Midfielder",
-            "rating": "7.1",
-            "captain": false
-          },
-          "substitutes": {
-            "in": 0,
-            "out": 1,
-            "bench": 0
-          },
-          "shots": {
-            "total": 3,
-            "on": 1
-          },
-          "goals": {
-            "total": 1,
-            "conceded": 0,
-            "assists": 1,
-            "saves": null
-          },
-          "passes": {
-            "total": 53,
-            "key": 3,
-            "accuracy": 86
-          },
-          "tackles": {
-            "total": 2,
-            "blocks": null,
-            "interceptions": null
-          },
-          "duels": {
-            "total": 18,
-            "won": 7
-          },
-          "dribbles": {
-            "attempts": 2,
-            "success": null,
-            "past": null
-          },
-          "fouls": {
-            "drawn": 4,
-            "committed": 1
-          },
-          "cards": {
-            "yellow": 0,
-            "yellowred": 0,
-            "red": 0
-          },
-          "penalty": {
-            "won": null,
-            "commited": null,
-            "scored": 0,
-            "missed": 0,
-            "saved": null
-          }
-        }
-      ]
-    },
-    {
-      "player": {
-        "id": 327622,
-        "name": "Naim García",
-        "firstname": "Naim",
-        "lastname": "García García",
-        "age": 23,
-        "birth": {
-          "date": "2002-06-11",
-          "place": "Madrid",
-          "country": "Spain"
-        },
-        "nationality": "Spain",
-        "height": "179 cm",
-        "weight": "75 kg",
-        "injured": false,
-        "photo": "https://media.api-sports.io/football/players/327622.png"
-      },
-      "statistics": [
-        {
-          "team": {
-            "id": 537,
-            "name": "Leganes",
-            "logo": "https://media.api-sports.io/football/teams/537.png"
-          },
-          "league": {
-            "id": 141,
-            "name": "Segunda División",
-            "country": "Spain",
-            "logo": "https://media.api-sports.io/football/leagues/141.png",
-            "flag": "https://media.api-sports.io/flags/es.svg",
-            "season": 2026
-          },
-          "games": {
-            "appearences": 2,
-            "lineups": 2,
-            "minutes": 176,
-            "number": 11,
-            "position": "Defender",
-            "rating": "7.25",
-            "captain": false
-          },
-          "substitutes": {
-            "in": 0,
-            "out": 1,
-            "bench": 0
-          },
-          "shots": {
-            "total": 1,
-            "on": 1
-          },
-          "goals": {
-            "total": 1,
-            "conceded": 0,
-            "assists": 1,
-            "saves": null
-          },
-          "passes": {
-            "total": 45,
-            "key": 2,
-            "accuracy": 66
-          },
-          "tackles": {
-            "total": 5,
-            "blocks": null,
-            "interceptions": 1
-          },
-          "duels": {
-            "total": 30,
-            "won": 12
-          },
-          "dribbles": {
-            "attempts": 3,
-            "success": 3,
-            "past": null
-          },
-          "fouls": {
-            "drawn": 2,
-            "committed": null
-          },
-          "cards": {
-            "yellow": 0,
-            "yellowred": 0,
-            "red": 0
-          },
-          "penalty": {
-            "won": null,
-            "commited": null,
-            "scored": 0,
-            "missed": 0,
-            "saved": null
-          }
-        }
-      ]
-    },
-    {
-      "player": {
         "id": 85703,
         "name": "T. Carrique",
         "firstname": "Thomas",
@@ -905,7 +1190,7 @@
             "minutes": 180,
             "number": 17,
             "position": "Defender",
-            "rating": "7",
+            "rating": "6.9",
             "captain": false
           },
           "substitutes": {
@@ -924,7 +1209,7 @@
             "saves": null
           },
           "passes": {
-            "total": 82,
+            "total": 83,
             "key": 4,
             "accuracy": 79
           },
@@ -1058,101 +1343,6 @@
     },
     {
       "player": {
-        "id": 281795,
-        "name": "Y. Asprilla",
-        "firstname": "Yáser Esnéider",
-        "lastname": "Asprilla Martínez",
-        "age": 22,
-        "birth": {
-          "date": "2003-11-19",
-          "place": "Bajo Baudó",
-          "country": "Colombia"
-        },
-        "nationality": "Colombia",
-        "height": "185",
-        "weight": "75",
-        "injured": false,
-        "photo": "https://media.api-sports.io/football/players/281795.png"
-      },
-      "statistics": [
-        {
-          "team": {
-            "id": 547,
-            "name": "Girona",
-            "logo": "https://media.api-sports.io/football/teams/547.png"
-          },
-          "league": {
-            "id": 141,
-            "name": "Segunda División",
-            "country": "Spain",
-            "logo": "https://media.api-sports.io/football/leagues/141.png",
-            "flag": "https://media.api-sports.io/flags/es.svg",
-            "season": 2026
-          },
-          "games": {
-            "appearences": 2,
-            "lineups": 0,
-            "minutes": 49,
-            "number": 22,
-            "position": "Midfielder",
-            "rating": "7.65",
-            "captain": false
-          },
-          "substitutes": {
-            "in": 2,
-            "out": 0,
-            "bench": 2
-          },
-          "shots": {
-            "total": 3,
-            "on": 3
-          },
-          "goals": {
-            "total": 1,
-            "conceded": 0,
-            "assists": 0,
-            "saves": null
-          },
-          "passes": {
-            "total": 19,
-            "key": 4,
-            "accuracy": 84
-          },
-          "tackles": {
-            "total": null,
-            "blocks": null,
-            "interceptions": null
-          },
-          "duels": {
-            "total": 10,
-            "won": 6
-          },
-          "dribbles": {
-            "attempts": 6,
-            "success": 4,
-            "past": null
-          },
-          "fouls": {
-            "drawn": 2,
-            "committed": null
-          },
-          "cards": {
-            "yellow": 0,
-            "yellowred": 0,
-            "red": 0
-          },
-          "penalty": {
-            "won": null,
-            "commited": null,
-            "scored": 0,
-            "missed": 0,
-            "saved": null
-          }
-        }
-      ]
-    },
-    {
-      "player": {
         "id": 551363,
         "name": "D. Bernabeu",
         "firstname": null,
@@ -1185,18 +1375,18 @@
             "season": 2026
           },
           "games": {
-            "appearences": 2,
+            "appearences": 3,
             "lineups": 0,
-            "minutes": 65,
+            "minutes": 78,
             "number": 27,
             "position": "Defender",
-            "rating": "6.95",
+            "rating": "6.93",
             "captain": false
           },
           "substitutes": {
-            "in": 2,
+            "in": 3,
             "out": 0,
-            "bench": 2
+            "bench": 3
           },
           "shots": {
             "total": 1,
@@ -1209,18 +1399,18 @@
             "saves": null
           },
           "passes": {
-            "total": 29,
+            "total": 42,
             "key": 1,
-            "accuracy": 86
+            "accuracy": 83
           },
           "tackles": {
-            "total": 3,
+            "total": 4,
             "blocks": null,
-            "interceptions": 1
+            "interceptions": 2
           },
           "duels": {
-            "total": 7,
-            "won": 5
+            "total": 14,
+            "won": 10
           },
           "dribbles": {
             "attempts": null,
@@ -1228,292 +1418,7 @@
             "past": null
           },
           "fouls": {
-            "drawn": null,
-            "committed": 1
-          },
-          "cards": {
-            "yellow": 0,
-            "yellowred": 0,
-            "red": 0
-          },
-          "penalty": {
-            "won": null,
-            "commited": null,
-            "scored": 0,
-            "missed": 0,
-            "saved": null
-          }
-        }
-      ]
-    },
-    {
-      "player": {
-        "id": 182757,
-        "name": "Iván Chapela",
-        "firstname": "Iván",
-        "lastname": "Chapela López",
-        "age": 26,
-        "birth": {
-          "date": "1999-05-21",
-          "place": "Chiclana de la Frontera",
-          "country": "Spain"
-        },
-        "nationality": "Spain",
-        "height": "181 cm",
-        "weight": null,
-        "injured": false,
-        "photo": "https://media.api-sports.io/football/players/182757.png"
-      },
-      "statistics": [
-        {
-          "team": {
-            "id": 719,
-            "name": "Tenerife",
-            "logo": "https://media.api-sports.io/football/teams/719.png"
-          },
-          "league": {
-            "id": 141,
-            "name": "Segunda División",
-            "country": "Spain",
-            "logo": "https://media.api-sports.io/football/leagues/141.png",
-            "flag": "https://media.api-sports.io/flags/es.svg",
-            "season": 2026
-          },
-          "games": {
-            "appearences": 2,
-            "lineups": 1,
-            "minutes": 88,
-            "number": 24,
-            "position": "Attacker",
-            "rating": "6.9",
-            "captain": false
-          },
-          "substitutes": {
-            "in": 1,
-            "out": 1,
-            "bench": 1
-          },
-          "shots": {
-            "total": 1,
-            "on": 1
-          },
-          "goals": {
-            "total": 1,
-            "conceded": 0,
-            "assists": 0,
-            "saves": null
-          },
-          "passes": {
-            "total": 34,
-            "key": 2,
-            "accuracy": 70
-          },
-          "tackles": {
-            "total": 1,
-            "blocks": null,
-            "interceptions": 2
-          },
-          "duels": {
-            "total": 8,
-            "won": 4
-          },
-          "dribbles": {
-            "attempts": 2,
-            "success": null,
-            "past": null
-          },
-          "fouls": {
-            "drawn": 2,
-            "committed": 1
-          },
-          "cards": {
-            "yellow": 0,
-            "yellowred": 0,
-            "red": 0
-          },
-          "penalty": {
-            "won": null,
-            "commited": null,
-            "scored": 0,
-            "missed": 0,
-            "saved": null
-          }
-        }
-      ]
-    },
-    {
-      "player": {
-        "id": 560931,
-        "name": "B. Somuah",
-        "firstname": null,
-        "lastname": null,
-        "age": 19,
-        "birth": {
-          "date": null,
-          "place": null,
-          "country": null
-        },
-        "nationality": null,
-        "height": null,
-        "weight": null,
-        "injured": false,
-        "photo": "https://media.api-sports.io/football/players/560931.png"
-      },
-      "statistics": [
-        {
-          "team": {
-            "id": 9571,
-            "name": "Celta de Vigo II",
-            "logo": "https://media.api-sports.io/football/teams/9571.png"
-          },
-          "league": {
-            "id": 141,
-            "name": "Segunda División",
-            "country": "Spain",
-            "logo": "https://media.api-sports.io/football/leagues/141.png",
-            "flag": "https://media.api-sports.io/flags/es.svg",
-            "season": 2026
-          },
-          "games": {
-            "appearences": 2,
-            "lineups": 1,
-            "minutes": 88,
-            "number": 7,
-            "position": "Attacker",
-            "rating": "6.8",
-            "captain": false
-          },
-          "substitutes": {
-            "in": 1,
-            "out": 1,
-            "bench": 1
-          },
-          "shots": {
-            "total": 1,
-            "on": 1
-          },
-          "goals": {
-            "total": 1,
-            "conceded": 0,
-            "assists": 0,
-            "saves": null
-          },
-          "passes": {
-            "total": 19,
-            "key": 1,
-            "accuracy": 78
-          },
-          "tackles": {
-            "total": 1,
-            "blocks": null,
-            "interceptions": null
-          },
-          "duels": {
-            "total": 18,
-            "won": 5
-          },
-          "dribbles": {
-            "attempts": 6,
-            "success": 2,
-            "past": null
-          },
-          "fouls": {
-            "drawn": null,
-            "committed": 4
-          },
-          "cards": {
-            "yellow": 0,
-            "yellowred": 0,
-            "red": 0
-          },
-          "penalty": {
-            "won": null,
-            "commited": null,
-            "scored": 0,
-            "missed": 0,
-            "saved": null
-          }
-        }
-      ]
-    },
-    {
-      "player": {
-        "id": 402168,
-        "name": "Arkaitz Mariezkurrena",
-        "firstname": "Arkaitz",
-        "lastname": "Mariezkurrena Etxezarreta",
-        "age": 20,
-        "birth": {
-          "date": "2005-04-05",
-          "place": "Astigarraga",
-          "country": "Spain"
-        },
-        "nationality": "Spain",
-        "height": "181",
-        "weight": "68",
-        "injured": false,
-        "photo": "https://media.api-sports.io/football/players/402168.png"
-      },
-      "statistics": [
-        {
-          "team": {
-            "id": 9585,
-            "name": "Real Sociedad II",
-            "logo": "https://media.api-sports.io/football/teams/9585.png"
-          },
-          "league": {
-            "id": 141,
-            "name": "Segunda División",
-            "country": "Spain",
-            "logo": "https://media.api-sports.io/football/leagues/141.png",
-            "flag": "https://media.api-sports.io/flags/es.svg",
-            "season": 2026
-          },
-          "games": {
-            "appearences": 2,
-            "lineups": 1,
-            "minutes": 89,
-            "number": 10,
-            "position": "Attacker",
-            "rating": "6.9",
-            "captain": false
-          },
-          "substitutes": {
-            "in": 1,
-            "out": 1,
-            "bench": 1
-          },
-          "shots": {
-            "total": 2,
-            "on": 2
-          },
-          "goals": {
-            "total": 1,
-            "conceded": 0,
-            "assists": 0,
-            "saves": null
-          },
-          "passes": {
-            "total": 18,
-            "key": null,
-            "accuracy": 66
-          },
-          "tackles": {
-            "total": 3,
-            "blocks": null,
-            "interceptions": null
-          },
-          "duels": {
-            "total": 15,
-            "won": 6
-          },
-          "dribbles": {
-            "attempts": 1,
-            "success": null,
-            "past": null
-          },
-          "fouls": {
-            "drawn": null,
+            "drawn": 3,
             "committed": 2
           },
           "cards": {
@@ -1533,21 +1438,211 @@
     },
     {
       "player": {
-        "id": 155,
-        "name": "Abel Ruiz",
-        "firstname": "Abel",
-        "lastname": "Ruiz Ortega",
-        "age": 26,
+        "id": 414384,
+        "name": "A. Sarco",
+        "firstname": "Alejo Uriel",
+        "lastname": "Sarco",
+        "age": 19,
         "birth": {
-          "date": "2000-01-28",
-          "place": "Almussafes",
-          "country": "Spain"
+          "date": "2006-01-06",
+          "place": null,
+          "country": "Argentina"
         },
-        "nationality": "Spain",
-        "height": "182",
-        "weight": "73",
+        "nationality": "Argentina",
+        "height": "179",
+        "weight": "76",
         "injured": false,
-        "photo": "https://media.api-sports.io/football/players/155.png"
+        "photo": "https://media.api-sports.io/football/players/414384.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 731,
+            "name": "Sporting Gijon",
+            "logo": "https://media.api-sports.io/football/teams/731.png"
+          },
+          "league": {
+            "id": 141,
+            "name": "Segunda División",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/141.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 3,
+            "lineups": 1,
+            "minutes": 101,
+            "number": 16,
+            "position": "Attacker",
+            "rating": "7.07",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 1,
+            "bench": 2
+          },
+          "shots": {
+            "total": 2,
+            "on": 1
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 26,
+            "key": 3,
+            "accuracy": 80
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 17,
+            "won": 10
+          },
+          "dribbles": {
+            "attempts": 4,
+            "success": 3,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 4,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 153465,
+        "name": "N. Gioacchini",
+        "firstname": "Nicholas",
+        "lastname": "Selson Gioacchini",
+        "age": 25,
+        "birth": {
+          "date": "2000-07-25",
+          "place": "Kansas City",
+          "country": "USA"
+        },
+        "nationality": "USA",
+        "height": "183",
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/153465.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 9593,
+            "name": "Sabadell",
+            "logo": "https://media.api-sports.io/football/teams/9593.png"
+          },
+          "league": {
+            "id": 141,
+            "name": "Segunda División",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/141.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 3,
+            "lineups": 2,
+            "minutes": 147,
+            "number": 16,
+            "position": "Attacker",
+            "rating": "6.7",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 2,
+            "bench": 1
+          },
+          "shots": {
+            "total": 3,
+            "on": 1
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 22,
+            "key": 1,
+            "accuracy": 59
+          },
+          "tackles": {
+            "total": 2,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 37,
+            "won": 14
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 4,
+            "committed": 8
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 548670,
+        "name": "I. Gonzalez",
+        "firstname": null,
+        "lastname": null,
+        "age": 20,
+        "birth": {
+          "date": null,
+          "place": null,
+          "country": null
+        },
+        "nationality": null,
+        "height": null,
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/548670.png"
       },
       "statistics": [
         {
@@ -1565,12 +1660,12 @@
             "season": 2026
           },
           "games": {
-            "appearences": 2,
-            "lineups": 1,
-            "minutes": 95,
-            "number": 9,
-            "position": "Attacker",
-            "rating": "6.6",
+            "appearences": 3,
+            "lineups": 2,
+            "minutes": 152,
+            "number": 24,
+            "position": "Midfielder",
+            "rating": "6.93",
             "captain": false
           },
           "substitutes": {
@@ -1580,101 +1675,6 @@
           },
           "shots": {
             "total": 2,
-            "on": 1
-          },
-          "goals": {
-            "total": 1,
-            "conceded": 0,
-            "assists": 0,
-            "saves": null
-          },
-          "passes": {
-            "total": 18,
-            "key": 1,
-            "accuracy": 100
-          },
-          "tackles": {
-            "total": null,
-            "blocks": null,
-            "interceptions": null
-          },
-          "duels": {
-            "total": 7,
-            "won": null
-          },
-          "dribbles": {
-            "attempts": 1,
-            "success": null,
-            "past": null
-          },
-          "fouls": {
-            "drawn": null,
-            "committed": null
-          },
-          "cards": {
-            "yellow": 0,
-            "yellowred": 0,
-            "red": 0
-          },
-          "penalty": {
-            "won": null,
-            "commited": null,
-            "scored": 0,
-            "missed": 0,
-            "saved": null
-          }
-        }
-      ]
-    },
-    {
-      "player": {
-        "id": 162109,
-        "name": "Jordi Escobar",
-        "firstname": "Jordi",
-        "lastname": "Escobar Fernández",
-        "age": 24,
-        "birth": {
-          "date": "2002-02-10",
-          "place": "Sant Cebrià de Vallalta",
-          "country": "Spain"
-        },
-        "nationality": "Spain",
-        "height": "188",
-        "weight": "78",
-        "injured": false,
-        "photo": "https://media.api-sports.io/football/players/162109.png"
-      },
-      "statistics": [
-        {
-          "team": {
-            "id": 10139,
-            "name": "AD Ceuta FC",
-            "logo": "https://media.api-sports.io/football/teams/10139.png"
-          },
-          "league": {
-            "id": 141,
-            "name": "Segunda División",
-            "country": "Spain",
-            "logo": "https://media.api-sports.io/football/leagues/141.png",
-            "flag": "https://media.api-sports.io/flags/es.svg",
-            "season": 2026
-          },
-          "games": {
-            "appearences": 2,
-            "lineups": 1,
-            "minutes": 113,
-            "number": 9,
-            "position": "Attacker",
-            "rating": "6.75",
-            "captain": false
-          },
-          "substitutes": {
-            "in": 1,
-            "out": 0,
-            "bench": 1
-          },
-          "shots": {
-            "total": 5,
             "on": 2
           },
           "goals": {
@@ -1684,18 +1684,18 @@
             "saves": null
           },
           "passes": {
-            "total": 7,
-            "key": null,
-            "accuracy": 57
+            "total": 67,
+            "key": 1,
+            "accuracy": 83
           },
           "tackles": {
-            "total": 1,
+            "total": 3,
             "blocks": null,
-            "interceptions": null
+            "interceptions": 3
           },
           "duels": {
-            "total": 5,
-            "won": 2
+            "total": 19,
+            "won": 7
           },
           "dribbles": {
             "attempts": 1,
@@ -1703,103 +1703,8 @@
             "past": null
           },
           "fouls": {
-            "drawn": null,
-            "committed": 1
-          },
-          "cards": {
-            "yellow": 0,
-            "yellowred": 0,
-            "red": 0
-          },
-          "penalty": {
-            "won": null,
-            "commited": null,
-            "scored": 0,
-            "missed": 0,
-            "saved": null
-          }
-        }
-      ]
-    },
-    {
-      "player": {
-        "id": 310196,
-        "name": "Ismaël Gharbi",
-        "firstname": "Ismaël Seifallah",
-        "lastname": "Gharbi",
-        "age": 22,
-        "birth": {
-          "date": "2004-04-10",
-          "place": "Paris",
-          "country": "France"
-        },
-        "nationality": "Spain",
-        "height": "173",
-        "weight": "67",
-        "injured": false,
-        "photo": "https://media.api-sports.io/football/players/310196.png"
-      },
-      "statistics": [
-        {
-          "team": {
-            "id": 537,
-            "name": "Leganes",
-            "logo": "https://media.api-sports.io/football/teams/537.png"
-          },
-          "league": {
-            "id": 141,
-            "name": "Segunda División",
-            "country": "Spain",
-            "logo": "https://media.api-sports.io/football/leagues/141.png",
-            "flag": "https://media.api-sports.io/flags/es.svg",
-            "season": 2026
-          },
-          "games": {
-            "appearences": 2,
-            "lineups": 2,
-            "minutes": 121,
-            "number": 17,
-            "position": "Midfielder",
-            "rating": "7.1",
-            "captain": false
-          },
-          "substitutes": {
-            "in": 0,
-            "out": 2,
-            "bench": 0
-          },
-          "shots": {
-            "total": 1,
-            "on": 1
-          },
-          "goals": {
-            "total": 1,
-            "conceded": 0,
-            "assists": 0,
-            "saves": null
-          },
-          "passes": {
-            "total": 33,
-            "key": 1,
-            "accuracy": 63
-          },
-          "tackles": {
-            "total": 7,
-            "blocks": 1,
-            "interceptions": null
-          },
-          "duels": {
-            "total": 20,
-            "won": 10
-          },
-          "dribbles": {
-            "attempts": 3,
-            "success": 1,
-            "past": null
-          },
-          "fouls": {
-            "drawn": null,
-            "committed": 1
+            "drawn": 4,
+            "committed": 6
           },
           "cards": {
             "yellow": 0,
@@ -1850,12 +1755,12 @@
             "season": 2026
           },
           "games": {
-            "appearences": 2,
-            "lineups": 2,
-            "minutes": 126,
+            "appearences": 3,
+            "lineups": 3,
+            "minutes": 201,
             "number": 10,
             "position": "Attacker",
-            "rating": "7",
+            "rating": "6.67",
             "captain": false
           },
           "substitutes": {
@@ -1874,27 +1779,122 @@
             "saves": null
           },
           "passes": {
-            "total": 38,
-            "key": 1,
-            "accuracy": 65
+            "total": 71,
+            "key": 2,
+            "accuracy": 67
           },
           "tackles": {
-            "total": 1,
+            "total": 2,
             "blocks": null,
-            "interceptions": null
+            "interceptions": 1
           },
           "duels": {
-            "total": 11,
-            "won": 3
+            "total": 20,
+            "won": 7
           },
           "dribbles": {
-            "attempts": 1,
-            "success": null,
+            "attempts": 2,
+            "success": 1,
             "past": null
           },
           "fouls": {
             "drawn": null,
-            "committed": 1
+            "committed": 4
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 1
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 310196,
+        "name": "Ismaël Gharbi",
+        "firstname": "Ismaël Seifallah",
+        "lastname": "Gharbi",
+        "age": 22,
+        "birth": {
+          "date": "2004-04-10",
+          "place": "Paris",
+          "country": "France"
+        },
+        "nationality": "Spain",
+        "height": "173",
+        "weight": "67",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/310196.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 537,
+            "name": "Leganes",
+            "logo": "https://media.api-sports.io/football/teams/537.png"
+          },
+          "league": {
+            "id": 141,
+            "name": "Segunda División",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/141.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 3,
+            "lineups": 3,
+            "minutes": 211,
+            "number": 17,
+            "position": "Midfielder",
+            "rating": "7.13",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 2,
+            "bench": 0
+          },
+          "shots": {
+            "total": 3,
+            "on": 1
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 64,
+            "key": 4,
+            "accuracy": 73
+          },
+          "tackles": {
+            "total": 10,
+            "blocks": 1,
+            "interceptions": 2
+          },
+          "duels": {
+            "total": 36,
+            "won": 18
+          },
+          "dribbles": {
+            "attempts": 4,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 4,
+            "committed": 3
           },
           "cards": {
             "yellow": 0,

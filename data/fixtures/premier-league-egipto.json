@@ -13,146 +13,6 @@
   "response": [
     {
       "fixture": {
-        "id": 1612211,
-        "referee": null,
-        "timezone": "UTC",
-        "date": "2026-08-26T17:00:00+00:00",
-        "timestamp": 1787763600,
-        "periods": {
-          "first": 1787763600,
-          "second": null
-        },
-        "venue": {
-          "id": 485,
-          "name": "Petrosport Stadium",
-          "city": "Cairo"
-        },
-        "status": {
-          "long": "Halftime",
-          "short": "HT",
-          "elapsed": 45,
-          "extra": 4
-        }
-      },
-      "league": {
-        "id": 233,
-        "name": "Premier League",
-        "country": "Egypt",
-        "logo": "https://media.api-sports.io/football/leagues/233.png",
-        "flag": "https://media.api-sports.io/flags/eg.svg",
-        "season": 2026,
-        "round": "Regular Season - 2",
-        "standings": true
-      },
-      "teams": {
-        "home": {
-          "id": 1041,
-          "name": "Petrojet",
-          "logo": "https://media.api-sports.io/football/teams/1041.png",
-          "winner": false
-        },
-        "away": {
-          "id": 1039,
-          "name": "El Geish",
-          "logo": "https://media.api-sports.io/football/teams/1039.png",
-          "winner": true
-        }
-      },
-      "goals": {
-        "home": 0,
-        "away": 2
-      },
-      "score": {
-        "halftime": {
-          "home": 0,
-          "away": 2
-        },
-        "fulltime": {
-          "home": null,
-          "away": null
-        },
-        "extratime": {
-          "home": null,
-          "away": null
-        },
-        "penalty": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "fixture": {
-        "id": 1612210,
-        "referee": null,
-        "timezone": "UTC",
-        "date": "2026-08-26T17:00:00+00:00",
-        "timestamp": 1787763600,
-        "periods": {
-          "first": 1787763600,
-          "second": null
-        },
-        "venue": {
-          "id": null,
-          "name": null,
-          "city": null
-        },
-        "status": {
-          "long": "Halftime",
-          "short": "HT",
-          "elapsed": 45,
-          "extra": 4
-        }
-      },
-      "league": {
-        "id": 233,
-        "name": "Premier League",
-        "country": "Egypt",
-        "logo": "https://media.api-sports.io/football/leagues/233.png",
-        "flag": "https://media.api-sports.io/flags/eg.svg",
-        "season": 2026,
-        "round": "Regular Season - 2",
-        "standings": true
-      },
-      "teams": {
-        "home": {
-          "id": 15570,
-          "name": "National Bank of Egypt",
-          "logo": "https://media.api-sports.io/football/teams/15570.png",
-          "winner": null
-        },
-        "away": {
-          "id": 1040,
-          "name": "Zamalek SC",
-          "logo": "https://media.api-sports.io/football/teams/1040.png",
-          "winner": null
-        }
-      },
-      "goals": {
-        "home": 0,
-        "away": 0
-      },
-      "score": {
-        "halftime": {
-          "home": 0,
-          "away": 0
-        },
-        "fulltime": {
-          "home": null,
-          "away": null
-        },
-        "extratime": {
-          "home": null,
-          "away": null
-        },
-        "penalty": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "fixture": {
         "id": 1612199,
         "referee": "I. Ghuloum",
         "timezone": "UTC",
@@ -854,7 +714,7 @@
     {
       "fixture": {
         "id": 1612209,
-        "referee": null,
+        "referee": "A. El Sayed",
         "timezone": "UTC",
         "date": "2026-08-26T14:00:00+00:00",
         "timestamp": 1787752800,
@@ -864,8 +724,8 @@
         },
         "venue": {
           "id": null,
-          "name": null,
-          "city": null
+          "name": "Borg El Arab Stadium",
+          "city": "Alexandria"
         },
         "status": {
           "long": "Match Finished",
@@ -923,14 +783,154 @@
     },
     {
       "fixture": {
+        "id": 1612211,
+        "referee": "E. S. Shaban",
+        "timezone": "UTC",
+        "date": "2026-08-26T17:00:00+00:00",
+        "timestamp": 1787763600,
+        "periods": {
+          "first": 1787763600,
+          "second": 1787767200
+        },
+        "venue": {
+          "id": 485,
+          "name": "Petrosport Stadium",
+          "city": "Cairo"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 8
+        }
+      },
+      "league": {
+        "id": 233,
+        "name": "Premier League",
+        "country": "Egypt",
+        "logo": "https://media.api-sports.io/football/leagues/233.png",
+        "flag": "https://media.api-sports.io/flags/eg.svg",
+        "season": 2026,
+        "round": "Regular Season - 2",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 1041,
+          "name": "Petrojet",
+          "logo": "https://media.api-sports.io/football/teams/1041.png",
+          "winner": false
+        },
+        "away": {
+          "id": 1039,
+          "name": "El Geish",
+          "logo": "https://media.api-sports.io/football/teams/1039.png",
+          "winner": true
+        }
+      },
+      "goals": {
+        "home": 2,
+        "away": 3
+      },
+      "score": {
+        "halftime": {
+          "home": 0,
+          "away": 2
+        },
+        "fulltime": {
+          "home": 2,
+          "away": 3
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1612210,
+        "referee": "M. El Ghazy",
+        "timezone": "UTC",
+        "date": "2026-08-26T17:00:00+00:00",
+        "timestamp": 1787763600,
+        "periods": {
+          "first": 1787763600,
+          "second": 1787767200
+        },
+        "venue": {
+          "id": 477,
+          "name": "Cairo International Stadium",
+          "city": "Cairo"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 7
+        }
+      },
+      "league": {
+        "id": 233,
+        "name": "Premier League",
+        "country": "Egypt",
+        "logo": "https://media.api-sports.io/football/leagues/233.png",
+        "flag": "https://media.api-sports.io/flags/eg.svg",
+        "season": 2026,
+        "round": "Regular Season - 2",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 15570,
+          "name": "National Bank of Egypt",
+          "logo": "https://media.api-sports.io/football/teams/15570.png",
+          "winner": false
+        },
+        "away": {
+          "id": 1040,
+          "name": "Zamalek SC",
+          "logo": "https://media.api-sports.io/football/teams/1040.png",
+          "winner": true
+        }
+      },
+      "goals": {
+        "home": 0,
+        "away": 3
+      },
+      "score": {
+        "halftime": {
+          "home": 0,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 0,
+          "away": 3
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
         "id": 1612212,
-        "referee": null,
+        "referee": "W. Nagy",
         "timezone": "UTC",
         "date": "2026-08-27T14:00:00+00:00",
         "timestamp": 1787839200,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1787839200,
+          "second": 1787842800
         },
         "venue": {
           "id": 12576,
@@ -938,10 +938,10 @@
           "city": "Cairo"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 4
         }
       },
       "league": {
@@ -959,27 +959,27 @@
           "id": 16431,
           "name": "Future FC",
           "logo": "https://media.api-sports.io/football/teams/16431.png",
-          "winner": null
+          "winner": true
         },
         "away": {
           "id": 13819,
           "name": "Ghazl El Mehalla",
           "logo": "https://media.api-sports.io/football/teams/13819.png",
-          "winner": null
+          "winner": false
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 2,
+        "away": 0
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 0
         },
         "extratime": {
           "home": null,
@@ -994,13 +994,13 @@
     {
       "fixture": {
         "id": 1612214,
-        "referee": null,
+        "referee": "H. Al Qalawi",
         "timezone": "UTC",
         "date": "2026-08-27T17:00:00+00:00",
         "timestamp": 1787850000,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1787850000,
+          "second": 1787853600
         },
         "venue": {
           "id": null,
@@ -1008,10 +1008,10 @@
           "city": "Cairo"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 6
         }
       },
       "league": {
@@ -1029,27 +1029,27 @@
           "id": 1036,
           "name": "Pyramids FC",
           "logo": "https://media.api-sports.io/football/teams/1036.png",
-          "winner": null
+          "winner": true
         },
         "away": {
           "id": 15731,
           "name": "Abu Qair Semad",
           "logo": "https://media.api-sports.io/football/teams/15731.png",
-          "winner": null
+          "winner": false
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 2,
+        "away": 0
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 0
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 0
         },
         "extratime": {
           "home": null,
@@ -1064,13 +1064,13 @@
     {
       "fixture": {
         "id": 1612213,
-        "referee": null,
+        "referee": "I. Mohamed",
         "timezone": "UTC",
         "date": "2026-08-27T17:00:00+00:00",
         "timestamp": 1787850000,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1787850000,
+          "second": 1787853600
         },
         "venue": {
           "id": null,
@@ -1078,10 +1078,10 @@
           "city": "Cairo"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 9
         }
       },
       "league": {
@@ -1099,27 +1099,27 @@
           "id": 1575,
           "name": "El Mokawloon",
           "logo": "https://media.api-sports.io/football/teams/1575.png",
-          "winner": null
+          "winner": false
         },
         "away": {
           "id": 1031,
           "name": "AL Masry",
           "logo": "https://media.api-sports.io/football/teams/1031.png",
-          "winner": null
+          "winner": true
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 2,
+        "away": 3
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 1
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 3
         },
         "extratime": {
           "home": null,
@@ -1134,13 +1134,13 @@
     {
       "fixture": {
         "id": 1612216,
-        "referee": null,
+        "referee": "M. Abbas",
         "timezone": "UTC",
         "date": "2026-08-28T14:00:00+00:00",
         "timestamp": 1787925600,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1787925600,
+          "second": 1787929200
         },
         "venue": {
           "id": 485,
@@ -1148,10 +1148,10 @@
           "city": "Cairo"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 6
         }
       },
       "league": {
@@ -1169,27 +1169,27 @@
           "id": 1037,
           "name": "Enppi",
           "logo": "https://media.api-sports.io/football/teams/1037.png",
-          "winner": null
+          "winner": false
         },
         "away": {
           "id": 1046,
           "name": "Wadi Degla",
           "logo": "https://media.api-sports.io/football/teams/1046.png",
-          "winner": null
+          "winner": true
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 1,
+        "away": 3
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 1
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 3
         },
         "extratime": {
           "home": null,
@@ -1204,24 +1204,24 @@
     {
       "fixture": {
         "id": 1612215,
-        "referee": null,
+        "referee": "A. Saleh",
         "timezone": "UTC",
         "date": "2026-08-28T14:00:00+00:00",
         "timestamp": 1787925600,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1787925600,
+          "second": 1787929200
         },
         "venue": {
-          "id": null,
-          "name": null,
-          "city": null
+          "id": 11492,
+          "name": "Suez Canal Stadium",
+          "city": "Ismailia"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 7
         }
       },
       "league": {
@@ -1249,17 +1249,17 @@
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 1,
+        "away": 1
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 1
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 1
         },
         "extratime": {
           "home": null,
@@ -1274,13 +1274,13 @@
     {
       "fixture": {
         "id": 1612217,
-        "referee": null,
+        "referee": "M. Nasef",
         "timezone": "UTC",
         "date": "2026-08-28T17:00:00+00:00",
         "timestamp": 1787936400,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1787936400,
+          "second": 1787940000
         },
         "venue": {
           "id": null,
@@ -1288,10 +1288,10 @@
           "city": "Alexandria"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 5
         }
       },
       "league": {
@@ -1309,27 +1309,27 @@
           "id": 1572,
           "name": "Al Ittihad",
           "logo": "https://media.api-sports.io/football/teams/1572.png",
-          "winner": null
+          "winner": false
         },
         "away": {
           "id": 14651,
           "name": "Ceramica Cleopatra",
           "logo": "https://media.api-sports.io/football/teams/14651.png",
-          "winner": null
+          "winner": true
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 1,
+        "away": 3
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 1
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 3
         },
         "extratime": {
           "home": null,
@@ -1344,24 +1344,24 @@
     {
       "fixture": {
         "id": 1612218,
-        "referee": null,
+        "referee": "M. Maarouf",
         "timezone": "UTC",
         "date": "2026-08-28T17:00:00+00:00",
         "timestamp": 1787936400,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1787936400,
+          "second": 1787940000
         },
         "venue": {
-          "id": null,
-          "name": null,
-          "city": null
+          "id": 477,
+          "name": "Cairo International Stadium",
+          "city": "Cairo"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 5
         }
       },
       "league": {
@@ -1379,27 +1379,27 @@
           "id": 7520,
           "name": "Masr",
           "logo": "https://media.api-sports.io/football/teams/7520.png",
-          "winner": null
+          "winner": false
         },
         "away": {
           "id": 1577,
           "name": "Al Ahly",
           "logo": "https://media.api-sports.io/football/teams/1577.png",
-          "winner": null
+          "winner": true
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 0,
+        "away": 2
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 1
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 2
         },
         "extratime": {
           "home": null,
@@ -1563,9 +1563,9 @@
           "second": null
         },
         "venue": {
-          "id": null,
-          "name": null,
-          "city": null
+          "id": 477,
+          "name": "Cairo International Stadium",
+          "city": "Cairo"
         },
         "status": {
           "long": "Not Started",
@@ -1833,76 +1833,6 @@
     },
     {
       "fixture": {
-        "id": 1612224,
-        "referee": null,
-        "timezone": "UTC",
-        "date": "2026-09-01T17:00:00+00:00",
-        "timestamp": 1788282000,
-        "periods": {
-          "first": null,
-          "second": null
-        },
-        "venue": {
-          "id": null,
-          "name": null,
-          "city": null
-        },
-        "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
-        }
-      },
-      "league": {
-        "id": 233,
-        "name": "Premier League",
-        "country": "Egypt",
-        "logo": "https://media.api-sports.io/football/leagues/233.png",
-        "flag": "https://media.api-sports.io/flags/eg.svg",
-        "season": 2026,
-        "round": "Regular Season - 3",
-        "standings": true
-      },
-      "teams": {
-        "home": {
-          "id": 1577,
-          "name": "Al Ahly",
-          "logo": "https://media.api-sports.io/football/teams/1577.png",
-          "winner": null
-        },
-        "away": {
-          "id": 1044,
-          "name": "Smouha SC",
-          "logo": "https://media.api-sports.io/football/teams/1044.png",
-          "winner": null
-        }
-      },
-      "goals": {
-        "home": null,
-        "away": null
-      },
-      "score": {
-        "halftime": {
-          "home": null,
-          "away": null
-        },
-        "fulltime": {
-          "home": null,
-          "away": null
-        },
-        "extratime": {
-          "home": null,
-          "away": null
-        },
-        "penalty": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "fixture": {
         "id": 1612226,
         "referee": null,
         "timezone": "UTC",
@@ -2085,6 +2015,76 @@
           "id": 1572,
           "name": "Al Ittihad",
           "logo": "https://media.api-sports.io/football/teams/1572.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1612224,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2026-09-03T17:00:00+00:00",
+        "timestamp": 1788454800,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": null,
+          "name": null,
+          "city": null
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 233,
+        "name": "Premier League",
+        "country": "Egypt",
+        "logo": "https://media.api-sports.io/football/leagues/233.png",
+        "flag": "https://media.api-sports.io/flags/eg.svg",
+        "season": 2026,
+        "round": "Regular Season - 3",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 1577,
+          "name": "Al Ahly",
+          "logo": "https://media.api-sports.io/football/teams/1577.png",
+          "winner": null
+        },
+        "away": {
+          "id": 1044,
+          "name": "Smouha SC",
+          "logo": "https://media.api-sports.io/football/teams/1044.png",
           "winner": null
         }
       },

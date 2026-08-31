@@ -1694,13 +1694,13 @@
     {
       "fixture": {
         "id": 1563714,
-        "referee": null,
+        "referee": "B. Toner",
         "timezone": "UTC",
         "date": "2026-08-29T11:30:00+00:00",
         "timestamp": 1788003000,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1788003000,
+          "second": 1788006600
         },
         "venue": {
           "id": null,
@@ -1708,9 +1708,9 @@
           "city": "Stoke on Trent"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
           "extra": null
         }
       },
@@ -1739,17 +1739,17 @@
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 0,
+        "away": 0
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         },
         "extratime": {
           "home": null,
@@ -1764,13 +1764,13 @@
     {
       "fixture": {
         "id": 1563707,
-        "referee": null,
+        "referee": "A. Byrne",
         "timezone": "UTC",
         "date": "2026-08-29T11:30:00+00:00",
         "timestamp": 1788003000,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1788003000,
+          "second": 1788006600
         },
         "venue": {
           "id": 496,
@@ -1778,9 +1778,9 @@
           "city": "London"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
           "extra": null
         }
       },
@@ -1809,17 +1809,17 @@
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 2,
+        "away": 2
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 0
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 2
         },
         "extratime": {
           "home": null,
@@ -1834,13 +1834,13 @@
     {
       "fixture": {
         "id": 1563715,
-        "referee": null,
+        "referee": "S. Stockbridge",
         "timezone": "UTC",
         "date": "2026-08-29T12:00:00+00:00",
         "timestamp": 1788004800,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1788004800,
+          "second": 1788008400
         },
         "venue": {
           "id": null,
@@ -1848,9 +1848,9 @@
           "city": "Rotherham"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
           "extra": null
         }
       },
@@ -1869,27 +1869,27 @@
           "id": 73,
           "name": "Rotherham",
           "logo": "https://media.api-sports.io/football/teams/73.png",
-          "winner": null
+          "winner": true
         },
         "away": {
           "id": 1345,
           "name": "Chesterfield",
           "logo": "https://media.api-sports.io/football/teams/1345.png",
-          "winner": null
+          "winner": false
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 2,
+        "away": 1
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 0
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 1
         },
         "extratime": {
           "home": null,
@@ -1904,13 +1904,13 @@
     {
       "fixture": {
         "id": 1563717,
-        "referee": null,
+        "referee": "W. Davis",
         "timezone": "UTC",
         "date": "2026-08-29T14:00:00+00:00",
         "timestamp": 1788012000,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1788012000,
+          "second": 1788015600
         },
         "venue": {
           "id": null,
@@ -1918,9 +1918,9 @@
           "city": "Walsall"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
           "extra": null
         }
       },
@@ -1939,27 +1939,27 @@
           "id": 1342,
           "name": "Walsall",
           "logo": "https://media.api-sports.io/football/teams/1342.png",
-          "winner": null
+          "winner": true
         },
         "away": {
           "id": 1360,
           "name": "Accrington ST",
           "logo": "https://media.api-sports.io/football/teams/1360.png",
-          "winner": null
+          "winner": false
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 3,
+        "away": 2
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 1
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 3,
+          "away": 2
         },
         "extratime": {
           "home": null,
@@ -1974,13 +1974,13 @@
     {
       "fixture": {
         "id": 1563710,
-        "referee": null,
+        "referee": "E. Swallow",
         "timezone": "UTC",
         "date": "2026-08-29T14:00:00+00:00",
         "timestamp": 1788012000,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1788012000,
+          "second": 1788015600
         },
         "venue": {
           "id": null,
@@ -1988,9 +1988,9 @@
           "city": "Gillingham"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
           "extra": null
         }
       },
@@ -2019,17 +2019,17 @@
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 1,
+        "away": 1
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 1
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 1
         },
         "extratime": {
           "home": null,
@@ -2044,13 +2044,13 @@
     {
       "fixture": {
         "id": 1563713,
-        "referee": null,
+        "referee": "D. Whitestone",
         "timezone": "UTC",
         "date": "2026-08-29T14:00:00+00:00",
         "timestamp": 1788012000,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1788012000,
+          "second": 1788015600
         },
         "venue": {
           "id": null,
@@ -2058,9 +2058,9 @@
           "city": "Oldham"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
           "extra": null
         }
       },
@@ -2079,27 +2079,27 @@
           "id": 1349,
           "name": "Oldham",
           "logo": "https://media.api-sports.io/football/teams/1349.png",
-          "winner": null
+          "winner": true
         },
         "away": {
           "id": 1353,
           "name": "Swindon Town",
           "logo": "https://media.api-sports.io/football/teams/1353.png",
-          "winner": null
+          "winner": false
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 3,
+        "away": 0
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 0
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 3,
+          "away": 0
         },
         "extratime": {
           "home": null,
@@ -2114,13 +2114,13 @@
     {
       "fixture": {
         "id": 1563716,
-        "referee": null,
+        "referee": "I. Searle",
         "timezone": "UTC",
         "date": "2026-08-29T14:00:00+00:00",
         "timestamp": 1788012000,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1788012000,
+          "second": 1788015600
         },
         "venue": {
           "id": null,
@@ -2128,9 +2128,9 @@
           "city": "Shrewsbury"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
           "extra": null
         }
       },
@@ -2149,27 +2149,27 @@
           "id": 1352,
           "name": "Shrewsbury",
           "logo": "https://media.api-sports.io/football/teams/1352.png",
-          "winner": null
+          "winner": true
         },
         "away": {
           "id": 1844,
           "name": "Salford City",
           "logo": "https://media.api-sports.io/football/teams/1844.png",
-          "winner": null
+          "winner": false
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 1,
+        "away": 0
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 0
         },
         "extratime": {
           "home": null,
@@ -2184,13 +2184,13 @@
     {
       "fixture": {
         "id": 1563708,
-        "referee": null,
+        "referee": "D. Bourne",
         "timezone": "UTC",
         "date": "2026-08-29T14:00:00+00:00",
         "timestamp": 1788012000,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1788012000,
+          "second": 1788015600
         },
         "venue": {
           "id": null,
@@ -2198,9 +2198,9 @@
           "city": "Colchester"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
           "extra": null
         }
       },
@@ -2219,27 +2219,27 @@
           "id": 1361,
           "name": "Colchester",
           "logo": "https://media.api-sports.io/football/teams/1361.png",
-          "winner": null
+          "winner": true
         },
         "away": {
           "id": 1339,
           "name": "Rochdale",
           "logo": "https://media.api-sports.io/football/teams/1339.png",
-          "winner": null
+          "winner": false
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 1,
+        "away": 0
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 0
         },
         "extratime": {
           "home": null,
@@ -2254,13 +2254,13 @@
     {
       "fixture": {
         "id": 1563709,
-        "referee": null,
+        "referee": "L. Doughty",
         "timezone": "UTC",
         "date": "2026-08-29T14:00:00+00:00",
         "timestamp": 1788012000,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1788012000,
+          "second": 1788015600
         },
         "venue": {
           "id": null,
@@ -2268,9 +2268,9 @@
           "city": "Crawley"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
           "extra": null
         }
       },
@@ -2289,27 +2289,27 @@
           "id": 1362,
           "name": "Crawley Town",
           "logo": "https://media.api-sports.io/football/teams/1362.png",
-          "winner": null
+          "winner": false
         },
         "away": {
           "id": 1334,
           "name": "Bristol Rovers",
           "logo": "https://media.api-sports.io/football/teams/1334.png",
-          "winner": null
+          "winner": true
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 0,
+        "away": 2
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 2
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 2
         },
         "extratime": {
           "home": null,
@@ -2324,13 +2324,13 @@
     {
       "fixture": {
         "id": 1563711,
-        "referee": null,
+        "referee": "R. Massey-Ellis",
         "timezone": "UTC",
         "date": "2026-08-29T14:00:00+00:00",
         "timestamp": 1788012000,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1788012000,
+          "second": 1788015600
         },
         "venue": {
           "id": null,
@@ -2338,9 +2338,9 @@
           "city": "Cleethorpes"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
           "extra": null
         }
       },
@@ -2369,17 +2369,17 @@
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 2,
+        "away": 2
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 1
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 2
         },
         "extratime": {
           "home": null,
@@ -2394,13 +2394,13 @@
     {
       "fixture": {
         "id": 1563712,
-        "referee": null,
+        "referee": "E. Heaslip",
         "timezone": "UTC",
         "date": "2026-08-29T14:00:00+00:00",
         "timestamp": 1788012000,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1788012000,
+          "second": 1788015600
         },
         "venue": {
           "id": null,
@@ -2408,9 +2408,9 @@
           "city": "Newport"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
           "extra": null
         }
       },
@@ -2439,17 +2439,17 @@
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 2,
+        "away": 2
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 0
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 2
         },
         "extratime": {
           "home": null,
@@ -2464,13 +2464,13 @@
     {
       "fixture": {
         "id": 1563718,
-        "referee": null,
+        "referee": "O. Langford",
         "timezone": "UTC",
         "date": "2026-08-29T14:00:00+00:00",
         "timestamp": 1788012000,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1788012000,
+          "second": 1788015600
         },
         "venue": {
           "id": null,
@@ -2478,9 +2478,9 @@
           "city": "York"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
           "extra": null
         }
       },
@@ -2499,27 +2499,27 @@
           "id": 1828,
           "name": "York",
           "logo": "https://media.api-sports.io/football/teams/1828.png",
-          "winner": null
+          "winner": true
         },
         "away": {
           "id": 1364,
           "name": "Exeter City",
           "logo": "https://media.api-sports.io/football/teams/1364.png",
-          "winner": null
+          "winner": false
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 2,
+        "away": 1
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 0
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 1
         },
         "extratime": {
           "home": null,
@@ -2534,7 +2534,7 @@
     {
       "fixture": {
         "id": 1563720,
-        "referee": null,
+        "referee": "A. Chilowicz",
         "timezone": "UTC",
         "date": "2026-09-01T18:45:00+00:00",
         "timestamp": 1788288300,
@@ -2604,7 +2604,7 @@
     {
       "fixture": {
         "id": 1563725,
-        "referee": null,
+        "referee": "W. Davis",
         "timezone": "UTC",
         "date": "2026-09-01T18:45:00+00:00",
         "timestamp": 1788288300,
@@ -2674,7 +2674,7 @@
     {
       "fixture": {
         "id": 1563726,
-        "referee": null,
+        "referee": "A. Dale",
         "timezone": "UTC",
         "date": "2026-09-01T18:45:00+00:00",
         "timestamp": 1788288300,
@@ -2744,7 +2744,7 @@
     {
       "fixture": {
         "id": 1563727,
-        "referee": null,
+        "referee": "S. Mather",
         "timezone": "UTC",
         "date": "2026-09-01T18:45:00+00:00",
         "timestamp": 1788288300,
@@ -2814,7 +2814,7 @@
     {
       "fixture": {
         "id": 1563722,
-        "referee": null,
+        "referee": "R. Martin",
         "timezone": "UTC",
         "date": "2026-09-01T18:45:00+00:00",
         "timestamp": 1788288300,
@@ -2884,7 +2884,7 @@
     {
       "fixture": {
         "id": 1563729,
-        "referee": null,
+        "referee": "M. Corlett",
         "timezone": "UTC",
         "date": "2026-09-01T18:45:00+00:00",
         "timestamp": 1788288300,
@@ -2954,7 +2954,7 @@
     {
       "fixture": {
         "id": 1563719,
-        "referee": null,
+        "referee": "M. Barlow",
         "timezone": "UTC",
         "date": "2026-09-01T18:45:00+00:00",
         "timestamp": 1788288300,
@@ -3024,7 +3024,7 @@
     {
       "fixture": {
         "id": 1563723,
-        "referee": null,
+        "referee": "O. Mackey",
         "timezone": "UTC",
         "date": "2026-09-01T18:45:00+00:00",
         "timestamp": 1788288300,
@@ -3094,7 +3094,7 @@
     {
       "fixture": {
         "id": 1563724,
-        "referee": null,
+        "referee": "S. Gill",
         "timezone": "UTC",
         "date": "2026-09-01T18:45:00+00:00",
         "timestamp": 1788288300,
@@ -3164,7 +3164,7 @@
     {
       "fixture": {
         "id": 1563721,
-        "referee": null,
+        "referee": "S. Copeland",
         "timezone": "UTC",
         "date": "2026-09-01T18:45:00+00:00",
         "timestamp": 1788288300,
@@ -3234,7 +3234,7 @@
     {
       "fixture": {
         "id": 1563730,
-        "referee": null,
+        "referee": "M. Woods",
         "timezone": "UTC",
         "date": "2026-09-01T18:45:00+00:00",
         "timestamp": 1788288300,
@@ -3304,7 +3304,7 @@
     {
       "fixture": {
         "id": 1563728,
-        "referee": null,
+        "referee": "M. Russell",
         "timezone": "UTC",
         "date": "2026-09-01T18:45:00+00:00",
         "timestamp": 1788288300,

@@ -13,6 +13,101 @@
   "response": [
     {
       "player": {
+        "id": 274278,
+        "name": "I. Baldé",
+        "firstname": "Ibrahima",
+        "lastname": "Baldé",
+        "age": 22,
+        "birth": {
+          "date": "2003-01-17",
+          "place": "Paris",
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": "185",
+        "weight": "77",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/274278.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 1301,
+            "name": "Rodez",
+            "logo": "https://media.api-sports.io/football/teams/1301.png"
+          },
+          "league": {
+            "id": 62,
+            "name": "Ligue 2",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/62.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 4,
+            "lineups": 4,
+            "minutes": 344,
+            "number": 18,
+            "position": "Attacker",
+            "rating": "7.93",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 0
+          },
+          "shots": {
+            "total": 12,
+            "on": 8
+          },
+          "goals": {
+            "total": 5,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 50,
+            "key": 2,
+            "accuracy": 72
+          },
+          "tackles": {
+            "total": 4,
+            "blocks": 1,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 37,
+            "won": 14
+          },
+          "dribbles": {
+            "attempts": 2,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 4,
+            "committed": 5
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
         "id": 8683,
         "name": "I. Cardona",
         "firstname": "Irvin Charly Jose",
@@ -108,28 +203,28 @@
     },
     {
       "player": {
-        "id": 274278,
-        "name": "I. Baldé",
-        "firstname": "Ibrahima",
-        "lastname": "Baldé",
-        "age": 22,
+        "id": 535438,
+        "name": "B. Leye",
+        "firstname": null,
+        "lastname": null,
+        "age": 25,
         "birth": {
-          "date": "2003-01-17",
-          "place": "Paris",
-          "country": "France"
+          "date": null,
+          "place": null,
+          "country": null
         },
-        "nationality": "France",
-        "height": "185",
-        "weight": "77",
+        "nationality": null,
+        "height": null,
+        "weight": null,
         "injured": false,
-        "photo": "https://media.api-sports.io/football/players/274278.png"
+        "photo": "https://media.api-sports.io/football/players/535438.png"
       },
       "statistics": [
         {
           "team": {
-            "id": 1301,
-            "name": "Rodez",
-            "logo": "https://media.api-sports.io/football/teams/1301.png"
+            "id": 1297,
+            "name": "PAU",
+            "logo": "https://media.api-sports.io/football/teams/1297.png"
           },
           "league": {
             "id": 62,
@@ -140,54 +235,54 @@
             "season": 2026
           },
           "games": {
-            "appearences": 3,
-            "lineups": 3,
-            "minutes": 254,
-            "number": 18,
+            "appearences": 4,
+            "lineups": 2,
+            "minutes": 160,
+            "number": 9,
             "position": "Attacker",
-            "rating": "8.07",
+            "rating": "7.03",
             "captain": false
           },
           "substitutes": {
-            "in": 0,
-            "out": 1,
-            "bench": 0
+            "in": 2,
+            "out": 2,
+            "bench": 2
           },
           "shots": {
-            "total": 10,
-            "on": 7
+            "total": 7,
+            "on": 3
           },
           "goals": {
-            "total": 4,
+            "total": 3,
             "conceded": 0,
             "assists": 0,
             "saves": null
           },
           "passes": {
-            "total": 34,
-            "key": 2,
-            "accuracy": 79
+            "total": 29,
+            "key": 1,
+            "accuracy": 68
           },
           "tackles": {
-            "total": 4,
-            "blocks": 1,
+            "total": 1,
+            "blocks": null,
             "interceptions": null
           },
           "duels": {
-            "total": 28,
-            "won": 11
+            "total": 23,
+            "won": 10
           },
           "dribbles": {
-            "attempts": 2,
+            "attempts": 3,
             "success": null,
             "past": null
           },
           "fouls": {
             "drawn": 3,
-            "committed": 2
+            "committed": 4
           },
           "cards": {
-            "yellow": 1,
+            "yellow": 0,
             "yellowred": 0,
             "red": 0
           },
@@ -393,6 +488,101 @@
     },
     {
       "player": {
+        "id": 271274,
+        "name": "W. Younoussa",
+        "firstname": "Wilitty",
+        "lastname": "Younoussa",
+        "age": 24,
+        "birth": {
+          "date": "2001-09-09",
+          "place": "Tcholirré",
+          "country": "Cameroon"
+        },
+        "nationality": "Cameroon",
+        "height": "174",
+        "weight": "66",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/271274.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 83,
+            "name": "Nantes",
+            "logo": "https://media.api-sports.io/football/teams/83.png"
+          },
+          "league": {
+            "id": 62,
+            "name": "Ligue 2",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/62.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 3,
+            "lineups": 3,
+            "minutes": 175,
+            "number": 23,
+            "position": "Midfielder",
+            "rating": "7.57",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 2,
+            "bench": 0
+          },
+          "shots": {
+            "total": 3,
+            "on": 2
+          },
+          "goals": {
+            "total": 2,
+            "conceded": 0,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 86,
+            "key": 1,
+            "accuracy": 82
+          },
+          "tackles": {
+            "total": 3,
+            "blocks": 1,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 24,
+            "won": 17
+          },
+          "dribbles": {
+            "attempts": 2,
+            "success": 2,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 10,
+            "committed": 3
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
         "id": 281373,
         "name": "E. Prutsev",
         "firstname": "Egor",
@@ -427,10 +617,10 @@
           "games": {
             "appearences": 0,
             "lineups": 0,
-            "minutes": 183,
+            "minutes": 201,
             "number": 11,
             "position": "Midfielder",
-            "rating": "7",
+            "rating": "6.93",
             "captain": false
           },
           "substitutes": {
@@ -449,9 +639,9 @@
             "saves": null
           },
           "passes": {
-            "total": 27,
+            "total": 29,
             "key": 3,
-            "accuracy": 77
+            "accuracy": 79
           },
           "tackles": {
             "total": 3,
@@ -459,8 +649,8 @@
             "interceptions": 1
           },
           "duels": {
-            "total": 24,
-            "won": 9
+            "total": 26,
+            "won": 10
           },
           "dribbles": {
             "attempts": 8,
@@ -473,6 +663,386 @@
           },
           "cards": {
             "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 344298,
+        "name": "O. Joly",
+        "firstname": "Octave",
+        "lastname": "Joly",
+        "age": 23,
+        "birth": {
+          "date": "2002-09-16",
+          "place": null,
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": null,
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/344298.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 1301,
+            "name": "Rodez",
+            "logo": "https://media.api-sports.io/football/teams/1301.png"
+          },
+          "league": {
+            "id": 62,
+            "name": "Ligue 2",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/62.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 4,
+            "lineups": 1,
+            "minutes": 139,
+            "number": 22,
+            "position": "Midfielder",
+            "rating": "7.13",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 3,
+            "out": 1,
+            "bench": 3
+          },
+          "shots": {
+            "total": 4,
+            "on": 3
+          },
+          "goals": {
+            "total": 2,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 40,
+            "key": 2,
+            "accuracy": 80
+          },
+          "tackles": {
+            "total": 2,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 19,
+            "won": 8
+          },
+          "dribbles": {
+            "attempts": 5,
+            "success": 3,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 3,
+            "committed": 3
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 37442,
+        "name": "Y. El Kachati",
+        "firstname": "Youssef",
+        "lastname": "El Kachati",
+        "age": 26,
+        "birth": {
+          "date": "1999-11-30",
+          "place": "Leiden",
+          "country": "Netherlands"
+        },
+        "nationality": "Morocco",
+        "height": "185",
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/37442.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 93,
+            "name": "Reims",
+            "logo": "https://media.api-sports.io/football/teams/93.png"
+          },
+          "league": {
+            "id": 62,
+            "name": "Ligue 2",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/62.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 4,
+            "lineups": 2,
+            "minutes": 174,
+            "number": 10,
+            "position": "Midfielder",
+            "rating": "6.88",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 2,
+            "bench": 2
+          },
+          "shots": {
+            "total": 3,
+            "on": 3
+          },
+          "goals": {
+            "total": 2,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 26,
+            "key": null,
+            "accuracy": 65
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": 2
+          },
+          "duels": {
+            "total": 31,
+            "won": 9
+          },
+          "dribbles": {
+            "attempts": 3,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 6,
+            "committed": 5
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 275848,
+        "name": "B. Bokangu",
+        "firstname": "Brandon",
+        "lastname": "Bokangu",
+        "age": 26,
+        "birth": {
+          "date": "1999-12-10",
+          "place": null,
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": null,
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/275848.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 102,
+            "name": "Nancy",
+            "logo": "https://media.api-sports.io/football/teams/102.png"
+          },
+          "league": {
+            "id": 62,
+            "name": "Ligue 2",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/62.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 4,
+            "lineups": 3,
+            "minutes": 271,
+            "number": 20,
+            "position": "Attacker",
+            "rating": "7.35",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 3,
+            "bench": 1
+          },
+          "shots": {
+            "total": 9,
+            "on": 5
+          },
+          "goals": {
+            "total": 2,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 66,
+            "key": 1,
+            "accuracy": 78
+          },
+          "tackles": {
+            "total": 2,
+            "blocks": null,
+            "interceptions": 3
+          },
+          "duels": {
+            "total": 38,
+            "won": 23
+          },
+          "dribbles": {
+            "attempts": 2,
+            "success": 2,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 11,
+            "committed": 5
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 23402,
+        "name": "D. Gomis",
+        "firstname": "Donatien",
+        "lastname": "Gomis",
+        "age": 31,
+        "birth": {
+          "date": "1994-11-07",
+          "place": "Dakar",
+          "country": "Senegal"
+        },
+        "nationality": "Senegal",
+        "height": "188",
+        "weight": "85",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/23402.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 90,
+            "name": "Guingamp",
+            "logo": "https://media.api-sports.io/football/teams/90.png"
+          },
+          "league": {
+            "id": 62,
+            "name": "Ligue 2",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/62.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 4,
+            "lineups": 3,
+            "minutes": 294,
+            "number": 7,
+            "position": "Defender",
+            "rating": "7.53",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": 3,
+            "on": 2
+          },
+          "goals": {
+            "total": 2,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 284,
+            "key": 3,
+            "accuracy": 91
+          },
+          "tackles": {
+            "total": 3,
+            "blocks": 1,
+            "interceptions": 3
+          },
+          "duels": {
+            "total": 32,
+            "won": 22
+          },
+          "dribbles": {
+            "attempts": 4,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 9,
+            "committed": 2
+          },
+          "cards": {
+            "yellow": 2,
             "yellowred": 0,
             "red": 0
           },
@@ -520,12 +1090,12 @@
             "season": 2026
           },
           "games": {
-            "appearences": 3,
-            "lineups": 3,
-            "minutes": 212,
+            "appearences": 4,
+            "lineups": 4,
+            "minutes": 302,
             "number": 11,
             "position": "Attacker",
-            "rating": "6.97",
+            "rating": "6.9",
             "captain": false
           },
           "substitutes": {
@@ -534,7 +1104,7 @@
             "bench": 0
           },
           "shots": {
-            "total": 10,
+            "total": 12,
             "on": 6
           },
           "goals": {
@@ -544,9 +1114,9 @@
             "saves": null
           },
           "passes": {
-            "total": 25,
+            "total": 49,
             "key": 2,
-            "accuracy": 72
+            "accuracy": 67
           },
           "tackles": {
             "total": null,
@@ -554,17 +1124,112 @@
             "interceptions": 2
           },
           "duels": {
-            "total": 34,
-            "won": 16
+            "total": 59,
+            "won": 31
           },
           "dribbles": {
-            "attempts": 4,
+            "attempts": 5,
+            "success": 2,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 7,
+            "committed": 11
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 1,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 384489,
+        "name": "Y. Fofana",
+        "firstname": "Yaya Kader",
+        "lastname": "Fofana",
+        "age": 21,
+        "birth": {
+          "date": "2004-06-12",
+          "place": "Yopougon",
+          "country": "Mali"
+        },
+        "nationality": "Mali",
+        "height": "180",
+        "weight": "66",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/384489.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 93,
+            "name": "Reims",
+            "logo": "https://media.api-sports.io/football/teams/93.png"
+          },
+          "league": {
+            "id": 62,
+            "name": "Ligue 2",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/62.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 4,
+            "lineups": 4,
+            "minutes": 310,
+            "number": 8,
+            "position": "Midfielder",
+            "rating": "7.03",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 3,
+            "bench": 0
+          },
+          "shots": {
+            "total": 7,
+            "on": 5
+          },
+          "goals": {
+            "total": 2,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 104,
+            "key": 2,
+            "accuracy": 75
+          },
+          "tackles": {
+            "total": 2,
+            "blocks": null,
+            "interceptions": 3
+          },
+          "duels": {
+            "total": 21,
+            "won": 9
+          },
+          "dribbles": {
+            "attempts": 6,
             "success": 1,
             "past": null
           },
           "fouls": {
-            "drawn": 4,
-            "committed": 9
+            "drawn": 2,
+            "committed": 2
           },
           "cards": {
             "yellow": 0,
@@ -575,7 +1240,7 @@
             "won": null,
             "commited": null,
             "scored": 0,
-            "missed": 1,
+            "missed": 0,
             "saved": null
           }
         }
@@ -773,101 +1438,6 @@
     },
     {
       "player": {
-        "id": 384489,
-        "name": "Y. Fofana",
-        "firstname": "Yaya Kader",
-        "lastname": "Fofana",
-        "age": 21,
-        "birth": {
-          "date": "2004-06-12",
-          "place": "Yopougon",
-          "country": "Mali"
-        },
-        "nationality": "Mali",
-        "height": "180",
-        "weight": "66",
-        "injured": false,
-        "photo": "https://media.api-sports.io/football/players/384489.png"
-      },
-      "statistics": [
-        {
-          "team": {
-            "id": 93,
-            "name": "Reims",
-            "logo": "https://media.api-sports.io/football/teams/93.png"
-          },
-          "league": {
-            "id": 62,
-            "name": "Ligue 2",
-            "country": "France",
-            "logo": "https://media.api-sports.io/football/leagues/62.png",
-            "flag": "https://media.api-sports.io/flags/fr.svg",
-            "season": 2026
-          },
-          "games": {
-            "appearences": 3,
-            "lineups": 3,
-            "minutes": 248,
-            "number": 8,
-            "position": "Midfielder",
-            "rating": "7.17",
-            "captain": false
-          },
-          "substitutes": {
-            "in": 0,
-            "out": 2,
-            "bench": 0
-          },
-          "shots": {
-            "total": 6,
-            "on": 4
-          },
-          "goals": {
-            "total": 2,
-            "conceded": 0,
-            "assists": 0,
-            "saves": null
-          },
-          "passes": {
-            "total": 87,
-            "key": 2,
-            "accuracy": 77
-          },
-          "tackles": {
-            "total": 1,
-            "blocks": null,
-            "interceptions": 3
-          },
-          "duels": {
-            "total": 14,
-            "won": 4
-          },
-          "dribbles": {
-            "attempts": 5,
-            "success": null,
-            "past": null
-          },
-          "fouls": {
-            "drawn": 2,
-            "committed": 1
-          },
-          "cards": {
-            "yellow": 0,
-            "yellowred": 0,
-            "red": 0
-          },
-          "penalty": {
-            "won": null,
-            "commited": null,
-            "scored": 0,
-            "missed": 0,
-            "saved": null
-          }
-        }
-      ]
-    },
-    {
-      "player": {
         "id": 653004,
         "name": "Marco Decherf",
         "firstname": null,
@@ -900,22 +1470,22 @@
             "season": 2026
           },
           "games": {
-            "appearences": 3,
-            "lineups": 1,
-            "minutes": 132,
+            "appearences": 4,
+            "lineups": 2,
+            "minutes": 165,
             "number": 29,
             "position": "Midfielder",
-            "rating": "7.1",
+            "rating": "6.9",
             "captain": false
           },
           "substitutes": {
             "in": 2,
-            "out": 1,
+            "out": 2,
             "bench": 2
           },
           "shots": {
-            "total": 2,
-            "on": 1
+            "total": 3,
+            "on": 2
           },
           "goals": {
             "total": 1,
@@ -924,9 +1494,9 @@
             "saves": null
           },
           "passes": {
-            "total": 46,
+            "total": 54,
             "key": 3,
-            "accuracy": 82
+            "accuracy": 81
           },
           "tackles": {
             "total": 3,
@@ -934,8 +1504,8 @@
             "interceptions": 1
           },
           "duels": {
-            "total": 16,
-            "won": 8
+            "total": 18,
+            "won": 9
           },
           "dribbles": {
             "attempts": 3,
@@ -943,11 +1513,296 @@
             "past": null
           },
           "fouls": {
-            "drawn": null,
+            "drawn": 1,
             "committed": 4
           },
           "cards": {
             "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 443676,
+        "name": "Bahereba Guirassy",
+        "firstname": "Bahereba",
+        "lastname": "Guirassy",
+        "age": 19,
+        "birth": {
+          "date": "2006-08-29",
+          "place": "Angers",
+          "country": "Guinea"
+        },
+        "nationality": "Guinea",
+        "height": "177",
+        "weight": "66",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/443676.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 83,
+            "name": "Nantes",
+            "logo": "https://media.api-sports.io/football/teams/83.png"
+          },
+          "league": {
+            "id": 62,
+            "name": "Ligue 2",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/62.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 4,
+            "lineups": 3,
+            "minutes": 299,
+            "number": 11,
+            "position": "Attacker",
+            "rating": "6.55",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 1,
+            "bench": 1
+          },
+          "shots": {
+            "total": 8,
+            "on": 5
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 96,
+            "key": 6,
+            "accuracy": 80
+          },
+          "tackles": {
+            "total": 2,
+            "blocks": null,
+            "interceptions": 2
+          },
+          "duels": {
+            "total": 44,
+            "won": 14
+          },
+          "dribbles": {
+            "attempts": 9,
+            "success": 3,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 3,
+            "committed": 9
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 20898,
+        "name": "K. Cabral",
+        "firstname": "Kévin",
+        "lastname": "Cabral",
+        "age": 26,
+        "birth": {
+          "date": "1999-07-10",
+          "place": "Paris",
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": "185",
+        "weight": "69",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/20898.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 104,
+            "name": "RED Star FC 93",
+            "logo": "https://media.api-sports.io/football/teams/104.png"
+          },
+          "league": {
+            "id": 62,
+            "name": "Ligue 2",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/62.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 4,
+            "lineups": 4,
+            "minutes": 360,
+            "number": 91,
+            "position": "Attacker",
+            "rating": "6.85",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": 11,
+            "on": 4
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 72,
+            "key": 4,
+            "accuracy": 65
+          },
+          "tackles": {
+            "total": 3,
+            "blocks": null,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 44,
+            "won": 16
+          },
+          "dribbles": {
+            "attempts": 8,
+            "success": 4,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 8,
+            "committed": 6
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": 1,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 492821,
+        "name": "E. Clavreul",
+        "firstname": "Ethan",
+        "lastname": "Clavreul",
+        "age": 19,
+        "birth": {
+          "date": "2006-06-29",
+          "place": "Laval",
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": null,
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/492821.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 433,
+            "name": "Laval",
+            "logo": "https://media.api-sports.io/football/teams/433.png"
+          },
+          "league": {
+            "id": 62,
+            "name": "Ligue 2",
+            "country": "France",
+            "logo": "https://media.api-sports.io/football/leagues/62.png",
+            "flag": "https://media.api-sports.io/flags/fr.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 3,
+            "lineups": 0,
+            "minutes": 142,
+            "number": 20,
+            "position": "Midfielder",
+            "rating": "7.07",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 3,
+            "out": 0,
+            "bench": 3
+          },
+          "shots": {
+            "total": 2,
+            "on": 2
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 34,
+            "key": 3,
+            "accuracy": 67
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 11,
+            "won": 6
+          },
+          "dribbles": {
+            "attempts": 4,
+            "success": 2,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 2,
+            "committed": 2
+          },
+          "cards": {
+            "yellow": 0,
             "yellowred": 0,
             "red": 0
           },
@@ -1040,861 +1895,6 @@
           "fouls": {
             "drawn": 4,
             "committed": 3
-          },
-          "cards": {
-            "yellow": 0,
-            "yellowred": 0,
-            "red": 0
-          },
-          "penalty": {
-            "won": null,
-            "commited": null,
-            "scored": 0,
-            "missed": 0,
-            "saved": null
-          }
-        }
-      ]
-    },
-    {
-      "player": {
-        "id": 20898,
-        "name": "K. Cabral",
-        "firstname": "Kévin",
-        "lastname": "Cabral",
-        "age": 26,
-        "birth": {
-          "date": "1999-07-10",
-          "place": "Paris",
-          "country": "France"
-        },
-        "nationality": "France",
-        "height": "185",
-        "weight": "69",
-        "injured": false,
-        "photo": "https://media.api-sports.io/football/players/20898.png"
-      },
-      "statistics": [
-        {
-          "team": {
-            "id": 104,
-            "name": "RED Star FC 93",
-            "logo": "https://media.api-sports.io/football/teams/104.png"
-          },
-          "league": {
-            "id": 62,
-            "name": "Ligue 2",
-            "country": "France",
-            "logo": "https://media.api-sports.io/football/leagues/62.png",
-            "flag": "https://media.api-sports.io/flags/fr.svg",
-            "season": 2026
-          },
-          "games": {
-            "appearences": 3,
-            "lineups": 3,
-            "minutes": 270,
-            "number": 91,
-            "position": "Attacker",
-            "rating": "6.93",
-            "captain": false
-          },
-          "substitutes": {
-            "in": 0,
-            "out": 0,
-            "bench": 0
-          },
-          "shots": {
-            "total": 9,
-            "on": 3
-          },
-          "goals": {
-            "total": 1,
-            "conceded": 0,
-            "assists": 1,
-            "saves": null
-          },
-          "passes": {
-            "total": 55,
-            "key": 4,
-            "accuracy": 67
-          },
-          "tackles": {
-            "total": 2,
-            "blocks": null,
-            "interceptions": null
-          },
-          "duels": {
-            "total": 35,
-            "won": 14
-          },
-          "dribbles": {
-            "attempts": 7,
-            "success": 4,
-            "past": null
-          },
-          "fouls": {
-            "drawn": 7,
-            "committed": 5
-          },
-          "cards": {
-            "yellow": 0,
-            "yellowred": 0,
-            "red": 0
-          },
-          "penalty": {
-            "won": null,
-            "commited": null,
-            "scored": 0,
-            "missed": 0,
-            "saved": null
-          }
-        }
-      ]
-    },
-    {
-      "player": {
-        "id": 492821,
-        "name": "E. Clavreul",
-        "firstname": "Ethan",
-        "lastname": "Clavreul",
-        "age": 19,
-        "birth": {
-          "date": "2006-06-29",
-          "place": "Laval",
-          "country": "France"
-        },
-        "nationality": "France",
-        "height": null,
-        "weight": null,
-        "injured": false,
-        "photo": "https://media.api-sports.io/football/players/492821.png"
-      },
-      "statistics": [
-        {
-          "team": {
-            "id": 433,
-            "name": "Laval",
-            "logo": "https://media.api-sports.io/football/teams/433.png"
-          },
-          "league": {
-            "id": 62,
-            "name": "Ligue 2",
-            "country": "France",
-            "logo": "https://media.api-sports.io/football/leagues/62.png",
-            "flag": "https://media.api-sports.io/flags/fr.svg",
-            "season": 2026
-          },
-          "games": {
-            "appearences": 2,
-            "lineups": 0,
-            "minutes": 97,
-            "number": 20,
-            "position": "Midfielder",
-            "rating": "7.35",
-            "captain": false
-          },
-          "substitutes": {
-            "in": 2,
-            "out": 0,
-            "bench": 2
-          },
-          "shots": {
-            "total": 1,
-            "on": 1
-          },
-          "goals": {
-            "total": 1,
-            "conceded": 0,
-            "assists": 1,
-            "saves": null
-          },
-          "passes": {
-            "total": 25,
-            "key": 3,
-            "accuracy": 64
-          },
-          "tackles": {
-            "total": null,
-            "blocks": null,
-            "interceptions": null
-          },
-          "duels": {
-            "total": 6,
-            "won": 3
-          },
-          "dribbles": {
-            "attempts": 2,
-            "success": 1,
-            "past": null
-          },
-          "fouls": {
-            "drawn": 1,
-            "committed": 1
-          },
-          "cards": {
-            "yellow": 0,
-            "yellowred": 0,
-            "red": 0
-          },
-          "penalty": {
-            "won": null,
-            "commited": null,
-            "scored": 0,
-            "missed": 0,
-            "saved": null
-          }
-        }
-      ]
-    },
-    {
-      "player": {
-        "id": 178530,
-        "name": "R. Ponti",
-        "firstname": "Ryan",
-        "lastname": "Ponti",
-        "age": 27,
-        "birth": {
-          "date": "1998-06-22",
-          "place": "Saint-Pierre",
-          "country": "France"
-        },
-        "nationality": "France",
-        "height": "185",
-        "weight": "74",
-        "injured": false,
-        "photo": "https://media.api-sports.io/football/players/178530.png"
-      },
-      "statistics": [
-        {
-          "team": {
-            "id": 1301,
-            "name": "Rodez",
-            "logo": "https://media.api-sports.io/football/teams/1301.png"
-          },
-          "league": {
-            "id": 62,
-            "name": "Ligue 2",
-            "country": "France",
-            "logo": "https://media.api-sports.io/football/leagues/62.png",
-            "flag": "https://media.api-sports.io/flags/fr.svg",
-            "season": 2026
-          },
-          "games": {
-            "appearences": 1,
-            "lineups": 1,
-            "minutes": 63,
-            "number": 20,
-            "position": "Defender",
-            "rating": "7.5",
-            "captain": false
-          },
-          "substitutes": {
-            "in": 0,
-            "out": 1,
-            "bench": 0
-          },
-          "shots": {
-            "total": 2,
-            "on": 1
-          },
-          "goals": {
-            "total": 1,
-            "conceded": 0,
-            "assists": 1,
-            "saves": null
-          },
-          "passes": {
-            "total": 22,
-            "key": 1,
-            "accuracy": 63
-          },
-          "tackles": {
-            "total": 3,
-            "blocks": null,
-            "interceptions": 2
-          },
-          "duels": {
-            "total": 12,
-            "won": 5
-          },
-          "dribbles": {
-            "attempts": 3,
-            "success": 1,
-            "past": null
-          },
-          "fouls": {
-            "drawn": null,
-            "committed": 2
-          },
-          "cards": {
-            "yellow": 0,
-            "yellowred": 0,
-            "red": 0
-          },
-          "penalty": {
-            "won": null,
-            "commited": null,
-            "scored": 0,
-            "missed": 0,
-            "saved": null
-          }
-        }
-      ]
-    },
-    {
-      "player": {
-        "id": 395760,
-        "name": "Y. Issoufou",
-        "firstname": "Yanis Ali",
-        "lastname": "Issoufou",
-        "age": 19,
-        "birth": {
-          "date": "2006-10-28",
-          "place": null,
-          "country": "France"
-        },
-        "nationality": "France",
-        "height": "182",
-        "weight": "72",
-        "injured": false,
-        "photo": "https://media.api-sports.io/football/players/395760.png"
-      },
-      "statistics": [
-        {
-          "team": {
-            "id": 82,
-            "name": "Montpellier",
-            "logo": "https://media.api-sports.io/football/teams/82.png"
-          },
-          "league": {
-            "id": 62,
-            "name": "Ligue 2",
-            "country": "France",
-            "logo": "https://media.api-sports.io/football/leagues/62.png",
-            "flag": "https://media.api-sports.io/flags/fr.svg",
-            "season": 2026
-          },
-          "games": {
-            "appearences": 3,
-            "lineups": 0,
-            "minutes": 74,
-            "number": 7,
-            "position": "Attacker",
-            "rating": "6.67",
-            "captain": false
-          },
-          "substitutes": {
-            "in": 3,
-            "out": 0,
-            "bench": 3
-          },
-          "shots": {
-            "total": 2,
-            "on": 1
-          },
-          "goals": {
-            "total": 1,
-            "conceded": 0,
-            "assists": 0,
-            "saves": null
-          },
-          "passes": {
-            "total": 18,
-            "key": 1,
-            "accuracy": 66
-          },
-          "tackles": {
-            "total": 2,
-            "blocks": null,
-            "interceptions": null
-          },
-          "duels": {
-            "total": 14,
-            "won": 4
-          },
-          "dribbles": {
-            "attempts": 1,
-            "success": null,
-            "past": null
-          },
-          "fouls": {
-            "drawn": null,
-            "committed": 1
-          },
-          "cards": {
-            "yellow": 0,
-            "yellowred": 0,
-            "red": 0
-          },
-          "penalty": {
-            "won": null,
-            "commited": null,
-            "scored": 0,
-            "missed": 0,
-            "saved": null
-          }
-        }
-      ]
-    },
-    {
-      "player": {
-        "id": 438699,
-        "name": "O. Diop",
-        "firstname": "Ousmane",
-        "lastname": "Diop",
-        "age": 20,
-        "birth": {
-          "date": "2005-06-10",
-          "place": "Pikine",
-          "country": "Senegal"
-        },
-        "nationality": "Senegal",
-        "height": "177",
-        "weight": "72",
-        "injured": false,
-        "photo": "https://media.api-sports.io/football/players/438699.png"
-      },
-      "statistics": [
-        {
-          "team": {
-            "id": 99,
-            "name": "Clermont Foot",
-            "logo": "https://media.api-sports.io/football/teams/99.png"
-          },
-          "league": {
-            "id": 62,
-            "name": "Ligue 2",
-            "country": "France",
-            "logo": "https://media.api-sports.io/football/leagues/62.png",
-            "flag": "https://media.api-sports.io/flags/fr.svg",
-            "season": 2026
-          },
-          "games": {
-            "appearences": 3,
-            "lineups": 0,
-            "minutes": 83,
-            "number": 17,
-            "position": "Attacker",
-            "rating": "6.9",
-            "captain": false
-          },
-          "substitutes": {
-            "in": 3,
-            "out": 0,
-            "bench": 3
-          },
-          "shots": {
-            "total": 1,
-            "on": 1
-          },
-          "goals": {
-            "total": 1,
-            "conceded": 0,
-            "assists": 0,
-            "saves": null
-          },
-          "passes": {
-            "total": 29,
-            "key": 1,
-            "accuracy": 65
-          },
-          "tackles": {
-            "total": 3,
-            "blocks": null,
-            "interceptions": null
-          },
-          "duels": {
-            "total": 17,
-            "won": 7
-          },
-          "dribbles": {
-            "attempts": 2,
-            "success": 2,
-            "past": null
-          },
-          "fouls": {
-            "drawn": null,
-            "committed": 2
-          },
-          "cards": {
-            "yellow": 0,
-            "yellowred": 0,
-            "red": 0
-          },
-          "penalty": {
-            "won": null,
-            "commited": null,
-            "scored": 0,
-            "missed": 0,
-            "saved": null
-          }
-        }
-      ]
-    },
-    {
-      "player": {
-        "id": 535438,
-        "name": "B. Leye",
-        "firstname": null,
-        "lastname": null,
-        "age": 25,
-        "birth": {
-          "date": null,
-          "place": null,
-          "country": null
-        },
-        "nationality": null,
-        "height": null,
-        "weight": null,
-        "injured": false,
-        "photo": "https://media.api-sports.io/football/players/535438.png"
-      },
-      "statistics": [
-        {
-          "team": {
-            "id": 1297,
-            "name": "PAU",
-            "logo": "https://media.api-sports.io/football/teams/1297.png"
-          },
-          "league": {
-            "id": 62,
-            "name": "Ligue 2",
-            "country": "France",
-            "logo": "https://media.api-sports.io/football/leagues/62.png",
-            "flag": "https://media.api-sports.io/flags/fr.svg",
-            "season": 2026
-          },
-          "games": {
-            "appearences": 3,
-            "lineups": 1,
-            "minutes": 101,
-            "number": 9,
-            "position": "Attacker",
-            "rating": "6.73",
-            "captain": false
-          },
-          "substitutes": {
-            "in": 2,
-            "out": 1,
-            "bench": 2
-          },
-          "shots": {
-            "total": 3,
-            "on": 1
-          },
-          "goals": {
-            "total": 1,
-            "conceded": 0,
-            "assists": 0,
-            "saves": null
-          },
-          "passes": {
-            "total": 11,
-            "key": null,
-            "accuracy": 54
-          },
-          "tackles": {
-            "total": 1,
-            "blocks": null,
-            "interceptions": null
-          },
-          "duels": {
-            "total": 17,
-            "won": 8
-          },
-          "dribbles": {
-            "attempts": 2,
-            "success": null,
-            "past": null
-          },
-          "fouls": {
-            "drawn": 2,
-            "committed": 3
-          },
-          "cards": {
-            "yellow": 0,
-            "yellowred": 0,
-            "red": 0
-          },
-          "penalty": {
-            "won": null,
-            "commited": null,
-            "scored": 0,
-            "missed": 0,
-            "saved": null
-          }
-        }
-      ]
-    },
-    {
-      "player": {
-        "id": 20979,
-        "name": "B. Fofana",
-        "firstname": "Boubacar",
-        "lastname": "Fofana",
-        "age": 27,
-        "birth": {
-          "date": "1998-09-07",
-          "place": "Paris",
-          "country": "France"
-        },
-        "nationality": "France",
-        "height": "185",
-        "weight": "76",
-        "injured": false,
-        "photo": "https://media.api-sports.io/football/players/20979.png"
-      },
-      "statistics": [
-        {
-          "team": {
-            "id": 115,
-            "name": "Sochaux",
-            "logo": "https://media.api-sports.io/football/teams/115.png"
-          },
-          "league": {
-            "id": 62,
-            "name": "Ligue 2",
-            "country": "France",
-            "logo": "https://media.api-sports.io/football/leagues/62.png",
-            "flag": "https://media.api-sports.io/flags/fr.svg",
-            "season": 2026
-          },
-          "games": {
-            "appearences": 3,
-            "lineups": 1,
-            "minutes": 106,
-            "number": 10,
-            "position": "Attacker",
-            "rating": "6.7",
-            "captain": false
-          },
-          "substitutes": {
-            "in": 2,
-            "out": 1,
-            "bench": 2
-          },
-          "shots": {
-            "total": 2,
-            "on": 1
-          },
-          "goals": {
-            "total": 1,
-            "conceded": 0,
-            "assists": 0,
-            "saves": null
-          },
-          "passes": {
-            "total": 26,
-            "key": null,
-            "accuracy": 73
-          },
-          "tackles": {
-            "total": null,
-            "blocks": null,
-            "interceptions": 1
-          },
-          "duels": {
-            "total": 14,
-            "won": 4
-          },
-          "dribbles": {
-            "attempts": 7,
-            "success": null,
-            "past": null
-          },
-          "fouls": {
-            "drawn": 3,
-            "committed": 2
-          },
-          "cards": {
-            "yellow": 0,
-            "yellowred": 0,
-            "red": 0
-          },
-          "penalty": {
-            "won": null,
-            "commited": null,
-            "scored": 0,
-            "missed": 0,
-            "saved": null
-          }
-        }
-      ]
-    },
-    {
-      "player": {
-        "id": 309920,
-        "name": "M. Sahi",
-        "firstname": "Moïse Orell",
-        "lastname": "Dion Sahi",
-        "age": 24,
-        "birth": {
-          "date": "2001-12-20",
-          "place": "Abidjan",
-          "country": "Côte d'Ivoire"
-        },
-        "nationality": "Côte d'Ivoire",
-        "height": "175",
-        "weight": "70",
-        "injured": false,
-        "photo": "https://media.api-sports.io/football/players/309920.png"
-      },
-      "statistics": [
-        {
-          "team": {
-            "id": 3012,
-            "name": "Annecy",
-            "logo": "https://media.api-sports.io/football/teams/3012.png"
-          },
-          "league": {
-            "id": 62,
-            "name": "Ligue 2",
-            "country": "France",
-            "logo": "https://media.api-sports.io/football/leagues/62.png",
-            "flag": "https://media.api-sports.io/flags/fr.svg",
-            "season": 2026
-          },
-          "games": {
-            "appearences": 3,
-            "lineups": 1,
-            "minutes": 108,
-            "number": 80,
-            "position": "Attacker",
-            "rating": "6.67",
-            "captain": false
-          },
-          "substitutes": {
-            "in": 2,
-            "out": 0,
-            "bench": 2
-          },
-          "shots": {
-            "total": 5,
-            "on": 2
-          },
-          "goals": {
-            "total": 1,
-            "conceded": 0,
-            "assists": 0,
-            "saves": null
-          },
-          "passes": {
-            "total": 19,
-            "key": null,
-            "accuracy": 63
-          },
-          "tackles": {
-            "total": null,
-            "blocks": null,
-            "interceptions": null
-          },
-          "duels": {
-            "total": 21,
-            "won": 8
-          },
-          "dribbles": {
-            "attempts": 3,
-            "success": 1,
-            "past": null
-          },
-          "fouls": {
-            "drawn": 4,
-            "committed": 2
-          },
-          "cards": {
-            "yellow": 0,
-            "yellowred": 0,
-            "red": 0
-          },
-          "penalty": {
-            "won": null,
-            "commited": null,
-            "scored": 0,
-            "missed": 0,
-            "saved": null
-          }
-        }
-      ]
-    },
-    {
-      "player": {
-        "id": 24743,
-        "name": "Z. Davitashvili",
-        "firstname": "Zuriko",
-        "lastname": "Davitashvili",
-        "age": 24,
-        "birth": {
-          "date": "2001-02-15",
-          "place": "Tbilisi",
-          "country": "Georgia"
-        },
-        "nationality": "Georgia",
-        "height": "175",
-        "weight": "63",
-        "injured": false,
-        "photo": "https://media.api-sports.io/football/players/24743.png"
-      },
-      "statistics": [
-        {
-          "team": {
-            "id": 1063,
-            "name": "Saint Etienne",
-            "logo": "https://media.api-sports.io/football/teams/1063.png"
-          },
-          "league": {
-            "id": 62,
-            "name": "Ligue 2",
-            "country": "France",
-            "logo": "https://media.api-sports.io/football/leagues/62.png",
-            "flag": "https://media.api-sports.io/flags/fr.svg",
-            "season": 2026
-          },
-          "games": {
-            "appearences": 3,
-            "lineups": 0,
-            "minutes": 115,
-            "number": 22,
-            "position": "Attacker",
-            "rating": "7.07",
-            "captain": false
-          },
-          "substitutes": {
-            "in": 3,
-            "out": 0,
-            "bench": 3
-          },
-          "shots": {
-            "total": 3,
-            "on": 2
-          },
-          "goals": {
-            "total": 1,
-            "conceded": 0,
-            "assists": 0,
-            "saves": null
-          },
-          "passes": {
-            "total": 87,
-            "key": 3,
-            "accuracy": 91
-          },
-          "tackles": {
-            "total": 1,
-            "blocks": null,
-            "interceptions": null
-          },
-          "duels": {
-            "total": 15,
-            "won": 8
-          },
-          "dribbles": {
-            "attempts": 4,
-            "success": 1,
-            "past": null
-          },
-          "fouls": {
-            "drawn": 5,
-            "committed": 1
           },
           "cards": {
             "yellow": 0,

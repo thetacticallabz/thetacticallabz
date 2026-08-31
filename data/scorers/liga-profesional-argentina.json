@@ -13,6 +13,101 @@
   "response": [
     {
       "player": {
+        "id": 5312,
+        "name": "C. Tarragona",
+        "firstname": "Cristian Alberto",
+        "lastname": "Tarragona",
+        "age": 34,
+        "birth": {
+          "date": "1991-04-09",
+          "place": "Santa Fe",
+          "country": "Argentina"
+        },
+        "nationality": "Argentina",
+        "height": "180",
+        "weight": "77",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/5312.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 441,
+            "name": "Union Santa Fe",
+            "logo": "https://media.api-sports.io/football/teams/441.png"
+          },
+          "league": {
+            "id": 128,
+            "name": "Liga Profesional Argentina",
+            "country": "Argentina",
+            "logo": "https://media.api-sports.io/football/leagues/128.png",
+            "flag": "https://media.api-sports.io/flags/ar.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 25,
+            "lineups": 25,
+            "minutes": 2221,
+            "number": 25,
+            "position": "Attacker",
+            "rating": "6.96",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 8,
+            "bench": 0
+          },
+          "shots": {
+            "total": 55,
+            "on": 31
+          },
+          "goals": {
+            "total": 13,
+            "conceded": 0,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 570,
+            "key": 31,
+            "accuracy": 76
+          },
+          "tackles": {
+            "total": 16,
+            "blocks": 4,
+            "interceptions": 2
+          },
+          "duels": {
+            "total": 298,
+            "won": 113
+          },
+          "dribbles": {
+            "attempts": 44,
+            "success": 17,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 33,
+            "committed": 42
+          },
+          "cards": {
+            "yellow": 4,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 2,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
         "id": 440074,
         "name": "A. Módica",
         "firstname": "Agustín Ignacio",
@@ -203,101 +298,6 @@
     },
     {
       "player": {
-        "id": 5312,
-        "name": "C. Tarragona",
-        "firstname": "Cristian Alberto",
-        "lastname": "Tarragona",
-        "age": 34,
-        "birth": {
-          "date": "1991-04-09",
-          "place": "Santa Fe",
-          "country": "Argentina"
-        },
-        "nationality": "Argentina",
-        "height": "180",
-        "weight": "77",
-        "injured": false,
-        "photo": "https://media.api-sports.io/football/players/5312.png"
-      },
-      "statistics": [
-        {
-          "team": {
-            "id": 441,
-            "name": "Union Santa Fe",
-            "logo": "https://media.api-sports.io/football/teams/441.png"
-          },
-          "league": {
-            "id": 128,
-            "name": "Liga Profesional Argentina",
-            "country": "Argentina",
-            "logo": "https://media.api-sports.io/football/leagues/128.png",
-            "flag": "https://media.api-sports.io/flags/ar.svg",
-            "season": 2026
-          },
-          "games": {
-            "appearences": 24,
-            "lineups": 24,
-            "minutes": 2127,
-            "number": 25,
-            "position": "Attacker",
-            "rating": "6.91",
-            "captain": false
-          },
-          "substitutes": {
-            "in": 0,
-            "out": 8,
-            "bench": 0
-          },
-          "shots": {
-            "total": 51,
-            "on": 29
-          },
-          "goals": {
-            "total": 11,
-            "conceded": 0,
-            "assists": 1,
-            "saves": null
-          },
-          "passes": {
-            "total": 555,
-            "key": 31,
-            "accuracy": 76
-          },
-          "tackles": {
-            "total": 15,
-            "blocks": 4,
-            "interceptions": 2
-          },
-          "duels": {
-            "total": 287,
-            "won": 107
-          },
-          "dribbles": {
-            "attempts": 43,
-            "success": 17,
-            "past": null
-          },
-          "fouls": {
-            "drawn": 29,
-            "committed": 40
-          },
-          "cards": {
-            "yellow": 4,
-            "yellowred": 0,
-            "red": 0
-          },
-          "penalty": {
-            "won": null,
-            "commited": null,
-            "scored": 2,
-            "missed": 0,
-            "saved": null
-          }
-        }
-      ]
-    },
-    {
-      "player": {
         "id": 16590,
         "name": "J. Caicedo",
         "firstname": "Jordy Josué",
@@ -425,22 +425,22 @@
             "season": 2026
           },
           "games": {
-            "appearences": 22,
-            "lineups": 20,
-            "minutes": 1685,
+            "appearences": 23,
+            "lineups": 21,
+            "minutes": 1766,
             "number": 27,
             "position": "Attacker",
-            "rating": "6.76",
+            "rating": "6.73",
             "captain": false
           },
           "substitutes": {
             "in": 2,
-            "out": 14,
+            "out": 15,
             "bench": 2
           },
           "shots": {
-            "total": 40,
-            "on": 19
+            "total": 43,
+            "on": 20
           },
           "goals": {
             "total": 10,
@@ -449,7 +449,7 @@
             "saves": null
           },
           "passes": {
-            "total": 360,
+            "total": 376,
             "key": 16,
             "accuracy": 68
           },
@@ -459,7 +459,7 @@
             "interceptions": 3
           },
           "duels": {
-            "total": 218,
+            "total": 221,
             "won": 90
           },
           "dribbles": {
@@ -805,12 +805,12 @@
             "season": 2026
           },
           "games": {
-            "appearences": 19,
-            "lineups": 16,
-            "minutes": 1528,
+            "appearences": 20,
+            "lineups": 17,
+            "minutes": 1618,
             "number": 11,
             "position": "Attacker",
-            "rating": "7.53",
+            "rating": "7.5",
             "captain": false
           },
           "substitutes": {
@@ -819,8 +819,8 @@
             "bench": 4
           },
           "shots": {
-            "total": 42,
-            "on": 22
+            "total": 45,
+            "on": 25
           },
           "goals": {
             "total": 7,
@@ -829,9 +829,9 @@
             "saves": null
           },
           "passes": {
-            "total": 778,
-            "key": 47,
-            "accuracy": 75
+            "total": 812,
+            "key": 51,
+            "accuracy": 74
           },
           "tackles": {
             "total": 8,
@@ -839,16 +839,16 @@
             "interceptions": 8
           },
           "duels": {
-            "total": 170,
-            "won": 72
+            "total": 181,
+            "won": 76
           },
           "dribbles": {
-            "attempts": 90,
-            "success": 37,
+            "attempts": 99,
+            "success": 40,
             "past": null
           },
           "fouls": {
-            "drawn": 27,
+            "drawn": 28,
             "committed": 8
           },
           "cards": {
@@ -995,21 +995,21 @@
             "season": 2026
           },
           "games": {
-            "appearences": 17,
-            "lineups": 15,
-            "minutes": 1327,
+            "appearences": 18,
+            "lineups": 16,
+            "minutes": 1405,
             "number": 9,
             "position": "Attacker",
-            "rating": "6.85",
+            "rating": "6.82",
             "captain": false
           },
           "substitutes": {
             "in": 2,
-            "out": 5,
+            "out": 6,
             "bench": 3
           },
           "shots": {
-            "total": 35,
+            "total": 36,
             "on": 19
           },
           "goals": {
@@ -1019,9 +1019,9 @@
             "saves": null
           },
           "passes": {
-            "total": 266,
+            "total": 281,
             "key": 10,
-            "accuracy": 65
+            "accuracy": 64
           },
           "tackles": {
             "total": 4,
@@ -1029,8 +1029,8 @@
             "interceptions": 1
           },
           "duels": {
-            "total": 158,
-            "won": 65
+            "total": 165,
+            "won": 68
           },
           "dribbles": {
             "attempts": 6,
@@ -1039,7 +1039,7 @@
           },
           "fouls": {
             "drawn": 17,
-            "committed": 27
+            "committed": 28
           },
           "cards": {
             "yellow": 3,
@@ -1280,17 +1280,17 @@
             "season": 2026
           },
           "games": {
-            "appearences": 20,
-            "lineups": 15,
-            "minutes": 1277,
+            "appearences": 21,
+            "lineups": 16,
+            "minutes": 1338,
             "number": 16,
             "position": "Attacker",
-            "rating": "6.73",
+            "rating": "6.74",
             "captain": false
           },
           "substitutes": {
             "in": 5,
-            "out": 10,
+            "out": 11,
             "bench": 5
           },
           "shots": {
@@ -1304,8 +1304,8 @@
             "saves": null
           },
           "passes": {
-            "total": 345,
-            "key": 21,
+            "total": 353,
+            "key": 22,
             "accuracy": 76
           },
           "tackles": {
@@ -1314,8 +1314,8 @@
             "interceptions": 2
           },
           "duels": {
-            "total": 66,
-            "won": 21
+            "total": 70,
+            "won": 25
           },
           "dribbles": {
             "attempts": 25,
@@ -1323,7 +1323,7 @@
             "past": null
           },
           "fouls": {
-            "drawn": 4,
+            "drawn": 7,
             "committed": 5
           },
           "cards": {
@@ -1375,21 +1375,21 @@
             "season": 2026
           },
           "games": {
-            "appearences": 19,
-            "lineups": 8,
-            "minutes": 850,
+            "appearences": 20,
+            "lineups": 9,
+            "minutes": 919,
             "number": 25,
             "position": "Attacker",
-            "rating": "7.08",
+            "rating": "7.1",
             "captain": false
           },
           "substitutes": {
             "in": 11,
-            "out": 8,
+            "out": 9,
             "bench": 13
           },
           "shots": {
-            "total": 21,
+            "total": 23,
             "on": 13
           },
           "goals": {
@@ -1399,27 +1399,27 @@
             "saves": null
           },
           "passes": {
-            "total": 292,
-            "key": 19,
+            "total": 313,
+            "key": 21,
             "accuracy": 78
           },
           "tackles": {
-            "total": 18,
+            "total": 22,
             "blocks": 1,
             "interceptions": 8
           },
           "duels": {
-            "total": 135,
-            "won": 55
+            "total": 152,
+            "won": 65
           },
           "dribbles": {
-            "attempts": 49,
-            "success": 18,
+            "attempts": 55,
+            "success": 22,
             "past": null
           },
           "fouls": {
-            "drawn": 17,
-            "committed": 16
+            "drawn": 19,
+            "committed": 18
           },
           "cards": {
             "yellow": 5,
@@ -1565,12 +1565,12 @@
             "season": 2026
           },
           "games": {
-            "appearences": 23,
-            "lineups": 22,
-            "minutes": 1776,
+            "appearences": 24,
+            "lineups": 23,
+            "minutes": 1874,
             "number": 22,
             "position": "Midfielder",
-            "rating": "7.17",
+            "rating": "7.13",
             "captain": false
           },
           "substitutes": {
@@ -1579,8 +1579,8 @@
             "bench": 1
           },
           "shots": {
-            "total": 29,
-            "on": 15
+            "total": 30,
+            "on": 16
           },
           "goals": {
             "total": 6,
@@ -1589,8 +1589,8 @@
             "saves": null
           },
           "passes": {
-            "total": 865,
-            "key": 29,
+            "total": 932,
+            "key": 31,
             "accuracy": 83
           },
           "tackles": {
@@ -1599,17 +1599,17 @@
             "interceptions": 11
           },
           "duels": {
-            "total": 200,
-            "won": 107
+            "total": 211,
+            "won": 111
           },
           "dribbles": {
-            "attempts": 51,
+            "attempts": 54,
             "success": 27,
             "past": null
           },
           "fouls": {
-            "drawn": 52,
-            "committed": 16
+            "drawn": 56,
+            "committed": 17
           },
           "cards": {
             "yellow": 3,

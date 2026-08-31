@@ -2114,13 +2114,13 @@
     {
       "fixture": {
         "id": 1551324,
-        "referee": null,
+        "referee": "J. Bogelund",
         "timezone": "UTC",
         "date": "2026-08-29T11:00:00+00:00",
         "timestamp": 1788001200,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1788001200,
+          "second": 1788004800
         },
         "venue": {
           "id": 3525,
@@ -2128,9 +2128,9 @@
           "city": "Kolding"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
           "extra": null
         }
       },
@@ -2149,27 +2149,27 @@
           "id": 4676,
           "name": "Kolding IF",
           "logo": "https://media.api-sports.io/football/teams/4676.png",
-          "winner": null
+          "winner": true
         },
         "away": {
           "id": 2060,
           "name": "AB Copenhagen",
           "logo": "https://media.api-sports.io/football/teams/2060.png",
-          "winner": null
+          "winner": false
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 2,
+        "away": 1
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 0
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 1
         },
         "extratime": {
           "home": null,
@@ -2184,13 +2184,13 @@
     {
       "fixture": {
         "id": 1551325,
-        "referee": null,
+        "referee": "P. Gammelholm",
         "timezone": "UTC",
         "date": "2026-08-29T12:00:00+00:00",
         "timestamp": 1788004800,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1788004800,
+          "second": 1788008400
         },
         "venue": {
           "id": 440,
@@ -2198,9 +2198,9 @@
           "city": "Aalborg"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
           "extra": null
         }
       },
@@ -2229,17 +2229,17 @@
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 0,
+        "away": 0
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         },
         "extratime": {
           "home": null,
@@ -2254,13 +2254,13 @@
     {
       "fixture": {
         "id": 1551327,
-        "referee": null,
+        "referee": "O. A. Stegemuller Fogh Simbold",
         "timezone": "UTC",
         "date": "2026-08-30T11:00:00+00:00",
         "timestamp": 1788087600,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1788087600,
+          "second": 1788091200
         },
         "venue": {
           "id": null,
@@ -2268,10 +2268,10 @@
           "city": "Hvidovre"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 5
         }
       },
       "league": {
@@ -2289,27 +2289,27 @@
           "id": 2072,
           "name": "Hvidovre",
           "logo": "https://media.api-sports.io/football/teams/2072.png",
-          "winner": null
+          "winner": true
         },
         "away": {
           "id": 2061,
           "name": "FC Fredericia",
           "logo": "https://media.api-sports.io/football/teams/2061.png",
-          "winner": null
+          "winner": false
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 2,
+        "away": 1
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 1
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 1
         },
         "extratime": {
           "home": null,
@@ -2329,8 +2329,8 @@
         "date": "2026-08-30T11:00:00+00:00",
         "timestamp": 1788087600,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1788087600,
+          "second": 1788091200
         },
         "venue": {
           "id": null,
@@ -2338,10 +2338,10 @@
           "city": "Helsingor"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 4
         }
       },
       "league": {
@@ -2359,27 +2359,27 @@
           "id": 6026,
           "name": "Hillerød",
           "logo": "https://media.api-sports.io/football/teams/6026.png",
-          "winner": null
+          "winner": true
         },
         "away": {
           "id": 408,
           "name": "Hobro",
           "logo": "https://media.api-sports.io/football/teams/408.png",
-          "winner": null
+          "winner": false
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 3,
+        "away": 1
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 0
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 3,
+          "away": 1
         },
         "extratime": {
           "home": null,
@@ -2394,13 +2394,13 @@
     {
       "fixture": {
         "id": 1551323,
-        "referee": null,
+        "referee": "S. Aagerup",
         "timezone": "UTC",
         "date": "2026-08-30T12:00:00+00:00",
         "timestamp": 1788091200,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1788091200,
+          "second": 1788094800
         },
         "venue": {
           "id": null,
@@ -2408,10 +2408,10 @@
           "city": "Aarhus"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 4
         }
       },
       "league": {
@@ -2439,17 +2439,17 @@
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 0,
+        "away": 0
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         },
         "extratime": {
           "home": null,
@@ -2464,13 +2464,13 @@
     {
       "fixture": {
         "id": 1551328,
-        "referee": null,
+        "referee": "J. Tornberg Rasmussen",
         "timezone": "UTC",
         "date": "2026-08-30T13:00:00+00:00",
         "timestamp": 1788094800,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1788094800,
+          "second": 1788098400
         },
         "venue": {
           "id": 445,
@@ -2478,10 +2478,10 @@
           "city": "Esbjerg"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 5
         }
       },
       "league": {
@@ -2499,27 +2499,27 @@
           "id": 403,
           "name": "Esbjerg",
           "logo": "https://media.api-sports.io/football/teams/403.png",
-          "winner": null
+          "winner": false
         },
         "away": {
           "id": 399,
           "name": "Vendsyssel FF",
           "logo": "https://media.api-sports.io/football/teams/399.png",
-          "winner": null
+          "winner": true
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 0,
+        "away": 2
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 1
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 2
         },
         "extratime": {
           "home": null,
@@ -2956,8 +2956,8 @@
         "id": 1551337,
         "referee": null,
         "timezone": "UTC",
-        "date": "2026-09-11T16:30:00+00:00",
-        "timestamp": 1789144200,
+        "date": "2026-09-11T16:00:00+00:00",
+        "timestamp": 1789142400,
         "periods": {
           "first": null,
           "second": null

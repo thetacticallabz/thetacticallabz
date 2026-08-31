@@ -1909,8 +1909,8 @@
         "date": "2026-08-27T18:45:00+00:00",
         "timestamp": 1787856300,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1787856300,
+          "second": 1787859900
         },
         "venue": {
           "id": null,
@@ -1918,10 +1918,10 @@
           "city": "Caen"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 7
         }
       },
       "league": {
@@ -1939,27 +1939,27 @@
           "id": 88,
           "name": "Caen",
           "logo": "https://media.api-sports.io/football/teams/88.png",
-          "winner": null
+          "winner": false
         },
         "away": {
           "id": 1305,
           "name": "Bastia",
           "logo": "https://media.api-sports.io/football/teams/1305.png",
-          "winner": null
+          "winner": true
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 0,
+        "away": 1
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 1
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 1
         },
         "extratime": {
           "home": null,
@@ -1979,8 +1979,8 @@
         "date": "2026-08-29T12:45:00+00:00",
         "timestamp": 1788007500,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1788007500,
+          "second": 1788011100
         },
         "venue": {
           "id": null,
@@ -1988,9 +1988,9 @@
           "city": "Amiens"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
           "extra": null
         }
       },
@@ -2009,27 +2009,27 @@
           "id": 87,
           "name": "Amiens",
           "logo": "https://media.api-sports.io/football/teams/87.png",
-          "winner": null
+          "winner": true
         },
         "away": {
           "id": 3131,
           "name": "Versailles",
           "logo": "https://media.api-sports.io/football/teams/3131.png",
-          "winner": null
+          "winner": false
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 3,
+        "away": 0
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 3,
+          "away": 0
         },
         "extratime": {
           "home": null,
@@ -2049,8 +2049,8 @@
         "date": "2026-08-29T12:45:00+00:00",
         "timestamp": 1788007500,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1788007500,
+          "second": 1788011100
         },
         "venue": {
           "id": null,
@@ -2058,9 +2058,9 @@
           "city": null
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
           "extra": null
         }
       },
@@ -2079,27 +2079,27 @@
           "id": 103,
           "name": "Orleans",
           "logo": "https://media.api-sports.io/football/teams/103.png",
-          "winner": null
+          "winner": false
         },
         "away": {
           "id": 9915,
           "name": "La Roche VF",
           "logo": "https://media.api-sports.io/football/teams/9915.png",
-          "winner": null
+          "winner": true
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 0,
+        "away": 1
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 1
         },
         "extratime": {
           "home": null,
@@ -2119,8 +2119,8 @@
         "date": "2026-08-29T12:45:00+00:00",
         "timestamp": 1788007500,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1788007500,
+          "second": 1788011100
         },
         "venue": {
           "id": 686,
@@ -2128,9 +2128,9 @@
           "city": "Valenciennes"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
           "extra": null
         }
       },
@@ -2159,17 +2159,17 @@
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 0,
+        "away": 0
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         },
         "extratime": {
           "home": null,
@@ -2189,8 +2189,8 @@
         "date": "2026-08-29T12:45:00+00:00",
         "timestamp": 1788007500,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1788007500,
+          "second": 1788011100
         },
         "venue": {
           "id": null,
@@ -2198,9 +2198,9 @@
           "city": "Rouen"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
           "extra": null
         }
       },
@@ -2219,27 +2219,27 @@
           "id": 431,
           "name": "Quevilly",
           "logo": "https://media.api-sports.io/football/teams/431.png",
-          "winner": null
+          "winner": true
         },
         "away": {
           "id": 3179,
           "name": "Fleury 91",
           "logo": "https://media.api-sports.io/football/teams/3179.png",
-          "winner": null
+          "winner": false
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 2,
+        "away": 1
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 0
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 1
         },
         "extratime": {
           "home": null,
@@ -2259,8 +2259,8 @@
         "date": "2026-08-29T12:45:00+00:00",
         "timestamp": 1788007500,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1788007500,
+          "second": 1788011100
         },
         "venue": {
           "id": null,
@@ -2268,9 +2268,9 @@
           "city": null
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
           "extra": null
         }
       },
@@ -2289,27 +2289,27 @@
           "id": 1302,
           "name": "Villefranche",
           "logo": "https://media.api-sports.io/football/teams/1302.png",
-          "winner": null
+          "winner": false
         },
         "away": {
           "id": 3221,
           "name": "Rouen",
           "logo": "https://media.api-sports.io/football/teams/3221.png",
-          "winner": null
+          "winner": true
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 0,
+        "away": 2
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 2
         },
         "extratime": {
           "home": null,
@@ -2329,8 +2329,8 @@
         "date": "2026-08-29T12:45:00+00:00",
         "timestamp": 1788007500,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1788007500,
+          "second": 1788011100
         },
         "venue": {
           "id": 6999,
@@ -2338,9 +2338,9 @@
           "city": "Aubagne"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
           "extra": null
         }
       },
@@ -2359,27 +2359,27 @@
           "id": 9930,
           "name": "Aubagne",
           "logo": "https://media.api-sports.io/football/teams/9930.png",
-          "winner": null
+          "winner": true
         },
         "away": {
           "id": 430,
           "name": "Bourg-en-bresse 01",
           "logo": "https://media.api-sports.io/football/teams/430.png",
-          "winner": null
+          "winner": false
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 2,
+        "away": 0
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 0
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 0
         },
         "extratime": {
           "home": null,
@@ -2399,8 +2399,8 @@
         "date": "2026-08-29T12:45:00+00:00",
         "timestamp": 1788007500,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1788007500,
+          "second": 1788011100
         },
         "venue": {
           "id": 7001,
@@ -2408,9 +2408,9 @@
           "city": "Cannes"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
           "extra": null
         }
       },
@@ -2429,27 +2429,27 @@
           "id": 9932,
           "name": "Cannes",
           "logo": "https://media.api-sports.io/football/teams/9932.png",
-          "winner": null
+          "winner": true
         },
         "away": {
           "id": 3069,
           "name": "Le Puy Foot",
           "logo": "https://media.api-sports.io/football/teams/3069.png",
-          "winner": null
+          "winner": false
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 2,
+        "away": 0
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 0
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 0
         },
         "extratime": {
           "home": null,
@@ -2469,8 +2469,8 @@
         "date": "2026-08-29T12:45:00+00:00",
         "timestamp": 1788007500,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1788007500,
+          "second": 1788011100
         },
         "venue": {
           "id": null,
@@ -2478,9 +2478,9 @@
           "city": null
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
           "extra": null
         }
       },
@@ -2509,17 +2509,17 @@
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 1,
+        "away": 1
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 1
         },
         "extratime": {
           "home": null,
