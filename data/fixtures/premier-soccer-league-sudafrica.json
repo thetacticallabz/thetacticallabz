@@ -13,288 +13,8 @@
   "response": [
     {
       "fixture": {
-        "id": 1600325,
-        "referee": "Siyabulela Qunta, South Africa",
-        "timezone": "UTC",
-        "date": "2026-08-26T17:30:00+00:00",
-        "timestamp": 1787765400,
-        "periods": {
-          "first": 1787765400,
-          "second": null
-        },
-        "venue": {
-          "id": 1450,
-          "name": "Sugar Ray Xulu Stadium",
-          "city": "Durban"
-        },
-        "status": {
-          "long": "First Half",
-          "short": "1H",
-          "elapsed": 33,
-          "extra": null
-        }
-      },
-      "league": {
-        "id": 288,
-        "name": "Premier Soccer League",
-        "country": "South-Africa",
-        "logo": "https://media.api-sports.io/football/leagues/288.png",
-        "flag": "https://media.api-sports.io/flags/za.svg",
-        "season": 2026,
-        "round": "Regular Season - 4",
-        "standings": true
-      },
-      "teams": {
-        "home": {
-          "id": 2690,
-          "name": "Golden Arrows",
-          "logo": "https://media.api-sports.io/football/teams/2690.png",
-          "winner": null
-        },
-        "away": {
-          "id": 4905,
-          "name": "Stellenbosch",
-          "logo": "https://media.api-sports.io/football/teams/4905.png",
-          "winner": null
-        }
-      },
-      "goals": {
-        "home": 0,
-        "away": 0
-      },
-      "score": {
-        "halftime": {
-          "home": 0,
-          "away": 0
-        },
-        "fulltime": {
-          "home": null,
-          "away": null
-        },
-        "extratime": {
-          "home": null,
-          "away": null
-        },
-        "penalty": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "fixture": {
-        "id": 1600327,
-        "referee": "Moreki Lekwape, South Africa",
-        "timezone": "UTC",
-        "date": "2026-08-26T17:30:00+00:00",
-        "timestamp": 1787765400,
-        "periods": {
-          "first": 1787765400,
-          "second": null
-        },
-        "venue": {
-          "id": null,
-          "name": "Peter Mokaba Stadium",
-          "city": "Polokwane"
-        },
-        "status": {
-          "long": "First Half",
-          "short": "1H",
-          "elapsed": 34,
-          "extra": null
-        }
-      },
-      "league": {
-        "id": 288,
-        "name": "Premier Soccer League",
-        "country": "South-Africa",
-        "logo": "https://media.api-sports.io/football/leagues/288.png",
-        "flag": "https://media.api-sports.io/flags/za.svg",
-        "season": 2026,
-        "round": "Regular Season - 4",
-        "standings": true
-      },
-      "teams": {
-        "home": {
-          "id": 2693,
-          "name": "Polokwane City",
-          "logo": "https://media.api-sports.io/football/teams/2693.png",
-          "winner": null
-        },
-        "away": {
-          "id": 22234,
-          "name": "Milford FC",
-          "logo": "https://media.api-sports.io/football/teams/22234.png",
-          "winner": null
-        }
-      },
-      "goals": {
-        "home": 0,
-        "away": 0
-      },
-      "score": {
-        "halftime": {
-          "home": 0,
-          "away": 0
-        },
-        "fulltime": {
-          "home": null,
-          "away": null
-        },
-        "extratime": {
-          "home": null,
-          "away": null
-        },
-        "penalty": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "fixture": {
-        "id": 1600326,
-        "referee": null,
-        "timezone": "UTC",
-        "date": "2026-08-26T17:30:00+00:00",
-        "timestamp": 1787765400,
-        "periods": {
-          "first": 1787765400,
-          "second": null
-        },
-        "venue": {
-          "id": null,
-          "name": "Loftus Versfeld Stadium",
-          "city": "Tshwane/Pretoria"
-        },
-        "status": {
-          "long": "First Half",
-          "short": "1H",
-          "elapsed": 34,
-          "extra": null
-        }
-      },
-      "league": {
-        "id": 288,
-        "name": "Premier Soccer League",
-        "country": "South-Africa",
-        "logo": "https://media.api-sports.io/football/leagues/288.png",
-        "flag": "https://media.api-sports.io/flags/za.svg",
-        "season": 2026,
-        "round": "Regular Season - 4",
-        "standings": true
-      },
-      "teams": {
-        "home": {
-          "id": 2699,
-          "name": "Mamelodi Sundowns",
-          "logo": "https://media.api-sports.io/football/teams/2699.png",
-          "winner": true
-        },
-        "away": {
-          "id": 2669,
-          "name": "Amazulu",
-          "logo": "https://media.api-sports.io/football/teams/2669.png",
-          "winner": false
-        }
-      },
-      "goals": {
-        "home": 2,
-        "away": 0
-      },
-      "score": {
-        "halftime": {
-          "home": 2,
-          "away": 0
-        },
-        "fulltime": {
-          "home": null,
-          "away": null
-        },
-        "extratime": {
-          "home": null,
-          "away": null
-        },
-        "penalty": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "fixture": {
-        "id": 1600328,
-        "referee": "Cedrick Muvhali, South Africa",
-        "timezone": "UTC",
-        "date": "2026-08-26T17:30:00+00:00",
-        "timestamp": 1787765400,
-        "periods": {
-          "first": 1787765400,
-          "second": null
-        },
-        "venue": {
-          "id": null,
-          "name": "Umhlathuze Sports Stadium",
-          "city": "Richards Bay"
-        },
-        "status": {
-          "long": "First Half",
-          "short": "1H",
-          "elapsed": 33,
-          "extra": null
-        }
-      },
-      "league": {
-        "id": 288,
-        "name": "Premier Soccer League",
-        "country": "South-Africa",
-        "logo": "https://media.api-sports.io/football/leagues/288.png",
-        "flag": "https://media.api-sports.io/flags/za.svg",
-        "season": 2026,
-        "round": "Regular Season - 4",
-        "standings": true
-      },
-      "teams": {
-        "home": {
-          "id": 10567,
-          "name": "Richards Bay",
-          "logo": "https://media.api-sports.io/football/teams/10567.png",
-          "winner": null
-        },
-        "away": {
-          "id": 2691,
-          "name": "Kaizer Chiefs",
-          "logo": "https://media.api-sports.io/football/teams/2691.png",
-          "winner": null
-        }
-      },
-      "goals": {
-        "home": 1,
-        "away": 1
-      },
-      "score": {
-        "halftime": {
-          "home": 1,
-          "away": 1
-        },
-        "fulltime": {
-          "home": null,
-          "away": null
-        },
-        "extratime": {
-          "home": null,
-          "away": null
-        },
-        "penalty": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "fixture": {
         "id": 1600297,
-        "referee": "Abongile Tom, South Africa",
+        "referee": "A. Tom",
         "timezone": "UTC",
         "date": "2026-08-01T13:00:00+00:00",
         "timestamp": 1785589200,
@@ -364,7 +84,7 @@
     {
       "fixture": {
         "id": 1600298,
-        "referee": "Christopher Kistoor, South Africa",
+        "referee": "C. Kistoor",
         "timezone": "UTC",
         "date": "2026-08-01T13:00:00+00:00",
         "timestamp": 1785589200,
@@ -374,8 +94,8 @@
         },
         "venue": {
           "id": null,
-          "name": "Orlando Amstel Arena",
-          "city": "Soweto"
+          "name": "Orlando Stadium",
+          "city": "Johannesburg"
         },
         "status": {
           "long": "Match Finished",
@@ -434,7 +154,7 @@
     {
       "fixture": {
         "id": 1600299,
-        "referee": "Jelly Chavani, South Africa",
+        "referee": "J. Chavani",
         "timezone": "UTC",
         "date": "2026-08-01T13:00:00+00:00",
         "timestamp": 1785589200,
@@ -504,7 +224,7 @@
     {
       "fixture": {
         "id": 1600301,
-        "referee": "Siyabulela Qunta, South Africa",
+        "referee": "S. Qunta",
         "timezone": "UTC",
         "date": "2026-08-01T15:30:00+00:00",
         "timestamp": 1785598200,
@@ -514,7 +234,7 @@
         },
         "venue": {
           "id": null,
-          "name": "Seshego Stadium",
+          "name": "Peter Mokaba Stadium",
           "city": "Polokwane"
         },
         "status": {
@@ -644,7 +364,7 @@
     {
       "fixture": {
         "id": 1600303,
-        "referee": "Moreki Lekwape, South Africa",
+        "referee": "M. Lekwape",
         "timezone": "UTC",
         "date": "2026-08-02T13:00:00+00:00",
         "timestamp": 1785675600,
@@ -654,8 +374,8 @@
         },
         "venue": {
           "id": null,
-          "name": "Umhlathuze Sports Stadium",
-          "city": "Richards Bay"
+          "name": "King Zwelithini Stadium",
+          "city": "Durban"
         },
         "status": {
           "long": "Match Finished",
@@ -714,7 +434,7 @@
     {
       "fixture": {
         "id": 1600304,
-        "referee": "Xola Sitela, South Africa",
+        "referee": "X. Sitela",
         "timezone": "UTC",
         "date": "2026-08-02T15:30:00+00:00",
         "timestamp": 1785684600,
@@ -724,7 +444,7 @@
         },
         "venue": {
           "id": null,
-          "name": "Free State Stadium",
+          "name": "Dr. Petrus Molemela Stadium",
           "city": "Bloemfontein"
         },
         "status": {
@@ -854,7 +574,7 @@
     {
       "fixture": {
         "id": 1600307,
-        "referee": "Moses Mbhabeleli Kheswa, South Africa",
+        "referee": "M. Kheswa",
         "timezone": "UTC",
         "date": "2026-08-11T17:30:00+00:00",
         "timestamp": 1786469400,
@@ -864,7 +584,7 @@
         },
         "venue": {
           "id": null,
-          "name": "Seshego Stadium",
+          "name": "Old Peter Mokaba Stadium",
           "city": "Polokwane"
         },
         "status": {
@@ -924,7 +644,7 @@
     {
       "fixture": {
         "id": 1600305,
-        "referee": "Jobela Buhlebendawo, South Africa",
+        "referee": "B. Jobela",
         "timezone": "UTC",
         "date": "2026-08-11T17:30:00+00:00",
         "timestamp": 1786469400,
@@ -934,8 +654,8 @@
         },
         "venue": {
           "id": null,
-          "name": "Dobsonville Stadium",
-          "city": "Soweto"
+          "name": "Sisa Dukashe Stadium",
+          "city": "Mdantsane"
         },
         "status": {
           "long": "Match Finished",
@@ -994,7 +714,7 @@
     {
       "fixture": {
         "id": 1600308,
-        "referee": "Eugene Mdluli, South Africa",
+        "referee": "E. Mdluli",
         "timezone": "UTC",
         "date": "2026-08-11T17:30:00+00:00",
         "timestamp": 1786469400,
@@ -1214,7 +934,7 @@
         },
         "venue": {
           "id": null,
-          "name": "Umhlathuze Sports Stadium",
+          "name": "Richards Bay Stadium",
           "city": "Richards Bay"
         },
         "status": {
@@ -1285,7 +1005,7 @@
         "venue": {
           "id": null,
           "name": "Chatsworth Stadium",
-          "city": "Chatsworth"
+          "city": "Durban"
         },
         "status": {
           "long": "Match Finished",
@@ -1414,7 +1134,7 @@
     {
       "fixture": {
         "id": 1600314,
-        "referee": "Siyabulela Qunta, South Africa",
+        "referee": "S. Qunta",
         "timezone": "UTC",
         "date": "2026-08-15T13:00:00+00:00",
         "timestamp": 1786798800,
@@ -1484,7 +1204,7 @@
     {
       "fixture": {
         "id": 1600315,
-        "referee": "Jelly Chavani, South Africa",
+        "referee": "J. Chavani",
         "timezone": "UTC",
         "date": "2026-08-15T13:00:00+00:00",
         "timestamp": 1786798800,
@@ -1554,7 +1274,7 @@
     {
       "fixture": {
         "id": 1600316,
-        "referee": "Siyabonga Nkomo, South Africa",
+        "referee": "S. Nkomo",
         "timezone": "UTC",
         "date": "2026-08-15T15:30:00+00:00",
         "timestamp": 1786807800,
@@ -1564,7 +1284,7 @@
         },
         "venue": {
           "id": null,
-          "name": "Seshego Stadium",
+          "name": "Peter Mokaba Stadium",
           "city": "Polokwane"
         },
         "status": {
@@ -1624,7 +1344,7 @@
     {
       "fixture": {
         "id": 1600318,
-        "referee": "Xola Sitela, South Africa",
+        "referee": "X. Sitela",
         "timezone": "UTC",
         "date": "2026-08-15T18:00:00+00:00",
         "timestamp": 1786816800,
@@ -1694,7 +1414,7 @@
     {
       "fixture": {
         "id": 1600317,
-        "referee": "Abongile Tom, South Africa",
+        "referee": "A. Tom",
         "timezone": "UTC",
         "date": "2026-08-15T18:00:00+00:00",
         "timestamp": 1786816800,
@@ -1705,7 +1425,7 @@
         "venue": {
           "id": null,
           "name": "Chatsworth Stadium",
-          "city": "Chatsworth"
+          "city": "Durban"
         },
         "status": {
           "long": "Match Finished",
@@ -1764,7 +1484,7 @@
     {
       "fixture": {
         "id": 1600319,
-        "referee": "Moses Mbhabeleli Kheswa, South Africa",
+        "referee": "M. Kheswa",
         "timezone": "UTC",
         "date": "2026-08-16T13:00:00+00:00",
         "timestamp": 1786885200,
@@ -1774,8 +1494,8 @@
         },
         "venue": {
           "id": null,
-          "name": "Kings Park Stadium",
-          "city": "Durban"
+          "name": "Sisa Dukashe Stadium",
+          "city": "Mdantsane"
         },
         "status": {
           "long": "Match Finished",
@@ -1834,7 +1554,7 @@
     {
       "fixture": {
         "id": 1600320,
-        "referee": "Michael Mosemeng, South Africa",
+        "referee": "M. Mosemeng",
         "timezone": "UTC",
         "date": "2026-08-16T15:30:00+00:00",
         "timestamp": 1786894200,
@@ -1904,7 +1624,7 @@
     {
       "fixture": {
         "id": 1600300,
-        "referee": "Eugene Mdluli, South Africa",
+        "referee": "E. Mdluli",
         "timezone": "UTC",
         "date": "2026-08-19T17:30:00+00:00",
         "timestamp": 1787160600,
@@ -1914,8 +1634,8 @@
         },
         "venue": {
           "id": null,
-          "name": "Loftus Versfeld Stadium",
-          "city": "Tshwane/Pretoria"
+          "name": "Lucas Masterpieces Moripe Stadium",
+          "city": "Pretoria"
         },
         "status": {
           "long": "Match Finished",
@@ -1974,7 +1694,7 @@
     {
       "fixture": {
         "id": 1600322,
-        "referee": "Eugene Mdluli, South Africa",
+        "referee": "E. Mdluli",
         "timezone": "UTC",
         "date": "2026-08-25T17:30:00+00:00",
         "timestamp": 1787679000,
@@ -2044,7 +1764,7 @@
     {
       "fixture": {
         "id": 1600323,
-        "referee": "Philangenkosi Khumalo, South Africa",
+        "referee": "P. Khumalo",
         "timezone": "UTC",
         "date": "2026-08-25T17:30:00+00:00",
         "timestamp": 1787679000,
@@ -2054,8 +1774,8 @@
         },
         "venue": {
           "id": null,
-          "name": "Orlando Amstel Arena",
-          "city": "Soweto"
+          "name": "Orlando Stadium",
+          "city": "Johannesburg"
         },
         "status": {
           "long": "Match Finished",
@@ -2114,7 +1834,7 @@
     {
       "fixture": {
         "id": 1600321,
-        "referee": "Luxolo Badi, South Africa",
+        "referee": "L. Badi",
         "timezone": "UTC",
         "date": "2026-08-25T17:30:00+00:00",
         "timestamp": 1787679000,
@@ -2184,7 +1904,7 @@
     {
       "fixture": {
         "id": 1600324,
-        "referee": "Jelly Chavani, South Africa",
+        "referee": "J. Chavani",
         "timezone": "UTC",
         "date": "2026-08-25T17:30:00+00:00",
         "timestamp": 1787679000,
@@ -2240,6 +1960,286 @@
         "fulltime": {
           "home": 1,
           "away": 1
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1600325,
+        "referee": "S. Qunta",
+        "timezone": "UTC",
+        "date": "2026-08-26T17:30:00+00:00",
+        "timestamp": 1787765400,
+        "periods": {
+          "first": 1787765400,
+          "second": 1787769000
+        },
+        "venue": {
+          "id": 1450,
+          "name": "Sugar Ray Xulu Stadium",
+          "city": "Durban"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 5
+        }
+      },
+      "league": {
+        "id": 288,
+        "name": "Premier Soccer League",
+        "country": "South-Africa",
+        "logo": "https://media.api-sports.io/football/leagues/288.png",
+        "flag": "https://media.api-sports.io/flags/za.svg",
+        "season": 2026,
+        "round": "Regular Season - 4",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2690,
+          "name": "Golden Arrows",
+          "logo": "https://media.api-sports.io/football/teams/2690.png",
+          "winner": true
+        },
+        "away": {
+          "id": 4905,
+          "name": "Stellenbosch",
+          "logo": "https://media.api-sports.io/football/teams/4905.png",
+          "winner": false
+        }
+      },
+      "goals": {
+        "home": 1,
+        "away": 0
+      },
+      "score": {
+        "halftime": {
+          "home": 0,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 1,
+          "away": 0
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1600327,
+        "referee": "M. Lekwape",
+        "timezone": "UTC",
+        "date": "2026-08-26T17:30:00+00:00",
+        "timestamp": 1787765400,
+        "periods": {
+          "first": 1787765400,
+          "second": 1787769000
+        },
+        "venue": {
+          "id": null,
+          "name": "Old Peter Mokaba Stadium",
+          "city": "Polokwane"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 6
+        }
+      },
+      "league": {
+        "id": 288,
+        "name": "Premier Soccer League",
+        "country": "South-Africa",
+        "logo": "https://media.api-sports.io/football/leagues/288.png",
+        "flag": "https://media.api-sports.io/flags/za.svg",
+        "season": 2026,
+        "round": "Regular Season - 4",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2693,
+          "name": "Polokwane City",
+          "logo": "https://media.api-sports.io/football/teams/2693.png",
+          "winner": null
+        },
+        "away": {
+          "id": 22234,
+          "name": "Milford FC",
+          "logo": "https://media.api-sports.io/football/teams/22234.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": 0,
+        "away": 0
+      },
+      "score": {
+        "halftime": {
+          "home": 0,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 0,
+          "away": 0
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1600326,
+        "referee": "S. Gasa",
+        "timezone": "UTC",
+        "date": "2026-08-26T17:30:00+00:00",
+        "timestamp": 1787765400,
+        "periods": {
+          "first": 1787765400,
+          "second": 1787769000
+        },
+        "venue": {
+          "id": null,
+          "name": "Lucas Masterpieces Moripe Stadium",
+          "city": "Pretoria"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 6
+        }
+      },
+      "league": {
+        "id": 288,
+        "name": "Premier Soccer League",
+        "country": "South-Africa",
+        "logo": "https://media.api-sports.io/football/leagues/288.png",
+        "flag": "https://media.api-sports.io/flags/za.svg",
+        "season": 2026,
+        "round": "Regular Season - 4",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2699,
+          "name": "Mamelodi Sundowns",
+          "logo": "https://media.api-sports.io/football/teams/2699.png",
+          "winner": true
+        },
+        "away": {
+          "id": 2669,
+          "name": "Amazulu",
+          "logo": "https://media.api-sports.io/football/teams/2669.png",
+          "winner": false
+        }
+      },
+      "goals": {
+        "home": 5,
+        "away": 2
+      },
+      "score": {
+        "halftime": {
+          "home": 2,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 5,
+          "away": 2
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1600328,
+        "referee": "C. Muvhali",
+        "timezone": "UTC",
+        "date": "2026-08-26T17:30:00+00:00",
+        "timestamp": 1787765400,
+        "periods": {
+          "first": 1787765400,
+          "second": 1787769000
+        },
+        "venue": {
+          "id": null,
+          "name": "King Zwelithini Stadium",
+          "city": "Durban"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 6
+        }
+      },
+      "league": {
+        "id": 288,
+        "name": "Premier Soccer League",
+        "country": "South-Africa",
+        "logo": "https://media.api-sports.io/football/leagues/288.png",
+        "flag": "https://media.api-sports.io/flags/za.svg",
+        "season": 2026,
+        "round": "Regular Season - 4",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 10567,
+          "name": "Richards Bay",
+          "logo": "https://media.api-sports.io/football/teams/10567.png",
+          "winner": null
+        },
+        "away": {
+          "id": 2691,
+          "name": "Kaizer Chiefs",
+          "logo": "https://media.api-sports.io/football/teams/2691.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": 2,
+        "away": 2
+      },
+      "score": {
+        "halftime": {
+          "home": 2,
+          "away": 1
+        },
+        "fulltime": {
+          "home": 2,
+          "away": 2
         },
         "extratime": {
           "home": null,
@@ -2334,8 +2334,8 @@
         },
         "venue": {
           "id": null,
-          "name": null,
-          "city": null
+          "name": "Mbombela Stadium",
+          "city": "Mbombela"
         },
         "status": {
           "long": "Not Started",
@@ -2743,76 +2743,6 @@
     },
     {
       "fixture": {
-        "id": 1600335,
-        "referee": null,
-        "timezone": "UTC",
-        "date": "2026-09-05T18:00:00+00:00",
-        "timestamp": 1788631200,
-        "periods": {
-          "first": null,
-          "second": null
-        },
-        "venue": {
-          "id": 22436,
-          "name": "FNB Stadium",
-          "city": "Johannesburg"
-        },
-        "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
-        }
-      },
-      "league": {
-        "id": 288,
-        "name": "Premier Soccer League",
-        "country": "South-Africa",
-        "logo": "https://media.api-sports.io/football/leagues/288.png",
-        "flag": "https://media.api-sports.io/flags/za.svg",
-        "season": 2026,
-        "round": "Regular Season - 5",
-        "standings": true
-      },
-      "teams": {
-        "home": {
-          "id": 2691,
-          "name": "Kaizer Chiefs",
-          "logo": "https://media.api-sports.io/football/teams/2691.png",
-          "winner": null
-        },
-        "away": {
-          "id": 26299,
-          "name": "Siwelele",
-          "logo": "https://media.api-sports.io/football/teams/26299.png",
-          "winner": null
-        }
-      },
-      "goals": {
-        "home": null,
-        "away": null
-      },
-      "score": {
-        "halftime": {
-          "home": null,
-          "away": null
-        },
-        "fulltime": {
-          "home": null,
-          "away": null
-        },
-        "extratime": {
-          "home": null,
-          "away": null
-        },
-        "penalty": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "fixture": {
         "id": 1600336,
         "referee": null,
         "timezone": "UTC",
@@ -2855,6 +2785,76 @@
           "id": 2699,
           "name": "Mamelodi Sundowns",
           "logo": "https://media.api-sports.io/football/teams/2699.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1600335,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2026-09-06T15:30:00+00:00",
+        "timestamp": 1788708600,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": 22436,
+          "name": "FNB Stadium",
+          "city": "Johannesburg"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 288,
+        "name": "Premier Soccer League",
+        "country": "South-Africa",
+        "logo": "https://media.api-sports.io/football/leagues/288.png",
+        "flag": "https://media.api-sports.io/flags/za.svg",
+        "season": 2026,
+        "round": "Regular Season - 5",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2691,
+          "name": "Kaizer Chiefs",
+          "logo": "https://media.api-sports.io/football/teams/2691.png",
+          "winner": null
+        },
+        "away": {
+          "id": 26299,
+          "name": "Siwelele",
+          "logo": "https://media.api-sports.io/football/teams/26299.png",
           "winner": null
         }
       },

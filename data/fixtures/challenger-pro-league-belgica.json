@@ -994,13 +994,13 @@
     {
       "fixture": {
         "id": 1559141,
-        "referee": null,
+        "referee": "A. Seynaeve",
         "timezone": "UTC",
         "date": "2026-08-28T18:00:00+00:00",
         "timestamp": 1787940000,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1787940000,
+          "second": 1787943600
         },
         "venue": {
           "id": null,
@@ -1008,10 +1008,10 @@
           "city": "Hasselt"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 11
         }
       },
       "league": {
@@ -1029,27 +1029,27 @@
           "id": 5931,
           "name": "Sporting Hasselt",
           "logo": "https://media.api-sports.io/football/teams/5931.png",
-          "winner": null
+          "winner": false
         },
         "away": {
           "id": 19685,
           "name": "KAA Gent II",
           "logo": "https://media.api-sports.io/football/teams/19685.png",
-          "winner": null
+          "winner": true
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 0,
+        "away": 2
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 1
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 2
         },
         "extratime": {
           "home": null,
@@ -1064,13 +1064,13 @@
     {
       "fixture": {
         "id": 1559142,
-        "referee": null,
+        "referee": "A. Jacoby",
         "timezone": "UTC",
         "date": "2026-08-28T18:00:00+00:00",
         "timestamp": 1787940000,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1787940000,
+          "second": 1787943600
         },
         "venue": {
           "id": 183,
@@ -1078,10 +1078,10 @@
           "city": "Lokeren"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 8
         }
       },
       "league": {
@@ -1099,27 +1099,27 @@
           "id": 14128,
           "name": "Lokeren-Temse",
           "logo": "https://media.api-sports.io/football/teams/14128.png",
-          "winner": null
+          "winner": false
         },
         "away": {
           "id": 19045,
           "name": "KRC Genk II",
           "logo": "https://media.api-sports.io/football/teams/19045.png",
-          "winner": null
+          "winner": true
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 2,
+        "away": 4
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 2
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 4
         },
         "extratime": {
           "home": null,
@@ -1134,13 +1134,13 @@
     {
       "fixture": {
         "id": 1559144,
-        "referee": null,
+        "referee": "R. Calluy",
         "timezone": "UTC",
         "date": "2026-08-29T14:00:00+00:00",
         "timestamp": 1788012000,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1788012000,
+          "second": 1788015600
         },
         "venue": {
           "id": null,
@@ -1148,9 +1148,9 @@
           "city": null
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
           "extra": null
         }
       },
@@ -1169,27 +1169,27 @@
           "id": 6220,
           "name": "Liège",
           "logo": "https://media.api-sports.io/football/teams/6220.png",
-          "winner": null
+          "winner": false
         },
         "away": {
           "id": 6215,
           "name": "Dender",
           "logo": "https://media.api-sports.io/football/teams/6215.png",
-          "winner": null
+          "winner": true
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 1,
+        "away": 2
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 1
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 2
         },
         "extratime": {
           "home": null,
@@ -1204,13 +1204,13 @@
     {
       "fixture": {
         "id": 1559143,
-        "referee": null,
+        "referee": "T. De Keyzer",
         "timezone": "UTC",
         "date": "2026-08-29T14:00:00+00:00",
         "timestamp": 1788012000,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1788012000,
+          "second": 1788015600
         },
         "venue": {
           "id": null,
@@ -1218,9 +1218,9 @@
           "city": "Anderlecht"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
           "extra": null
         }
       },
@@ -1239,27 +1239,27 @@
           "id": 19046,
           "name": "RSC Anderlecht II",
           "logo": "https://media.api-sports.io/football/teams/19046.png",
-          "winner": null
+          "winner": false
         },
         "away": {
           "id": 263,
           "name": "Beerschot VA",
           "logo": "https://media.api-sports.io/football/teams/263.png",
-          "winner": null
+          "winner": true
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 0,
+        "away": 1
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 1
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 1
         },
         "extratime": {
           "home": null,
@@ -1274,13 +1274,13 @@
     {
       "fixture": {
         "id": 1559145,
-        "referee": null,
+        "referee": "J. Vitse",
         "timezone": "UTC",
         "date": "2026-08-29T18:00:00+00:00",
         "timestamp": 1788026400,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1788026400,
+          "second": 1788030000
         },
         "venue": {
           "id": 20343,
@@ -1288,9 +1288,9 @@
           "city": "Maasmechelen"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
           "extra": null
         }
       },
@@ -1309,27 +1309,27 @@
           "id": 6222,
           "name": "Patro Eisden",
           "logo": "https://media.api-sports.io/football/teams/6222.png",
-          "winner": null
+          "winner": false
         },
         "away": {
           "id": 14130,
           "name": "Club Brugge II",
           "logo": "https://media.api-sports.io/football/teams/14130.png",
-          "winner": null
+          "winner": true
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 1,
+        "away": 2
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 1
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 2
         },
         "extratime": {
           "home": null,
@@ -1344,13 +1344,13 @@
     {
       "fixture": {
         "id": 1559146,
-        "referee": null,
+        "referee": "K. Clerkx",
         "timezone": "UTC",
         "date": "2026-08-30T14:00:00+00:00",
         "timestamp": 1788098400,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1788098400,
+          "second": 1788102000
         },
         "venue": {
           "id": 3563,
@@ -1358,10 +1358,10 @@
           "city": "Virton"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 8
         }
       },
       "league": {
@@ -1379,27 +1379,27 @@
           "id": 4715,
           "name": "Excelsior Virton",
           "logo": "https://media.api-sports.io/football/teams/4715.png",
-          "winner": null
+          "winner": false
         },
         "away": {
           "id": 5805,
           "name": "Francs Borains",
           "logo": "https://media.api-sports.io/football/teams/5805.png",
-          "winner": null
+          "winner": true
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 0,
+        "away": 1
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 1
         },
         "extratime": {
           "home": null,
@@ -1414,13 +1414,13 @@
     {
       "fixture": {
         "id": 1559147,
-        "referee": null,
+        "referee": "L. Loockx",
         "timezone": "UTC",
         "date": "2026-08-30T17:15:00+00:00",
         "timestamp": 1788110100,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1788110100,
+          "second": 1788113700
         },
         "venue": {
           "id": 4600,
@@ -1428,10 +1428,10 @@
           "city": "Seraing"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 6
         }
       },
       "league": {
@@ -1459,17 +1459,17 @@
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 1,
+        "away": 1
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 0
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 1
         },
         "extratime": {
           "home": null,

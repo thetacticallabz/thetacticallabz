@@ -427,10 +427,10 @@
           "games": {
             "appearences": 21,
             "lineups": 19,
-            "minutes": 1591,
+            "minutes": 1584,
             "number": 42,
             "position": "Attacker",
-            "rating": "7.08",
+            "rating": "7.09",
             "captain": false
           },
           "substitutes": {
@@ -460,7 +460,7 @@
           },
           "duels": {
             "total": 296,
-            "won": 138
+            "won": 139
           },
           "dribbles": {
             "attempts": 64,
@@ -468,7 +468,7 @@
             "past": null
           },
           "fouls": {
-            "drawn": 45,
+            "drawn": 46,
             "committed": 30
           },
           "cards": {
@@ -649,7 +649,7 @@
             "interceptions": 2
           },
           "duels": {
-            "total": 44,
+            "total": 45,
             "won": 18
           },
           "dribbles": {
@@ -963,6 +963,101 @@
     },
     {
       "player": {
+        "id": 10323,
+        "name": "Luciano",
+        "firstname": "Luciano",
+        "lastname": "da Rocha Neves",
+        "age": 32,
+        "birth": {
+          "date": "1993-05-18",
+          "place": "Anápolis",
+          "country": "Brazil"
+        },
+        "nationality": "Brazil",
+        "height": "181",
+        "weight": "77",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/10323.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 126,
+            "name": "Sao Paulo",
+            "logo": "https://media.api-sports.io/football/teams/126.png"
+          },
+          "league": {
+            "id": 71,
+            "name": "Serie A",
+            "country": "Brazil",
+            "logo": "https://media.api-sports.io/football/leagues/71.png",
+            "flag": "https://media.api-sports.io/flags/br.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 20,
+            "lineups": 18,
+            "minutes": 1419,
+            "number": 10,
+            "position": "Attacker",
+            "rating": "6.96",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 14,
+            "bench": 3
+          },
+          "shots": {
+            "total": 25,
+            "on": 13
+          },
+          "goals": {
+            "total": 7,
+            "conceded": 0,
+            "assists": 2,
+            "saves": null
+          },
+          "passes": {
+            "total": 455,
+            "key": 22,
+            "accuracy": 83
+          },
+          "tackles": {
+            "total": 20,
+            "blocks": 1,
+            "interceptions": 4
+          },
+          "duels": {
+            "total": 134,
+            "won": 66
+          },
+          "dribbles": {
+            "attempts": 13,
+            "success": 2,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 32,
+            "committed": 21
+          },
+          "cards": {
+            "yellow": 4,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": 2,
+            "commited": null,
+            "scored": 1,
+            "missed": 1,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
         "id": 47368,
         "name": "J. Calleri",
         "firstname": "Jonathan",
@@ -1006,7 +1101,7 @@
           "substitutes": {
             "in": 1,
             "out": 7,
-            "bench": 1
+            "bench": 2
           },
           "shots": {
             "total": 35,
@@ -1042,7 +1137,7 @@
             "committed": 32
           },
           "cards": {
-            "yellow": 4,
+            "yellow": 5,
             "yellowred": 0,
             "red": 0
           },
@@ -1114,7 +1209,7 @@
             "saves": null
           },
           "passes": {
-            "total": 799,
+            "total": 801,
             "key": 32,
             "accuracy": 86
           },
@@ -1343,101 +1438,6 @@
     },
     {
       "player": {
-        "id": 70670,
-        "name": "I. Pitta",
-        "firstname": "Isidro Miguel",
-        "lastname": "Pitta Saldívar",
-        "age": 26,
-        "birth": {
-          "date": "1999-08-14",
-          "place": null,
-          "country": "Paraguay"
-        },
-        "nationality": "Paraguay",
-        "height": "183",
-        "weight": null,
-        "injured": false,
-        "photo": "https://media.api-sports.io/football/players/70670.png"
-      },
-      "statistics": [
-        {
-          "team": {
-            "id": 794,
-            "name": "RB Bragantino",
-            "logo": "https://media.api-sports.io/football/teams/794.png"
-          },
-          "league": {
-            "id": 71,
-            "name": "Serie A",
-            "country": "Brazil",
-            "logo": "https://media.api-sports.io/football/leagues/71.png",
-            "flag": "https://media.api-sports.io/flags/br.svg",
-            "season": 2026
-          },
-          "games": {
-            "appearences": 21,
-            "lineups": 16,
-            "minutes": 1480,
-            "number": 9,
-            "position": "Attacker",
-            "rating": "6.76",
-            "captain": false
-          },
-          "substitutes": {
-            "in": 5,
-            "out": 7,
-            "bench": 5
-          },
-          "shots": {
-            "total": 39,
-            "on": 14
-          },
-          "goals": {
-            "total": 6,
-            "conceded": 0,
-            "assists": 2,
-            "saves": null
-          },
-          "passes": {
-            "total": 233,
-            "key": 16,
-            "accuracy": 76
-          },
-          "tackles": {
-            "total": 4,
-            "blocks": null,
-            "interceptions": 3
-          },
-          "duels": {
-            "total": 109,
-            "won": 44
-          },
-          "dribbles": {
-            "attempts": 9,
-            "success": 5,
-            "past": null
-          },
-          "fouls": {
-            "drawn": 13,
-            "committed": 23
-          },
-          "cards": {
-            "yellow": 2,
-            "yellowred": 0,
-            "red": 0
-          },
-          "penalty": {
-            "won": 1,
-            "commited": null,
-            "scored": 0,
-            "missed": 1,
-            "saved": null
-          }
-        }
-      ]
-    },
-    {
-      "player": {
         "id": 25618,
         "name": "Matheus Pereira",
         "firstname": "Matheus Fellipe",
@@ -1470,32 +1470,32 @@
             "season": 2026
           },
           "games": {
-            "appearences": 21,
+            "appearences": 22,
             "lineups": 20,
-            "minutes": 1812,
+            "minutes": 1840,
             "number": 10,
             "position": "Midfielder",
             "rating": "7.28",
             "captain": false
           },
           "substitutes": {
-            "in": 1,
+            "in": 2,
             "out": 5,
-            "bench": 1
+            "bench": 2
           },
           "shots": {
-            "total": 39,
-            "on": 16
+            "total": 40,
+            "on": 17
           },
           "goals": {
             "total": 6,
             "conceded": 0,
-            "assists": 2,
+            "assists": 3,
             "saves": null
           },
           "passes": {
-            "total": 858,
-            "key": 67,
+            "total": 882,
+            "key": 69,
             "accuracy": 83
           },
           "tackles": {
@@ -1504,8 +1504,8 @@
             "interceptions": 7
           },
           "duels": {
-            "total": 209,
-            "won": 112
+            "total": 213,
+            "won": 115
           },
           "dribbles": {
             "attempts": 26,
@@ -1513,7 +1513,7 @@
             "past": null
           },
           "fouls": {
-            "drawn": 79,
+            "drawn": 82,
             "committed": 34
           },
           "cards": {
@@ -1533,28 +1533,28 @@
     },
     {
       "player": {
-        "id": 10323,
-        "name": "Luciano",
-        "firstname": "Luciano",
-        "lastname": "da Rocha Neves",
-        "age": 32,
+        "id": 70670,
+        "name": "I. Pitta",
+        "firstname": "Isidro Miguel",
+        "lastname": "Pitta Saldívar",
+        "age": 26,
         "birth": {
-          "date": "1993-05-18",
-          "place": "Anápolis",
-          "country": "Brazil"
+          "date": "1999-08-14",
+          "place": null,
+          "country": "Paraguay"
         },
-        "nationality": "Brazil",
-        "height": "181",
-        "weight": "77",
+        "nationality": "Paraguay",
+        "height": "183",
+        "weight": null,
         "injured": false,
-        "photo": "https://media.api-sports.io/football/players/10323.png"
+        "photo": "https://media.api-sports.io/football/players/70670.png"
       },
       "statistics": [
         {
           "team": {
-            "id": 126,
-            "name": "Sao Paulo",
-            "logo": "https://media.api-sports.io/football/teams/126.png"
+            "id": 794,
+            "name": "RB Bragantino",
+            "logo": "https://media.api-sports.io/football/teams/794.png"
           },
           "league": {
             "id": 71,
@@ -1565,22 +1565,22 @@
             "season": 2026
           },
           "games": {
-            "appearences": 19,
+            "appearences": 22,
             "lineups": 17,
-            "minutes": 1348,
-            "number": 10,
+            "minutes": 1558,
+            "number": 9,
             "position": "Attacker",
-            "rating": "6.94",
+            "rating": "6.75",
             "captain": false
           },
           "substitutes": {
-            "in": 2,
-            "out": 13,
-            "bench": 3
+            "in": 5,
+            "out": 8,
+            "bench": 5
           },
           "shots": {
-            "total": 24,
-            "on": 12
+            "total": 39,
+            "on": 14
           },
           "goals": {
             "total": 6,
@@ -1589,30 +1589,30 @@
             "saves": null
           },
           "passes": {
-            "total": 436,
-            "key": 21,
-            "accuracy": 83
+            "total": 246,
+            "key": 16,
+            "accuracy": 76
           },
           "tackles": {
-            "total": 20,
-            "blocks": 1,
+            "total": 4,
+            "blocks": null,
             "interceptions": 3
           },
           "duels": {
-            "total": 128,
-            "won": 64
+            "total": 119,
+            "won": 49
           },
           "dribbles": {
-            "attempts": 12,
-            "success": 2,
+            "attempts": 9,
+            "success": 5,
             "past": null
           },
           "fouls": {
-            "drawn": 30,
-            "committed": 20
+            "drawn": 14,
+            "committed": 25
           },
           "cards": {
-            "yellow": 4,
+            "yellow": 2,
             "yellowred": 0,
             "red": 0
           },
@@ -1757,10 +1757,10 @@
           "games": {
             "appearences": 21,
             "lineups": 16,
-            "minutes": 1350,
+            "minutes": 1343,
             "number": 18,
             "position": "Midfielder",
-            "rating": "6.89",
+            "rating": "6.87",
             "captain": false
           },
           "substitutes": {
@@ -1789,8 +1789,8 @@
             "interceptions": 12
           },
           "duels": {
-            "total": 89,
-            "won": 43
+            "total": 90,
+            "won": 44
           },
           "dribbles": {
             "attempts": 10,
@@ -1874,7 +1874,7 @@
             "saves": null
           },
           "passes": {
-            "total": 468,
+            "total": 469,
             "key": 25,
             "accuracy": 75
           },
@@ -1884,12 +1884,12 @@
             "interceptions": null
           },
           "duels": {
-            "total": 158,
-            "won": 73
+            "total": 160,
+            "won": 74
           },
           "dribbles": {
-            "attempts": 49,
-            "success": 13,
+            "attempts": 50,
+            "success": 14,
             "past": null
           },
           "fouls": {

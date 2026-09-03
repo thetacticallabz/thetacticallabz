@@ -1414,13 +1414,13 @@
     {
       "fixture": {
         "id": 1555038,
-        "referee": null,
+        "referee": "J. Muller",
         "timezone": "UTC",
         "date": "2026-08-28T17:30:00+00:00",
         "timestamp": 1787938200,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1787938200,
+          "second": 1787941800
         },
         "venue": {
           "id": null,
@@ -1428,10 +1428,10 @@
           "city": "Winterthur"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 6
         }
       },
       "league": {
@@ -1459,17 +1459,17 @@
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 1,
+        "away": 1
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 1
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 1
         },
         "extratime": {
           "home": null,
@@ -1484,13 +1484,13 @@
     {
       "fixture": {
         "id": 1555037,
-        "referee": null,
+        "referee": "Z. Prskalo",
         "timezone": "UTC",
         "date": "2026-08-28T17:30:00+00:00",
         "timestamp": 1787938200,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1787938200,
+          "second": 1787941800
         },
         "venue": {
           "id": 1534,
@@ -1498,10 +1498,10 @@
           "city": "Kriens"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 3
         }
       },
       "league": {
@@ -1519,27 +1519,27 @@
           "id": 2186,
           "name": "SC Kriens",
           "logo": "https://media.api-sports.io/football/teams/2186.png",
-          "winner": null
+          "winner": true
         },
         "away": {
           "id": 6646,
           "name": "Stade Nyonnais",
           "logo": "https://media.api-sports.io/football/teams/6646.png",
-          "winner": null
+          "winner": false
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 3,
+        "away": 0
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 0
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 3,
+          "away": 0
         },
         "extratime": {
           "home": null,
@@ -1554,13 +1554,13 @@
     {
       "fixture": {
         "id": 1555039,
-        "referee": null,
+        "referee": "J. Jaussi",
         "timezone": "UTC",
         "date": "2026-08-28T17:30:00+00:00",
         "timestamp": 1787938200,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1787938200,
+          "second": 1787941800
         },
         "venue": {
           "id": 4859,
@@ -1568,10 +1568,10 @@
           "city": "Yverdon-les-Bains"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 9
         }
       },
       "league": {
@@ -1599,17 +1599,17 @@
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 1,
+        "away": 1
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 1
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 1
         },
         "extratime": {
           "home": null,
@@ -1624,13 +1624,13 @@
     {
       "fixture": {
         "id": 1555040,
-        "referee": null,
+        "referee": "D. Blanco",
         "timezone": "UTC",
         "date": "2026-08-28T18:15:00+00:00",
         "timestamp": 1787940900,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1787940900,
+          "second": 1787944500
         },
         "venue": {
           "id": null,
@@ -1638,10 +1638,10 @@
           "city": "Aarau"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 5
         }
       },
       "league": {
@@ -1659,27 +1659,27 @@
           "id": 2177,
           "name": "FC Aarau",
           "logo": "https://media.api-sports.io/football/teams/2177.png",
-          "winner": null
+          "winner": true
         },
         "away": {
           "id": 1015,
           "name": "Neuchatel Xamax FC",
           "logo": "https://media.api-sports.io/football/teams/1015.png",
-          "winner": null
+          "winner": false
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 2,
+        "away": 1
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 1
         },
         "extratime": {
           "home": null,
@@ -1694,13 +1694,13 @@
     {
       "fixture": {
         "id": 1555041,
-        "referee": null,
+        "referee": "M. Odiet",
         "timezone": "UTC",
         "date": "2026-08-28T18:15:00+00:00",
         "timestamp": 1787940900,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1787940900,
+          "second": 1787944500
         },
         "venue": {
           "id": 4860,
@@ -1708,10 +1708,10 @@
           "city": "Carouge"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 4
         }
       },
       "league": {
@@ -1729,27 +1729,27 @@
           "id": 6654,
           "name": "Étoile Carouge",
           "logo": "https://media.api-sports.io/football/teams/6654.png",
-          "winner": null
+          "winner": true
         },
         "away": {
           "id": 2185,
           "name": "Rapperswil",
           "logo": "https://media.api-sports.io/football/teams/2185.png",
-          "winner": null
+          "winner": false
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 2,
+        "away": 1
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 1
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 1
         },
         "extratime": {
           "home": null,

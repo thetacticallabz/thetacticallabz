@@ -84,7 +84,7 @@
     {
       "fixture": {
         "id": 1576445,
-        "referee": "Jose Carlos Silva Campos Rodrigues, Portugal",
+        "referee": "J. Rodrigues",
         "timezone": "UTC",
         "date": "2026-08-08T13:00:00+00:00",
         "timestamp": 1786194000,
@@ -224,7 +224,7 @@
     {
       "fixture": {
         "id": 1576446,
-        "referee": "Luis Carlos Mateus Filipe, Portugal",
+        "referee": "L. Filipe",
         "timezone": "UTC",
         "date": "2026-08-09T10:00:00+00:00",
         "timestamp": 1786269600,
@@ -364,7 +364,7 @@
     {
       "fixture": {
         "id": 1576443,
-        "referee": "Goncalo Rafael dos Santos Neves, Portugal",
+        "referee": "G. Neves",
         "timezone": "UTC",
         "date": "2026-08-09T14:30:00+00:00",
         "timestamp": 1786285800,
@@ -434,7 +434,7 @@
     {
       "fixture": {
         "id": 1576440,
-        "referee": "Flavio Miguel Gomes Azevedo Duarte, Portugal",
+        "referee": "F. Azevedo Duarte",
         "timezone": "UTC",
         "date": "2026-08-09T14:30:00+00:00",
         "timestamp": 1786285800,
@@ -574,7 +574,7 @@
     {
       "fixture": {
         "id": 1576444,
-        "referee": "Anzhony Rodrigues, Portugal",
+        "referee": "A. Rodrigues",
         "timezone": "UTC",
         "date": "2026-08-10T17:00:00+00:00",
         "timestamp": 1786381200,
@@ -644,7 +644,7 @@
     {
       "fixture": {
         "id": 1576449,
-        "referee": "João Pedro Afonso, Portugal",
+        "referee": "J. P. Costa Teixeira Afonso",
         "timezone": "UTC",
         "date": "2026-08-14T17:00:00+00:00",
         "timestamp": 1786726800,
@@ -654,7 +654,7 @@
         },
         "venue": {
           "id": null,
-          "name": "Estádio Cidade de Coimbra",
+          "name": "Estadio EFAPEL Cidade de Coimbra",
           "city": "Coimbra"
         },
         "status": {
@@ -714,7 +714,7 @@
     {
       "fixture": {
         "id": 1576453,
-        "referee": "Flavio Jesus, Portugal",
+        "referee": "F. Jesus",
         "timezone": "UTC",
         "date": "2026-08-15T13:00:00+00:00",
         "timestamp": 1786798800,
@@ -854,7 +854,7 @@
     {
       "fixture": {
         "id": 1576457,
-        "referee": "Marcio Torres, Portugal",
+        "referee": "M. Torres",
         "timezone": "UTC",
         "date": "2026-08-15T17:00:00+00:00",
         "timestamp": 1786813200,
@@ -864,7 +864,7 @@
         },
         "venue": {
           "id": null,
-          "name": "Estádio Manuel Marques",
+          "name": "Estadio Manuel Marques",
           "city": "Torres Vedras"
         },
         "status": {
@@ -924,7 +924,7 @@
     {
       "fixture": {
         "id": 1576455,
-        "referee": "Helder Filipe Claudio Carvalho, Portugal",
+        "referee": "H. Carvalho",
         "timezone": "UTC",
         "date": "2026-08-16T10:00:00+00:00",
         "timestamp": 1786874400,
@@ -1274,7 +1274,7 @@
     {
       "fixture": {
         "id": 1576458,
-        "referee": "V. Ferreira",
+        "referee": "Vitor Ferreira, Portugal",
         "timezone": "UTC",
         "date": "2026-08-21T17:00:00+00:00",
         "timestamp": 1787331600,
@@ -1344,7 +1344,7 @@
     {
       "fixture": {
         "id": 1576465,
-        "referee": "Claudio Filipe Ruivo Pereira, Portugal",
+        "referee": "C. Pereira",
         "timezone": "UTC",
         "date": "2026-08-21T19:15:00+00:00",
         "timestamp": 1787339700,
@@ -1904,24 +1904,24 @@
     {
       "fixture": {
         "id": 1576472,
-        "referee": null,
+        "referee": "S. Guelho",
         "timezone": "UTC",
         "date": "2026-08-28T17:00:00+00:00",
         "timestamp": 1787936400,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1787936400,
+          "second": 1787940000
         },
         "venue": {
-          "id": null,
-          "name": null,
+          "id": 3514,
+          "name": "Estádio Dr. Magalhães Pessoa",
           "city": "Leiria"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 5
         }
       },
       "league": {
@@ -1939,27 +1939,27 @@
           "id": 4662,
           "name": "União de Leiria",
           "logo": "https://media.api-sports.io/football/teams/4662.png",
-          "winner": null
+          "winner": true
         },
         "away": {
           "id": 218,
           "name": "Tondela",
           "logo": "https://media.api-sports.io/football/teams/218.png",
-          "winner": null
+          "winner": false
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 2,
+        "away": 0
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 0
         },
         "extratime": {
           "home": null,
@@ -1974,23 +1974,23 @@
     {
       "fixture": {
         "id": 1576473,
-        "referee": null,
+        "referee": "I. Vasilica",
         "timezone": "UTC",
         "date": "2026-08-29T10:00:00+00:00",
         "timestamp": 1787997600,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1787997600,
+          "second": 1788001200
         },
         "venue": {
-          "id": null,
-          "name": null,
-          "city": null
+          "id": 1285,
+          "name": "Estádio Municipal de Portimão",
+          "city": "Portimão"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
           "extra": null
         }
       },
@@ -2009,27 +2009,27 @@
           "id": 216,
           "name": "Portimonense",
           "logo": "https://media.api-sports.io/football/teams/216.png",
-          "winner": null
+          "winner": false
         },
         "away": {
           "id": 244,
           "name": "Leixoes",
           "logo": "https://media.api-sports.io/football/teams/244.png",
-          "winner": null
+          "winner": true
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 0,
+        "away": 2
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 1
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 2
         },
         "extratime": {
           "home": null,
@@ -2044,23 +2044,23 @@
     {
       "fixture": {
         "id": 1576467,
-        "referee": null,
+        "referee": "Flavio Miguel Gomes Azevedo Duarte, Portugal",
         "timezone": "UTC",
         "date": "2026-08-29T13:00:00+00:00",
         "timestamp": 1788008400,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1788008400,
+          "second": 1788012000
         },
         "venue": {
           "id": null,
-          "name": "Estadio EFAPEL Cidade de Coimbra",
+          "name": "Estádio Cidade de Coimbra",
           "city": "Coimbra"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
           "extra": null
         }
       },
@@ -2079,27 +2079,27 @@
           "id": 239,
           "name": "Academica",
           "logo": "https://media.api-sports.io/football/teams/239.png",
-          "winner": null
+          "winner": false
         },
         "away": {
           "id": 6358,
           "name": "Lusitânia Lourosa",
           "logo": "https://media.api-sports.io/football/teams/6358.png",
-          "winner": null
+          "winner": true
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 0,
+        "away": 2
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 1
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 2
         },
         "extratime": {
           "home": null,
@@ -2114,13 +2114,13 @@
     {
       "fixture": {
         "id": 1576475,
-        "referee": null,
+        "referee": "P. Ramalho",
         "timezone": "UTC",
         "date": "2026-08-29T19:30:00+00:00",
         "timestamp": 1788031800,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1788031800,
+          "second": 1788035400
         },
         "venue": {
           "id": null,
@@ -2128,10 +2128,10 @@
           "city": "Torres Vedras"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 4
         }
       },
       "league": {
@@ -2149,27 +2149,27 @@
           "id": 4799,
           "name": "Torreense",
           "logo": "https://media.api-sports.io/football/teams/4799.png",
-          "winner": null
+          "winner": false
         },
         "away": {
           "id": 810,
           "name": "Vizela",
           "logo": "https://media.api-sports.io/football/teams/810.png",
-          "winner": null
+          "winner": true
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 0,
+        "away": 3
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 2
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 3
         },
         "extratime": {
           "home": null,
@@ -2184,13 +2184,13 @@
     {
       "fixture": {
         "id": 1576469,
-        "referee": null,
+        "referee": "M. Torres",
         "timezone": "UTC",
         "date": "2026-08-30T10:00:00+00:00",
         "timestamp": 1788084000,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1788084000,
+          "second": 1788087600
         },
         "venue": {
           "id": null,
@@ -2198,10 +2198,10 @@
           "city": "Amarante"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 7
         }
       },
       "league": {
@@ -2219,27 +2219,27 @@
           "id": 4725,
           "name": "Amarante",
           "logo": "https://media.api-sports.io/football/teams/4725.png",
-          "winner": null
+          "winner": true
         },
         "away": {
           "id": 229,
           "name": "Benfica B",
           "logo": "https://media.api-sports.io/football/teams/229.png",
-          "winner": null
+          "winner": false
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 1,
+        "away": 0
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 0
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 0
         },
         "extratime": {
           "home": null,
@@ -2254,24 +2254,24 @@
     {
       "fixture": {
         "id": 1576468,
-        "referee": null,
+        "referee": "Vitor Ferreira, Portugal",
         "timezone": "UTC",
         "date": "2026-08-30T13:00:00+00:00",
         "timestamp": 1788094800,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1788094800,
+          "second": 1788098400
         },
         "venue": {
           "id": null,
-          "name": null,
+          "name": "Estadio do CD das Aves",
           "city": "Vila das Aves"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 7
         }
       },
       "league": {
@@ -2289,27 +2289,27 @@
           "id": 21595,
           "name": "AVS",
           "logo": "https://media.api-sports.io/football/teams/21595.png",
-          "winner": null
+          "winner": true
         },
         "away": {
           "id": 213,
           "name": "Feirense",
           "logo": "https://media.api-sports.io/football/teams/213.png",
-          "winner": null
+          "winner": false
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 2,
+        "away": 0
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 0
         },
         "extratime": {
           "home": null,
@@ -2324,13 +2324,13 @@
     {
       "fixture": {
         "id": 1576470,
-        "referee": null,
+        "referee": "Goncalo Rafael dos Santos Neves, Portugal",
         "timezone": "UTC",
         "date": "2026-08-30T17:00:00+00:00",
         "timestamp": 1788109200,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1788109200,
+          "second": 1788112800
         },
         "venue": {
           "id": null,
@@ -2338,10 +2338,10 @@
           "city": "Vila Nova de Gaia"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 4
         }
       },
       "league": {
@@ -2359,27 +2359,27 @@
           "id": 243,
           "name": "FC Porto B",
           "logo": "https://media.api-sports.io/football/teams/243.png",
-          "winner": null
+          "winner": false
         },
         "away": {
           "id": 235,
           "name": "Penafiel",
           "logo": "https://media.api-sports.io/football/teams/235.png",
-          "winner": null
+          "winner": true
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 0,
+        "away": 3
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 2
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 3
         },
         "extratime": {
           "home": null,
@@ -2394,13 +2394,13 @@
     {
       "fixture": {
         "id": 1576474,
-        "referee": null,
+        "referee": "Diogo Teixeira Araujo, Portugal",
         "timezone": "UTC",
         "date": "2026-08-30T17:00:00+00:00",
         "timestamp": 1788109200,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1788109200,
+          "second": 1788112800
         },
         "venue": {
           "id": 2812,
@@ -2408,10 +2408,10 @@
           "city": "Alcochete"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 11
         }
       },
       "league": {
@@ -2429,27 +2429,27 @@
           "id": 761,
           "name": "Sporting CP B",
           "logo": "https://media.api-sports.io/football/teams/761.png",
-          "winner": null
+          "winner": true
         },
         "away": {
           "id": 231,
           "name": "Farense",
           "logo": "https://media.api-sports.io/football/teams/231.png",
-          "winner": null
+          "winner": false
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 2,
+        "away": 1
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 0
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 1
         },
         "extratime": {
           "home": null,
@@ -2464,24 +2464,24 @@
     {
       "fixture": {
         "id": 1576471,
-        "referee": null,
+        "referee": "Luis Carlos Mateus Filipe, Portugal",
         "timezone": "UTC",
         "date": "2026-08-30T17:00:00+00:00",
         "timestamp": 1788109200,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1788109200,
+          "second": 1788112800
         },
         "venue": {
           "id": null,
-          "name": "Stadion Dr. Machado de Matos",
-          "city": "Felgueiras"
+          "name": "Estádio Dr. Machado de Matos",
+          "city": "Porto"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 8
         }
       },
       "league": {
@@ -2499,97 +2499,27 @@
           "id": 4744,
           "name": "Felgueiras 1932",
           "logo": "https://media.api-sports.io/football/teams/4744.png",
-          "winner": null
+          "winner": true
         },
         "away": {
           "id": 223,
           "name": "Chaves",
           "logo": "https://media.api-sports.io/football/teams/223.png",
-          "winner": null
+          "winner": false
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 2,
+        "away": 1
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 0
         },
         "fulltime": {
-          "home": null,
-          "away": null
-        },
-        "extratime": {
-          "home": null,
-          "away": null
-        },
-        "penalty": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "fixture": {
-        "id": 1576477,
-        "referee": null,
-        "timezone": "UTC",
-        "date": "2026-09-06T15:00:00+00:00",
-        "timestamp": 1788706800,
-        "periods": {
-          "first": null,
-          "second": null
-        },
-        "venue": {
-          "id": 1277,
-          "name": "Estadio Marcolino de Castro",
-          "city": "Santa Maria da Feira"
-        },
-        "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
-        }
-      },
-      "league": {
-        "id": 95,
-        "name": "Segunda Liga",
-        "country": "Portugal",
-        "logo": "https://media.api-sports.io/football/leagues/95.png",
-        "flag": "https://media.api-sports.io/flags/pt.svg",
-        "season": 2026,
-        "round": "Regular Season - 5",
-        "standings": true
-      },
-      "teams": {
-        "home": {
-          "id": 213,
-          "name": "Feirense",
-          "logo": "https://media.api-sports.io/football/teams/213.png",
-          "winner": null
-        },
-        "away": {
-          "id": 761,
-          "name": "Sporting CP B",
-          "logo": "https://media.api-sports.io/football/teams/761.png",
-          "winner": null
-        }
-      },
-      "goals": {
-        "home": null,
-        "away": null
-      },
-      "score": {
-        "halftime": {
-          "home": null,
-          "away": null
-        },
-        "fulltime": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 1
         },
         "extratime": {
           "home": null,
@@ -2606,8 +2536,8 @@
         "id": 1576483,
         "referee": null,
         "timezone": "UTC",
-        "date": "2026-09-06T15:00:00+00:00",
-        "timestamp": 1788706800,
+        "date": "2026-09-05T10:00:00+00:00",
+        "timestamp": 1788602400,
         "periods": {
           "first": null,
           "second": null
@@ -2673,151 +2603,11 @@
     },
     {
       "fixture": {
-        "id": 1576476,
-        "referee": null,
-        "timezone": "UTC",
-        "date": "2026-09-06T15:00:00+00:00",
-        "timestamp": 1788706800,
-        "periods": {
-          "first": null,
-          "second": null
-        },
-        "venue": {
-          "id": null,
-          "name": "Benfica Campus",
-          "city": "Seixal"
-        },
-        "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
-        }
-      },
-      "league": {
-        "id": 95,
-        "name": "Segunda Liga",
-        "country": "Portugal",
-        "logo": "https://media.api-sports.io/football/leagues/95.png",
-        "flag": "https://media.api-sports.io/flags/pt.svg",
-        "season": 2026,
-        "round": "Regular Season - 5",
-        "standings": true
-      },
-      "teams": {
-        "home": {
-          "id": 229,
-          "name": "Benfica B",
-          "logo": "https://media.api-sports.io/football/teams/229.png",
-          "winner": null
-        },
-        "away": {
-          "id": 4799,
-          "name": "Torreense",
-          "logo": "https://media.api-sports.io/football/teams/4799.png",
-          "winner": null
-        }
-      },
-      "goals": {
-        "home": null,
-        "away": null
-      },
-      "score": {
-        "halftime": {
-          "home": null,
-          "away": null
-        },
-        "fulltime": {
-          "home": null,
-          "away": null
-        },
-        "extratime": {
-          "home": null,
-          "away": null
-        },
-        "penalty": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "fixture": {
-        "id": 1576482,
-        "referee": null,
-        "timezone": "UTC",
-        "date": "2026-09-06T15:00:00+00:00",
-        "timestamp": 1788706800,
-        "periods": {
-          "first": null,
-          "second": null
-        },
-        "venue": {
-          "id": null,
-          "name": null,
-          "city": "Faro"
-        },
-        "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
-        }
-      },
-      "league": {
-        "id": 95,
-        "name": "Segunda Liga",
-        "country": "Portugal",
-        "logo": "https://media.api-sports.io/football/leagues/95.png",
-        "flag": "https://media.api-sports.io/flags/pt.svg",
-        "season": 2026,
-        "round": "Regular Season - 5",
-        "standings": true
-      },
-      "teams": {
-        "home": {
-          "id": 231,
-          "name": "Farense",
-          "logo": "https://media.api-sports.io/football/teams/231.png",
-          "winner": null
-        },
-        "away": {
-          "id": 223,
-          "name": "Chaves",
-          "logo": "https://media.api-sports.io/football/teams/223.png",
-          "winner": null
-        }
-      },
-      "goals": {
-        "home": null,
-        "away": null
-      },
-      "score": {
-        "halftime": {
-          "home": null,
-          "away": null
-        },
-        "fulltime": {
-          "home": null,
-          "away": null
-        },
-        "extratime": {
-          "home": null,
-          "away": null
-        },
-        "penalty": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "fixture": {
         "id": 1576481,
         "referee": null,
         "timezone": "UTC",
-        "date": "2026-09-06T15:00:00+00:00",
-        "timestamp": 1788706800,
+        "date": "2026-09-05T13:00:00+00:00",
+        "timestamp": 1788613200,
         "periods": {
           "first": null,
           "second": null
@@ -2883,19 +2673,19 @@
     },
     {
       "fixture": {
-        "id": 1576479,
+        "id": 1576477,
         "referee": null,
         "timezone": "UTC",
-        "date": "2026-09-06T15:00:00+00:00",
-        "timestamp": 1788706800,
+        "date": "2026-09-05T14:30:00+00:00",
+        "timestamp": 1788618600,
         "periods": {
           "first": null,
           "second": null
         },
         "venue": {
-          "id": null,
-          "name": null,
-          "city": "Matosinhos"
+          "id": 1277,
+          "name": "Estadio Marcolino de Castro",
+          "city": "Santa Maria da Feira"
         },
         "status": {
           "long": "Not Started",
@@ -2916,15 +2706,85 @@
       },
       "teams": {
         "home": {
-          "id": 244,
-          "name": "Leixoes",
-          "logo": "https://media.api-sports.io/football/teams/244.png",
+          "id": 213,
+          "name": "Feirense",
+          "logo": "https://media.api-sports.io/football/teams/213.png",
           "winner": null
         },
         "away": {
-          "id": 4725,
-          "name": "Amarante",
-          "logo": "https://media.api-sports.io/football/teams/4725.png",
+          "id": 761,
+          "name": "Sporting CP B",
+          "logo": "https://media.api-sports.io/football/teams/761.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1576476,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2026-09-05T14:30:00+00:00",
+        "timestamp": 1788618600,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": null,
+          "name": "Benfica Campus",
+          "city": "Seixal"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 95,
+        "name": "Segunda Liga",
+        "country": "Portugal",
+        "logo": "https://media.api-sports.io/football/leagues/95.png",
+        "flag": "https://media.api-sports.io/flags/pt.svg",
+        "season": 2026,
+        "round": "Regular Season - 5",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 229,
+          "name": "Benfica B",
+          "logo": "https://media.api-sports.io/football/teams/229.png",
+          "winner": null
+        },
+        "away": {
+          "id": 4799,
+          "name": "Torreense",
+          "logo": "https://media.api-sports.io/football/teams/4799.png",
           "winner": null
         }
       },
@@ -2956,8 +2816,8 @@
         "id": 1576484,
         "referee": null,
         "timezone": "UTC",
-        "date": "2026-09-06T15:00:00+00:00",
-        "timestamp": 1788706800,
+        "date": "2026-09-06T10:00:00+00:00",
+        "timestamp": 1788688800,
         "periods": {
           "first": null,
           "second": null
@@ -3023,11 +2883,151 @@
     },
     {
       "fixture": {
+        "id": 1576482,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2026-09-06T13:00:00+00:00",
+        "timestamp": 1788699600,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": null,
+          "name": null,
+          "city": "Faro"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 95,
+        "name": "Segunda Liga",
+        "country": "Portugal",
+        "logo": "https://media.api-sports.io/football/leagues/95.png",
+        "flag": "https://media.api-sports.io/flags/pt.svg",
+        "season": 2026,
+        "round": "Regular Season - 5",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 231,
+          "name": "Farense",
+          "logo": "https://media.api-sports.io/football/teams/231.png",
+          "winner": null
+        },
+        "away": {
+          "id": 223,
+          "name": "Chaves",
+          "logo": "https://media.api-sports.io/football/teams/223.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1576479,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2026-09-06T14:30:00+00:00",
+        "timestamp": 1788705000,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": null,
+          "name": null,
+          "city": "Matosinhos"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 95,
+        "name": "Segunda Liga",
+        "country": "Portugal",
+        "logo": "https://media.api-sports.io/football/leagues/95.png",
+        "flag": "https://media.api-sports.io/flags/pt.svg",
+        "season": 2026,
+        "round": "Regular Season - 5",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 244,
+          "name": "Leixoes",
+          "logo": "https://media.api-sports.io/football/teams/244.png",
+          "winner": null
+        },
+        "away": {
+          "id": 4725,
+          "name": "Amarante",
+          "logo": "https://media.api-sports.io/football/teams/4725.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
         "id": 1576478,
         "referee": null,
         "timezone": "UTC",
-        "date": "2026-09-06T15:00:00+00:00",
-        "timestamp": 1788706800,
+        "date": "2026-09-06T17:00:00+00:00",
+        "timestamp": 1788714000,
         "periods": {
           "first": null,
           "second": null
@@ -3096,8 +3096,8 @@
         "id": 1576480,
         "referee": null,
         "timezone": "UTC",
-        "date": "2026-09-06T15:00:00+00:00",
-        "timestamp": 1788706800,
+        "date": "2026-09-07T17:00:00+00:00",
+        "timestamp": 1788800400,
         "periods": {
           "first": null,
           "second": null
