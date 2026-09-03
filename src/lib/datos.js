@@ -37,11 +37,12 @@ function esJugado(partido) {
  * Si no hay datos descargados para esa liga, devuelve un array vacío.
  */
 export async function equiposDeLiga(liga) {
-  const [standings, fixtures, scorers, assists] = await Promise.all([
+  const [standings, fixtures, scorers, assists, players] = await Promise.all([
     leerJson('standings', liga.slug),
     leerJson('fixtures', liga.slug),
     leerJson('scorers', liga.slug),
     leerJson('assists', liga.slug),
+    leerJson('players', liga.slug),
   ]);
 
   // La API anida la tabla en response[0].league.standings[0]. Algunas
@@ -62,6 +63,7 @@ export async function equiposDeLiga(liga) {
       if (!valor) continue;
       if (!mapa.has(equipoId)) mapa.set(equipoId, []);
       mapa.get(equipoId).push({
+        id: entrada?.player?.id ?? null,
         nombre: entrada?.player?.name ?? '—',
         valor,
         partidos: est?.games?.appearences ?? null,
@@ -72,6 +74,19 @@ export async function equiposDeLiga(liga) {
 
   const goleadoresPorEquipo = jugadoresPorEquipo(scorers, 'goles');
   const asistentesPorEquipo = jugadoresPorEquipo(assists, 'asistencias');
+
+  // Plantilla por equipo (data/players/<liga>.json). Si un jugador de la
+  // plantilla también aparece en scorers/assists, le añadimos sus cifras aquí
+  // — sin petición extra, es el mismo dato que ya teníamos para otra sección.
+  const plantillaPorEquipo = new Map();
+  for (const entrada of players?.response ?? []) {
+    const equipoId = entrada?.team?.id;
+    if (!equipoId) continue;
+    plantillaPorEquipo.set(equipoId, entrada.players ?? []);
+  }
+
+  const buscarPorId = (mapa, equipoId, jugadorId) =>
+    (mapa.get(equipoId) ?? []).find((j) => j.id === jugadorId) ?? null;
 
   return filas.map((fila) => {
     const equipoId = fila?.team?.id;
@@ -125,6 +140,18 @@ export async function equiposDeLiga(liga) {
       proximos: pendientes.slice(0, 3),
       goleadores: ordenarPorValor(goleadoresPorEquipo.get(equipoId)).slice(0, 5),
       asistentes: ordenarPorValor(asistentesPorEquipo.get(equipoId)).slice(0, 5),
+      plantilla: (plantillaPorEquipo.get(equipoId) ?? [])
+        .map((j) => ({
+          id: j.id,
+          nombre: j.name,
+          edad: j.age ?? null,
+          dorsal: j.number ?? null,
+          posicion: j.position ?? null,
+          foto: j.photo ?? null,
+          goles: buscarPorId(goleadoresPorEquipo, equipoId, j.id)?.valor ?? null,
+          asistencias: buscarPorId(asistentesPorEquipo, equipoId, j.id)?.valor ?? null,
+        }))
+        .sort((a, b) => (a.dorsal ?? 99) - (b.dorsal ?? 99)),
     };
   });
 }

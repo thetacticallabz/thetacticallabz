@@ -44,6 +44,22 @@ const fmtFecha = (iso: string) =>
 
 const descripcion = `${equipo.nombre}: posición, racha, últimos resultados, próximos partidos y goleadores en ${liga.nombre}.`;
 
+const ORDEN_POSICION = ['Goalkeeper', 'Defender', 'Midfielder', 'Attacker'];
+const ETIQUETA_POSICION: Record<string, string> = {
+  Goalkeeper: 'Porteros',
+  Defender: 'Defensas',
+  Midfielder: 'Centrocampistas',
+  Attacker: 'Delanteros',
+};
+const plantillaGrupos = ORDEN_POSICION.map((pos) => ({
+  pos,
+  etiqueta: ETIQUETA_POSICION[pos],
+  jugadores: (equipo.plantilla ?? []).filter((j: any) => j.posicion === pos),
+})).filter((g) => g.jugadores.length > 0);
+const plantillaSinPosicion = (equipo.plantilla ?? []).filter(
+  (j: any) => !ORDEN_POSICION.includes(j.posicion)
+);
+
 const structuredData = {
   '@context': 'https://schema.org',
   '@type': 'SportsTeam',
@@ -239,6 +255,52 @@ const structuredData = {
     </section>
   )}
 
+  {equipo.plantilla && equipo.plantilla.length > 0 && (
+    <section class="bloque">
+      <h2>Plantilla</h2>
+      <div class="dos-columnas">
+        {
+          plantillaGrupos.map((g: any) => (
+            <div>
+              <h3>{g.etiqueta}</h3>
+              <ul class="jugadores plantilla-lista">
+                {
+                  g.jugadores.map((j: any) => (
+                    <li>
+                      <span class="plantilla-nombre">
+                        {j.dorsal && <span class="muted dorsal">{j.dorsal}</span>} {j.nombre}
+                        {j.edad && <span class="muted"> · {j.edad} años</span>}
+                      </span>
+                      {
+                        (j.goles || j.asistencias) && (
+                          <strong class="plantilla-cifras">
+                            {j.goles ? `${j.goles}g` : ''}{j.goles && j.asistencias ? ' · ' : ''}{j.asistencias ? `${j.asistencias}a` : ''}
+                          </strong>
+                        )
+                      }
+                    </li>
+                  ))
+                }
+              </ul>
+            </div>
+          ))
+        }
+        {plantillaSinPosicion.length > 0 && (
+          <div>
+            <h3>Sin posición confirmada</h3>
+            <ul class="jugadores plantilla-lista">
+              {
+                plantillaSinPosicion.map((j: any) => (
+                  <li><span class="plantilla-nombre">{j.nombre}</span></li>
+                ))
+              }
+            </ul>
+          </div>
+        )}
+      </div>
+    </section>
+  )}
+
   {articulos.length > 0 && (
     <section class="bloque">
       <h2>Lo que hemos escrito sobre este equipo</h2>
@@ -425,6 +487,16 @@ const structuredData = {
   }
 
   .jugadores strong { font-variant-numeric: tabular-nums; color: var(--color-accent); }
+
+  .plantilla-lista li { align-items: baseline; }
+  .plantilla-nombre { flex: 1; }
+  .dorsal {
+    display: inline-block;
+    min-width: 1.4rem;
+    font-variant-numeric: tabular-nums;
+    font-family: var(--font-mono);
+  }
+  .plantilla-cifras { white-space: nowrap; }
 
   .table-scroll { overflow-x: auto; }
 

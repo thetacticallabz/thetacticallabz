@@ -1,0 +1,40 @@
+name: Descargar plantillas de jugadores
+
+on:
+  workflow_dispatch:
+    inputs:
+      alcance:
+        description: 'Una liga (slug exacto de config/leagues.json) o "todas"'
+        required: true
+        default: 'todas'
+
+permissions:
+  contents: write
+
+jobs:
+  plantillas:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Descargar plantillas
+        env:
+          API_FOOTBALL_KEY: ${{ secrets.API_FOOTBALL_KEY }}
+        run: |
+          if [ "${{ inputs.alcance }}" = "todas" ]; then
+            node scripts/fetch-players.mjs --all
+          else
+            node scripts/fetch-players.mjs --slug "${{ inputs.alcance }}"
+          fi
+
+      - name: Guardar las plantillas descargadas
+        run: |
+          git config user.name "tactical-labz-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add data/players/
+          git diff --cached --quiet || git commit -m "Descargar plantillas de jugadores"
+          git push
