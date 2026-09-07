@@ -84,7 +84,7 @@
     {
       "fixture": {
         "id": 1601501,
-        "referee": "Maria Sole Ferrieri Caputi, Italy",
+        "referee": "M. Caputi",
         "timezone": "UTC",
         "date": "2026-08-22T17:00:00+00:00",
         "timestamp": 1787418000,
@@ -94,8 +94,8 @@
         },
         "venue": {
           "id": null,
-          "name": "Stadio Druso",
-          "city": "Bozen"
+          "name": "Stadio Marco Druso",
+          "city": "Bolzano"
         },
         "status": {
           "long": "Match Finished",
@@ -224,7 +224,7 @@
     {
       "fixture": {
         "id": 1601494,
-        "referee": "Edoardo Manedo Mazzoni, Italy",
+        "referee": "E. Manedo Mazzoni",
         "timezone": "UTC",
         "date": "2026-08-22T19:00:00+00:00",
         "timestamp": 1787425200,
@@ -434,7 +434,7 @@
     {
       "fixture": {
         "id": 1601502,
-        "referee": "Maco Di Loreto, Italy",
+        "referee": "M. Di Loreto",
         "timezone": "UTC",
         "date": "2026-08-23T17:00:00+00:00",
         "timestamp": 1787504400,
@@ -504,7 +504,7 @@
     {
       "fixture": {
         "id": 1601500,
-        "referee": "Mario Perri, Italy",
+        "referee": "M. Perri",
         "timezone": "UTC",
         "date": "2026-08-23T17:00:00+00:00",
         "timestamp": 1787504400,
@@ -574,7 +574,7 @@
     {
       "fixture": {
         "id": 1601496,
-        "referee": "Juan Luca Sacchi, Italy",
+        "referee": "J. L. Sacchi",
         "timezone": "UTC",
         "date": "2026-08-23T19:00:00+00:00",
         "timestamp": 1787511600,
@@ -714,7 +714,7 @@
     {
       "fixture": {
         "id": 1601507,
-        "referee": "Antonio Rapuano, Italy",
+        "referee": "A. Rapuano",
         "timezone": "UTC",
         "date": "2026-08-28T18:30:00+00:00",
         "timestamp": 1787941800,
@@ -1074,7 +1074,7 @@
         },
         "venue": {
           "id": 2764,
-          "name": "Stadio Comunale Euganeo",
+          "name": "Stadio Euganeo",
           "city": "Padova"
         },
         "status": {
@@ -1144,7 +1144,7 @@
         },
         "venue": {
           "id": 875,
-          "name": "Stadio Città di Arezzo",
+          "name": "Citta di Arezzo",
           "city": "Arezzo"
         },
         "status": {
@@ -1414,7 +1414,7 @@
     {
       "fixture": {
         "id": 1601521,
-        "referee": null,
+        "referee": "E. Manedo Mazzoni",
         "timezone": "UTC",
         "date": "2026-09-05T13:00:00+00:00",
         "timestamp": 1788613200,
@@ -1428,9 +1428,9 @@
           "city": "Bolzano"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
           "extra": null
         }
       },
@@ -1449,27 +1449,27 @@
           "id": 1578,
           "name": "Sudtirol",
           "logo": "https://media.api-sports.io/football/teams/1578.png",
-          "winner": null
+          "winner": true
         },
         "away": {
           "id": 1687,
           "name": "Catanzaro",
           "logo": "https://media.api-sports.io/football/teams/1687.png",
-          "winner": null
+          "winner": false
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 2,
+        "away": 0
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 0
         },
         "extratime": {
           "home": null,
@@ -1484,7 +1484,7 @@
     {
       "fixture": {
         "id": 1601513,
-        "referee": null,
+        "referee": "G. Ayroldi",
         "timezone": "UTC",
         "date": "2026-09-05T15:15:00+00:00",
         "timestamp": 1788621300,
@@ -1498,9 +1498,9 @@
           "city": "Ascoli Piceno"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
           "extra": null
         }
       },
@@ -1519,27 +1519,27 @@
           "id": 507,
           "name": "Ascoli",
           "logo": "https://media.api-sports.io/football/teams/507.png",
-          "winner": null
+          "winner": true
         },
         "away": {
           "id": 506,
           "name": "Benevento",
           "logo": "https://media.api-sports.io/football/teams/506.png",
-          "winner": null
+          "winner": false
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 1,
+        "away": 0
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 0
         },
         "extratime": {
           "home": null,
@@ -1554,7 +1554,7 @@
     {
       "fixture": {
         "id": 1601514,
-        "referee": null,
+        "referee": "G. Mucera",
         "timezone": "UTC",
         "date": "2026-09-05T17:30:00+00:00",
         "timestamp": 1788629400,
@@ -1568,9 +1568,9 @@
           "city": "Carrara"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
           "extra": null
         }
       },
@@ -1589,27 +1589,27 @@
           "id": 1581,
           "name": "Carrarese",
           "logo": "https://media.api-sports.io/football/teams/1581.png",
-          "winner": null
+          "winner": false
         },
         "away": {
           "id": 511,
           "name": "Empoli",
           "logo": "https://media.api-sports.io/football/teams/511.png",
-          "winner": null
+          "winner": true
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 0,
+        "away": 1
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 1
         },
         "extratime": {
           "home": null,
@@ -1624,7 +1624,7 @@
     {
       "fixture": {
         "id": 1601515,
-        "referee": null,
+        "referee": "M. Drigo",
         "timezone": "UTC",
         "date": "2026-09-06T13:00:00+00:00",
         "timestamp": 1788699600,
@@ -1638,9 +1638,9 @@
           "city": "Cesena"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
           "extra": null
         }
       },
@@ -1669,17 +1669,17 @@
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 1,
+        "away": 1
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 1
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 1
         },
         "extratime": {
           "home": null,
@@ -1694,7 +1694,7 @@
     {
       "fixture": {
         "id": 1601517,
-        "referee": null,
+        "referee": "K. Bonacina",
         "timezone": "UTC",
         "date": "2026-09-06T13:00:00+00:00",
         "timestamp": 1788699600,
@@ -1708,9 +1708,9 @@
           "city": "Chiavari"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
           "extra": null
         }
       },
@@ -1739,17 +1739,17 @@
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 2,
+        "away": 2
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 1
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 2
         },
         "extratime": {
           "home": null,
@@ -1764,7 +1764,7 @@
     {
       "fixture": {
         "id": 1601518,
-        "referee": null,
+        "referee": "A. Calzavara",
         "timezone": "UTC",
         "date": "2026-09-06T13:00:00+00:00",
         "timestamp": 1788699600,
@@ -1778,9 +1778,9 @@
           "city": "Castellammare di Stabia"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
           "extra": null
         }
       },
@@ -1799,27 +1799,27 @@
           "id": 863,
           "name": "Juve Stabia",
           "logo": "https://media.api-sports.io/football/teams/863.png",
-          "winner": null
+          "winner": false
         },
         "away": {
           "id": 801,
           "name": "Pisa",
           "logo": "https://media.api-sports.io/football/teams/801.png",
-          "winner": null
+          "winner": true
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 0,
+        "away": 3
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 1
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 3
         },
         "extratime": {
           "home": null,
@@ -1834,7 +1834,7 @@
     {
       "fixture": {
         "id": 1601519,
-        "referee": null,
+        "referee": "M. Di Loreto",
         "timezone": "UTC",
         "date": "2026-09-06T13:00:00+00:00",
         "timestamp": 1788699600,
@@ -1848,9 +1848,9 @@
           "city": "Modena"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
           "extra": null
         }
       },
@@ -1869,27 +1869,27 @@
           "id": 899,
           "name": "Modena",
           "logo": "https://media.api-sports.io/football/teams/899.png",
-          "winner": null
+          "winner": false
         },
         "away": {
           "id": 528,
           "name": "Avellino",
           "logo": "https://media.api-sports.io/football/teams/528.png",
-          "winner": null
+          "winner": true
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 0,
+        "away": 1
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 1
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 1
         },
         "extratime": {
           "home": null,
@@ -1904,7 +1904,7 @@
     {
       "fixture": {
         "id": 1601522,
-        "referee": null,
+        "referee": "L. Zufferli",
         "timezone": "UTC",
         "date": "2026-09-06T15:15:00+00:00",
         "timestamp": 1788707700,
@@ -1918,9 +1918,9 @@
           "city": "Verona"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
           "extra": null
         }
       },
@@ -1939,27 +1939,27 @@
           "id": 504,
           "name": "Hellas Verona",
           "logo": "https://media.api-sports.io/football/teams/504.png",
-          "winner": null
+          "winner": true
         },
         "away": {
           "id": 876,
           "name": "Arezzo",
           "logo": "https://media.api-sports.io/football/teams/876.png",
-          "winner": null
+          "winner": false
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 5,
+        "away": 0
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 5,
+          "away": 0
         },
         "extratime": {
           "home": null,
@@ -1974,7 +1974,7 @@
     {
       "fixture": {
         "id": 1601516,
-        "referee": null,
+        "referee": "G. Manganiello",
         "timezone": "UTC",
         "date": "2026-09-06T17:30:00+00:00",
         "timestamp": 1788715800,
@@ -1988,9 +1988,9 @@
           "city": "Cremona"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
           "extra": null
         }
       },
@@ -2009,27 +2009,27 @@
           "id": 520,
           "name": "Cremonese",
           "logo": "https://media.api-sports.io/football/teams/520.png",
-          "winner": null
+          "winner": true
         },
         "away": {
           "id": 870,
           "name": "Padova",
           "logo": "https://media.api-sports.io/football/teams/870.png",
-          "winner": null
+          "winner": false
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 3,
+        "away": 1
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 1
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 3,
+          "away": 1
         },
         "extratime": {
           "home": null,
@@ -2044,7 +2044,7 @@
     {
       "fixture": {
         "id": 1601520,
-        "referee": null,
+        "referee": "M. Marchetti",
         "timezone": "UTC",
         "date": "2026-09-07T18:30:00+00:00",
         "timestamp": 1788805800,

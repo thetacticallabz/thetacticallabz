@@ -49,27 +49,27 @@
           "id": 2330,
           "name": "Coquimbo Unido",
           "logo": "https://media.api-sports.io/football/teams/2330.png",
-          "winner": null
+          "winner": false
         },
         "away": {
           "id": 2328,
           "name": "Huachipato",
           "logo": "https://media.api-sports.io/football/teams/2328.png",
-          "winner": null
+          "winner": true
         }
       },
       "goals": {
         "home": 0,
-        "away": 0
+        "away": 1
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 1
         },
         "extratime": {
           "home": null,
@@ -84,7 +84,7 @@
     {
       "fixture": {
         "id": 1505353,
-        "referee": "G. Philippe",
+        "referee": "Gaston Philippe, Chile",
         "timezone": "UTC",
         "date": "2026-01-30T23:00:00+00:00",
         "timestamp": 1769814000,
@@ -224,7 +224,7 @@
     {
       "fixture": {
         "id": 1505354,
-        "referee": "H. J. Gamboa",
+        "referee": "Hector Jona, Chile",
         "timezone": "UTC",
         "date": "2026-01-31T18:30:00+00:00",
         "timestamp": 1769884200,
@@ -294,7 +294,7 @@
     {
       "fixture": {
         "id": 1505347,
-        "referee": "M. H. Assadi Quintana",
+        "referee": "Matias Assadi, Chile",
         "timezone": "UTC",
         "date": "2026-01-31T21:00:00+00:00",
         "timestamp": 1769893200,
@@ -304,7 +304,7 @@
         },
         "venue": {
           "id": null,
-          "name": "Estadio El Cobre de El Salvador",
+          "name": "El Cobre",
           "city": "El Salvador"
         },
         "status": {
@@ -434,7 +434,7 @@
     {
       "fixture": {
         "id": 1505352,
-        "referee": "M. Salvo",
+        "referee": "Mario Salvo Sepulveda, Chile",
         "timezone": "UTC",
         "date": "2026-02-01T23:30:00+00:00",
         "timestamp": 1769988600,
@@ -504,7 +504,7 @@
     {
       "fixture": {
         "id": 1505349,
-        "referee": "N. Millas",
+        "referee": "Nicolas Millas, Chile",
         "timezone": "UTC",
         "date": "2026-02-02T21:00:00+00:00",
         "timestamp": 1770066000,
@@ -644,7 +644,7 @@
     {
       "fixture": {
         "id": 1505355,
-        "referee": "M. Riquelme",
+        "referee": "Mathias Riquelme, Chile",
         "timezone": "UTC",
         "date": "2026-02-06T23:00:00+00:00",
         "timestamp": 1770418800,
@@ -654,8 +654,8 @@
         },
         "venue": {
           "id": null,
-          "name": "Estadio Bicentenario de La Florida",
-          "city": "Santiago de Chile"
+          "name": "Estadio Bicentenario Municipal de La Florida",
+          "city": "Santiago"
         },
         "status": {
           "long": "Match Finished",
@@ -714,7 +714,7 @@
     {
       "fixture": {
         "id": 1505357,
-        "referee": "F. Vejar",
+        "referee": "Fernando Andre Vejar Diaz, Chile",
         "timezone": "UTC",
         "date": "2026-02-07T15:00:00+00:00",
         "timestamp": 1770476400,
@@ -854,7 +854,7 @@
     {
       "fixture": {
         "id": 1505356,
-        "referee": "J. Lara",
+        "referee": "Juan Ignacio Lara Luco, Chile",
         "timezone": "UTC",
         "date": "2026-02-07T23:30:00+00:00",
         "timestamp": 1770507000,
@@ -924,7 +924,7 @@
     {
       "fixture": {
         "id": 1505358,
-        "referee": "R. Farias",
+        "referee": "Rodrigo Carvajal Molina, Chile",
         "timezone": "UTC",
         "date": "2026-02-08T15:00:00+00:00",
         "timestamp": 1770562800,
@@ -1064,7 +1064,7 @@
     {
       "fixture": {
         "id": 1505361,
-        "referee": "C. Garay",
+        "referee": "Cristian Garay, Chile",
         "timezone": "UTC",
         "date": "2026-02-08T23:30:00+00:00",
         "timestamp": 1770593400,
@@ -1075,7 +1075,7 @@
         "venue": {
           "id": null,
           "name": "Claro Arena",
-          "city": "Santiago de Chile"
+          "city": "Santiago"
         },
         "status": {
           "long": "Match Finished",
@@ -1134,7 +1134,7 @@
     {
       "fixture": {
         "id": 1505362,
-        "referee": "M. Vergara",
+        "referee": "Manuel Vergara, Chile",
         "timezone": "UTC",
         "date": "2026-02-09T23:00:00+00:00",
         "timestamp": 1770678000,
@@ -1274,7 +1274,7 @@
     {
       "fixture": {
         "id": 1505369,
-        "referee": "D. Flores",
+        "referee": "Diego Flores Seguel, Chile",
         "timezone": "UTC",
         "date": "2026-02-13T23:30:00+00:00",
         "timestamp": 1771025400,
@@ -1344,7 +1344,7 @@
     {
       "fixture": {
         "id": 1505366,
-        "referee": "C. Garay",
+        "referee": "Cristian Garay, Chile",
         "timezone": "UTC",
         "date": "2026-02-14T15:00:00+00:00",
         "timestamp": 1771081200,
@@ -1354,7 +1354,7 @@
         },
         "venue": {
           "id": null,
-          "name": "Estadio La Portada",
+          "name": "La Portada",
           "city": "La Serena"
         },
         "status": {
@@ -1414,7 +1414,7 @@
     {
       "fixture": {
         "id": 1505367,
-        "referee": "H. Jona",
+        "referee": "Hector Jona, Chile",
         "timezone": "UTC",
         "date": "2026-02-14T21:00:00+00:00",
         "timestamp": 1771102800,
@@ -1484,7 +1484,7 @@
     {
       "fixture": {
         "id": 1505363,
-        "referee": "J. Cabero",
+        "referee": "Jose Cabero Rebolledo, Chile",
         "timezone": "UTC",
         "date": "2026-02-14T23:30:00+00:00",
         "timestamp": 1771111800,
@@ -1494,7 +1494,7 @@
         },
         "venue": {
           "id": null,
-          "name": "Estadio El Cobre de El Salvador",
+          "name": "El Cobre",
           "city": "El Salvador"
         },
         "status": {
@@ -1554,7 +1554,7 @@
     {
       "fixture": {
         "id": 1505370,
-        "referee": "J. Lara",
+        "referee": "Juan Ignacio Lara Luco, Chile",
         "timezone": "UTC",
         "date": "2026-02-15T15:00:00+00:00",
         "timestamp": 1771167600,
@@ -1564,7 +1564,7 @@
         },
         "venue": {
           "id": null,
-          "name": "Estadio Ester Roa",
+          "name": "Municipal de Collao",
           "city": "Concepcion"
         },
         "status": {
@@ -1624,7 +1624,7 @@
     {
       "fixture": {
         "id": 1505368,
-        "referee": "P. Maza",
+        "referee": "Piero Maza, Chile",
         "timezone": "UTC",
         "date": "2026-02-15T21:00:00+00:00",
         "timestamp": 1771189200,
@@ -1634,7 +1634,7 @@
         },
         "venue": {
           "id": null,
-          "name": "Estadio Municipal Nelson Oyarzun Arenas",
+          "name": "Estadio Municipal Nelson Oyarzún Arenas",
           "city": "Chillan"
         },
         "status": {
@@ -1764,7 +1764,7 @@
     {
       "fixture": {
         "id": 1505378,
-        "referee": "N. Gamboa",
+        "referee": "Nicolas Gamboa, Chile",
         "timezone": "UTC",
         "date": "2026-02-20T21:00:00+00:00",
         "timestamp": 1771621200,
@@ -1834,7 +1834,7 @@
     {
       "fixture": {
         "id": 1505372,
-        "referee": "G. Philippe",
+        "referee": "Gaston Philippe, Chile",
         "timezone": "UTC",
         "date": "2026-02-20T23:30:00+00:00",
         "timestamp": 1771630200,
@@ -1844,7 +1844,7 @@
         },
         "venue": {
           "id": null,
-          "name": "Estadio Ester Roa",
+          "name": "Municipal de Collao",
           "city": "Concepcion"
         },
         "status": {
@@ -1904,7 +1904,7 @@
     {
       "fixture": {
         "id": 1505373,
-        "referee": "J. Lara",
+        "referee": "Juan Ignacio Lara Luco, Chile",
         "timezone": "UTC",
         "date": "2026-02-21T15:00:00+00:00",
         "timestamp": 1771686000,
@@ -1974,7 +1974,7 @@
     {
       "fixture": {
         "id": 1505375,
-        "referee": "M. Riquelme",
+        "referee": "Mathias Riquelme, Chile",
         "timezone": "UTC",
         "date": "2026-02-21T21:00:00+00:00",
         "timestamp": 1771707600,
@@ -2044,7 +2044,7 @@
     {
       "fixture": {
         "id": 1505376,
-        "referee": "F. Jimenez Lazo",
+        "referee": "Franco Esteban Jimenez Lazo, Chile",
         "timezone": "UTC",
         "date": "2026-02-21T23:30:00+00:00",
         "timestamp": 1771716600,
@@ -2055,7 +2055,7 @@
         "venue": {
           "id": null,
           "name": "Claro Arena",
-          "city": "Santiago de Chile"
+          "city": "Santiago"
         },
         "status": {
           "long": "Match Finished",
@@ -2324,7 +2324,7 @@
     {
       "fixture": {
         "id": 1505379,
-        "referee": "H. J. Gamboa",
+        "referee": "Hector Jona, Chile",
         "timezone": "UTC",
         "date": "2026-02-27T21:00:00+00:00",
         "timestamp": 1772226000,
@@ -2334,7 +2334,7 @@
         },
         "venue": {
           "id": null,
-          "name": "Estadio El Cobre de El Salvador",
+          "name": "El Cobre",
           "city": "El Salvador"
         },
         "status": {
@@ -2464,7 +2464,7 @@
     {
       "fixture": {
         "id": 1505381,
-        "referee": "D. Flores",
+        "referee": "Diego Flores Seguel, Chile",
         "timezone": "UTC",
         "date": "2026-02-28T15:00:00+00:00",
         "timestamp": 1772290800,
@@ -2604,7 +2604,7 @@
     {
       "fixture": {
         "id": 1505384,
-        "referee": "G. Philippe",
+        "referee": "Gaston Philippe, Chile",
         "timezone": "UTC",
         "date": "2026-02-28T23:30:00+00:00",
         "timestamp": 1772321400,
@@ -2674,7 +2674,7 @@
     {
       "fixture": {
         "id": 1505385,
-        "referee": "F. Gilabert",
+        "referee": "Francisco Gilabert, Chile",
         "timezone": "UTC",
         "date": "2026-03-01T15:00:00+00:00",
         "timestamp": 1772377200,
@@ -2684,7 +2684,7 @@
         },
         "venue": {
           "id": null,
-          "name": "Estadio Ester Roa",
+          "name": "Municipal de Collao",
           "city": "Concepcion"
         },
         "status": {
@@ -2814,7 +2814,7 @@
     {
       "fixture": {
         "id": 1505383,
-        "referee": "F. Vejar",
+        "referee": "Fernando Andre Vejar Diaz, Chile",
         "timezone": "UTC",
         "date": "2026-03-01T23:30:00+00:00",
         "timestamp": 1772407800,
@@ -2824,7 +2824,7 @@
         },
         "venue": {
           "id": null,
-          "name": "Estadio Municipal Nelson Oyarzun Arenas",
+          "name": "Estadio Municipal Nelson Oyarzún Arenas",
           "city": "Chillan"
         },
         "status": {
@@ -2884,7 +2884,7 @@
     {
       "fixture": {
         "id": 1505391,
-        "referee": "M. H. Assadi Quintana",
+        "referee": "Matias Assadi, Chile",
         "timezone": "UTC",
         "date": "2026-03-06T21:00:00+00:00",
         "timestamp": 1772830800,
@@ -2894,7 +2894,7 @@
         },
         "venue": {
           "id": null,
-          "name": "Estadio La Portada",
+          "name": "La Portada",
           "city": "La Serena"
         },
         "status": {
@@ -3024,7 +3024,7 @@
     {
       "fixture": {
         "id": 1505389,
-        "referee": "G. Philippe",
+        "referee": "Gaston Philippe, Chile",
         "timezone": "UTC",
         "date": "2026-03-07T15:00:00+00:00",
         "timestamp": 1772895600,
@@ -3094,7 +3094,7 @@
     {
       "fixture": {
         "id": 1505390,
-        "referee": "N. Gamboa",
+        "referee": "Nicolas Gamboa, Chile",
         "timezone": "UTC",
         "date": "2026-03-07T15:00:00+00:00",
         "timestamp": 1772895600,
@@ -3234,7 +3234,7 @@
     {
       "fixture": {
         "id": 1505392,
-        "referee": "J. Lara",
+        "referee": "Juan Ignacio Lara Luco, Chile",
         "timezone": "UTC",
         "date": "2026-03-07T23:30:00+00:00",
         "timestamp": 1772926200,
@@ -3304,7 +3304,7 @@
     {
       "fixture": {
         "id": 1505393,
-        "referee": "P. Maza",
+        "referee": "Piero Maza, Chile",
         "timezone": "UTC",
         "date": "2026-03-08T23:30:00+00:00",
         "timestamp": 1773012600,
@@ -3444,7 +3444,7 @@
     {
       "fixture": {
         "id": 1505395,
-        "referee": "N. Millas",
+        "referee": "Nicolas Millas, Chile",
         "timezone": "UTC",
         "date": "2026-03-13T23:00:00+00:00",
         "timestamp": 1773442800,
@@ -3454,8 +3454,8 @@
         },
         "venue": {
           "id": null,
-          "name": "Estadio Bicentenario de La Florida",
-          "city": "Santiago de Chile"
+          "name": "Estadio Bicentenario Municipal de La Florida",
+          "city": "Santiago"
         },
         "status": {
           "long": "Match Finished",
@@ -3514,7 +3514,7 @@
     {
       "fixture": {
         "id": 1505398,
-        "referee": "I. R. Sepulveda M.",
+        "referee": "Mathias Riquelme, Chile",
         "timezone": "UTC",
         "date": "2026-03-14T21:00:00+00:00",
         "timestamp": 1773522000,
@@ -3654,7 +3654,7 @@
     {
       "fixture": {
         "id": 1505401,
-        "referee": "C. Galaz",
+        "referee": "Cristian Galaz Sepulveda, Chile",
         "timezone": "UTC",
         "date": "2026-03-15T15:00:00+00:00",
         "timestamp": 1773586800,
@@ -3664,7 +3664,7 @@
         },
         "venue": {
           "id": null,
-          "name": "Estadio Ester Roa",
+          "name": "Municipal de Collao",
           "city": "Concepcion"
         },
         "status": {
@@ -3724,7 +3724,7 @@
     {
       "fixture": {
         "id": 1505396,
-        "referee": "M. Araos",
+        "referee": "Mathias Riquelme, Chile",
         "timezone": "UTC",
         "date": "2026-03-15T21:00:00+00:00",
         "timestamp": 1773608400,
@@ -3734,7 +3734,7 @@
         },
         "venue": {
           "id": null,
-          "name": "Estadio El Cobre de El Salvador",
+          "name": "El Cobre",
           "city": "El Salvador"
         },
         "status": {
@@ -3864,7 +3864,7 @@
     {
       "fixture": {
         "id": 1505402,
-        "referee": "M. Salvo",
+        "referee": "Mario Salvo Sepulveda, Chile",
         "timezone": "UTC",
         "date": "2026-03-16T21:00:00+00:00",
         "timestamp": 1773694800,
@@ -3934,7 +3934,7 @@
     {
       "fixture": {
         "id": 1505397,
-        "referee": "C. D. Mera",
+        "referee": "Claudio Diaz Mera, Chile",
         "timezone": "UTC",
         "date": "2026-03-16T23:30:00+00:00",
         "timestamp": 1773703800,
@@ -4074,7 +4074,7 @@
     {
       "fixture": {
         "id": 1505403,
-        "referee": "J. Cabero",
+        "referee": "Jose Cabero Rebolledo, Chile",
         "timezone": "UTC",
         "date": "2026-04-03T20:30:00+00:00",
         "timestamp": 1775248200,
@@ -4144,7 +4144,7 @@
     {
       "fixture": {
         "id": 1505408,
-        "referee": "J. Lara",
+        "referee": "Juan Ignacio Lara Luco, Chile",
         "timezone": "UTC",
         "date": "2026-04-03T23:00:00+00:00",
         "timestamp": 1775257200,
@@ -4214,7 +4214,7 @@
     {
       "fixture": {
         "id": 1505407,
-        "referee": "D. Flores",
+        "referee": "Diego Flores Seguel, Chile",
         "timezone": "UTC",
         "date": "2026-04-04T20:30:00+00:00",
         "timestamp": 1775334600,
@@ -4284,7 +4284,7 @@
     {
       "fixture": {
         "id": 1505405,
-        "referee": "P. Maza",
+        "referee": "Piero Maza, Chile",
         "timezone": "UTC",
         "date": "2026-04-04T23:00:00+00:00",
         "timestamp": 1775343600,
@@ -4354,7 +4354,7 @@
     {
       "fixture": {
         "id": 1505404,
-        "referee": "F. Jimenez Lazo",
+        "referee": "Franco Esteban Jimenez Lazo, Chile",
         "timezone": "UTC",
         "date": "2026-04-05T19:30:00+00:00",
         "timestamp": 1775417400,
@@ -4364,7 +4364,7 @@
         },
         "venue": {
           "id": null,
-          "name": "Estadio Ester Roa",
+          "name": "Municipal de Collao",
           "city": "Concepcion"
         },
         "status": {
@@ -4494,7 +4494,7 @@
     {
       "fixture": {
         "id": 1505406,
-        "referee": "F. Vejar",
+        "referee": "Fernando Andre Vejar Diaz, Chile",
         "timezone": "UTC",
         "date": "2026-04-07T00:00:00+00:00",
         "timestamp": 1775520000,
@@ -4564,7 +4564,7 @@
     {
       "fixture": {
         "id": 1505415,
-        "referee": "M. Vergara",
+        "referee": "Manuel Vergara, Chile",
         "timezone": "UTC",
         "date": "2026-04-11T00:00:00+00:00",
         "timestamp": 1775865600,
@@ -4704,7 +4704,7 @@
     {
       "fixture": {
         "id": 1505411,
-        "referee": "D. Flores",
+        "referee": "Diego Flores Seguel, Chile",
         "timezone": "UTC",
         "date": "2026-04-11T21:30:00+00:00",
         "timestamp": 1775943000,
@@ -4714,8 +4714,8 @@
         },
         "venue": {
           "id": null,
-          "name": "Estadio Bicentenario de La Florida",
-          "city": "Santiago de Chile"
+          "name": "Estadio Bicentenario Municipal de La Florida",
+          "city": "Santiago"
         },
         "status": {
           "long": "Match Finished",
@@ -4844,7 +4844,7 @@
     {
       "fixture": {
         "id": 1505414,
-        "referee": "C. Sepulveda",
+        "referee": "Cristian Galaz Sepulveda, Chile",
         "timezone": "UTC",
         "date": "2026-04-12T21:30:00+00:00",
         "timestamp": 1776029400,
@@ -4854,7 +4854,7 @@
         },
         "venue": {
           "id": null,
-          "name": "Estadio Municipal Nelson Oyarzun Arenas",
+          "name": "Estadio Municipal Nelson Oyarzún Arenas",
           "city": "Chillan"
         },
         "status": {
@@ -4914,7 +4914,7 @@
     {
       "fixture": {
         "id": 1505417,
-        "referee": "G. Philippe",
+        "referee": "Gaston Philippe, Chile",
         "timezone": "UTC",
         "date": "2026-04-13T00:00:00+00:00",
         "timestamp": 1776038400,
@@ -4924,7 +4924,7 @@
         },
         "venue": {
           "id": null,
-          "name": "Estadio Ester Roa",
+          "name": "Municipal de Collao",
           "city": "Concepcion"
         },
         "status": {
@@ -5054,7 +5054,7 @@
     {
       "fixture": {
         "id": 1505425,
-        "referee": "H. Jona",
+        "referee": "Hector Jona, Chile",
         "timezone": "UTC",
         "date": "2026-04-18T00:00:00+00:00",
         "timestamp": 1776470400,
@@ -5404,7 +5404,7 @@
     {
       "fixture": {
         "id": 1505420,
-        "referee": "F. Vejar",
+        "referee": "Fernando Andre Vejar Diaz, Chile",
         "timezone": "UTC",
         "date": "2026-04-19T22:30:00+00:00",
         "timestamp": 1776637800,
@@ -5474,7 +5474,7 @@
     {
       "fixture": {
         "id": 1505424,
-        "referee": "C. Galaz",
+        "referee": "Cristian Galaz Sepulveda, Chile",
         "timezone": "UTC",
         "date": "2026-04-20T00:45:00+00:00",
         "timestamp": 1776645900,
@@ -5614,7 +5614,7 @@
     {
       "fixture": {
         "id": 1505431,
-        "referee": "C. Garay",
+        "referee": "Cristian Garay, Chile",
         "timezone": "UTC",
         "date": "2026-04-24T00:00:00+00:00",
         "timestamp": 1776988800,
@@ -5684,7 +5684,7 @@
     {
       "fixture": {
         "id": 1505434,
-        "referee": "M. Araos",
+        "referee": "Miguel Araos, Chile",
         "timezone": "UTC",
         "date": "2026-04-24T22:00:00+00:00",
         "timestamp": 1777068000,
@@ -5754,7 +5754,7 @@
     {
       "fixture": {
         "id": 1505427,
-        "referee": "P. Maza",
+        "referee": "Piero Maza, Chile",
         "timezone": "UTC",
         "date": "2026-04-25T00:30:00+00:00",
         "timestamp": 1777077000,
@@ -5764,8 +5764,8 @@
         },
         "venue": {
           "id": null,
-          "name": "Estadio Bicentenario de La Florida",
-          "city": "Santiago de Chile"
+          "name": "Estadio Bicentenario Municipal de La Florida",
+          "city": "Santiago"
         },
         "status": {
           "long": "Match Finished",
@@ -5824,7 +5824,7 @@
     {
       "fixture": {
         "id": 1505430,
-        "referee": "J. Lara",
+        "referee": "Juan Ignacio Lara Luco, Chile",
         "timezone": "UTC",
         "date": "2026-04-25T19:00:00+00:00",
         "timestamp": 1777143600,
@@ -5834,7 +5834,7 @@
         },
         "venue": {
           "id": null,
-          "name": "Estadio Municipal Nelson Oyarzun Arenas",
+          "name": "Estadio Municipal Nelson Oyarzún Arenas",
           "city": "Chillan"
         },
         "status": {
@@ -5964,7 +5964,7 @@
     {
       "fixture": {
         "id": 1505429,
-        "referee": "C. D. Mera",
+        "referee": "Fernando Andre Vejar Diaz, Chile",
         "timezone": "UTC",
         "date": "2026-04-26T16:30:00+00:00",
         "timestamp": 1777221000,
@@ -5974,7 +5974,7 @@
         },
         "venue": {
           "id": null,
-          "name": "Estadio La Portada",
+          "name": "La Portada",
           "city": "La Serena"
         },
         "status": {
@@ -6104,7 +6104,7 @@
     {
       "fixture": {
         "id": 1505428,
-        "referee": "H. Jona",
+        "referee": "Hector Jona, Chile",
         "timezone": "UTC",
         "date": "2026-04-26T21:30:00+00:00",
         "timestamp": 1777239000,
@@ -6174,7 +6174,7 @@
     {
       "fixture": {
         "id": 1505412,
-        "referee": "H. Jona",
+        "referee": "Hector Jona, Chile",
         "timezone": "UTC",
         "date": "2026-05-03T21:30:00+00:00",
         "timestamp": 1777843800,
@@ -6244,7 +6244,7 @@
     {
       "fixture": {
         "id": 1505442,
-        "referee": "J. Cabero",
+        "referee": "Jose Cabero Rebolledo, Chile",
         "timezone": "UTC",
         "date": "2026-05-16T00:00:00+00:00",
         "timestamp": 1778889600,
@@ -6524,7 +6524,7 @@
     {
       "fixture": {
         "id": 1505439,
-        "referee": "R. Carvajal",
+        "referee": "Rodrigo Carvajal Molina, Chile",
         "timezone": "UTC",
         "date": "2026-05-17T16:30:00+00:00",
         "timestamp": 1779035400,
@@ -6594,7 +6594,7 @@
     {
       "fixture": {
         "id": 1505435,
-        "referee": "F. Jimenez Lazo",
+        "referee": "Franco Esteban Jimenez Lazo, Chile",
         "timezone": "UTC",
         "date": "2026-05-17T19:00:00+00:00",
         "timestamp": 1779044400,
@@ -6604,7 +6604,7 @@
         },
         "venue": {
           "id": null,
-          "name": "Estadio El Cobre de El Salvador",
+          "name": "El Cobre",
           "city": "El Salvador"
         },
         "status": {
@@ -6664,7 +6664,7 @@
     {
       "fixture": {
         "id": 1505436,
-        "referee": "M. Riquelme",
+        "referee": "Mathias Riquelme, Chile",
         "timezone": "UTC",
         "date": "2026-05-17T21:30:00+00:00",
         "timestamp": 1779053400,
@@ -6804,7 +6804,7 @@
     {
       "fixture": {
         "id": 1505445,
-        "referee": "H. Jona",
+        "referee": "Hector Jona, Chile",
         "timezone": "UTC",
         "date": "2026-05-22T19:00:00+00:00",
         "timestamp": 1779476400,
@@ -6874,7 +6874,7 @@
     {
       "fixture": {
         "id": 1505443,
-        "referee": "D. Flores",
+        "referee": "Diego Flores Seguel, Chile",
         "timezone": "UTC",
         "date": "2026-05-23T16:30:00+00:00",
         "timestamp": 1779553800,
@@ -6884,8 +6884,8 @@
         },
         "venue": {
           "id": null,
-          "name": "Estadio Bicentenario de La Florida",
-          "city": "Santiago de Chile"
+          "name": "Estadio Bicentenario Municipal de La Florida",
+          "city": "Santiago"
         },
         "status": {
           "long": "Match Finished",
@@ -6944,7 +6944,7 @@
     {
       "fixture": {
         "id": 1505447,
-        "referee": "F. Jimenez Lazo",
+        "referee": "Franco Esteban Jimenez Lazo, Chile",
         "timezone": "UTC",
         "date": "2026-05-23T19:00:00+00:00",
         "timestamp": 1779562800,
@@ -6954,7 +6954,7 @@
         },
         "venue": {
           "id": null,
-          "name": "Estadio Municipal Nelson Oyarzun Arenas",
+          "name": "Estadio Municipal Nelson Oyarzún Arenas",
           "city": "Chillan"
         },
         "status": {
@@ -7084,7 +7084,7 @@
     {
       "fixture": {
         "id": 1505444,
-        "referee": "C. Garay",
+        "referee": "Cristian Garay, Chile",
         "timezone": "UTC",
         "date": "2026-05-24T16:30:00+00:00",
         "timestamp": 1779640200,
@@ -7094,7 +7094,7 @@
         },
         "venue": {
           "id": null,
-          "name": "Estadio Ester Roa",
+          "name": "Municipal de Collao",
           "city": "Concepción"
         },
         "status": {
@@ -7294,7 +7294,7 @@
     {
       "fixture": {
         "id": 1505451,
-        "referee": "C. Diaz",
+        "referee": "Claudio Diaz Mera, Chile",
         "timezone": "UTC",
         "date": "2026-05-29T22:00:00+00:00",
         "timestamp": 1780092000,
@@ -7304,7 +7304,7 @@
         },
         "venue": {
           "id": null,
-          "name": "Estadio El Cobre de El Salvador",
+          "name": "El Cobre",
           "city": "El Salvador"
         },
         "status": {
@@ -7434,7 +7434,7 @@
     {
       "fixture": {
         "id": 1505453,
-        "referee": "F. Vejar",
+        "referee": "Fernando Andre Vejar Diaz, Chile",
         "timezone": "UTC",
         "date": "2026-05-30T19:00:00+00:00",
         "timestamp": 1780167600,
@@ -7444,7 +7444,7 @@
         },
         "venue": {
           "id": null,
-          "name": "Estadio La Portada",
+          "name": "La Portada",
           "city": "La Serena"
         },
         "status": {
@@ -7504,7 +7504,7 @@
     {
       "fixture": {
         "id": 1505457,
-        "referee": "M. Salvo",
+        "referee": "Mario Salvo Sepulveda, Chile",
         "timezone": "UTC",
         "date": "2026-05-30T21:30:00+00:00",
         "timestamp": 1780176600,
@@ -7644,7 +7644,7 @@
     {
       "fixture": {
         "id": 1505452,
-        "referee": "M. Riquelme",
+        "referee": "Mathias Riquelme, Chile",
         "timezone": "UTC",
         "date": "2026-05-31T19:00:00+00:00",
         "timestamp": 1780254000,
@@ -7714,7 +7714,7 @@
     {
       "fixture": {
         "id": 1505455,
-        "referee": "F. Gilabert",
+        "referee": "Francisco Gilabert, Chile",
         "timezone": "UTC",
         "date": "2026-05-31T21:30:00+00:00",
         "timestamp": 1780263000,
@@ -7854,7 +7854,7 @@
     {
       "fixture": {
         "id": 1505459,
-        "referee": "M. Araos",
+        "referee": "Miguel Araos, Chile",
         "timezone": "UTC",
         "date": "2026-06-13T00:00:00+00:00",
         "timestamp": 1781308800,
@@ -7864,8 +7864,8 @@
         },
         "venue": {
           "id": null,
-          "name": "Estadio Bicentenario de La Florida",
-          "city": "Santiago de Chile"
+          "name": "Estadio Bicentenario Municipal de La Florida",
+          "city": "Santiago"
         },
         "status": {
           "long": "Match Finished",
@@ -7924,7 +7924,7 @@
     {
       "fixture": {
         "id": 1505461,
-        "referee": "M. Riquelme",
+        "referee": "Mathias Riquelme, Chile",
         "timezone": "UTC",
         "date": "2026-06-13T16:30:00+00:00",
         "timestamp": 1781368200,
@@ -8064,7 +8064,7 @@
     {
       "fixture": {
         "id": 1505460,
-        "referee": "D. Flores",
+        "referee": "Diego Flores Seguel, Chile",
         "timezone": "UTC",
         "date": "2026-06-13T21:30:00+00:00",
         "timestamp": 1781386200,
@@ -8134,7 +8134,7 @@
     {
       "fixture": {
         "id": 1505464,
-        "referee": "G. Philippe",
+        "referee": "Gaston Philippe, Chile",
         "timezone": "UTC",
         "date": "2026-06-14T00:00:00+00:00",
         "timestamp": 1781395200,
@@ -8144,7 +8144,7 @@
         },
         "venue": {
           "id": null,
-          "name": "Estadio Municipal Nelson Oyarzun Arenas",
+          "name": "Estadio Municipal Nelson Oyarzún Arenas",
           "city": "Chillan"
         },
         "status": {
@@ -8414,7 +8414,7 @@
     {
       "fixture": {
         "id": 1505449,
-        "referee": "P. Maza",
+        "referee": "Piero Maza, Chile",
         "timezone": "UTC",
         "date": "2026-06-19T00:00:00+00:00",
         "timestamp": 1781827200,
@@ -8694,7 +8694,7 @@
     {
       "fixture": {
         "id": 1505471,
-        "referee": "J. Lara",
+        "referee": "Juan Ignacio Lara Luco, Chile",
         "timezone": "UTC",
         "date": "2026-07-26T19:00:00+00:00",
         "timestamp": 1785092400,
@@ -8704,7 +8704,7 @@
         },
         "venue": {
           "id": null,
-          "name": "Estadio Municipal Nelson Oyarzun Arenas",
+          "name": "Estadio Municipal Nelson Oyarzún Arenas",
           "city": "Chillan"
         },
         "status": {
@@ -8764,7 +8764,7 @@
     {
       "fixture": {
         "id": 1505467,
-        "referee": "C. Garay",
+        "referee": "Cristian Garay, Chile",
         "timezone": "UTC",
         "date": "2026-07-26T21:30:00+00:00",
         "timestamp": 1785101400,
@@ -8774,8 +8774,8 @@
         },
         "venue": {
           "id": null,
-          "name": "Estadio Bicentenario de La Florida",
-          "city": "Santiago de Chile"
+          "name": "Estadio Bicentenario Municipal de La Florida",
+          "city": "Santiago"
         },
         "status": {
           "long": "Match Finished",
@@ -8904,7 +8904,7 @@
     {
       "fixture": {
         "id": 1505474,
-        "referee": "M. H. Assadi Quintana",
+        "referee": "Matias Assadi, Chile",
         "timezone": "UTC",
         "date": "2026-07-27T23:00:00+00:00",
         "timestamp": 1785193200,
@@ -9114,7 +9114,7 @@
     {
       "fixture": {
         "id": 1505477,
-        "referee": "C. Garay",
+        "referee": "Cristian Garay, Chile",
         "timezone": "UTC",
         "date": "2026-08-01T19:00:00+00:00",
         "timestamp": 1785610800,
@@ -9184,7 +9184,7 @@
     {
       "fixture": {
         "id": 1505480,
-        "referee": "J. Cabero",
+        "referee": "Jose Cabero Rebolledo, Chile",
         "timezone": "UTC",
         "date": "2026-08-01T21:30:00+00:00",
         "timestamp": 1785619800,
@@ -9254,7 +9254,7 @@
     {
       "fixture": {
         "id": 1505476,
-        "referee": "D. Flores",
+        "referee": "Diego Flores Seguel, Chile",
         "timezone": "UTC",
         "date": "2026-08-02T16:30:00+00:00",
         "timestamp": 1785688200,
@@ -9264,7 +9264,7 @@
         },
         "venue": {
           "id": null,
-          "name": "Estadio Ester Roa",
+          "name": "Municipal de Collao",
           "city": "Concepción"
         },
         "status": {
@@ -9324,7 +9324,7 @@
     {
       "fixture": {
         "id": 1505478,
-        "referee": "F. Vejar",
+        "referee": "Fernando Andre Vejar Diaz, Chile",
         "timezone": "UTC",
         "date": "2026-08-02T19:00:00+00:00",
         "timestamp": 1785697200,
@@ -9334,7 +9334,7 @@
         },
         "venue": {
           "id": null,
-          "name": "Estadio La Portada",
+          "name": "La Portada",
           "city": "La Serena"
         },
         "status": {
@@ -9394,7 +9394,7 @@
     {
       "fixture": {
         "id": 1505481,
-        "referee": "J. Lara",
+        "referee": "Juan Ignacio Lara Luco, Chile",
         "timezone": "UTC",
         "date": "2026-08-02T21:30:00+00:00",
         "timestamp": 1785706200,
@@ -9604,7 +9604,7 @@
     {
       "fixture": {
         "id": 1505484,
-        "referee": "D. Flores",
+        "referee": "Diego Flores Seguel, Chile",
         "timezone": "UTC",
         "date": "2026-08-08T21:30:00+00:00",
         "timestamp": 1786224600,
@@ -9674,7 +9674,7 @@
     {
       "fixture": {
         "id": 1505485,
-        "referee": "F. Vejar",
+        "referee": "Fernando Andre Vejar Diaz, Chile",
         "timezone": "UTC",
         "date": "2026-08-09T16:30:00+00:00",
         "timestamp": 1786293000,
@@ -9684,7 +9684,7 @@
         },
         "venue": {
           "id": null,
-          "name": "Estadio Ester Roa",
+          "name": "Municipal de Collao",
           "city": "Concepción"
         },
         "status": {
@@ -9814,7 +9814,7 @@
     {
       "fixture": {
         "id": 1505490,
-        "referee": "J. Cabero",
+        "referee": "Jose Cabero Rebolledo, Chile",
         "timezone": "UTC",
         "date": "2026-08-09T21:30:00+00:00",
         "timestamp": 1786311000,
@@ -9884,7 +9884,7 @@
     {
       "fixture": {
         "id": 1505489,
-        "referee": "P. Maza",
+        "referee": "Piero Maza, Chile",
         "timezone": "UTC",
         "date": "2026-08-10T00:00:00+00:00",
         "timestamp": 1786320000,
@@ -10034,7 +10034,7 @@
         },
         "venue": {
           "id": null,
-          "name": "Estadio Ester Roa",
+          "name": "Municipal de Collao",
           "city": "Concepción"
         },
         "status": {
@@ -10094,7 +10094,7 @@
     {
       "fixture": {
         "id": 1505495,
-        "referee": "M. Riquelme",
+        "referee": "Mathias Riquelme, Chile",
         "timezone": "UTC",
         "date": "2026-08-15T21:30:00+00:00",
         "timestamp": 1786829400,
@@ -10234,7 +10234,7 @@
     {
       "fixture": {
         "id": 1505496,
-        "referee": "J. Lara",
+        "referee": "Juan Ignacio Lara Luco, Chile",
         "timezone": "UTC",
         "date": "2026-08-16T16:30:00+00:00",
         "timestamp": 1786897800,
@@ -10244,7 +10244,7 @@
         },
         "venue": {
           "id": null,
-          "name": "Estadio Municipal Nelson Oyarzun Arenas",
+          "name": "Estadio Municipal Nelson Oyarzún Arenas",
           "city": "Chillan"
         },
         "status": {
@@ -10304,7 +10304,7 @@
     {
       "fixture": {
         "id": 1505491,
-        "referee": "M. Salvo",
+        "referee": "Mario Salvo Sepulveda, Chile",
         "timezone": "UTC",
         "date": "2026-08-16T19:00:00+00:00",
         "timestamp": 1786906800,
@@ -10314,7 +10314,7 @@
         },
         "venue": {
           "id": null,
-          "name": "Estadio El Cobre de El Salvador",
+          "name": "El Cobre",
           "city": "El Salvador"
         },
         "status": {
@@ -10374,7 +10374,7 @@
     {
       "fixture": {
         "id": 1505492,
-        "referee": "F. Vejar",
+        "referee": "Fernando Andre Vejar Diaz, Chile",
         "timezone": "UTC",
         "date": "2026-08-16T21:30:00+00:00",
         "timestamp": 1786915800,
@@ -10584,7 +10584,7 @@
     {
       "fixture": {
         "id": 1505502,
-        "referee": "F. Vejar",
+        "referee": "Fernando Andre Vejar Diaz, Chile",
         "timezone": "UTC",
         "date": "2026-08-22T21:30:00+00:00",
         "timestamp": 1787434200,
@@ -10594,7 +10594,7 @@
         },
         "venue": {
           "id": null,
-          "name": "Estadio Huachipato-CAP Acero",
+          "name": "Estadio Huachipato",
           "city": "Talcahuano"
         },
         "status": {
@@ -10724,7 +10724,7 @@
     {
       "fixture": {
         "id": 1505503,
-        "referee": "P. Maza",
+        "referee": "Piero Maza, Chile",
         "timezone": "UTC",
         "date": "2026-08-23T16:00:00+00:00",
         "timestamp": 1787500800,
@@ -10734,7 +10734,7 @@
         },
         "venue": {
           "id": null,
-          "name": "Estadio La Portada",
+          "name": "La Portada",
           "city": "La Serena"
         },
         "status": {
@@ -10794,7 +10794,7 @@
     {
       "fixture": {
         "id": 1505500,
-        "referee": "F. Jimenez Lazo",
+        "referee": "Franco Esteban Jimenez Lazo, Chile",
         "timezone": "UTC",
         "date": "2026-08-23T16:00:00+00:00",
         "timestamp": 1787500800,
@@ -10804,7 +10804,7 @@
         },
         "venue": {
           "id": null,
-          "name": "Estadio Ester Roa",
+          "name": "Municipal de Collao",
           "city": "Concepción"
         },
         "status": {
@@ -10934,7 +10934,7 @@
     {
       "fixture": {
         "id": 1505504,
-        "referee": "J. Cabero",
+        "referee": "Jose Cabero Rebolledo, Chile",
         "timezone": "UTC",
         "date": "2026-08-23T23:00:00+00:00",
         "timestamp": 1787526000,
@@ -11074,7 +11074,7 @@
     {
       "fixture": {
         "id": 1505493,
-        "referee": "C. Garay",
+        "referee": "Cristian Garay, Chile",
         "timezone": "UTC",
         "date": "2026-08-26T22:00:00+00:00",
         "timestamp": 1787781600,
@@ -11091,7 +11091,7 @@
           "long": "Match Finished",
           "short": "FT",
           "elapsed": 90,
-          "extra": 7
+          "extra": null
         }
       },
       "league": {
@@ -11144,7 +11144,7 @@
     {
       "fixture": {
         "id": 1505507,
-        "referee": "G. Philippe",
+        "referee": "Gaston Philippe, Chile",
         "timezone": "UTC",
         "date": "2026-08-28T22:30:00+00:00",
         "timestamp": 1787956200,
@@ -11154,7 +11154,7 @@
         },
         "venue": {
           "id": null,
-          "name": "Estadio El Cobre de El Salvador",
+          "name": "El Cobre",
           "city": "El Salvador"
         },
         "status": {
@@ -11231,7 +11231,7 @@
           "long": "Match Finished",
           "short": "FT",
           "elapsed": 90,
-          "extra": 4
+          "extra": null
         }
       },
       "league": {
@@ -11284,7 +11284,7 @@
     {
       "fixture": {
         "id": 1505511,
-        "referee": "Miguel Araos, Chile",
+        "referee": "M. Araos",
         "timezone": "UTC",
         "date": "2026-08-30T00:00:00+00:00",
         "timestamp": 1788048000,
@@ -11294,7 +11294,7 @@
         },
         "venue": {
           "id": null,
-          "name": "Estadio Municipal Nelson Oyarzún Arenas",
+          "name": "Estadio Municipal Nelson Oyarzun Arenas",
           "city": "Chillan"
         },
         "status": {
@@ -11441,7 +11441,7 @@
           "long": "Match Finished",
           "short": "FT",
           "elapsed": 90,
-          "extra": 4
+          "extra": null
         }
       },
       "league": {
@@ -11494,24 +11494,24 @@
     {
       "fixture": {
         "id": 1505514,
-        "referee": "C. Garay",
+        "referee": "Cristian Garay, Chile",
         "timezone": "UTC",
         "date": "2026-08-31T22:15:00+00:00",
         "timestamp": 1788214500,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1788214500,
+          "second": 1788218100
         },
         "venue": {
           "id": null,
-          "name": null,
+          "name": "Municipal Nicolas Chahuan",
           "city": "La Calera"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 8
         }
       },
       "league": {
@@ -11529,27 +11529,27 @@
           "id": 2326,
           "name": "Union La Calera",
           "logo": "https://media.api-sports.io/football/teams/2326.png",
-          "winner": null
+          "winner": false
         },
         "away": {
           "id": 2341,
           "name": "D. La Serena",
           "logo": "https://media.api-sports.io/football/teams/2341.png",
-          "winner": null
+          "winner": true
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 0,
+        "away": 1
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 1
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 1
         },
         "extratime": {
           "home": null,
@@ -11564,23 +11564,23 @@
     {
       "fixture": {
         "id": 1505512,
-        "referee": "J. Lara",
+        "referee": "Juan Ignacio Lara Luco, Chile",
         "timezone": "UTC",
         "date": "2026-09-01T00:45:00+00:00",
         "timestamp": 1788223500,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1788223500,
+          "second": 1788227100
         },
         "venue": {
           "id": null,
           "name": "Claro Arena",
-          "city": "Santiago de Chile"
+          "city": "Santiago"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
           "extra": null
         }
       },
@@ -11599,27 +11599,27 @@
           "id": 2994,
           "name": "U. Catolica",
           "logo": "https://media.api-sports.io/football/teams/2994.png",
-          "winner": null
+          "winner": true
         },
         "away": {
           "id": 2320,
           "name": "O'Higgins",
           "logo": "https://media.api-sports.io/football/teams/2320.png",
-          "winner": null
+          "winner": false
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 3,
+        "away": 2
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 1
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 3,
+          "away": 2
         },
         "extratime": {
           "home": null,
@@ -11634,7 +11634,7 @@
     {
       "fixture": {
         "id": 1505469,
-        "referee": "M. Salvo",
+        "referee": "Mario Salvo Sepulveda, Chile",
         "timezone": "UTC",
         "date": "2026-09-02T22:00:00+00:00",
         "timestamp": 1788386400,
@@ -11648,9 +11648,9 @@
           "city": "Coquimbo"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
           "extra": null
         }
       },
@@ -11669,27 +11669,27 @@
           "id": 2330,
           "name": "Coquimbo Unido",
           "logo": "https://media.api-sports.io/football/teams/2330.png",
-          "winner": null
+          "winner": true
         },
         "away": {
           "id": 2324,
           "name": "Universidad de Concepcion",
           "logo": "https://media.api-sports.io/football/teams/2324.png",
-          "winner": null
+          "winner": false
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 1,
+        "away": 0
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 0
         },
         "extratime": {
           "home": null,
@@ -11704,13 +11704,13 @@
     {
       "fixture": {
         "id": 1505479,
-        "referee": "M. Araos",
+        "referee": "Miguel Araos, Chile",
         "timezone": "UTC",
         "date": "2026-09-03T00:30:00+00:00",
         "timestamp": 1788395400,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1788395400,
+          "second": 1788399000
         },
         "venue": {
           "id": 11598,
@@ -11718,9 +11718,9 @@
           "city": "Limache"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
           "extra": null
         }
       },
@@ -11739,27 +11739,27 @@
           "id": 16730,
           "name": "Deportes Limache",
           "logo": "https://media.api-sports.io/football/teams/16730.png",
-          "winner": null
+          "winner": true
         },
         "away": {
           "id": 2337,
           "name": "Nublense",
           "logo": "https://media.api-sports.io/football/teams/2337.png",
-          "winner": null
+          "winner": false
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 2,
+        "away": 0
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 0
         },
         "extratime": {
           "home": null,
@@ -11788,9 +11788,9 @@
           "city": null
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
           "extra": null
         }
       },
@@ -11809,27 +11809,27 @@
           "id": 5635,
           "name": "Concepción",
           "logo": "https://media.api-sports.io/football/teams/5635.png",
-          "winner": null
+          "winner": false
         },
         "away": {
           "id": 2329,
           "name": "A. Italiano",
           "logo": "https://media.api-sports.io/football/teams/2329.png",
-          "winner": null
+          "winner": true
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 0,
+        "away": 1
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 1
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 1
         },
         "extratime": {
           "home": null,
@@ -11858,9 +11858,9 @@
           "city": "Vina del Mar"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
           "extra": null
         }
       },
@@ -11879,27 +11879,27 @@
           "id": 2325,
           "name": "Everton de Vina",
           "logo": "https://media.api-sports.io/football/teams/2325.png",
-          "winner": null
+          "winner": false
         },
         "away": {
           "id": 2994,
           "name": "U. Catolica",
           "logo": "https://media.api-sports.io/football/teams/2994.png",
-          "winner": null
+          "winner": true
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 0,
+        "away": 1
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 1
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 1
         },
         "extratime": {
           "home": null,
@@ -11928,9 +11928,9 @@
           "city": "Santiago de Chile"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
           "extra": null
         }
       },
@@ -11949,27 +11949,27 @@
           "id": 2323,
           "name": "Universidad de Chile",
           "logo": "https://media.api-sports.io/football/teams/2323.png",
-          "winner": null
+          "winner": true
         },
         "away": {
           "id": 2330,
           "name": "Coquimbo Unido",
           "logo": "https://media.api-sports.io/football/teams/2330.png",
-          "winner": null
+          "winner": false
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 4,
+        "away": 2
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 4,
+          "away": 2
         },
         "extratime": {
           "home": null,
@@ -11998,9 +11998,9 @@
           "city": "La Serena"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
           "extra": null
         }
       },
@@ -12019,27 +12019,27 @@
           "id": 2341,
           "name": "D. La Serena",
           "logo": "https://media.api-sports.io/football/teams/2341.png",
-          "winner": null
+          "winner": true
         },
         "away": {
           "id": 2337,
           "name": "Nublense",
           "logo": "https://media.api-sports.io/football/teams/2337.png",
-          "winner": null
+          "winner": false
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 2,
+        "away": 1
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 1
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 1
         },
         "extratime": {
           "home": null,
@@ -12068,9 +12068,9 @@
           "city": "Rancagua"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
           "extra": null
         }
       },
@@ -12089,27 +12089,27 @@
           "id": 2320,
           "name": "O'Higgins",
           "logo": "https://media.api-sports.io/football/teams/2320.png",
-          "winner": null
+          "winner": true
         },
         "away": {
           "id": 2326,
           "name": "Union La Calera",
           "logo": "https://media.api-sports.io/football/teams/2326.png",
-          "winner": null
+          "winner": false
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 2,
+        "away": 1
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 0
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 1
         },
         "extratime": {
           "home": null,
@@ -12138,9 +12138,9 @@
           "city": "Talcahuano"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
           "extra": null
         }
       },
@@ -12169,17 +12169,17 @@
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 0,
+        "away": 0
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         },
         "extratime": {
           "home": null,
@@ -12208,9 +12208,9 @@
           "city": "Santiago de Chile"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
           "extra": null
         }
       },
@@ -12229,27 +12229,27 @@
           "id": 2318,
           "name": "Palestino",
           "logo": "https://media.api-sports.io/football/teams/2318.png",
-          "winner": null
+          "winner": true
         },
         "away": {
           "id": 2324,
           "name": "Universidad de Concepcion",
           "logo": "https://media.api-sports.io/football/teams/2324.png",
-          "winner": null
+          "winner": false
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 2,
+        "away": 1
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 1
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 1
         },
         "extratime": {
           "home": null,

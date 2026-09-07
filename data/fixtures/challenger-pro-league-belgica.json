@@ -31,7 +31,7 @@
           "long": "Match Finished",
           "short": "FT",
           "elapsed": 90,
-          "extra": 5
+          "extra": null
         }
       },
       "league": {
@@ -1431,7 +1431,7 @@
           "long": "Match Finished",
           "short": "FT",
           "elapsed": 90,
-          "extra": 6
+          "extra": null
         }
       },
       "league": {
@@ -1484,7 +1484,7 @@
     {
       "fixture": {
         "id": 1559148,
-        "referee": null,
+        "referee": "M. Ledda",
         "timezone": "UTC",
         "date": "2026-09-04T18:00:00+00:00",
         "timestamp": 1788544800,
@@ -1498,9 +1498,9 @@
           "city": "Antwerp"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
           "extra": null
         }
       },
@@ -1519,27 +1519,27 @@
           "id": 263,
           "name": "Beerschot VA",
           "logo": "https://media.api-sports.io/football/teams/263.png",
-          "winner": null
+          "winner": true
         },
         "away": {
           "id": 6222,
           "name": "Patro Eisden",
           "logo": "https://media.api-sports.io/football/teams/6222.png",
-          "winner": null
+          "winner": false
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 4,
+        "away": 2
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 1
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 4,
+          "away": 2
         },
         "extratime": {
           "home": null,
@@ -1554,7 +1554,7 @@
     {
       "fixture": {
         "id": 1559149,
-        "referee": null,
+        "referee": "T. Stevens",
         "timezone": "UTC",
         "date": "2026-09-04T18:00:00+00:00",
         "timestamp": 1788544800,
@@ -1568,9 +1568,9 @@
           "city": "Denderleeuw"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
           "extra": null
         }
       },
@@ -1589,97 +1589,27 @@
           "id": 6215,
           "name": "Dender",
           "logo": "https://media.api-sports.io/football/teams/6215.png",
-          "winner": null
+          "winner": true
         },
         "away": {
           "id": 10244,
           "name": "Seraing United",
           "logo": "https://media.api-sports.io/football/teams/10244.png",
-          "winner": null
+          "winner": false
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 2,
+        "away": 0
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 0
         },
         "fulltime": {
-          "home": null,
-          "away": null
-        },
-        "extratime": {
-          "home": null,
-          "away": null
-        },
-        "penalty": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "fixture": {
-        "id": 1559150,
-        "referee": null,
-        "timezone": "UTC",
-        "date": "2026-09-05T14:00:00+00:00",
-        "timestamp": 1788616800,
-        "periods": {
-          "first": null,
-          "second": null
-        },
-        "venue": {
-          "id": null,
-          "name": null,
-          "city": "Roeselare"
-        },
-        "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
-        }
-      },
-      "league": {
-        "id": 145,
-        "name": "Challenger Pro League",
-        "country": "Belgium",
-        "logo": "https://media.api-sports.io/football/leagues/145.png",
-        "flag": "https://media.api-sports.io/flags/be.svg",
-        "season": 2026,
-        "round": "Regular Season - 4",
-        "standings": true
-      },
-      "teams": {
-        "home": {
-          "id": 14130,
-          "name": "Club Brugge II",
-          "logo": "https://media.api-sports.io/football/teams/14130.png",
-          "winner": null
-        },
-        "away": {
-          "id": 739,
-          "name": "AS Eupen",
-          "logo": "https://media.api-sports.io/football/teams/739.png",
-          "winner": null
-        }
-      },
-      "goals": {
-        "home": null,
-        "away": null
-      },
-      "score": {
-        "halftime": {
-          "home": null,
-          "away": null
-        },
-        "fulltime": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 0
         },
         "extratime": {
           "home": null,
@@ -1694,10 +1624,10 @@
     {
       "fixture": {
         "id": 1559151,
-        "referee": null,
+        "referee": "L. Loockx",
         "timezone": "UTC",
-        "date": "2026-09-05T14:00:00+00:00",
-        "timestamp": 1788616800,
+        "date": "2026-09-05T11:30:00+00:00",
+        "timestamp": 1788607800,
         "periods": {
           "first": null,
           "second": null
@@ -1708,9 +1638,9 @@
           "city": "Gent"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
           "extra": null
         }
       },
@@ -1739,17 +1669,87 @@
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 2,
+        "away": 2
       },
       "score": {
         "halftime": {
+          "home": 2,
+          "away": 1
+        },
+        "fulltime": {
+          "home": 2,
+          "away": 2
+        },
+        "extratime": {
           "home": null,
           "away": null
         },
-        "fulltime": {
+        "penalty": {
           "home": null,
           "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1559150,
+        "referee": "A. de Beuckelaer",
+        "timezone": "UTC",
+        "date": "2026-09-05T14:00:00+00:00",
+        "timestamp": 1788616800,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": null,
+          "name": null,
+          "city": "Roeselare"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 145,
+        "name": "Challenger Pro League",
+        "country": "Belgium",
+        "logo": "https://media.api-sports.io/football/leagues/145.png",
+        "flag": "https://media.api-sports.io/flags/be.svg",
+        "season": 2026,
+        "round": "Regular Season - 4",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 14130,
+          "name": "Club Brugge II",
+          "logo": "https://media.api-sports.io/football/teams/14130.png",
+          "winner": false
+        },
+        "away": {
+          "id": 739,
+          "name": "AS Eupen",
+          "logo": "https://media.api-sports.io/football/teams/739.png",
+          "winner": true
+        }
+      },
+      "goals": {
+        "home": 0,
+        "away": 1
+      },
+      "score": {
+        "halftime": {
+          "home": 0,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 0,
+          "away": 1
         },
         "extratime": {
           "home": null,
@@ -1764,7 +1764,7 @@
     {
       "fixture": {
         "id": 1559152,
-        "referee": null,
+        "referee": "L. Bultynck",
         "timezone": "UTC",
         "date": "2026-09-05T18:00:00+00:00",
         "timestamp": 1788631200,
@@ -1778,9 +1778,9 @@
           "city": "Genk"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
           "extra": null
         }
       },
@@ -1799,27 +1799,27 @@
           "id": 19045,
           "name": "KRC Genk II",
           "logo": "https://media.api-sports.io/football/teams/19045.png",
-          "winner": null
+          "winner": true
         },
         "away": {
           "id": 5931,
           "name": "Sporting Hasselt",
           "logo": "https://media.api-sports.io/football/teams/5931.png",
-          "winner": null
+          "winner": false
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 3,
+        "away": 0
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 0
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 3,
+          "away": 0
         },
         "extratime": {
           "home": null,
@@ -1834,7 +1834,7 @@
     {
       "fixture": {
         "id": 1559153,
-        "referee": null,
+        "referee": "K. Clerkx",
         "timezone": "UTC",
         "date": "2026-09-06T14:00:00+00:00",
         "timestamp": 1788703200,
@@ -1848,9 +1848,9 @@
           "city": "Lier"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
           "extra": null
         }
       },
@@ -1879,17 +1879,17 @@
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 0,
+        "away": 0
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         },
         "extratime": {
           "home": null,
@@ -1904,7 +1904,7 @@
     {
       "fixture": {
         "id": 1559154,
-        "referee": null,
+        "referee": "M. Simonini",
         "timezone": "UTC",
         "date": "2026-09-06T17:15:00+00:00",
         "timestamp": 1788714900,
@@ -1918,9 +1918,9 @@
           "city": "Boussu"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
           "extra": null
         }
       },
@@ -1939,27 +1939,27 @@
           "id": 5805,
           "name": "Francs Borains",
           "logo": "https://media.api-sports.io/football/teams/5805.png",
-          "winner": null
+          "winner": true
         },
         "away": {
           "id": 14128,
           "name": "Lokeren-Temse",
           "logo": "https://media.api-sports.io/football/teams/14128.png",
-          "winner": null
+          "winner": false
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 3,
+        "away": 0
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 0
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 3,
+          "away": 0
         },
         "extratime": {
           "home": null,
@@ -2953,6 +2953,286 @@
     },
     {
       "fixture": {
+        "id": 1559171,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2026-10-09T18:00:00+00:00",
+        "timestamp": 1791568800,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": 19052,
+          "name": "Dender Football Complex",
+          "city": "Denderleeuw"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 145,
+        "name": "Challenger Pro League",
+        "country": "Belgium",
+        "logo": "https://media.api-sports.io/football/leagues/145.png",
+        "flag": "https://media.api-sports.io/flags/be.svg",
+        "season": 2026,
+        "round": "Regular Season - 7",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 6215,
+          "name": "Dender",
+          "logo": "https://media.api-sports.io/football/teams/6215.png",
+          "winner": null
+        },
+        "away": {
+          "id": 14130,
+          "name": "Club Brugge II",
+          "logo": "https://media.api-sports.io/football/teams/14130.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1559169,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2026-10-09T18:00:00+00:00",
+        "timestamp": 1791568800,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": null,
+          "name": "Lotto Park",
+          "city": "Anderlecht"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 145,
+        "name": "Challenger Pro League",
+        "country": "Belgium",
+        "logo": "https://media.api-sports.io/football/leagues/145.png",
+        "flag": "https://media.api-sports.io/flags/be.svg",
+        "season": 2026,
+        "round": "Regular Season - 7",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 19046,
+          "name": "RSC Anderlecht II",
+          "logo": "https://media.api-sports.io/football/teams/19046.png",
+          "winner": null
+        },
+        "away": {
+          "id": 739,
+          "name": "AS Eupen",
+          "logo": "https://media.api-sports.io/football/teams/739.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1559175,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2026-10-10T14:00:00+00:00",
+        "timestamp": 1791640800,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": 3563,
+          "name": "Stade Yvan Georges",
+          "city": "Virton"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 145,
+        "name": "Challenger Pro League",
+        "country": "Belgium",
+        "logo": "https://media.api-sports.io/football/leagues/145.png",
+        "flag": "https://media.api-sports.io/flags/be.svg",
+        "season": 2026,
+        "round": "Regular Season - 7",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 4715,
+          "name": "Excelsior Virton",
+          "logo": "https://media.api-sports.io/football/teams/4715.png",
+          "winner": null
+        },
+        "away": {
+          "id": 5931,
+          "name": "Sporting Hasselt",
+          "logo": "https://media.api-sports.io/football/teams/5931.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1559173,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2026-10-10T14:00:00+00:00",
+        "timestamp": 1791640800,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": 2664,
+          "name": "Herman Vanderpoortenstadion",
+          "city": "Lier"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 145,
+        "name": "Challenger Pro League",
+        "country": "Belgium",
+        "logo": "https://media.api-sports.io/football/leagues/145.png",
+        "flag": "https://media.api-sports.io/flags/be.svg",
+        "season": 2026,
+        "round": "Regular Season - 7",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 6219,
+          "name": "K. Lierse S.K.",
+          "logo": "https://media.api-sports.io/football/teams/6219.png",
+          "winner": null
+        },
+        "away": {
+          "id": 5805,
+          "name": "Francs Borains",
+          "logo": "https://media.api-sports.io/football/teams/5805.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
         "id": 1559170,
         "referee": null,
         "timezone": "UTC",
@@ -3023,221 +3303,11 @@
     },
     {
       "fixture": {
-        "id": 1559175,
-        "referee": null,
-        "timezone": "UTC",
-        "date": "2026-10-10T18:00:00+00:00",
-        "timestamp": 1791655200,
-        "periods": {
-          "first": null,
-          "second": null
-        },
-        "venue": {
-          "id": 3563,
-          "name": "Stade Yvan Georges",
-          "city": "Virton"
-        },
-        "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
-        }
-      },
-      "league": {
-        "id": 145,
-        "name": "Challenger Pro League",
-        "country": "Belgium",
-        "logo": "https://media.api-sports.io/football/leagues/145.png",
-        "flag": "https://media.api-sports.io/flags/be.svg",
-        "season": 2026,
-        "round": "Regular Season - 7",
-        "standings": true
-      },
-      "teams": {
-        "home": {
-          "id": 4715,
-          "name": "Excelsior Virton",
-          "logo": "https://media.api-sports.io/football/teams/4715.png",
-          "winner": null
-        },
-        "away": {
-          "id": 5931,
-          "name": "Sporting Hasselt",
-          "logo": "https://media.api-sports.io/football/teams/5931.png",
-          "winner": null
-        }
-      },
-      "goals": {
-        "home": null,
-        "away": null
-      },
-      "score": {
-        "halftime": {
-          "home": null,
-          "away": null
-        },
-        "fulltime": {
-          "home": null,
-          "away": null
-        },
-        "extratime": {
-          "home": null,
-          "away": null
-        },
-        "penalty": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "fixture": {
-        "id": 1559171,
-        "referee": null,
-        "timezone": "UTC",
-        "date": "2026-10-10T18:00:00+00:00",
-        "timestamp": 1791655200,
-        "periods": {
-          "first": null,
-          "second": null
-        },
-        "venue": {
-          "id": 19052,
-          "name": "Dender Football Complex",
-          "city": "Denderleeuw"
-        },
-        "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
-        }
-      },
-      "league": {
-        "id": 145,
-        "name": "Challenger Pro League",
-        "country": "Belgium",
-        "logo": "https://media.api-sports.io/football/leagues/145.png",
-        "flag": "https://media.api-sports.io/flags/be.svg",
-        "season": 2026,
-        "round": "Regular Season - 7",
-        "standings": true
-      },
-      "teams": {
-        "home": {
-          "id": 6215,
-          "name": "Dender",
-          "logo": "https://media.api-sports.io/football/teams/6215.png",
-          "winner": null
-        },
-        "away": {
-          "id": 14130,
-          "name": "Club Brugge II",
-          "logo": "https://media.api-sports.io/football/teams/14130.png",
-          "winner": null
-        }
-      },
-      "goals": {
-        "home": null,
-        "away": null
-      },
-      "score": {
-        "halftime": {
-          "home": null,
-          "away": null
-        },
-        "fulltime": {
-          "home": null,
-          "away": null
-        },
-        "extratime": {
-          "home": null,
-          "away": null
-        },
-        "penalty": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "fixture": {
-        "id": 1559173,
-        "referee": null,
-        "timezone": "UTC",
-        "date": "2026-10-10T18:00:00+00:00",
-        "timestamp": 1791655200,
-        "periods": {
-          "first": null,
-          "second": null
-        },
-        "venue": {
-          "id": 2664,
-          "name": "Herman Vanderpoortenstadion",
-          "city": "Lier"
-        },
-        "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
-        }
-      },
-      "league": {
-        "id": 145,
-        "name": "Challenger Pro League",
-        "country": "Belgium",
-        "logo": "https://media.api-sports.io/football/leagues/145.png",
-        "flag": "https://media.api-sports.io/flags/be.svg",
-        "season": 2026,
-        "round": "Regular Season - 7",
-        "standings": true
-      },
-      "teams": {
-        "home": {
-          "id": 6219,
-          "name": "K. Lierse S.K.",
-          "logo": "https://media.api-sports.io/football/teams/6219.png",
-          "winner": null
-        },
-        "away": {
-          "id": 5805,
-          "name": "Francs Borains",
-          "logo": "https://media.api-sports.io/football/teams/5805.png",
-          "winner": null
-        }
-      },
-      "goals": {
-        "home": null,
-        "away": null
-      },
-      "score": {
-        "halftime": {
-          "home": null,
-          "away": null
-        },
-        "fulltime": {
-          "home": null,
-          "away": null
-        },
-        "extratime": {
-          "home": null,
-          "away": null
-        },
-        "penalty": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "fixture": {
         "id": 1559174,
         "referee": null,
         "timezone": "UTC",
-        "date": "2026-10-10T18:00:00+00:00",
-        "timestamp": 1791655200,
+        "date": "2026-10-11T14:00:00+00:00",
+        "timestamp": 1791727200,
         "periods": {
           "first": null,
           "second": null
@@ -3303,81 +3373,11 @@
     },
     {
       "fixture": {
-        "id": 1559169,
-        "referee": null,
-        "timezone": "UTC",
-        "date": "2026-10-10T18:00:00+00:00",
-        "timestamp": 1791655200,
-        "periods": {
-          "first": null,
-          "second": null
-        },
-        "venue": {
-          "id": null,
-          "name": "Lotto Park",
-          "city": "Anderlecht"
-        },
-        "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
-        }
-      },
-      "league": {
-        "id": 145,
-        "name": "Challenger Pro League",
-        "country": "Belgium",
-        "logo": "https://media.api-sports.io/football/leagues/145.png",
-        "flag": "https://media.api-sports.io/flags/be.svg",
-        "season": 2026,
-        "round": "Regular Season - 7",
-        "standings": true
-      },
-      "teams": {
-        "home": {
-          "id": 19046,
-          "name": "RSC Anderlecht II",
-          "logo": "https://media.api-sports.io/football/teams/19046.png",
-          "winner": null
-        },
-        "away": {
-          "id": 739,
-          "name": "AS Eupen",
-          "logo": "https://media.api-sports.io/football/teams/739.png",
-          "winner": null
-        }
-      },
-      "goals": {
-        "home": null,
-        "away": null
-      },
-      "score": {
-        "halftime": {
-          "home": null,
-          "away": null
-        },
-        "fulltime": {
-          "home": null,
-          "away": null
-        },
-        "extratime": {
-          "home": null,
-          "away": null
-        },
-        "penalty": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "fixture": {
         "id": 1559172,
         "referee": null,
         "timezone": "UTC",
-        "date": "2026-10-10T18:00:00+00:00",
-        "timestamp": 1791655200,
+        "date": "2026-10-11T17:15:00+00:00",
+        "timestamp": 1791738900,
         "periods": {
           "first": null,
           "second": null
@@ -3443,81 +3443,11 @@
     },
     {
       "fixture": {
-        "id": 1559177,
-        "referee": null,
-        "timezone": "UTC",
-        "date": "2026-10-24T18:00:00+00:00",
-        "timestamp": 1792864800,
-        "periods": {
-          "first": null,
-          "second": null
-        },
-        "venue": {
-          "id": 20333,
-          "name": "Kehrwegstadion",
-          "city": "Eupen"
-        },
-        "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
-        }
-      },
-      "league": {
-        "id": 145,
-        "name": "Challenger Pro League",
-        "country": "Belgium",
-        "logo": "https://media.api-sports.io/football/leagues/145.png",
-        "flag": "https://media.api-sports.io/flags/be.svg",
-        "season": 2026,
-        "round": "Regular Season - 8",
-        "standings": true
-      },
-      "teams": {
-        "home": {
-          "id": 739,
-          "name": "AS Eupen",
-          "logo": "https://media.api-sports.io/football/teams/739.png",
-          "winner": null
-        },
-        "away": {
-          "id": 263,
-          "name": "Beerschot VA",
-          "logo": "https://media.api-sports.io/football/teams/263.png",
-          "winner": null
-        }
-      },
-      "goals": {
-        "home": null,
-        "away": null
-      },
-      "score": {
-        "halftime": {
-          "home": null,
-          "away": null
-        },
-        "fulltime": {
-          "home": null,
-          "away": null
-        },
-        "extratime": {
-          "home": null,
-          "away": null
-        },
-        "penalty": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "fixture": {
         "id": 1559178,
         "referee": null,
         "timezone": "UTC",
-        "date": "2026-10-24T18:00:00+00:00",
-        "timestamp": 1792864800,
+        "date": "2026-10-23T18:00:00+00:00",
+        "timestamp": 1792778400,
         "periods": {
           "first": null,
           "second": null
@@ -3583,19 +3513,19 @@
     },
     {
       "fixture": {
-        "id": 1559180,
+        "id": 1559176,
         "referee": null,
         "timezone": "UTC",
-        "date": "2026-10-24T18:00:00+00:00",
-        "timestamp": 1792864800,
+        "date": "2026-10-23T18:00:00+00:00",
+        "timestamp": 1792778400,
         "periods": {
           "first": null,
           "second": null
         },
         "venue": {
           "id": null,
-          "name": "Stade de Rocourt",
-          "city": null
+          "name": "Lotto Park",
+          "city": "Anderlecht"
         },
         "status": {
           "long": "Not Started",
@@ -3616,15 +3546,15 @@
       },
       "teams": {
         "home": {
-          "id": 6220,
-          "name": "Liège",
-          "logo": "https://media.api-sports.io/football/teams/6220.png",
+          "id": 19046,
+          "name": "RSC Anderlecht II",
+          "logo": "https://media.api-sports.io/football/teams/19046.png",
           "winner": null
         },
         "away": {
-          "id": 6222,
-          "name": "Patro Eisden",
-          "logo": "https://media.api-sports.io/football/teams/6222.png",
+          "id": 6219,
+          "name": "K. Lierse S.K.",
+          "logo": "https://media.api-sports.io/football/teams/6219.png",
           "winner": null
         }
       },
@@ -3656,8 +3586,8 @@
         "id": 1559181,
         "referee": null,
         "timezone": "UTC",
-        "date": "2026-10-24T18:00:00+00:00",
-        "timestamp": 1792864800,
+        "date": "2026-10-24T14:00:00+00:00",
+        "timestamp": 1792850400,
         "periods": {
           "first": null,
           "second": null
@@ -3695,6 +3625,76 @@
           "id": 4715,
           "name": "Excelsior Virton",
           "logo": "https://media.api-sports.io/football/teams/4715.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1559179,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2026-10-24T14:00:00+00:00",
+        "timestamp": 1792850400,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": 12455,
+          "name": "Cegeka Arena",
+          "city": "Genk"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 145,
+        "name": "Challenger Pro League",
+        "country": "Belgium",
+        "logo": "https://media.api-sports.io/football/leagues/145.png",
+        "flag": "https://media.api-sports.io/flags/be.svg",
+        "season": 2026,
+        "round": "Regular Season - 8",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 19045,
+          "name": "KRC Genk II",
+          "logo": "https://media.api-sports.io/football/teams/19045.png",
+          "winner": null
+        },
+        "away": {
+          "id": 14130,
+          "name": "Club Brugge II",
+          "logo": "https://media.api-sports.io/football/teams/14130.png",
           "winner": null
         }
       },
@@ -3793,19 +3793,19 @@
     },
     {
       "fixture": {
-        "id": 1559179,
+        "id": 1559177,
         "referee": null,
         "timezone": "UTC",
-        "date": "2026-10-24T18:00:00+00:00",
-        "timestamp": 1792864800,
+        "date": "2026-10-25T15:00:00+00:00",
+        "timestamp": 1792940400,
         "periods": {
           "first": null,
           "second": null
         },
         "venue": {
-          "id": 12455,
-          "name": "Cegeka Arena",
-          "city": "Genk"
+          "id": 20333,
+          "name": "Kehrwegstadion",
+          "city": "Eupen"
         },
         "status": {
           "long": "Not Started",
@@ -3826,15 +3826,15 @@
       },
       "teams": {
         "home": {
-          "id": 19045,
-          "name": "KRC Genk II",
-          "logo": "https://media.api-sports.io/football/teams/19045.png",
+          "id": 739,
+          "name": "AS Eupen",
+          "logo": "https://media.api-sports.io/football/teams/739.png",
           "winner": null
         },
         "away": {
-          "id": 14130,
-          "name": "Club Brugge II",
-          "logo": "https://media.api-sports.io/football/teams/14130.png",
+          "id": 263,
+          "name": "Beerschot VA",
+          "logo": "https://media.api-sports.io/football/teams/263.png",
           "winner": null
         }
       },
@@ -3863,19 +3863,19 @@
     },
     {
       "fixture": {
-        "id": 1559176,
+        "id": 1559180,
         "referee": null,
         "timezone": "UTC",
-        "date": "2026-10-24T18:00:00+00:00",
-        "timestamp": 1792864800,
+        "date": "2026-10-25T18:15:00+00:00",
+        "timestamp": 1792952100,
         "periods": {
           "first": null,
           "second": null
         },
         "venue": {
           "id": null,
-          "name": "Lotto Park",
-          "city": "Anderlecht"
+          "name": "Stade de Rocourt",
+          "city": null
         },
         "status": {
           "long": "Not Started",
@@ -3896,9 +3896,149 @@
       },
       "teams": {
         "home": {
-          "id": 19046,
-          "name": "RSC Anderlecht II",
-          "logo": "https://media.api-sports.io/football/teams/19046.png",
+          "id": 6220,
+          "name": "Liège",
+          "logo": "https://media.api-sports.io/football/teams/6220.png",
+          "winner": null
+        },
+        "away": {
+          "id": 6222,
+          "name": "Patro Eisden",
+          "logo": "https://media.api-sports.io/football/teams/6222.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1559189,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2026-10-30T19:00:00+00:00",
+        "timestamp": 1793386800,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": 4600,
+          "name": "Stade du Pairay",
+          "city": "Seraing"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 145,
+        "name": "Challenger Pro League",
+        "country": "Belgium",
+        "logo": "https://media.api-sports.io/football/leagues/145.png",
+        "flag": "https://media.api-sports.io/flags/be.svg",
+        "season": 2026,
+        "round": "Regular Season - 9",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 10244,
+          "name": "Seraing United",
+          "logo": "https://media.api-sports.io/football/teams/10244.png",
+          "winner": null
+        },
+        "away": {
+          "id": 6220,
+          "name": "Liège",
+          "logo": "https://media.api-sports.io/football/teams/6220.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1559187,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2026-10-30T19:00:00+00:00",
+        "timestamp": 1793386800,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": 20727,
+          "name": "Planet Group Arena",
+          "city": "Gent"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 145,
+        "name": "Challenger Pro League",
+        "country": "Belgium",
+        "logo": "https://media.api-sports.io/football/leagues/145.png",
+        "flag": "https://media.api-sports.io/flags/be.svg",
+        "season": 2026,
+        "round": "Regular Season - 9",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 19685,
+          "name": "KAA Gent II",
+          "logo": "https://media.api-sports.io/football/teams/19685.png",
           "winner": null
         },
         "away": {
@@ -3936,8 +4076,8 @@
         "id": 1559183,
         "referee": null,
         "timezone": "UTC",
-        "date": "2026-10-31T19:00:00+00:00",
-        "timestamp": 1793473200,
+        "date": "2026-10-31T15:00:00+00:00",
+        "timestamp": 1793458800,
         "periods": {
           "first": null,
           "second": null
@@ -4003,151 +4143,11 @@
     },
     {
       "fixture": {
-        "id": 1559186,
-        "referee": null,
-        "timezone": "UTC",
-        "date": "2026-10-31T19:00:00+00:00",
-        "timestamp": 1793473200,
-        "periods": {
-          "first": null,
-          "second": null
-        },
-        "venue": {
-          "id": 20333,
-          "name": "Kehrwegstadion",
-          "city": "Eupen"
-        },
-        "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
-        }
-      },
-      "league": {
-        "id": 145,
-        "name": "Challenger Pro League",
-        "country": "Belgium",
-        "logo": "https://media.api-sports.io/football/leagues/145.png",
-        "flag": "https://media.api-sports.io/flags/be.svg",
-        "season": 2026,
-        "round": "Regular Season - 9",
-        "standings": true
-      },
-      "teams": {
-        "home": {
-          "id": 739,
-          "name": "AS Eupen",
-          "logo": "https://media.api-sports.io/football/teams/739.png",
-          "winner": null
-        },
-        "away": {
-          "id": 4715,
-          "name": "Excelsior Virton",
-          "logo": "https://media.api-sports.io/football/teams/4715.png",
-          "winner": null
-        }
-      },
-      "goals": {
-        "home": null,
-        "away": null
-      },
-      "score": {
-        "halftime": {
-          "home": null,
-          "away": null
-        },
-        "fulltime": {
-          "home": null,
-          "away": null
-        },
-        "extratime": {
-          "home": null,
-          "away": null
-        },
-        "penalty": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "fixture": {
-        "id": 1559185,
-        "referee": null,
-        "timezone": "UTC",
-        "date": "2026-10-31T19:00:00+00:00",
-        "timestamp": 1793473200,
-        "periods": {
-          "first": null,
-          "second": null
-        },
-        "venue": {
-          "id": 19052,
-          "name": "Dender Football Complex",
-          "city": "Denderleeuw"
-        },
-        "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
-        }
-      },
-      "league": {
-        "id": 145,
-        "name": "Challenger Pro League",
-        "country": "Belgium",
-        "logo": "https://media.api-sports.io/football/leagues/145.png",
-        "flag": "https://media.api-sports.io/flags/be.svg",
-        "season": 2026,
-        "round": "Regular Season - 9",
-        "standings": true
-      },
-      "teams": {
-        "home": {
-          "id": 6215,
-          "name": "Dender",
-          "logo": "https://media.api-sports.io/football/teams/6215.png",
-          "winner": null
-        },
-        "away": {
-          "id": 19045,
-          "name": "KRC Genk II",
-          "logo": "https://media.api-sports.io/football/teams/19045.png",
-          "winner": null
-        }
-      },
-      "goals": {
-        "home": null,
-        "away": null
-      },
-      "score": {
-        "halftime": {
-          "home": null,
-          "away": null
-        },
-        "fulltime": {
-          "home": null,
-          "away": null
-        },
-        "extratime": {
-          "home": null,
-          "away": null
-        },
-        "penalty": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "fixture": {
         "id": 1559188,
         "referee": null,
         "timezone": "UTC",
-        "date": "2026-10-31T19:00:00+00:00",
-        "timestamp": 1793473200,
+        "date": "2026-10-31T15:00:00+00:00",
+        "timestamp": 1793458800,
         "periods": {
           "first": null,
           "second": null
@@ -4185,76 +4185,6 @@
           "id": 14128,
           "name": "Lokeren-Temse",
           "logo": "https://media.api-sports.io/football/teams/14128.png",
-          "winner": null
-        }
-      },
-      "goals": {
-        "home": null,
-        "away": null
-      },
-      "score": {
-        "halftime": {
-          "home": null,
-          "away": null
-        },
-        "fulltime": {
-          "home": null,
-          "away": null
-        },
-        "extratime": {
-          "home": null,
-          "away": null
-        },
-        "penalty": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "fixture": {
-        "id": 1559189,
-        "referee": null,
-        "timezone": "UTC",
-        "date": "2026-10-31T19:00:00+00:00",
-        "timestamp": 1793473200,
-        "periods": {
-          "first": null,
-          "second": null
-        },
-        "venue": {
-          "id": 4600,
-          "name": "Stade du Pairay",
-          "city": "Seraing"
-        },
-        "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
-        }
-      },
-      "league": {
-        "id": 145,
-        "name": "Challenger Pro League",
-        "country": "Belgium",
-        "logo": "https://media.api-sports.io/football/leagues/145.png",
-        "flag": "https://media.api-sports.io/flags/be.svg",
-        "season": 2026,
-        "round": "Regular Season - 9",
-        "standings": true
-      },
-      "teams": {
-        "home": {
-          "id": 10244,
-          "name": "Seraing United",
-          "logo": "https://media.api-sports.io/football/teams/10244.png",
-          "winner": null
-        },
-        "away": {
-          "id": 6220,
-          "name": "Liège",
-          "logo": "https://media.api-sports.io/football/teams/6220.png",
           "winner": null
         }
       },
@@ -4353,19 +4283,19 @@
     },
     {
       "fixture": {
-        "id": 1559187,
+        "id": 1559185,
         "referee": null,
         "timezone": "UTC",
-        "date": "2026-10-31T19:00:00+00:00",
-        "timestamp": 1793473200,
+        "date": "2026-11-01T15:00:00+00:00",
+        "timestamp": 1793545200,
         "periods": {
           "first": null,
           "second": null
         },
         "venue": {
-          "id": 20727,
-          "name": "Planet Group Arena",
-          "city": "Gent"
+          "id": 19052,
+          "name": "Dender Football Complex",
+          "city": "Denderleeuw"
         },
         "status": {
           "long": "Not Started",
@@ -4386,15 +4316,365 @@
       },
       "teams": {
         "home": {
+          "id": 6215,
+          "name": "Dender",
+          "logo": "https://media.api-sports.io/football/teams/6215.png",
+          "winner": null
+        },
+        "away": {
+          "id": 19045,
+          "name": "KRC Genk II",
+          "logo": "https://media.api-sports.io/football/teams/19045.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1559186,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2026-11-01T18:15:00+00:00",
+        "timestamp": 1793556900,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": 20333,
+          "name": "Kehrwegstadion",
+          "city": "Eupen"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 145,
+        "name": "Challenger Pro League",
+        "country": "Belgium",
+        "logo": "https://media.api-sports.io/football/leagues/145.png",
+        "flag": "https://media.api-sports.io/flags/be.svg",
+        "season": 2026,
+        "round": "Regular Season - 9",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 739,
+          "name": "AS Eupen",
+          "logo": "https://media.api-sports.io/football/teams/739.png",
+          "winner": null
+        },
+        "away": {
+          "id": 4715,
+          "name": "Excelsior Virton",
+          "logo": "https://media.api-sports.io/football/teams/4715.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1559193,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2026-11-06T19:00:00+00:00",
+        "timestamp": 1793991600,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": null,
+          "name": null,
+          "city": null
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 145,
+        "name": "Challenger Pro League",
+        "country": "Belgium",
+        "logo": "https://media.api-sports.io/football/leagues/145.png",
+        "flag": "https://media.api-sports.io/flags/be.svg",
+        "season": 2026,
+        "round": "Regular Season - 10",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 5931,
+          "name": "Sporting Hasselt",
+          "logo": "https://media.api-sports.io/football/teams/5931.png",
+          "winner": null
+        },
+        "away": {
+          "id": 6222,
+          "name": "Patro Eisden",
+          "logo": "https://media.api-sports.io/football/teams/6222.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1559192,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2026-11-06T19:00:00+00:00",
+        "timestamp": 1793991600,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": 12455,
+          "name": "Cegeka Arena",
+          "city": "Genk"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 145,
+        "name": "Challenger Pro League",
+        "country": "Belgium",
+        "logo": "https://media.api-sports.io/football/leagues/145.png",
+        "flag": "https://media.api-sports.io/flags/be.svg",
+        "season": 2026,
+        "round": "Regular Season - 10",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 19045,
+          "name": "KRC Genk II",
+          "logo": "https://media.api-sports.io/football/teams/19045.png",
+          "winner": null
+        },
+        "away": {
           "id": 19685,
           "name": "KAA Gent II",
           "logo": "https://media.api-sports.io/football/teams/19685.png",
           "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1559191,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2026-11-07T15:00:00+00:00",
+        "timestamp": 1794063600,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": 4311,
+          "name": "Stade Robert Urbain",
+          "city": "Boussu"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 145,
+        "name": "Challenger Pro League",
+        "country": "Belgium",
+        "logo": "https://media.api-sports.io/football/leagues/145.png",
+        "flag": "https://media.api-sports.io/flags/be.svg",
+        "season": 2026,
+        "round": "Regular Season - 10",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 5805,
+          "name": "Francs Borains",
+          "logo": "https://media.api-sports.io/football/teams/5805.png",
+          "winner": null
         },
         "away": {
-          "id": 6219,
-          "name": "K. Lierse S.K.",
-          "logo": "https://media.api-sports.io/football/teams/6219.png",
+          "id": 10244,
+          "name": "Seraing United",
+          "logo": "https://media.api-sports.io/football/teams/10244.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1559190,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2026-11-07T15:00:00+00:00",
+        "timestamp": 1794063600,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": null,
+          "name": "Lotto Park",
+          "city": "Anderlecht"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 145,
+        "name": "Challenger Pro League",
+        "country": "Belgium",
+        "logo": "https://media.api-sports.io/football/leagues/145.png",
+        "flag": "https://media.api-sports.io/flags/be.svg",
+        "season": 2026,
+        "round": "Regular Season - 10",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 19046,
+          "name": "RSC Anderlecht II",
+          "logo": "https://media.api-sports.io/football/teams/19046.png",
+          "winner": null
+        },
+        "away": {
+          "id": 14130,
+          "name": "Club Brugge II",
+          "logo": "https://media.api-sports.io/football/teams/14130.png",
           "winner": null
         }
       },
@@ -4493,151 +4773,11 @@
     },
     {
       "fixture": {
-        "id": 1559191,
-        "referee": null,
-        "timezone": "UTC",
-        "date": "2026-11-07T19:00:00+00:00",
-        "timestamp": 1794078000,
-        "periods": {
-          "first": null,
-          "second": null
-        },
-        "venue": {
-          "id": 4311,
-          "name": "Stade Robert Urbain",
-          "city": "Boussu"
-        },
-        "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
-        }
-      },
-      "league": {
-        "id": 145,
-        "name": "Challenger Pro League",
-        "country": "Belgium",
-        "logo": "https://media.api-sports.io/football/leagues/145.png",
-        "flag": "https://media.api-sports.io/flags/be.svg",
-        "season": 2026,
-        "round": "Regular Season - 10",
-        "standings": true
-      },
-      "teams": {
-        "home": {
-          "id": 5805,
-          "name": "Francs Borains",
-          "logo": "https://media.api-sports.io/football/teams/5805.png",
-          "winner": null
-        },
-        "away": {
-          "id": 10244,
-          "name": "Seraing United",
-          "logo": "https://media.api-sports.io/football/teams/10244.png",
-          "winner": null
-        }
-      },
-      "goals": {
-        "home": null,
-        "away": null
-      },
-      "score": {
-        "halftime": {
-          "home": null,
-          "away": null
-        },
-        "fulltime": {
-          "home": null,
-          "away": null
-        },
-        "extratime": {
-          "home": null,
-          "away": null
-        },
-        "penalty": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "fixture": {
-        "id": 1559193,
-        "referee": null,
-        "timezone": "UTC",
-        "date": "2026-11-07T19:00:00+00:00",
-        "timestamp": 1794078000,
-        "periods": {
-          "first": null,
-          "second": null
-        },
-        "venue": {
-          "id": null,
-          "name": null,
-          "city": null
-        },
-        "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
-        }
-      },
-      "league": {
-        "id": 145,
-        "name": "Challenger Pro League",
-        "country": "Belgium",
-        "logo": "https://media.api-sports.io/football/leagues/145.png",
-        "flag": "https://media.api-sports.io/flags/be.svg",
-        "season": 2026,
-        "round": "Regular Season - 10",
-        "standings": true
-      },
-      "teams": {
-        "home": {
-          "id": 5931,
-          "name": "Sporting Hasselt",
-          "logo": "https://media.api-sports.io/football/teams/5931.png",
-          "winner": null
-        },
-        "away": {
-          "id": 6222,
-          "name": "Patro Eisden",
-          "logo": "https://media.api-sports.io/football/teams/6222.png",
-          "winner": null
-        }
-      },
-      "goals": {
-        "home": null,
-        "away": null
-      },
-      "score": {
-        "halftime": {
-          "home": null,
-          "away": null
-        },
-        "fulltime": {
-          "home": null,
-          "away": null
-        },
-        "extratime": {
-          "home": null,
-          "away": null
-        },
-        "penalty": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "fixture": {
         "id": 1559194,
         "referee": null,
         "timezone": "UTC",
-        "date": "2026-11-07T19:00:00+00:00",
-        "timestamp": 1794078000,
+        "date": "2026-11-08T15:00:00+00:00",
+        "timestamp": 1794150000,
         "periods": {
           "first": null,
           "second": null
@@ -4706,8 +4846,8 @@
         "id": 1559195,
         "referee": null,
         "timezone": "UTC",
-        "date": "2026-11-07T19:00:00+00:00",
-        "timestamp": 1794078000,
+        "date": "2026-11-08T18:15:00+00:00",
+        "timestamp": 1794161700,
         "periods": {
           "first": null,
           "second": null
@@ -4773,291 +4913,11 @@
     },
     {
       "fixture": {
-        "id": 1559192,
-        "referee": null,
-        "timezone": "UTC",
-        "date": "2026-11-07T19:00:00+00:00",
-        "timestamp": 1794078000,
-        "periods": {
-          "first": null,
-          "second": null
-        },
-        "venue": {
-          "id": 12455,
-          "name": "Cegeka Arena",
-          "city": "Genk"
-        },
-        "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
-        }
-      },
-      "league": {
-        "id": 145,
-        "name": "Challenger Pro League",
-        "country": "Belgium",
-        "logo": "https://media.api-sports.io/football/leagues/145.png",
-        "flag": "https://media.api-sports.io/flags/be.svg",
-        "season": 2026,
-        "round": "Regular Season - 10",
-        "standings": true
-      },
-      "teams": {
-        "home": {
-          "id": 19045,
-          "name": "KRC Genk II",
-          "logo": "https://media.api-sports.io/football/teams/19045.png",
-          "winner": null
-        },
-        "away": {
-          "id": 19685,
-          "name": "KAA Gent II",
-          "logo": "https://media.api-sports.io/football/teams/19685.png",
-          "winner": null
-        }
-      },
-      "goals": {
-        "home": null,
-        "away": null
-      },
-      "score": {
-        "halftime": {
-          "home": null,
-          "away": null
-        },
-        "fulltime": {
-          "home": null,
-          "away": null
-        },
-        "extratime": {
-          "home": null,
-          "away": null
-        },
-        "penalty": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "fixture": {
-        "id": 1559190,
-        "referee": null,
-        "timezone": "UTC",
-        "date": "2026-11-07T19:00:00+00:00",
-        "timestamp": 1794078000,
-        "periods": {
-          "first": null,
-          "second": null
-        },
-        "venue": {
-          "id": null,
-          "name": "Lotto Park",
-          "city": "Anderlecht"
-        },
-        "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
-        }
-      },
-      "league": {
-        "id": 145,
-        "name": "Challenger Pro League",
-        "country": "Belgium",
-        "logo": "https://media.api-sports.io/football/leagues/145.png",
-        "flag": "https://media.api-sports.io/flags/be.svg",
-        "season": 2026,
-        "round": "Regular Season - 10",
-        "standings": true
-      },
-      "teams": {
-        "home": {
-          "id": 19046,
-          "name": "RSC Anderlecht II",
-          "logo": "https://media.api-sports.io/football/teams/19046.png",
-          "winner": null
-        },
-        "away": {
-          "id": 14130,
-          "name": "Club Brugge II",
-          "logo": "https://media.api-sports.io/football/teams/14130.png",
-          "winner": null
-        }
-      },
-      "goals": {
-        "home": null,
-        "away": null
-      },
-      "score": {
-        "halftime": {
-          "home": null,
-          "away": null
-        },
-        "fulltime": {
-          "home": null,
-          "away": null
-        },
-        "extratime": {
-          "home": null,
-          "away": null
-        },
-        "penalty": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "fixture": {
-        "id": 1559197,
-        "referee": null,
-        "timezone": "UTC",
-        "date": "2026-11-21T19:00:00+00:00",
-        "timestamp": 1795287600,
-        "periods": {
-          "first": null,
-          "second": null
-        },
-        "venue": {
-          "id": null,
-          "name": "Olympisch Stadion",
-          "city": "Antwerp"
-        },
-        "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
-        }
-      },
-      "league": {
-        "id": 145,
-        "name": "Challenger Pro League",
-        "country": "Belgium",
-        "logo": "https://media.api-sports.io/football/leagues/145.png",
-        "flag": "https://media.api-sports.io/flags/be.svg",
-        "season": 2026,
-        "round": "Regular Season - 11",
-        "standings": true
-      },
-      "teams": {
-        "home": {
-          "id": 263,
-          "name": "Beerschot VA",
-          "logo": "https://media.api-sports.io/football/teams/263.png",
-          "winner": null
-        },
-        "away": {
-          "id": 19045,
-          "name": "KRC Genk II",
-          "logo": "https://media.api-sports.io/football/teams/19045.png",
-          "winner": null
-        }
-      },
-      "goals": {
-        "home": null,
-        "away": null
-      },
-      "score": {
-        "halftime": {
-          "home": null,
-          "away": null
-        },
-        "fulltime": {
-          "home": null,
-          "away": null
-        },
-        "extratime": {
-          "home": null,
-          "away": null
-        },
-        "penalty": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "fixture": {
-        "id": 1559199,
-        "referee": null,
-        "timezone": "UTC",
-        "date": "2026-11-21T19:00:00+00:00",
-        "timestamp": 1795287600,
-        "periods": {
-          "first": null,
-          "second": null
-        },
-        "venue": {
-          "id": 20333,
-          "name": "Kehrwegstadion",
-          "city": "Eupen"
-        },
-        "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
-        }
-      },
-      "league": {
-        "id": 145,
-        "name": "Challenger Pro League",
-        "country": "Belgium",
-        "logo": "https://media.api-sports.io/football/leagues/145.png",
-        "flag": "https://media.api-sports.io/flags/be.svg",
-        "season": 2026,
-        "round": "Regular Season - 11",
-        "standings": true
-      },
-      "teams": {
-        "home": {
-          "id": 739,
-          "name": "AS Eupen",
-          "logo": "https://media.api-sports.io/football/teams/739.png",
-          "winner": null
-        },
-        "away": {
-          "id": 5931,
-          "name": "Sporting Hasselt",
-          "logo": "https://media.api-sports.io/football/teams/5931.png",
-          "winner": null
-        }
-      },
-      "goals": {
-        "home": null,
-        "away": null
-      },
-      "score": {
-        "halftime": {
-          "home": null,
-          "away": null
-        },
-        "fulltime": {
-          "home": null,
-          "away": null
-        },
-        "extratime": {
-          "home": null,
-          "away": null
-        },
-        "penalty": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "fixture": {
         "id": 1559201,
         "referee": null,
         "timezone": "UTC",
-        "date": "2026-11-21T19:00:00+00:00",
-        "timestamp": 1795287600,
+        "date": "2026-11-20T19:00:00+00:00",
+        "timestamp": 1795201200,
         "periods": {
           "first": null,
           "second": null
@@ -5123,11 +4983,151 @@
     },
     {
       "fixture": {
+        "id": 1559198,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2026-11-20T19:00:00+00:00",
+        "timestamp": 1795201200,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": null,
+          "name": null,
+          "city": "Roeselare"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 145,
+        "name": "Challenger Pro League",
+        "country": "Belgium",
+        "logo": "https://media.api-sports.io/football/leagues/145.png",
+        "flag": "https://media.api-sports.io/flags/be.svg",
+        "season": 2026,
+        "round": "Regular Season - 11",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 14130,
+          "name": "Club Brugge II",
+          "logo": "https://media.api-sports.io/football/teams/14130.png",
+          "winner": null
+        },
+        "away": {
+          "id": 4715,
+          "name": "Excelsior Virton",
+          "logo": "https://media.api-sports.io/football/teams/4715.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1559199,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2026-11-21T15:00:00+00:00",
+        "timestamp": 1795273200,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": 20333,
+          "name": "Kehrwegstadion",
+          "city": "Eupen"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 145,
+        "name": "Challenger Pro League",
+        "country": "Belgium",
+        "logo": "https://media.api-sports.io/football/leagues/145.png",
+        "flag": "https://media.api-sports.io/flags/be.svg",
+        "season": 2026,
+        "round": "Regular Season - 11",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 739,
+          "name": "AS Eupen",
+          "logo": "https://media.api-sports.io/football/teams/739.png",
+          "winner": null
+        },
+        "away": {
+          "id": 5931,
+          "name": "Sporting Hasselt",
+          "logo": "https://media.api-sports.io/football/teams/5931.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
         "id": 1559202,
         "referee": null,
         "timezone": "UTC",
-        "date": "2026-11-21T19:00:00+00:00",
-        "timestamp": 1795287600,
+        "date": "2026-11-21T15:00:00+00:00",
+        "timestamp": 1795273200,
         "periods": {
           "first": null,
           "second": null
@@ -5263,19 +5263,19 @@
     },
     {
       "fixture": {
-        "id": 1559198,
+        "id": 1559197,
         "referee": null,
         "timezone": "UTC",
-        "date": "2026-11-21T19:00:00+00:00",
-        "timestamp": 1795287600,
+        "date": "2026-11-22T15:00:00+00:00",
+        "timestamp": 1795359600,
         "periods": {
           "first": null,
           "second": null
         },
         "venue": {
           "id": null,
-          "name": null,
-          "city": "Roeselare"
+          "name": "Olympisch Stadion",
+          "city": "Antwerp"
         },
         "status": {
           "long": "Not Started",
@@ -5296,15 +5296,15 @@
       },
       "teams": {
         "home": {
-          "id": 14130,
-          "name": "Club Brugge II",
-          "logo": "https://media.api-sports.io/football/teams/14130.png",
+          "id": 263,
+          "name": "Beerschot VA",
+          "logo": "https://media.api-sports.io/football/teams/263.png",
           "winner": null
         },
         "away": {
-          "id": 4715,
-          "name": "Excelsior Virton",
-          "logo": "https://media.api-sports.io/football/teams/4715.png",
+          "id": 19045,
+          "name": "KRC Genk II",
+          "logo": "https://media.api-sports.io/football/teams/19045.png",
           "winner": null
         }
       },
@@ -5336,8 +5336,8 @@
         "id": 1559200,
         "referee": null,
         "timezone": "UTC",
-        "date": "2026-11-21T19:00:00+00:00",
-        "timestamp": 1795287600,
+        "date": "2026-11-22T18:15:00+00:00",
+        "timestamp": 1795371300,
         "periods": {
           "first": null,
           "second": null
@@ -5403,81 +5403,11 @@
     },
     {
       "fixture": {
-        "id": 1559210,
-        "referee": null,
-        "timezone": "UTC",
-        "date": "2026-11-28T19:00:00+00:00",
-        "timestamp": 1795892400,
-        "periods": {
-          "first": null,
-          "second": null
-        },
-        "venue": {
-          "id": 3563,
-          "name": "Stade Yvan Georges",
-          "city": "Virton"
-        },
-        "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
-        }
-      },
-      "league": {
-        "id": 145,
-        "name": "Challenger Pro League",
-        "country": "Belgium",
-        "logo": "https://media.api-sports.io/football/leagues/145.png",
-        "flag": "https://media.api-sports.io/flags/be.svg",
-        "season": 2026,
-        "round": "Regular Season - 12",
-        "standings": true
-      },
-      "teams": {
-        "home": {
-          "id": 4715,
-          "name": "Excelsior Virton",
-          "logo": "https://media.api-sports.io/football/teams/4715.png",
-          "winner": null
-        },
-        "away": {
-          "id": 6215,
-          "name": "Dender",
-          "logo": "https://media.api-sports.io/football/teams/6215.png",
-          "winner": null
-        }
-      },
-      "goals": {
-        "home": null,
-        "away": null
-      },
-      "score": {
-        "halftime": {
-          "home": null,
-          "away": null
-        },
-        "fulltime": {
-          "home": null,
-          "away": null
-        },
-        "extratime": {
-          "home": null,
-          "away": null
-        },
-        "penalty": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "fixture": {
         "id": 1559205,
         "referee": null,
         "timezone": "UTC",
-        "date": "2026-11-28T19:00:00+00:00",
-        "timestamp": 1795892400,
+        "date": "2026-11-27T19:00:00+00:00",
+        "timestamp": 1795806000,
         "periods": {
           "first": null,
           "second": null
@@ -5543,19 +5473,19 @@
     },
     {
       "fixture": {
-        "id": 1559207,
+        "id": 1559206,
         "referee": null,
         "timezone": "UTC",
-        "date": "2026-11-28T19:00:00+00:00",
-        "timestamp": 1795892400,
+        "date": "2026-11-27T19:00:00+00:00",
+        "timestamp": 1795806000,
         "periods": {
           "first": null,
           "second": null
         },
         "venue": {
-          "id": null,
-          "name": null,
-          "city": null
+          "id": 12455,
+          "name": "Cegeka Arena",
+          "city": "Genk"
         },
         "status": {
           "long": "Not Started",
@@ -5576,15 +5506,15 @@
       },
       "teams": {
         "home": {
-          "id": 5931,
-          "name": "Sporting Hasselt",
-          "logo": "https://media.api-sports.io/football/teams/5931.png",
+          "id": 19045,
+          "name": "KRC Genk II",
+          "logo": "https://media.api-sports.io/football/teams/19045.png",
           "winner": null
         },
         "away": {
-          "id": 6220,
-          "name": "Liège",
-          "logo": "https://media.api-sports.io/football/teams/6220.png",
+          "id": 19046,
+          "name": "RSC Anderlecht II",
+          "logo": "https://media.api-sports.io/football/teams/19046.png",
           "winner": null
         }
       },
@@ -5616,8 +5546,8 @@
         "id": 1559208,
         "referee": null,
         "timezone": "UTC",
-        "date": "2026-11-28T19:00:00+00:00",
-        "timestamp": 1795892400,
+        "date": "2026-11-28T15:00:00+00:00",
+        "timestamp": 1795878000,
         "periods": {
           "first": null,
           "second": null
@@ -5655,6 +5585,76 @@
           "id": 19685,
           "name": "KAA Gent II",
           "logo": "https://media.api-sports.io/football/teams/19685.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1559204,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2026-11-28T15:00:00+00:00",
+        "timestamp": 1795878000,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": null,
+          "name": null,
+          "city": "Roeselare"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 145,
+        "name": "Challenger Pro League",
+        "country": "Belgium",
+        "logo": "https://media.api-sports.io/football/leagues/145.png",
+        "flag": "https://media.api-sports.io/flags/be.svg",
+        "season": 2026,
+        "round": "Regular Season - 12",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 14130,
+          "name": "Club Brugge II",
+          "logo": "https://media.api-sports.io/football/teams/14130.png",
+          "winner": null
+        },
+        "away": {
+          "id": 6219,
+          "name": "K. Lierse S.K.",
+          "logo": "https://media.api-sports.io/football/teams/6219.png",
           "winner": null
         }
       },
@@ -5753,19 +5753,19 @@
     },
     {
       "fixture": {
-        "id": 1559204,
+        "id": 1559210,
         "referee": null,
         "timezone": "UTC",
-        "date": "2026-11-28T19:00:00+00:00",
-        "timestamp": 1795892400,
+        "date": "2026-11-29T15:00:00+00:00",
+        "timestamp": 1795964400,
         "periods": {
           "first": null,
           "second": null
         },
         "venue": {
-          "id": null,
-          "name": null,
-          "city": "Roeselare"
+          "id": 3563,
+          "name": "Stade Yvan Georges",
+          "city": "Virton"
         },
         "status": {
           "long": "Not Started",
@@ -5786,15 +5786,15 @@
       },
       "teams": {
         "home": {
-          "id": 14130,
-          "name": "Club Brugge II",
-          "logo": "https://media.api-sports.io/football/teams/14130.png",
+          "id": 4715,
+          "name": "Excelsior Virton",
+          "logo": "https://media.api-sports.io/football/teams/4715.png",
           "winner": null
         },
         "away": {
-          "id": 6219,
-          "name": "K. Lierse S.K.",
-          "logo": "https://media.api-sports.io/football/teams/6219.png",
+          "id": 6215,
+          "name": "Dender",
+          "logo": "https://media.api-sports.io/football/teams/6215.png",
           "winner": null
         }
       },
@@ -5823,11 +5823,291 @@
     },
     {
       "fixture": {
-        "id": 1559206,
+        "id": 1559207,
         "referee": null,
         "timezone": "UTC",
-        "date": "2026-11-28T19:00:00+00:00",
-        "timestamp": 1795892400,
+        "date": "2026-11-29T18:15:00+00:00",
+        "timestamp": 1795976100,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": null,
+          "name": null,
+          "city": null
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 145,
+        "name": "Challenger Pro League",
+        "country": "Belgium",
+        "logo": "https://media.api-sports.io/football/leagues/145.png",
+        "flag": "https://media.api-sports.io/flags/be.svg",
+        "season": 2026,
+        "round": "Regular Season - 12",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 5931,
+          "name": "Sporting Hasselt",
+          "logo": "https://media.api-sports.io/football/teams/5931.png",
+          "winner": null
+        },
+        "away": {
+          "id": 6220,
+          "name": "Liège",
+          "logo": "https://media.api-sports.io/football/teams/6220.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1559217,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2026-12-04T19:00:00+00:00",
+        "timestamp": 1796410800,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": null,
+          "name": "Stade de Rocourt",
+          "city": null
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 145,
+        "name": "Challenger Pro League",
+        "country": "Belgium",
+        "logo": "https://media.api-sports.io/football/leagues/145.png",
+        "flag": "https://media.api-sports.io/flags/be.svg",
+        "season": 2026,
+        "round": "Regular Season - 13",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 6220,
+          "name": "Liège",
+          "logo": "https://media.api-sports.io/football/teams/6220.png",
+          "winner": null
+        },
+        "away": {
+          "id": 14128,
+          "name": "Lokeren-Temse",
+          "logo": "https://media.api-sports.io/football/teams/14128.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1559215,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2026-12-04T19:00:00+00:00",
+        "timestamp": 1796410800,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": 20727,
+          "name": "Planet Group Arena",
+          "city": "Gent"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 145,
+        "name": "Challenger Pro League",
+        "country": "Belgium",
+        "logo": "https://media.api-sports.io/football/leagues/145.png",
+        "flag": "https://media.api-sports.io/flags/be.svg",
+        "season": 2026,
+        "round": "Regular Season - 13",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 19685,
+          "name": "KAA Gent II",
+          "logo": "https://media.api-sports.io/football/teams/19685.png",
+          "winner": null
+        },
+        "away": {
+          "id": 4715,
+          "name": "Excelsior Virton",
+          "logo": "https://media.api-sports.io/football/teams/4715.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1559216,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2026-12-05T15:00:00+00:00",
+        "timestamp": 1796482800,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": 2664,
+          "name": "Herman Vanderpoortenstadion",
+          "city": "Lier"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 145,
+        "name": "Challenger Pro League",
+        "country": "Belgium",
+        "logo": "https://media.api-sports.io/football/leagues/145.png",
+        "flag": "https://media.api-sports.io/flags/be.svg",
+        "season": 2026,
+        "round": "Regular Season - 13",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 6219,
+          "name": "K. Lierse S.K.",
+          "logo": "https://media.api-sports.io/football/teams/6219.png",
+          "winner": null
+        },
+        "away": {
+          "id": 5931,
+          "name": "Sporting Hasselt",
+          "logo": "https://media.api-sports.io/football/teams/5931.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1559214,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2026-12-05T15:00:00+00:00",
+        "timestamp": 1796482800,
         "periods": {
           "first": null,
           "second": null
@@ -5851,7 +6131,7 @@
         "logo": "https://media.api-sports.io/football/leagues/145.png",
         "flag": "https://media.api-sports.io/flags/be.svg",
         "season": 2026,
-        "round": "Regular Season - 12",
+        "round": "Regular Season - 13",
         "standings": true
       },
       "teams": {
@@ -5862,9 +6142,9 @@
           "winner": null
         },
         "away": {
-          "id": 19046,
-          "name": "RSC Anderlecht II",
-          "logo": "https://media.api-sports.io/football/teams/19046.png",
+          "id": 5805,
+          "name": "Francs Borains",
+          "logo": "https://media.api-sports.io/football/teams/5805.png",
           "winner": null
         }
       },
@@ -5966,8 +6246,8 @@
         "id": 1559213,
         "referee": null,
         "timezone": "UTC",
-        "date": "2026-12-05T19:00:00+00:00",
-        "timestamp": 1796497200,
+        "date": "2026-12-06T15:00:00+00:00",
+        "timestamp": 1796569200,
         "periods": {
           "first": null,
           "second": null
@@ -6033,221 +6313,11 @@
     },
     {
       "fixture": {
-        "id": 1559216,
-        "referee": null,
-        "timezone": "UTC",
-        "date": "2026-12-05T19:00:00+00:00",
-        "timestamp": 1796497200,
-        "periods": {
-          "first": null,
-          "second": null
-        },
-        "venue": {
-          "id": 2664,
-          "name": "Herman Vanderpoortenstadion",
-          "city": "Lier"
-        },
-        "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
-        }
-      },
-      "league": {
-        "id": 145,
-        "name": "Challenger Pro League",
-        "country": "Belgium",
-        "logo": "https://media.api-sports.io/football/leagues/145.png",
-        "flag": "https://media.api-sports.io/flags/be.svg",
-        "season": 2026,
-        "round": "Regular Season - 13",
-        "standings": true
-      },
-      "teams": {
-        "home": {
-          "id": 6219,
-          "name": "K. Lierse S.K.",
-          "logo": "https://media.api-sports.io/football/teams/6219.png",
-          "winner": null
-        },
-        "away": {
-          "id": 5931,
-          "name": "Sporting Hasselt",
-          "logo": "https://media.api-sports.io/football/teams/5931.png",
-          "winner": null
-        }
-      },
-      "goals": {
-        "home": null,
-        "away": null
-      },
-      "score": {
-        "halftime": {
-          "home": null,
-          "away": null
-        },
-        "fulltime": {
-          "home": null,
-          "away": null
-        },
-        "extratime": {
-          "home": null,
-          "away": null
-        },
-        "penalty": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "fixture": {
-        "id": 1559217,
-        "referee": null,
-        "timezone": "UTC",
-        "date": "2026-12-05T19:00:00+00:00",
-        "timestamp": 1796497200,
-        "periods": {
-          "first": null,
-          "second": null
-        },
-        "venue": {
-          "id": null,
-          "name": "Stade de Rocourt",
-          "city": null
-        },
-        "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
-        }
-      },
-      "league": {
-        "id": 145,
-        "name": "Challenger Pro League",
-        "country": "Belgium",
-        "logo": "https://media.api-sports.io/football/leagues/145.png",
-        "flag": "https://media.api-sports.io/flags/be.svg",
-        "season": 2026,
-        "round": "Regular Season - 13",
-        "standings": true
-      },
-      "teams": {
-        "home": {
-          "id": 6220,
-          "name": "Liège",
-          "logo": "https://media.api-sports.io/football/teams/6220.png",
-          "winner": null
-        },
-        "away": {
-          "id": 14128,
-          "name": "Lokeren-Temse",
-          "logo": "https://media.api-sports.io/football/teams/14128.png",
-          "winner": null
-        }
-      },
-      "goals": {
-        "home": null,
-        "away": null
-      },
-      "score": {
-        "halftime": {
-          "home": null,
-          "away": null
-        },
-        "fulltime": {
-          "home": null,
-          "away": null
-        },
-        "extratime": {
-          "home": null,
-          "away": null
-        },
-        "penalty": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "fixture": {
-        "id": 1559214,
-        "referee": null,
-        "timezone": "UTC",
-        "date": "2026-12-05T19:00:00+00:00",
-        "timestamp": 1796497200,
-        "periods": {
-          "first": null,
-          "second": null
-        },
-        "venue": {
-          "id": 12455,
-          "name": "Cegeka Arena",
-          "city": "Genk"
-        },
-        "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
-        }
-      },
-      "league": {
-        "id": 145,
-        "name": "Challenger Pro League",
-        "country": "Belgium",
-        "logo": "https://media.api-sports.io/football/leagues/145.png",
-        "flag": "https://media.api-sports.io/flags/be.svg",
-        "season": 2026,
-        "round": "Regular Season - 13",
-        "standings": true
-      },
-      "teams": {
-        "home": {
-          "id": 19045,
-          "name": "KRC Genk II",
-          "logo": "https://media.api-sports.io/football/teams/19045.png",
-          "winner": null
-        },
-        "away": {
-          "id": 5805,
-          "name": "Francs Borains",
-          "logo": "https://media.api-sports.io/football/teams/5805.png",
-          "winner": null
-        }
-      },
-      "goals": {
-        "home": null,
-        "away": null
-      },
-      "score": {
-        "halftime": {
-          "home": null,
-          "away": null
-        },
-        "fulltime": {
-          "home": null,
-          "away": null
-        },
-        "extratime": {
-          "home": null,
-          "away": null
-        },
-        "penalty": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "fixture": {
         "id": 1559211,
         "referee": null,
         "timezone": "UTC",
-        "date": "2026-12-05T19:00:00+00:00",
-        "timestamp": 1796497200,
+        "date": "2026-12-06T18:15:00+00:00",
+        "timestamp": 1796580900,
         "periods": {
           "first": null,
           "second": null
@@ -6313,81 +6383,11 @@
     },
     {
       "fixture": {
-        "id": 1559215,
-        "referee": null,
-        "timezone": "UTC",
-        "date": "2026-12-05T19:00:00+00:00",
-        "timestamp": 1796497200,
-        "periods": {
-          "first": null,
-          "second": null
-        },
-        "venue": {
-          "id": 20727,
-          "name": "Planet Group Arena",
-          "city": "Gent"
-        },
-        "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
-        }
-      },
-      "league": {
-        "id": 145,
-        "name": "Challenger Pro League",
-        "country": "Belgium",
-        "logo": "https://media.api-sports.io/football/leagues/145.png",
-        "flag": "https://media.api-sports.io/flags/be.svg",
-        "season": 2026,
-        "round": "Regular Season - 13",
-        "standings": true
-      },
-      "teams": {
-        "home": {
-          "id": 19685,
-          "name": "KAA Gent II",
-          "logo": "https://media.api-sports.io/football/teams/19685.png",
-          "winner": null
-        },
-        "away": {
-          "id": 4715,
-          "name": "Excelsior Virton",
-          "logo": "https://media.api-sports.io/football/teams/4715.png",
-          "winner": null
-        }
-      },
-      "goals": {
-        "home": null,
-        "away": null
-      },
-      "score": {
-        "halftime": {
-          "home": null,
-          "away": null
-        },
-        "fulltime": {
-          "home": null,
-          "away": null
-        },
-        "extratime": {
-          "home": null,
-          "away": null
-        },
-        "penalty": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "fixture": {
         "id": 1559219,
         "referee": null,
         "timezone": "UTC",
-        "date": "2026-12-12T19:00:00+00:00",
-        "timestamp": 1797102000,
+        "date": "2026-12-11T19:00:00+00:00",
+        "timestamp": 1797015600,
         "periods": {
           "first": null,
           "second": null
@@ -6456,8 +6456,8 @@
         "id": 1559224,
         "referee": null,
         "timezone": "UTC",
-        "date": "2026-12-12T19:00:00+00:00",
-        "timestamp": 1797102000,
+        "date": "2026-12-11T19:00:00+00:00",
+        "timestamp": 1797015600,
         "periods": {
           "first": null,
           "second": null
@@ -6495,6 +6495,146 @@
           "id": 6220,
           "name": "Liège",
           "logo": "https://media.api-sports.io/football/teams/6220.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1559221,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2026-12-12T15:00:00+00:00",
+        "timestamp": 1797087600,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": null,
+          "name": null,
+          "city": null
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 145,
+        "name": "Challenger Pro League",
+        "country": "Belgium",
+        "logo": "https://media.api-sports.io/football/leagues/145.png",
+        "flag": "https://media.api-sports.io/flags/be.svg",
+        "season": 2026,
+        "round": "Regular Season - 14",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 5931,
+          "name": "Sporting Hasselt",
+          "logo": "https://media.api-sports.io/football/teams/5931.png",
+          "winner": null
+        },
+        "away": {
+          "id": 19046,
+          "name": "RSC Anderlecht II",
+          "logo": "https://media.api-sports.io/football/teams/19046.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1559222,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2026-12-12T15:00:00+00:00",
+        "timestamp": 1797087600,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": 4600,
+          "name": "Stade du Pairay",
+          "city": "Seraing"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 145,
+        "name": "Challenger Pro League",
+        "country": "Belgium",
+        "logo": "https://media.api-sports.io/football/leagues/145.png",
+        "flag": "https://media.api-sports.io/flags/be.svg",
+        "season": 2026,
+        "round": "Regular Season - 14",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 10244,
+          "name": "Seraing United",
+          "logo": "https://media.api-sports.io/football/teams/10244.png",
+          "winner": null
+        },
+        "away": {
+          "id": 263,
+          "name": "Beerschot VA",
+          "logo": "https://media.api-sports.io/football/teams/263.png",
           "winner": null
         }
       },
@@ -6593,81 +6733,11 @@
     },
     {
       "fixture": {
-        "id": 1559221,
-        "referee": null,
-        "timezone": "UTC",
-        "date": "2026-12-12T19:00:00+00:00",
-        "timestamp": 1797102000,
-        "periods": {
-          "first": null,
-          "second": null
-        },
-        "venue": {
-          "id": null,
-          "name": null,
-          "city": null
-        },
-        "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
-        }
-      },
-      "league": {
-        "id": 145,
-        "name": "Challenger Pro League",
-        "country": "Belgium",
-        "logo": "https://media.api-sports.io/football/leagues/145.png",
-        "flag": "https://media.api-sports.io/flags/be.svg",
-        "season": 2026,
-        "round": "Regular Season - 14",
-        "standings": true
-      },
-      "teams": {
-        "home": {
-          "id": 5931,
-          "name": "Sporting Hasselt",
-          "logo": "https://media.api-sports.io/football/teams/5931.png",
-          "winner": null
-        },
-        "away": {
-          "id": 19046,
-          "name": "RSC Anderlecht II",
-          "logo": "https://media.api-sports.io/football/teams/19046.png",
-          "winner": null
-        }
-      },
-      "goals": {
-        "home": null,
-        "away": null
-      },
-      "score": {
-        "halftime": {
-          "home": null,
-          "away": null
-        },
-        "fulltime": {
-          "home": null,
-          "away": null
-        },
-        "extratime": {
-          "home": null,
-          "away": null
-        },
-        "penalty": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "fixture": {
         "id": 1559218,
         "referee": null,
         "timezone": "UTC",
-        "date": "2026-12-12T19:00:00+00:00",
-        "timestamp": 1797102000,
+        "date": "2026-12-13T15:00:00+00:00",
+        "timestamp": 1797174000,
         "periods": {
           "first": null,
           "second": null
@@ -6733,81 +6803,11 @@
     },
     {
       "fixture": {
-        "id": 1559222,
-        "referee": null,
-        "timezone": "UTC",
-        "date": "2026-12-12T19:00:00+00:00",
-        "timestamp": 1797102000,
-        "periods": {
-          "first": null,
-          "second": null
-        },
-        "venue": {
-          "id": 4600,
-          "name": "Stade du Pairay",
-          "city": "Seraing"
-        },
-        "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
-        }
-      },
-      "league": {
-        "id": 145,
-        "name": "Challenger Pro League",
-        "country": "Belgium",
-        "logo": "https://media.api-sports.io/football/leagues/145.png",
-        "flag": "https://media.api-sports.io/flags/be.svg",
-        "season": 2026,
-        "round": "Regular Season - 14",
-        "standings": true
-      },
-      "teams": {
-        "home": {
-          "id": 10244,
-          "name": "Seraing United",
-          "logo": "https://media.api-sports.io/football/teams/10244.png",
-          "winner": null
-        },
-        "away": {
-          "id": 263,
-          "name": "Beerschot VA",
-          "logo": "https://media.api-sports.io/football/teams/263.png",
-          "winner": null
-        }
-      },
-      "goals": {
-        "home": null,
-        "away": null
-      },
-      "score": {
-        "halftime": {
-          "home": null,
-          "away": null
-        },
-        "fulltime": {
-          "home": null,
-          "away": null
-        },
-        "extratime": {
-          "home": null,
-          "away": null
-        },
-        "penalty": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "fixture": {
         "id": 1559223,
         "referee": null,
         "timezone": "UTC",
-        "date": "2026-12-12T19:00:00+00:00",
-        "timestamp": 1797102000,
+        "date": "2026-12-13T18:15:00+00:00",
+        "timestamp": 1797185700,
         "periods": {
           "first": null,
           "second": null
@@ -6873,19 +6873,19 @@
     },
     {
       "fixture": {
-        "id": 1559229,
+        "id": 1559231,
         "referee": null,
         "timezone": "UTC",
-        "date": "2026-12-19T19:00:00+00:00",
-        "timestamp": 1797706800,
+        "date": "2026-12-18T19:00:00+00:00",
+        "timestamp": 1797620400,
         "periods": {
           "first": null,
           "second": null
         },
         "venue": {
-          "id": null,
-          "name": null,
-          "city": null
+          "id": 20343,
+          "name": "Patrostadion",
+          "city": "Maasmechelen"
         },
         "status": {
           "long": "Not Started",
@@ -6906,15 +6906,85 @@
       },
       "teams": {
         "home": {
-          "id": 5931,
-          "name": "Sporting Hasselt",
-          "logo": "https://media.api-sports.io/football/teams/5931.png",
+          "id": 6222,
+          "name": "Patro Eisden",
+          "logo": "https://media.api-sports.io/football/teams/6222.png",
           "winner": null
         },
         "away": {
-          "id": 14128,
-          "name": "Lokeren-Temse",
-          "logo": "https://media.api-sports.io/football/teams/14128.png",
+          "id": 4715,
+          "name": "Excelsior Virton",
+          "logo": "https://media.api-sports.io/football/teams/4715.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1559225,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2026-12-18T19:00:00+00:00",
+        "timestamp": 1797620400,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": null,
+          "name": "Lotto Park",
+          "city": "Anderlecht"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 145,
+        "name": "Challenger Pro League",
+        "country": "Belgium",
+        "logo": "https://media.api-sports.io/football/leagues/145.png",
+        "flag": "https://media.api-sports.io/flags/be.svg",
+        "season": 2026,
+        "round": "Regular Season - 15",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 19046,
+          "name": "RSC Anderlecht II",
+          "logo": "https://media.api-sports.io/football/teams/19046.png",
+          "winner": null
+        },
+        "away": {
+          "id": 10244,
+          "name": "Seraing United",
+          "logo": "https://media.api-sports.io/football/teams/10244.png",
           "winner": null
         }
       },
@@ -6946,8 +7016,8 @@
         "id": 1559227,
         "referee": null,
         "timezone": "UTC",
-        "date": "2026-12-19T19:00:00+00:00",
-        "timestamp": 1797706800,
+        "date": "2026-12-19T15:00:00+00:00",
+        "timestamp": 1797692400,
         "periods": {
           "first": null,
           "second": null
@@ -7013,19 +7083,19 @@
     },
     {
       "fixture": {
-        "id": 1559230,
+        "id": 1559228,
         "referee": null,
         "timezone": "UTC",
-        "date": "2026-12-19T19:00:00+00:00",
-        "timestamp": 1797706800,
+        "date": "2026-12-19T15:00:00+00:00",
+        "timestamp": 1797692400,
         "periods": {
           "first": null,
           "second": null
         },
         "venue": {
-          "id": 2664,
-          "name": "Herman Vanderpoortenstadion",
-          "city": "Lier"
+          "id": 20727,
+          "name": "Planet Group Arena",
+          "city": "Gent"
         },
         "status": {
           "long": "Not Started",
@@ -7046,85 +7116,15 @@
       },
       "teams": {
         "home": {
-          "id": 6219,
-          "name": "K. Lierse S.K.",
-          "logo": "https://media.api-sports.io/football/teams/6219.png",
+          "id": 19685,
+          "name": "KAA Gent II",
+          "logo": "https://media.api-sports.io/football/teams/19685.png",
           "winner": null
         },
         "away": {
-          "id": 19045,
-          "name": "KRC Genk II",
-          "logo": "https://media.api-sports.io/football/teams/19045.png",
-          "winner": null
-        }
-      },
-      "goals": {
-        "home": null,
-        "away": null
-      },
-      "score": {
-        "halftime": {
-          "home": null,
-          "away": null
-        },
-        "fulltime": {
-          "home": null,
-          "away": null
-        },
-        "extratime": {
-          "home": null,
-          "away": null
-        },
-        "penalty": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "fixture": {
-        "id": 1559231,
-        "referee": null,
-        "timezone": "UTC",
-        "date": "2026-12-19T19:00:00+00:00",
-        "timestamp": 1797706800,
-        "periods": {
-          "first": null,
-          "second": null
-        },
-        "venue": {
-          "id": 20343,
-          "name": "Patrostadion",
-          "city": "Maasmechelen"
-        },
-        "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
-        }
-      },
-      "league": {
-        "id": 145,
-        "name": "Challenger Pro League",
-        "country": "Belgium",
-        "logo": "https://media.api-sports.io/football/leagues/145.png",
-        "flag": "https://media.api-sports.io/flags/be.svg",
-        "season": 2026,
-        "round": "Regular Season - 15",
-        "standings": true
-      },
-      "teams": {
-        "home": {
-          "id": 6222,
-          "name": "Patro Eisden",
-          "logo": "https://media.api-sports.io/football/teams/6222.png",
-          "winner": null
-        },
-        "away": {
-          "id": 4715,
-          "name": "Excelsior Virton",
-          "logo": "https://media.api-sports.io/football/teams/4715.png",
+          "id": 6220,
+          "name": "Liège",
+          "logo": "https://media.api-sports.io/football/teams/6220.png",
           "winner": null
         }
       },
@@ -7223,19 +7223,19 @@
     },
     {
       "fixture": {
-        "id": 1559225,
+        "id": 1559229,
         "referee": null,
         "timezone": "UTC",
-        "date": "2026-12-19T19:00:00+00:00",
-        "timestamp": 1797706800,
+        "date": "2026-12-20T15:00:00+00:00",
+        "timestamp": 1797778800,
         "periods": {
           "first": null,
           "second": null
         },
         "venue": {
           "id": null,
-          "name": "Lotto Park",
-          "city": "Anderlecht"
+          "name": null,
+          "city": null
         },
         "status": {
           "long": "Not Started",
@@ -7256,15 +7256,15 @@
       },
       "teams": {
         "home": {
-          "id": 19046,
-          "name": "RSC Anderlecht II",
-          "logo": "https://media.api-sports.io/football/teams/19046.png",
+          "id": 5931,
+          "name": "Sporting Hasselt",
+          "logo": "https://media.api-sports.io/football/teams/5931.png",
           "winner": null
         },
         "away": {
-          "id": 10244,
-          "name": "Seraing United",
-          "logo": "https://media.api-sports.io/football/teams/10244.png",
+          "id": 14128,
+          "name": "Lokeren-Temse",
+          "logo": "https://media.api-sports.io/football/teams/14128.png",
           "winner": null
         }
       },
@@ -7293,19 +7293,19 @@
     },
     {
       "fixture": {
-        "id": 1559228,
+        "id": 1559230,
         "referee": null,
         "timezone": "UTC",
-        "date": "2026-12-19T19:00:00+00:00",
-        "timestamp": 1797706800,
+        "date": "2026-12-20T18:15:00+00:00",
+        "timestamp": 1797790500,
         "periods": {
           "first": null,
           "second": null
         },
         "venue": {
-          "id": 20727,
-          "name": "Planet Group Arena",
-          "city": "Gent"
+          "id": 2664,
+          "name": "Herman Vanderpoortenstadion",
+          "city": "Lier"
         },
         "status": {
           "long": "Not Started",
@@ -7326,225 +7326,15 @@
       },
       "teams": {
         "home": {
-          "id": 19685,
-          "name": "KAA Gent II",
-          "logo": "https://media.api-sports.io/football/teams/19685.png",
-          "winner": null
-        },
-        "away": {
-          "id": 6220,
-          "name": "Liège",
-          "logo": "https://media.api-sports.io/football/teams/6220.png",
-          "winner": null
-        }
-      },
-      "goals": {
-        "home": null,
-        "away": null
-      },
-      "score": {
-        "halftime": {
-          "home": null,
-          "away": null
-        },
-        "fulltime": {
-          "home": null,
-          "away": null
-        },
-        "extratime": {
-          "home": null,
-          "away": null
-        },
-        "penalty": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "fixture": {
-        "id": 1559232,
-        "referee": null,
-        "timezone": "UTC",
-        "date": "2027-01-16T19:00:00+00:00",
-        "timestamp": 1800126000,
-        "periods": {
-          "first": null,
-          "second": null
-        },
-        "venue": {
-          "id": 20333,
-          "name": "Kehrwegstadion",
-          "city": "Eupen"
-        },
-        "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
-        }
-      },
-      "league": {
-        "id": 145,
-        "name": "Challenger Pro League",
-        "country": "Belgium",
-        "logo": "https://media.api-sports.io/football/leagues/145.png",
-        "flag": "https://media.api-sports.io/flags/be.svg",
-        "season": 2026,
-        "round": "Regular Season - 16",
-        "standings": true
-      },
-      "teams": {
-        "home": {
-          "id": 739,
-          "name": "AS Eupen",
-          "logo": "https://media.api-sports.io/football/teams/739.png",
-          "winner": null
-        },
-        "away": {
-          "id": 14130,
-          "name": "Club Brugge II",
-          "logo": "https://media.api-sports.io/football/teams/14130.png",
-          "winner": null
-        }
-      },
-      "goals": {
-        "home": null,
-        "away": null
-      },
-      "score": {
-        "halftime": {
-          "home": null,
-          "away": null
-        },
-        "fulltime": {
-          "home": null,
-          "away": null
-        },
-        "extratime": {
-          "home": null,
-          "away": null
-        },
-        "penalty": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "fixture": {
-        "id": 1559238,
-        "referee": null,
-        "timezone": "UTC",
-        "date": "2027-01-16T19:00:00+00:00",
-        "timestamp": 1800126000,
-        "periods": {
-          "first": null,
-          "second": null
-        },
-        "venue": {
-          "id": 3563,
-          "name": "Stade Yvan Georges",
-          "city": "Virton"
-        },
-        "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
-        }
-      },
-      "league": {
-        "id": 145,
-        "name": "Challenger Pro League",
-        "country": "Belgium",
-        "logo": "https://media.api-sports.io/football/leagues/145.png",
-        "flag": "https://media.api-sports.io/flags/be.svg",
-        "season": 2026,
-        "round": "Regular Season - 16",
-        "standings": true
-      },
-      "teams": {
-        "home": {
-          "id": 4715,
-          "name": "Excelsior Virton",
-          "logo": "https://media.api-sports.io/football/teams/4715.png",
-          "winner": null
-        },
-        "away": {
-          "id": 19046,
-          "name": "RSC Anderlecht II",
-          "logo": "https://media.api-sports.io/football/teams/19046.png",
-          "winner": null
-        }
-      },
-      "goals": {
-        "home": null,
-        "away": null
-      },
-      "score": {
-        "halftime": {
-          "home": null,
-          "away": null
-        },
-        "fulltime": {
-          "home": null,
-          "away": null
-        },
-        "extratime": {
-          "home": null,
-          "away": null
-        },
-        "penalty": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "fixture": {
-        "id": 1559233,
-        "referee": null,
-        "timezone": "UTC",
-        "date": "2027-01-16T19:00:00+00:00",
-        "timestamp": 1800126000,
-        "periods": {
-          "first": null,
-          "second": null
-        },
-        "venue": {
-          "id": 4311,
-          "name": "Stade Robert Urbain",
-          "city": "Boussu"
-        },
-        "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
-        }
-      },
-      "league": {
-        "id": 145,
-        "name": "Challenger Pro League",
-        "country": "Belgium",
-        "logo": "https://media.api-sports.io/football/leagues/145.png",
-        "flag": "https://media.api-sports.io/flags/be.svg",
-        "season": 2026,
-        "round": "Regular Season - 16",
-        "standings": true
-      },
-      "teams": {
-        "home": {
-          "id": 5805,
-          "name": "Francs Borains",
-          "logo": "https://media.api-sports.io/football/teams/5805.png",
-          "winner": null
-        },
-        "away": {
           "id": 6219,
           "name": "K. Lierse S.K.",
           "logo": "https://media.api-sports.io/football/teams/6219.png",
+          "winner": null
+        },
+        "away": {
+          "id": 19045,
+          "name": "KRC Genk II",
+          "logo": "https://media.api-sports.io/football/teams/19045.png",
           "winner": null
         }
       },
@@ -7576,8 +7366,8 @@
         "id": 1559235,
         "referee": null,
         "timezone": "UTC",
-        "date": "2027-01-16T19:00:00+00:00",
-        "timestamp": 1800126000,
+        "date": "2027-01-15T19:00:00+00:00",
+        "timestamp": 1800039600,
         "periods": {
           "first": null,
           "second": null
@@ -7646,8 +7436,8 @@
         "id": 1559236,
         "referee": null,
         "timezone": "UTC",
-        "date": "2027-01-16T19:00:00+00:00",
-        "timestamp": 1800126000,
+        "date": "2027-01-15T19:00:00+00:00",
+        "timestamp": 1800039600,
         "periods": {
           "first": null,
           "second": null
@@ -7713,11 +7503,81 @@
     },
     {
       "fixture": {
+        "id": 1559232,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2027-01-16T15:00:00+00:00",
+        "timestamp": 1800111600,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": 20333,
+          "name": "Kehrwegstadion",
+          "city": "Eupen"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 145,
+        "name": "Challenger Pro League",
+        "country": "Belgium",
+        "logo": "https://media.api-sports.io/football/leagues/145.png",
+        "flag": "https://media.api-sports.io/flags/be.svg",
+        "season": 2026,
+        "round": "Regular Season - 16",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 739,
+          "name": "AS Eupen",
+          "logo": "https://media.api-sports.io/football/teams/739.png",
+          "winner": null
+        },
+        "away": {
+          "id": 14130,
+          "name": "Club Brugge II",
+          "logo": "https://media.api-sports.io/football/teams/14130.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
         "id": 1559237,
         "referee": null,
         "timezone": "UTC",
-        "date": "2027-01-16T19:00:00+00:00",
-        "timestamp": 1800126000,
+        "date": "2027-01-16T15:00:00+00:00",
+        "timestamp": 1800111600,
         "periods": {
           "first": null,
           "second": null
@@ -7825,6 +7685,146 @@
           "id": 6215,
           "name": "Dender",
           "logo": "https://media.api-sports.io/football/teams/6215.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1559233,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2027-01-17T15:00:00+00:00",
+        "timestamp": 1800198000,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": 4311,
+          "name": "Stade Robert Urbain",
+          "city": "Boussu"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 145,
+        "name": "Challenger Pro League",
+        "country": "Belgium",
+        "logo": "https://media.api-sports.io/football/leagues/145.png",
+        "flag": "https://media.api-sports.io/flags/be.svg",
+        "season": 2026,
+        "round": "Regular Season - 16",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 5805,
+          "name": "Francs Borains",
+          "logo": "https://media.api-sports.io/football/teams/5805.png",
+          "winner": null
+        },
+        "away": {
+          "id": 6219,
+          "name": "K. Lierse S.K.",
+          "logo": "https://media.api-sports.io/football/teams/6219.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1559238,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2027-01-17T18:15:00+00:00",
+        "timestamp": 1800209700,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": 3563,
+          "name": "Stade Yvan Georges",
+          "city": "Virton"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 145,
+        "name": "Challenger Pro League",
+        "country": "Belgium",
+        "logo": "https://media.api-sports.io/football/leagues/145.png",
+        "flag": "https://media.api-sports.io/flags/be.svg",
+        "season": 2026,
+        "round": "Regular Season - 16",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 4715,
+          "name": "Excelsior Virton",
+          "logo": "https://media.api-sports.io/football/teams/4715.png",
+          "winner": null
+        },
+        "away": {
+          "id": 19046,
+          "name": "RSC Anderlecht II",
+          "logo": "https://media.api-sports.io/football/teams/19046.png",
           "winner": null
         }
       },

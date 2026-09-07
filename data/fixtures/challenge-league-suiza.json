@@ -1764,13 +1764,13 @@
     {
       "fixture": {
         "id": 1555042,
-        "referee": null,
+        "referee": "M. Drmic",
         "timezone": "UTC",
         "date": "2026-08-31T18:15:00+00:00",
         "timestamp": 1788200100,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1788200100,
+          "second": 1788203700
         },
         "venue": {
           "id": 19218,
@@ -1778,10 +1778,10 @@
           "city": "Wil"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 5
         }
       },
       "league": {
@@ -1809,17 +1809,17 @@
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 2,
+        "away": 2
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 2
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 2
         },
         "extratime": {
           "home": null,
@@ -1834,13 +1834,13 @@
     {
       "fixture": {
         "id": 1555046,
-        "referee": null,
+        "referee": "M. Odiet",
         "timezone": "UTC",
         "date": "2026-09-01T17:30:00+00:00",
         "timestamp": 1788283800,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1788283800,
+          "second": 1788287400
         },
         "venue": {
           "id": null,
@@ -1848,10 +1848,10 @@
           "city": null
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 6
         }
       },
       "league": {
@@ -1869,27 +1869,27 @@
           "id": 1015,
           "name": "Neuchatel Xamax FC",
           "logo": "https://media.api-sports.io/football/teams/1015.png",
-          "winner": null
+          "winner": false
         },
         "away": {
           "id": 6653,
           "name": "Yverdon Sport",
           "logo": "https://media.api-sports.io/football/teams/6653.png",
-          "winner": null
+          "winner": true
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 1,
+        "away": 2
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 1
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 2
         },
         "extratime": {
           "home": null,
@@ -1904,13 +1904,13 @@
     {
       "fixture": {
         "id": 1555044,
-        "referee": null,
+        "referee": "A. Smajli",
         "timezone": "UTC",
         "date": "2026-09-01T17:30:00+00:00",
         "timestamp": 1788283800,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1788283800,
+          "second": 1788287400
         },
         "venue": {
           "id": null,
@@ -1918,10 +1918,10 @@
           "city": "Rapperswil-Jona"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 5
         }
       },
       "league": {
@@ -1949,17 +1949,17 @@
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 1,
+        "away": 1
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 1
         },
         "extratime": {
           "home": null,
@@ -1974,13 +1974,13 @@
     {
       "fixture": {
         "id": 1555043,
-        "referee": null,
+        "referee": "J. Jaussi",
         "timezone": "UTC",
         "date": "2026-09-01T17:30:00+00:00",
         "timestamp": 1788283800,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1788283800,
+          "second": 1788287400
         },
         "venue": {
           "id": 1535,
@@ -1988,10 +1988,10 @@
           "city": "Lausanne"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 5
         }
       },
       "league": {
@@ -2009,27 +2009,27 @@
           "id": 4269,
           "name": "Stade Lausanne-Ouchy",
           "logo": "https://media.api-sports.io/football/teams/4269.png",
-          "winner": null
+          "winner": true
         },
         "away": {
           "id": 6654,
           "name": "Étoile Carouge",
           "logo": "https://media.api-sports.io/football/teams/6654.png",
-          "winner": null
+          "winner": false
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 3,
+        "away": 0
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 0
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 3,
+          "away": 0
         },
         "extratime": {
           "home": null,
@@ -2044,13 +2044,13 @@
     {
       "fixture": {
         "id": 1555045,
-        "referee": null,
+        "referee": "D. Anex",
         "timezone": "UTC",
         "date": "2026-09-01T17:30:00+00:00",
         "timestamp": 1788283800,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1788283800,
+          "second": 1788287400
         },
         "venue": {
           "id": null,
@@ -2058,10 +2058,10 @@
           "city": "Nyon"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 4
         }
       },
       "league": {
@@ -2089,17 +2089,17 @@
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 2,
+        "away": 2
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 2
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 2
         },
         "extratime": {
           "home": null,
@@ -2114,13 +2114,13 @@
     {
       "fixture": {
         "id": 1555047,
-        "referee": null,
+        "referee": "M. Drmic",
         "timezone": "UTC",
         "date": "2026-09-04T17:30:00+00:00",
         "timestamp": 1788543000,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1788543000,
+          "second": 1788546600
         },
         "venue": {
           "id": null,
@@ -2128,10 +2128,10 @@
           "city": "Aarau"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 4
         }
       },
       "league": {
@@ -2149,27 +2149,27 @@
           "id": 2177,
           "name": "FC Aarau",
           "logo": "https://media.api-sports.io/football/teams/2177.png",
-          "winner": null
+          "winner": true
         },
         "away": {
           "id": 2185,
           "name": "Rapperswil",
           "logo": "https://media.api-sports.io/football/teams/2185.png",
-          "winner": null
+          "winner": false
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 3,
+        "away": 2
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 1
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 3,
+          "away": 2
         },
         "extratime": {
           "home": null,
@@ -2184,13 +2184,13 @@
     {
       "fixture": {
         "id": 1555048,
-        "referee": null,
+        "referee": "M. Odiet",
         "timezone": "UTC",
         "date": "2026-09-04T17:30:00+00:00",
         "timestamp": 1788543000,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1788543000,
+          "second": 1788546600
         },
         "venue": {
           "id": 1534,
@@ -2198,10 +2198,10 @@
           "city": "Kriens"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 4
         }
       },
       "league": {
@@ -2219,27 +2219,27 @@
           "id": 2186,
           "name": "SC Kriens",
           "logo": "https://media.api-sports.io/football/teams/2186.png",
-          "winner": null
+          "winner": false
         },
         "away": {
           "id": 4269,
           "name": "Stade Lausanne-Ouchy",
           "logo": "https://media.api-sports.io/football/teams/4269.png",
-          "winner": null
+          "winner": true
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 0,
+        "away": 2
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 2
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 2
         },
         "extratime": {
           "home": null,
@@ -2254,13 +2254,13 @@
     {
       "fixture": {
         "id": 1555050,
-        "referee": null,
+        "referee": "L. Fahndrich",
         "timezone": "UTC",
         "date": "2026-09-04T18:15:00+00:00",
         "timestamp": 1788545700,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1788545700,
+          "second": 1788549300
         },
         "venue": {
           "id": null,
@@ -2268,10 +2268,10 @@
           "city": "Winterthur"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 3
         }
       },
       "league": {
@@ -2289,27 +2289,27 @@
           "id": 2180,
           "name": "FC Winterthur",
           "logo": "https://media.api-sports.io/football/teams/2180.png",
-          "winner": null
+          "winner": true
         },
         "away": {
           "id": 1015,
           "name": "Neuchatel Xamax FC",
           "logo": "https://media.api-sports.io/football/teams/1015.png",
-          "winner": null
+          "winner": false
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 4,
+        "away": 0
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 3,
+          "away": 0
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 4,
+          "away": 0
         },
         "extratime": {
           "home": null,
@@ -2324,13 +2324,13 @@
     {
       "fixture": {
         "id": 1555049,
-        "referee": null,
+        "referee": "L. Schelbli",
         "timezone": "UTC",
         "date": "2026-09-04T18:15:00+00:00",
         "timestamp": 1788545700,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1788545700,
+          "second": 1788549300
         },
         "venue": {
           "id": 4860,
@@ -2338,10 +2338,10 @@
           "city": "Carouge"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 4
         }
       },
       "league": {
@@ -2369,17 +2369,17 @@
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 1,
+        "away": 1
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 0
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 1
         },
         "extratime": {
           "home": null,
@@ -2399,8 +2399,8 @@
         "date": "2026-09-06T12:00:00+00:00",
         "timestamp": 1788696000,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1788696000,
+          "second": 1788699600
         },
         "venue": {
           "id": 4859,
@@ -2408,10 +2408,10 @@
           "city": "Yverdon-les-Bains"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 4
         }
       },
       "league": {
@@ -2429,27 +2429,27 @@
           "id": 6653,
           "name": "Yverdon Sport",
           "logo": "https://media.api-sports.io/football/teams/6653.png",
-          "winner": null
+          "winner": true
         },
         "away": {
           "id": 6646,
           "name": "Stade Nyonnais",
           "logo": "https://media.api-sports.io/football/teams/6646.png",
-          "winner": null
+          "winner": false
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 4,
+        "away": 1
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 0
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 4,
+          "away": 1
         },
         "extratime": {
           "home": null,
@@ -3166,8 +3166,8 @@
         "id": 1555066,
         "referee": null,
         "timezone": "UTC",
-        "date": "2026-10-10T15:00:00+00:00",
-        "timestamp": 1791644400,
+        "date": "2026-10-09T17:30:00+00:00",
+        "timestamp": 1791567000,
         "periods": {
           "first": null,
           "second": null
@@ -3236,8 +3236,8 @@
         "id": 1555064,
         "referee": null,
         "timezone": "UTC",
-        "date": "2026-10-10T15:00:00+00:00",
-        "timestamp": 1791644400,
+        "date": "2026-10-09T17:30:00+00:00",
+        "timestamp": 1791567000,
         "periods": {
           "first": null,
           "second": null
@@ -3306,8 +3306,8 @@
         "id": 1555063,
         "referee": null,
         "timezone": "UTC",
-        "date": "2026-10-10T15:00:00+00:00",
-        "timestamp": 1791644400,
+        "date": "2026-10-09T17:30:00+00:00",
+        "timestamp": 1791567000,
         "periods": {
           "first": null,
           "second": null
@@ -3376,8 +3376,8 @@
         "id": 1555065,
         "referee": null,
         "timezone": "UTC",
-        "date": "2026-10-10T15:00:00+00:00",
-        "timestamp": 1791644400,
+        "date": "2026-10-09T18:15:00+00:00",
+        "timestamp": 1791569700,
         "periods": {
           "first": null,
           "second": null
@@ -3446,8 +3446,8 @@
         "id": 1555062,
         "referee": null,
         "timezone": "UTC",
-        "date": "2026-10-10T15:00:00+00:00",
-        "timestamp": 1791644400,
+        "date": "2026-10-09T18:15:00+00:00",
+        "timestamp": 1791569700,
         "periods": {
           "first": null,
           "second": null
@@ -3513,81 +3513,11 @@
     },
     {
       "fixture": {
-        "id": 1555067,
-        "referee": null,
-        "timezone": "UTC",
-        "date": "2026-10-24T15:00:00+00:00",
-        "timestamp": 1792854000,
-        "periods": {
-          "first": null,
-          "second": null
-        },
-        "venue": {
-          "id": null,
-          "name": null,
-          "city": "Aarau"
-        },
-        "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
-        }
-      },
-      "league": {
-        "id": 208,
-        "name": "Challenge League",
-        "country": "Switzerland",
-        "logo": "https://media.api-sports.io/football/leagues/208.png",
-        "flag": "https://media.api-sports.io/flags/ch.svg",
-        "season": 2026,
-        "round": "Regular Season - 11",
-        "standings": true
-      },
-      "teams": {
-        "home": {
-          "id": 2177,
-          "name": "FC Aarau",
-          "logo": "https://media.api-sports.io/football/teams/2177.png",
-          "winner": null
-        },
-        "away": {
-          "id": 6654,
-          "name": "Étoile Carouge",
-          "logo": "https://media.api-sports.io/football/teams/6654.png",
-          "winner": null
-        }
-      },
-      "goals": {
-        "home": null,
-        "away": null
-      },
-      "score": {
-        "halftime": {
-          "home": null,
-          "away": null
-        },
-        "fulltime": {
-          "home": null,
-          "away": null
-        },
-        "extratime": {
-          "home": null,
-          "away": null
-        },
-        "penalty": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "fixture": {
         "id": 1555069,
         "referee": null,
         "timezone": "UTC",
-        "date": "2026-10-24T15:00:00+00:00",
-        "timestamp": 1792854000,
+        "date": "2026-10-23T17:30:00+00:00",
+        "timestamp": 1792776600,
         "periods": {
           "first": null,
           "second": null
@@ -3653,81 +3583,11 @@
     },
     {
       "fixture": {
-        "id": 1555070,
-        "referee": null,
-        "timezone": "UTC",
-        "date": "2026-10-24T15:00:00+00:00",
-        "timestamp": 1792854000,
-        "periods": {
-          "first": null,
-          "second": null
-        },
-        "venue": {
-          "id": null,
-          "name": null,
-          "city": "Winterthur"
-        },
-        "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
-        }
-      },
-      "league": {
-        "id": 208,
-        "name": "Challenge League",
-        "country": "Switzerland",
-        "logo": "https://media.api-sports.io/football/leagues/208.png",
-        "flag": "https://media.api-sports.io/flags/ch.svg",
-        "season": 2026,
-        "round": "Regular Season - 11",
-        "standings": true
-      },
-      "teams": {
-        "home": {
-          "id": 2180,
-          "name": "FC Winterthur",
-          "logo": "https://media.api-sports.io/football/teams/2180.png",
-          "winner": null
-        },
-        "away": {
-          "id": 6646,
-          "name": "Stade Nyonnais",
-          "logo": "https://media.api-sports.io/football/teams/6646.png",
-          "winner": null
-        }
-      },
-      "goals": {
-        "home": null,
-        "away": null
-      },
-      "score": {
-        "halftime": {
-          "home": null,
-          "away": null
-        },
-        "fulltime": {
-          "home": null,
-          "away": null
-        },
-        "extratime": {
-          "home": null,
-          "away": null
-        },
-        "penalty": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "fixture": {
         "id": 1555068,
         "referee": null,
         "timezone": "UTC",
-        "date": "2026-10-24T15:00:00+00:00",
-        "timestamp": 1792854000,
+        "date": "2026-10-23T17:30:00+00:00",
+        "timestamp": 1792776600,
         "periods": {
           "first": null,
           "second": null
@@ -3793,11 +3653,151 @@
     },
     {
       "fixture": {
+        "id": 1555070,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2026-10-23T18:15:00+00:00",
+        "timestamp": 1792779300,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": null,
+          "name": null,
+          "city": "Winterthur"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 208,
+        "name": "Challenge League",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/leagues/208.png",
+        "flag": "https://media.api-sports.io/flags/ch.svg",
+        "season": 2026,
+        "round": "Regular Season - 11",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2180,
+          "name": "FC Winterthur",
+          "logo": "https://media.api-sports.io/football/teams/2180.png",
+          "winner": null
+        },
+        "away": {
+          "id": 6646,
+          "name": "Stade Nyonnais",
+          "logo": "https://media.api-sports.io/football/teams/6646.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1555067,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2026-10-24T16:00:00+00:00",
+        "timestamp": 1792857600,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": null,
+          "name": null,
+          "city": "Aarau"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 208,
+        "name": "Challenge League",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/leagues/208.png",
+        "flag": "https://media.api-sports.io/flags/ch.svg",
+        "season": 2026,
+        "round": "Regular Season - 11",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2177,
+          "name": "FC Aarau",
+          "logo": "https://media.api-sports.io/football/teams/2177.png",
+          "winner": null
+        },
+        "away": {
+          "id": 6654,
+          "name": "Étoile Carouge",
+          "logo": "https://media.api-sports.io/football/teams/6654.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
         "id": 1555071,
         "referee": null,
         "timezone": "UTC",
-        "date": "2026-10-24T15:00:00+00:00",
-        "timestamp": 1792854000,
+        "date": "2026-10-25T15:30:00+00:00",
+        "timestamp": 1792942200,
         "periods": {
           "first": null,
           "second": null
@@ -3863,151 +3863,11 @@
     },
     {
       "fixture": {
-        "id": 1555076,
-        "referee": null,
-        "timezone": "UTC",
-        "date": "2026-10-31T16:00:00+00:00",
-        "timestamp": 1793462400,
-        "periods": {
-          "first": null,
-          "second": null
-        },
-        "venue": {
-          "id": null,
-          "name": null,
-          "city": null
-        },
-        "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
-        }
-      },
-      "league": {
-        "id": 208,
-        "name": "Challenge League",
-        "country": "Switzerland",
-        "logo": "https://media.api-sports.io/football/leagues/208.png",
-        "flag": "https://media.api-sports.io/flags/ch.svg",
-        "season": 2026,
-        "round": "Regular Season - 12",
-        "standings": true
-      },
-      "teams": {
-        "home": {
-          "id": 1015,
-          "name": "Neuchatel Xamax FC",
-          "logo": "https://media.api-sports.io/football/teams/1015.png",
-          "winner": null
-        },
-        "away": {
-          "id": 2177,
-          "name": "FC Aarau",
-          "logo": "https://media.api-sports.io/football/teams/2177.png",
-          "winner": null
-        }
-      },
-      "goals": {
-        "home": null,
-        "away": null
-      },
-      "score": {
-        "halftime": {
-          "home": null,
-          "away": null
-        },
-        "fulltime": {
-          "home": null,
-          "away": null
-        },
-        "extratime": {
-          "home": null,
-          "away": null
-        },
-        "penalty": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "fixture": {
-        "id": 1555075,
-        "referee": null,
-        "timezone": "UTC",
-        "date": "2026-10-31T16:00:00+00:00",
-        "timestamp": 1793462400,
-        "periods": {
-          "first": null,
-          "second": null
-        },
-        "venue": {
-          "id": 19218,
-          "name": "Lidl Arena",
-          "city": "Wil"
-        },
-        "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
-        }
-      },
-      "league": {
-        "id": 208,
-        "name": "Challenge League",
-        "country": "Switzerland",
-        "logo": "https://media.api-sports.io/football/leagues/208.png",
-        "flag": "https://media.api-sports.io/flags/ch.svg",
-        "season": 2026,
-        "round": "Regular Season - 12",
-        "standings": true
-      },
-      "teams": {
-        "home": {
-          "id": 2179,
-          "name": "FC WIL 1900",
-          "logo": "https://media.api-sports.io/football/teams/2179.png",
-          "winner": null
-        },
-        "away": {
-          "id": 2180,
-          "name": "FC Winterthur",
-          "logo": "https://media.api-sports.io/football/teams/2180.png",
-          "winner": null
-        }
-      },
-      "goals": {
-        "home": null,
-        "away": null
-      },
-      "score": {
-        "halftime": {
-          "home": null,
-          "away": null
-        },
-        "fulltime": {
-          "home": null,
-          "away": null
-        },
-        "extratime": {
-          "home": null,
-          "away": null
-        },
-        "penalty": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "fixture": {
         "id": 1555074,
         "referee": null,
         "timezone": "UTC",
-        "date": "2026-10-31T16:00:00+00:00",
-        "timestamp": 1793462400,
+        "date": "2026-10-30T18:30:00+00:00",
+        "timestamp": 1793385000,
         "periods": {
           "first": null,
           "second": null
@@ -4076,8 +3936,8 @@
         "id": 1555073,
         "referee": null,
         "timezone": "UTC",
-        "date": "2026-10-31T16:00:00+00:00",
-        "timestamp": 1793462400,
+        "date": "2026-10-30T18:30:00+00:00",
+        "timestamp": 1793385000,
         "periods": {
           "first": null,
           "second": null
@@ -4143,11 +4003,81 @@
     },
     {
       "fixture": {
+        "id": 1555076,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2026-10-30T19:15:00+00:00",
+        "timestamp": 1793387700,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": null,
+          "name": null,
+          "city": null
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 208,
+        "name": "Challenge League",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/leagues/208.png",
+        "flag": "https://media.api-sports.io/flags/ch.svg",
+        "season": 2026,
+        "round": "Regular Season - 12",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 1015,
+          "name": "Neuchatel Xamax FC",
+          "logo": "https://media.api-sports.io/football/teams/1015.png",
+          "winner": null
+        },
+        "away": {
+          "id": 2177,
+          "name": "FC Aarau",
+          "logo": "https://media.api-sports.io/football/teams/2177.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
         "id": 1555072,
         "referee": null,
         "timezone": "UTC",
-        "date": "2026-10-31T16:00:00+00:00",
-        "timestamp": 1793462400,
+        "date": "2026-10-30T19:15:00+00:00",
+        "timestamp": 1793387700,
         "periods": {
           "first": null,
           "second": null
@@ -4213,19 +4143,19 @@
     },
     {
       "fixture": {
-        "id": 1555077,
+        "id": 1555075,
         "referee": null,
         "timezone": "UTC",
-        "date": "2026-11-07T16:00:00+00:00",
-        "timestamp": 1794067200,
+        "date": "2026-11-01T13:00:00+00:00",
+        "timestamp": 1793538000,
         "periods": {
           "first": null,
           "second": null
         },
         "venue": {
-          "id": null,
-          "name": null,
-          "city": "Aarau"
+          "id": 19218,
+          "name": "Lidl Arena",
+          "city": "Wil"
         },
         "status": {
           "long": "Not Started",
@@ -4241,90 +4171,20 @@
         "logo": "https://media.api-sports.io/football/leagues/208.png",
         "flag": "https://media.api-sports.io/flags/ch.svg",
         "season": 2026,
-        "round": "Regular Season - 13",
+        "round": "Regular Season - 12",
         "standings": true
       },
       "teams": {
         "home": {
-          "id": 2177,
-          "name": "FC Aarau",
-          "logo": "https://media.api-sports.io/football/teams/2177.png",
-          "winner": null
-        },
-        "away": {
           "id": 2179,
           "name": "FC WIL 1900",
           "logo": "https://media.api-sports.io/football/teams/2179.png",
           "winner": null
-        }
-      },
-      "goals": {
-        "home": null,
-        "away": null
-      },
-      "score": {
-        "halftime": {
-          "home": null,
-          "away": null
         },
-        "fulltime": {
-          "home": null,
-          "away": null
-        },
-        "extratime": {
-          "home": null,
-          "away": null
-        },
-        "penalty": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "fixture": {
-        "id": 1555080,
-        "referee": null,
-        "timezone": "UTC",
-        "date": "2026-11-07T16:00:00+00:00",
-        "timestamp": 1794067200,
-        "periods": {
-          "first": null,
-          "second": null
-        },
-        "venue": {
-          "id": null,
-          "name": null,
-          "city": "Winterthur"
-        },
-        "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
-        }
-      },
-      "league": {
-        "id": 208,
-        "name": "Challenge League",
-        "country": "Switzerland",
-        "logo": "https://media.api-sports.io/football/leagues/208.png",
-        "flag": "https://media.api-sports.io/flags/ch.svg",
-        "season": 2026,
-        "round": "Regular Season - 13",
-        "standings": true
-      },
-      "teams": {
-        "home": {
+        "away": {
           "id": 2180,
           "name": "FC Winterthur",
           "logo": "https://media.api-sports.io/football/teams/2180.png",
-          "winner": null
-        },
-        "away": {
-          "id": 6654,
-          "name": "Étoile Carouge",
-          "logo": "https://media.api-sports.io/football/teams/6654.png",
           "winner": null
         }
       },
@@ -4356,8 +4216,8 @@
         "id": 1555078,
         "referee": null,
         "timezone": "UTC",
-        "date": "2026-11-07T16:00:00+00:00",
-        "timestamp": 1794067200,
+        "date": "2026-11-06T18:30:00+00:00",
+        "timestamp": 1793989800,
         "periods": {
           "first": null,
           "second": null
@@ -4426,8 +4286,8 @@
         "id": 1555079,
         "referee": null,
         "timezone": "UTC",
-        "date": "2026-11-07T16:00:00+00:00",
-        "timestamp": 1794067200,
+        "date": "2026-11-06T18:30:00+00:00",
+        "timestamp": 1793989800,
         "periods": {
           "first": null,
           "second": null
@@ -4493,11 +4353,151 @@
     },
     {
       "fixture": {
+        "id": 1555077,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2026-11-06T19:15:00+00:00",
+        "timestamp": 1793992500,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": null,
+          "name": null,
+          "city": "Aarau"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 208,
+        "name": "Challenge League",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/leagues/208.png",
+        "flag": "https://media.api-sports.io/flags/ch.svg",
+        "season": 2026,
+        "round": "Regular Season - 13",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2177,
+          "name": "FC Aarau",
+          "logo": "https://media.api-sports.io/football/teams/2177.png",
+          "winner": null
+        },
+        "away": {
+          "id": 2179,
+          "name": "FC WIL 1900",
+          "logo": "https://media.api-sports.io/football/teams/2179.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1555080,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2026-11-07T17:00:00+00:00",
+        "timestamp": 1794070800,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": null,
+          "name": null,
+          "city": "Winterthur"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 208,
+        "name": "Challenge League",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/leagues/208.png",
+        "flag": "https://media.api-sports.io/flags/ch.svg",
+        "season": 2026,
+        "round": "Regular Season - 13",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2180,
+          "name": "FC Winterthur",
+          "logo": "https://media.api-sports.io/football/teams/2180.png",
+          "winner": null
+        },
+        "away": {
+          "id": 6654,
+          "name": "Étoile Carouge",
+          "logo": "https://media.api-sports.io/football/teams/6654.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
         "id": 1555081,
         "referee": null,
         "timezone": "UTC",
-        "date": "2026-11-07T16:00:00+00:00",
-        "timestamp": 1794067200,
+        "date": "2026-11-08T15:30:00+00:00",
+        "timestamp": 1794151800,
         "periods": {
           "first": null,
           "second": null
@@ -4566,8 +4566,8 @@
         "id": 1555085,
         "referee": null,
         "timezone": "UTC",
-        "date": "2026-11-21T16:00:00+00:00",
-        "timestamp": 1795276800,
+        "date": "2026-11-20T18:30:00+00:00",
+        "timestamp": 1795199400,
         "periods": {
           "first": null,
           "second": null
@@ -4636,8 +4636,8 @@
         "id": 1555083,
         "referee": null,
         "timezone": "UTC",
-        "date": "2026-11-21T16:00:00+00:00",
-        "timestamp": 1795276800,
+        "date": "2026-11-20T18:30:00+00:00",
+        "timestamp": 1795199400,
         "periods": {
           "first": null,
           "second": null
@@ -4706,8 +4706,8 @@
         "id": 1555082,
         "referee": null,
         "timezone": "UTC",
-        "date": "2026-11-21T16:00:00+00:00",
-        "timestamp": 1795276800,
+        "date": "2026-11-20T18:30:00+00:00",
+        "timestamp": 1795199400,
         "periods": {
           "first": null,
           "second": null
@@ -4776,8 +4776,8 @@
         "id": 1555084,
         "referee": null,
         "timezone": "UTC",
-        "date": "2026-11-21T16:00:00+00:00",
-        "timestamp": 1795276800,
+        "date": "2026-11-20T18:30:00+00:00",
+        "timestamp": 1795199400,
         "periods": {
           "first": null,
           "second": null
@@ -4846,8 +4846,8 @@
         "id": 1555086,
         "referee": null,
         "timezone": "UTC",
-        "date": "2026-11-21T16:00:00+00:00",
-        "timestamp": 1795276800,
+        "date": "2026-11-20T19:15:00+00:00",
+        "timestamp": 1795202100,
         "periods": {
           "first": null,
           "second": null
@@ -4913,11 +4913,151 @@
     },
     {
       "fixture": {
+        "id": 1555090,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2026-11-27T19:15:00+00:00",
+        "timestamp": 1795806900,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": null,
+          "name": null,
+          "city": "Winterthur"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 208,
+        "name": "Challenge League",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/leagues/208.png",
+        "flag": "https://media.api-sports.io/flags/ch.svg",
+        "season": 2026,
+        "round": "Regular Season - 15",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2180,
+          "name": "FC Winterthur",
+          "logo": "https://media.api-sports.io/football/teams/2180.png",
+          "winner": null
+        },
+        "away": {
+          "id": 2185,
+          "name": "Rapperswil",
+          "logo": "https://media.api-sports.io/football/teams/2185.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1555087,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2026-11-27T19:15:00+00:00",
+        "timestamp": 1795806900,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": 4860,
+          "name": "Stade de la Fontenette",
+          "city": "Carouge"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 208,
+        "name": "Challenge League",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/leagues/208.png",
+        "flag": "https://media.api-sports.io/flags/ch.svg",
+        "season": 2026,
+        "round": "Regular Season - 15",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 6654,
+          "name": "Étoile Carouge",
+          "logo": "https://media.api-sports.io/football/teams/6654.png",
+          "winner": null
+        },
+        "away": {
+          "id": 4269,
+          "name": "Stade Lausanne-Ouchy",
+          "logo": "https://media.api-sports.io/football/teams/4269.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
         "id": 1555091,
         "referee": null,
         "timezone": "UTC",
-        "date": "2026-11-28T16:00:00+00:00",
-        "timestamp": 1795881600,
+        "date": "2026-11-28T17:00:00+00:00",
+        "timestamp": 1795885200,
         "periods": {
           "first": null,
           "second": null
@@ -4986,8 +5126,8 @@
         "id": 1555089,
         "referee": null,
         "timezone": "UTC",
-        "date": "2026-11-28T16:00:00+00:00",
-        "timestamp": 1795881600,
+        "date": "2026-11-28T17:00:00+00:00",
+        "timestamp": 1795885200,
         "periods": {
           "first": null,
           "second": null
@@ -5053,81 +5193,11 @@
     },
     {
       "fixture": {
-        "id": 1555090,
-        "referee": null,
-        "timezone": "UTC",
-        "date": "2026-11-28T16:00:00+00:00",
-        "timestamp": 1795881600,
-        "periods": {
-          "first": null,
-          "second": null
-        },
-        "venue": {
-          "id": null,
-          "name": null,
-          "city": "Winterthur"
-        },
-        "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
-        }
-      },
-      "league": {
-        "id": 208,
-        "name": "Challenge League",
-        "country": "Switzerland",
-        "logo": "https://media.api-sports.io/football/leagues/208.png",
-        "flag": "https://media.api-sports.io/flags/ch.svg",
-        "season": 2026,
-        "round": "Regular Season - 15",
-        "standings": true
-      },
-      "teams": {
-        "home": {
-          "id": 2180,
-          "name": "FC Winterthur",
-          "logo": "https://media.api-sports.io/football/teams/2180.png",
-          "winner": null
-        },
-        "away": {
-          "id": 2185,
-          "name": "Rapperswil",
-          "logo": "https://media.api-sports.io/football/teams/2185.png",
-          "winner": null
-        }
-      },
-      "goals": {
-        "home": null,
-        "away": null
-      },
-      "score": {
-        "halftime": {
-          "home": null,
-          "away": null
-        },
-        "fulltime": {
-          "home": null,
-          "away": null
-        },
-        "extratime": {
-          "home": null,
-          "away": null
-        },
-        "penalty": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "fixture": {
         "id": 1555088,
         "referee": null,
         "timezone": "UTC",
-        "date": "2026-11-28T16:00:00+00:00",
-        "timestamp": 1795881600,
+        "date": "2026-11-29T13:00:00+00:00",
+        "timestamp": 1795957200,
         "periods": {
           "first": null,
           "second": null
@@ -5165,76 +5235,6 @@
           "id": 2177,
           "name": "FC Aarau",
           "logo": "https://media.api-sports.io/football/teams/2177.png",
-          "winner": null
-        }
-      },
-      "goals": {
-        "home": null,
-        "away": null
-      },
-      "score": {
-        "halftime": {
-          "home": null,
-          "away": null
-        },
-        "fulltime": {
-          "home": null,
-          "away": null
-        },
-        "extratime": {
-          "home": null,
-          "away": null
-        },
-        "penalty": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "fixture": {
-        "id": 1555087,
-        "referee": null,
-        "timezone": "UTC",
-        "date": "2026-11-28T16:00:00+00:00",
-        "timestamp": 1795881600,
-        "periods": {
-          "first": null,
-          "second": null
-        },
-        "venue": {
-          "id": 4860,
-          "name": "Stade de la Fontenette",
-          "city": "Carouge"
-        },
-        "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
-        }
-      },
-      "league": {
-        "id": 208,
-        "name": "Challenge League",
-        "country": "Switzerland",
-        "logo": "https://media.api-sports.io/football/leagues/208.png",
-        "flag": "https://media.api-sports.io/flags/ch.svg",
-        "season": 2026,
-        "round": "Regular Season - 15",
-        "standings": true
-      },
-      "teams": {
-        "home": {
-          "id": 6654,
-          "name": "Étoile Carouge",
-          "logo": "https://media.api-sports.io/football/teams/6654.png",
-          "winner": null
-        },
-        "away": {
-          "id": 4269,
-          "name": "Stade Lausanne-Ouchy",
-          "logo": "https://media.api-sports.io/football/teams/4269.png",
           "winner": null
         }
       },
@@ -5613,151 +5613,11 @@
     },
     {
       "fixture": {
-        "id": 1555100,
-        "referee": null,
-        "timezone": "UTC",
-        "date": "2026-12-12T16:00:00+00:00",
-        "timestamp": 1797091200,
-        "periods": {
-          "first": null,
-          "second": null
-        },
-        "venue": {
-          "id": null,
-          "name": null,
-          "city": null
-        },
-        "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
-        }
-      },
-      "league": {
-        "id": 208,
-        "name": "Challenge League",
-        "country": "Switzerland",
-        "logo": "https://media.api-sports.io/football/leagues/208.png",
-        "flag": "https://media.api-sports.io/flags/ch.svg",
-        "season": 2026,
-        "round": "Regular Season - 17",
-        "standings": true
-      },
-      "teams": {
-        "home": {
-          "id": 1015,
-          "name": "Neuchatel Xamax FC",
-          "logo": "https://media.api-sports.io/football/teams/1015.png",
-          "winner": null
-        },
-        "away": {
-          "id": 2179,
-          "name": "FC WIL 1900",
-          "logo": "https://media.api-sports.io/football/teams/2179.png",
-          "winner": null
-        }
-      },
-      "goals": {
-        "home": null,
-        "away": null
-      },
-      "score": {
-        "halftime": {
-          "home": null,
-          "away": null
-        },
-        "fulltime": {
-          "home": null,
-          "away": null
-        },
-        "extratime": {
-          "home": null,
-          "away": null
-        },
-        "penalty": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "fixture": {
-        "id": 1555099,
-        "referee": null,
-        "timezone": "UTC",
-        "date": "2026-12-12T16:00:00+00:00",
-        "timestamp": 1797091200,
-        "periods": {
-          "first": null,
-          "second": null
-        },
-        "venue": {
-          "id": null,
-          "name": null,
-          "city": "Winterthur"
-        },
-        "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
-        }
-      },
-      "league": {
-        "id": 208,
-        "name": "Challenge League",
-        "country": "Switzerland",
-        "logo": "https://media.api-sports.io/football/leagues/208.png",
-        "flag": "https://media.api-sports.io/flags/ch.svg",
-        "season": 2026,
-        "round": "Regular Season - 17",
-        "standings": true
-      },
-      "teams": {
-        "home": {
-          "id": 2180,
-          "name": "FC Winterthur",
-          "logo": "https://media.api-sports.io/football/teams/2180.png",
-          "winner": null
-        },
-        "away": {
-          "id": 2186,
-          "name": "SC Kriens",
-          "logo": "https://media.api-sports.io/football/teams/2186.png",
-          "winner": null
-        }
-      },
-      "goals": {
-        "home": null,
-        "away": null
-      },
-      "score": {
-        "halftime": {
-          "home": null,
-          "away": null
-        },
-        "fulltime": {
-          "home": null,
-          "away": null
-        },
-        "extratime": {
-          "home": null,
-          "away": null
-        },
-        "penalty": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "fixture": {
         "id": 1555098,
         "referee": null,
         "timezone": "UTC",
-        "date": "2026-12-12T16:00:00+00:00",
-        "timestamp": 1797091200,
+        "date": "2026-12-11T19:15:00+00:00",
+        "timestamp": 1797016500,
         "periods": {
           "first": null,
           "second": null
@@ -5823,81 +5683,11 @@
     },
     {
       "fixture": {
-        "id": 1555101,
-        "referee": null,
-        "timezone": "UTC",
-        "date": "2026-12-12T16:00:00+00:00",
-        "timestamp": 1797091200,
-        "periods": {
-          "first": null,
-          "second": null
-        },
-        "venue": {
-          "id": 4859,
-          "name": "Stade Municipal",
-          "city": "Yverdon-les-Bains"
-        },
-        "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
-        }
-      },
-      "league": {
-        "id": 208,
-        "name": "Challenge League",
-        "country": "Switzerland",
-        "logo": "https://media.api-sports.io/football/leagues/208.png",
-        "flag": "https://media.api-sports.io/flags/ch.svg",
-        "season": 2026,
-        "round": "Regular Season - 17",
-        "standings": true
-      },
-      "teams": {
-        "home": {
-          "id": 6653,
-          "name": "Yverdon Sport",
-          "logo": "https://media.api-sports.io/football/teams/6653.png",
-          "winner": null
-        },
-        "away": {
-          "id": 2185,
-          "name": "Rapperswil",
-          "logo": "https://media.api-sports.io/football/teams/2185.png",
-          "winner": null
-        }
-      },
-      "goals": {
-        "home": null,
-        "away": null
-      },
-      "score": {
-        "halftime": {
-          "home": null,
-          "away": null
-        },
-        "fulltime": {
-          "home": null,
-          "away": null
-        },
-        "extratime": {
-          "home": null,
-          "away": null
-        },
-        "penalty": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "fixture": {
         "id": 1555097,
         "referee": null,
         "timezone": "UTC",
-        "date": "2026-12-12T16:00:00+00:00",
-        "timestamp": 1797091200,
+        "date": "2026-12-11T19:15:00+00:00",
+        "timestamp": 1797016500,
         "periods": {
           "first": null,
           "second": null
@@ -5963,11 +5753,11 @@
     },
     {
       "fixture": {
-        "id": 1555102,
+        "id": 1555099,
         "referee": null,
         "timezone": "UTC",
-        "date": "2026-12-19T16:00:00+00:00",
-        "timestamp": 1797696000,
+        "date": "2026-12-12T17:00:00+00:00",
+        "timestamp": 1797094800,
         "periods": {
           "first": null,
           "second": null
@@ -5975,7 +5765,7 @@
         "venue": {
           "id": null,
           "name": null,
-          "city": "Aarau"
+          "city": "Winterthur"
         },
         "status": {
           "long": "Not Started",
@@ -5991,20 +5781,160 @@
         "logo": "https://media.api-sports.io/football/leagues/208.png",
         "flag": "https://media.api-sports.io/flags/ch.svg",
         "season": 2026,
-        "round": "Regular Season - 18",
+        "round": "Regular Season - 17",
         "standings": true
       },
       "teams": {
         "home": {
-          "id": 2177,
-          "name": "FC Aarau",
-          "logo": "https://media.api-sports.io/football/teams/2177.png",
-          "winner": null
-        },
-        "away": {
           "id": 2180,
           "name": "FC Winterthur",
           "logo": "https://media.api-sports.io/football/teams/2180.png",
+          "winner": null
+        },
+        "away": {
+          "id": 2186,
+          "name": "SC Kriens",
+          "logo": "https://media.api-sports.io/football/teams/2186.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1555100,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2026-12-13T13:00:00+00:00",
+        "timestamp": 1797166800,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": null,
+          "name": null,
+          "city": null
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 208,
+        "name": "Challenge League",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/leagues/208.png",
+        "flag": "https://media.api-sports.io/flags/ch.svg",
+        "season": 2026,
+        "round": "Regular Season - 17",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 1015,
+          "name": "Neuchatel Xamax FC",
+          "logo": "https://media.api-sports.io/football/teams/1015.png",
+          "winner": null
+        },
+        "away": {
+          "id": 2179,
+          "name": "FC WIL 1900",
+          "logo": "https://media.api-sports.io/football/teams/2179.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1555101,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2026-12-13T15:30:00+00:00",
+        "timestamp": 1797175800,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": 4859,
+          "name": "Stade Municipal",
+          "city": "Yverdon-les-Bains"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 208,
+        "name": "Challenge League",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/leagues/208.png",
+        "flag": "https://media.api-sports.io/flags/ch.svg",
+        "season": 2026,
+        "round": "Regular Season - 17",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 6653,
+          "name": "Yverdon Sport",
+          "logo": "https://media.api-sports.io/football/teams/6653.png",
+          "winner": null
+        },
+        "away": {
+          "id": 2185,
+          "name": "Rapperswil",
+          "logo": "https://media.api-sports.io/football/teams/2185.png",
           "winner": null
         }
       },
@@ -6036,8 +5966,8 @@
         "id": 1555106,
         "referee": null,
         "timezone": "UTC",
-        "date": "2026-12-19T16:00:00+00:00",
-        "timestamp": 1797696000,
+        "date": "2026-12-18T18:30:00+00:00",
+        "timestamp": 1797618600,
         "periods": {
           "first": null,
           "second": null
@@ -6106,8 +6036,8 @@
         "id": 1555104,
         "referee": null,
         "timezone": "UTC",
-        "date": "2026-12-19T16:00:00+00:00",
-        "timestamp": 1797696000,
+        "date": "2026-12-18T18:30:00+00:00",
+        "timestamp": 1797618600,
         "periods": {
           "first": null,
           "second": null
@@ -6173,81 +6103,11 @@
     },
     {
       "fixture": {
-        "id": 1555103,
-        "referee": null,
-        "timezone": "UTC",
-        "date": "2026-12-19T16:00:00+00:00",
-        "timestamp": 1797696000,
-        "periods": {
-          "first": null,
-          "second": null
-        },
-        "venue": {
-          "id": null,
-          "name": null,
-          "city": null
-        },
-        "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
-        }
-      },
-      "league": {
-        "id": 208,
-        "name": "Challenge League",
-        "country": "Switzerland",
-        "logo": "https://media.api-sports.io/football/leagues/208.png",
-        "flag": "https://media.api-sports.io/flags/ch.svg",
-        "season": 2026,
-        "round": "Regular Season - 18",
-        "standings": true
-      },
-      "teams": {
-        "home": {
-          "id": 2186,
-          "name": "SC Kriens",
-          "logo": "https://media.api-sports.io/football/teams/2186.png",
-          "winner": null
-        },
-        "away": {
-          "id": 1015,
-          "name": "Neuchatel Xamax FC",
-          "logo": "https://media.api-sports.io/football/teams/1015.png",
-          "winner": null
-        }
-      },
-      "goals": {
-        "home": null,
-        "away": null
-      },
-      "score": {
-        "halftime": {
-          "home": null,
-          "away": null
-        },
-        "fulltime": {
-          "home": null,
-          "away": null
-        },
-        "extratime": {
-          "home": null,
-          "away": null
-        },
-        "penalty": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "fixture": {
         "id": 1555105,
         "referee": null,
         "timezone": "UTC",
-        "date": "2026-12-19T16:00:00+00:00",
-        "timestamp": 1797696000,
+        "date": "2026-12-18T18:30:00+00:00",
+        "timestamp": 1797618600,
         "periods": {
           "first": null,
           "second": null
@@ -6285,6 +6145,146 @@
           "id": 6653,
           "name": "Yverdon Sport",
           "logo": "https://media.api-sports.io/football/teams/6653.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1555102,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2026-12-18T19:15:00+00:00",
+        "timestamp": 1797621300,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": null,
+          "name": null,
+          "city": "Aarau"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 208,
+        "name": "Challenge League",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/leagues/208.png",
+        "flag": "https://media.api-sports.io/flags/ch.svg",
+        "season": 2026,
+        "round": "Regular Season - 18",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2177,
+          "name": "FC Aarau",
+          "logo": "https://media.api-sports.io/football/teams/2177.png",
+          "winner": null
+        },
+        "away": {
+          "id": 2180,
+          "name": "FC Winterthur",
+          "logo": "https://media.api-sports.io/football/teams/2180.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1555103,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2026-12-19T17:00:00+00:00",
+        "timestamp": 1797699600,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": null,
+          "name": null,
+          "city": null
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 208,
+        "name": "Challenge League",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/leagues/208.png",
+        "flag": "https://media.api-sports.io/flags/ch.svg",
+        "season": 2026,
+        "round": "Regular Season - 18",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2186,
+          "name": "SC Kriens",
+          "logo": "https://media.api-sports.io/football/teams/2186.png",
+          "winner": null
+        },
+        "away": {
+          "id": 1015,
+          "name": "Neuchatel Xamax FC",
+          "logo": "https://media.api-sports.io/football/teams/1015.png",
           "winner": null
         }
       },

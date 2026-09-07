@@ -1069,8 +1069,8 @@
         "date": "2026-08-31T18:30:00+00:00",
         "timestamp": 1788201000,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1788201000,
+          "second": 1788204600
         },
         "venue": {
           "id": null,
@@ -1078,10 +1078,10 @@
           "city": "Novara"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 9
         }
       },
       "league": {
@@ -1109,17 +1109,17 @@
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 2,
+        "away": 2
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 1
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 2
         },
         "extratime": {
           "home": null,
@@ -1139,8 +1139,8 @@
         "date": "2026-08-31T19:00:00+00:00",
         "timestamp": 1788202800,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1788202800,
+          "second": 1788206400
         },
         "venue": {
           "id": null,
@@ -1148,10 +1148,10 @@
           "city": "Meda"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 6
         }
       },
       "league": {
@@ -1169,27 +1169,27 @@
           "id": 875,
           "name": "Renate",
           "logo": "https://media.api-sports.io/football/teams/875.png",
-          "winner": null
+          "winner": false
         },
         "away": {
           "id": 510,
           "name": "Cittadella",
           "logo": "https://media.api-sports.io/football/teams/510.png",
-          "winner": null
+          "winner": true
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 0,
+        "away": 1
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 1
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 1
         },
         "extratime": {
           "home": null,
@@ -1209,8 +1209,8 @@
         "date": "2026-08-31T19:00:00+00:00",
         "timestamp": 1788202800,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1788202800,
+          "second": 1788206400
         },
         "venue": {
           "id": null,
@@ -1218,10 +1218,10 @@
           "city": "Zanica"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 7
         }
       },
       "league": {
@@ -1249,17 +1249,17 @@
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 1,
+        "away": 1
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 1
         },
         "extratime": {
           "home": null,
@@ -1279,19 +1279,19 @@
         "date": "2026-08-31T19:00:00+00:00",
         "timestamp": 1788202800,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1788202800,
+          "second": 1788206400
         },
         "venue": {
           "id": null,
-          "name": null,
-          "city": null
+          "name": "Stadio Comunale Gino Corioni",
+          "city": "Ospitaletto"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 5
         }
       },
       "league": {
@@ -1319,17 +1319,17 @@
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 0,
+        "away": 0
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         },
         "extratime": {
           "home": null,
@@ -1349,19 +1349,19 @@
         "date": "2026-08-31T19:00:00+00:00",
         "timestamp": 1788202800,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1788202800,
+          "second": 1788206400
         },
         "venue": {
-          "id": null,
-          "name": null,
-          "city": null
+          "id": 20271,
+          "name": "Stadio Omobono Tenni",
+          "city": "Treviso"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 11
         }
       },
       "league": {
@@ -1379,27 +1379,27 @@
           "id": 22319,
           "name": "Treviso",
           "logo": "https://media.api-sports.io/football/teams/22319.png",
-          "winner": null
+          "winner": true
         },
         "away": {
           "id": 6379,
           "name": "Lecco",
           "logo": "https://media.api-sports.io/football/teams/6379.png",
-          "winner": null
+          "winner": false
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 1,
+        "away": 0
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 0
         },
         "extratime": {
           "home": null,
@@ -1419,8 +1419,8 @@
         "date": "2026-09-06T13:00:00+00:00",
         "timestamp": 1788699600,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1788699600,
+          "second": 1788703200
         },
         "venue": {
           "id": null,
@@ -1428,10 +1428,10 @@
           "city": "Gorgonzola"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 8
         }
       },
       "league": {
@@ -1449,27 +1449,27 @@
           "id": 865,
           "name": "Giana Erminio",
           "logo": "https://media.api-sports.io/football/teams/865.png",
-          "winner": null
+          "winner": false
         },
         "away": {
           "id": 17820,
           "name": "Dolomiti Bellunesi",
           "logo": "https://media.api-sports.io/football/teams/17820.png",
-          "winner": null
+          "winner": true
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 1,
+        "away": 2
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 2
         },
         "extratime": {
           "home": null,
@@ -1489,8 +1489,8 @@
         "date": "2026-09-06T13:00:00+00:00",
         "timestamp": 1788699600,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1788699600,
+          "second": 1788703200
         },
         "venue": {
           "id": null,
@@ -1498,10 +1498,10 @@
           "city": "Zanica"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 7
         }
       },
       "league": {
@@ -1519,27 +1519,27 @@
           "id": 879,
           "name": "Albinoleffe",
           "logo": "https://media.api-sports.io/football/teams/879.png",
-          "winner": null
+          "winner": false
         },
         "away": {
           "id": 17825,
           "name": "Athletic Carpi",
           "logo": "https://media.api-sports.io/football/teams/17825.png",
-          "winner": null
+          "winner": true
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 0,
+        "away": 1
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 1
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 1
         },
         "extratime": {
           "home": null,
@@ -1559,8 +1559,8 @@
         "date": "2026-09-06T16:00:00+00:00",
         "timestamp": 1788710400,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1788710400,
+          "second": 1788714000
         },
         "venue": {
           "id": 874,
@@ -1568,10 +1568,10 @@
           "city": "Alessandria"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 8
         }
       },
       "league": {
@@ -1599,17 +1599,17 @@
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 0,
+        "away": 0
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         },
         "extratime": {
           "home": null,
@@ -1629,8 +1629,8 @@
         "date": "2026-09-06T19:00:00+00:00",
         "timestamp": 1788721200,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1788721200,
+          "second": 1788724800
         },
         "venue": {
           "id": 891,
@@ -1638,10 +1638,10 @@
           "city": "Cittadella"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 7
         }
       },
       "league": {
@@ -1659,27 +1659,27 @@
           "id": 510,
           "name": "Cittadella",
           "logo": "https://media.api-sports.io/football/teams/510.png",
-          "winner": null
+          "winner": true
         },
         "away": {
           "id": 1689,
           "name": "Lumezzane",
           "logo": "https://media.api-sports.io/football/teams/1689.png",
-          "winner": null
+          "winner": false
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 2,
+        "away": 1
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 1
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 1
         },
         "extratime": {
           "home": null,
@@ -1699,8 +1699,8 @@
         "date": "2026-09-06T19:00:00+00:00",
         "timestamp": 1788721200,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1788721200,
+          "second": 1788724800
         },
         "venue": {
           "id": null,
@@ -1708,10 +1708,10 @@
           "city": "Ospitaletto"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 6
         }
       },
       "league": {
@@ -1729,27 +1729,27 @@
           "id": 24696,
           "name": "Ospitaletto",
           "logo": "https://media.api-sports.io/football/teams/24696.png",
-          "winner": null
+          "winner": true
         },
         "away": {
           "id": 6378,
           "name": "Arzignano Valchiampo",
           "logo": "https://media.api-sports.io/football/teams/6378.png",
-          "winner": null
+          "winner": false
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 3,
+        "away": 1
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 1
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 3,
+          "away": 1
         },
         "extratime": {
           "home": null,
@@ -1769,8 +1769,8 @@
         "date": "2026-09-06T19:00:00+00:00",
         "timestamp": 1788721200,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1788721200,
+          "second": 1788724800
         },
         "venue": {
           "id": 882,
@@ -1778,10 +1778,10 @@
           "city": "Brescia"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 8
         }
       },
       "league": {
@@ -1799,27 +1799,27 @@
           "id": 26356,
           "name": "Union Brescia",
           "logo": "https://media.api-sports.io/football/teams/26356.png",
-          "winner": null
+          "winner": true
         },
         "away": {
           "id": 17816,
           "name": "Desenzano Calvina",
           "logo": "https://media.api-sports.io/football/teams/17816.png",
-          "winner": null
+          "winner": false
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 1,
+        "away": 0
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 0
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 0
         },
         "extratime": {
           "home": null,

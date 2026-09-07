@@ -773,6 +773,101 @@
     },
     {
       "player": {
+        "id": 449639,
+        "name": "Rui Silva",
+        "firstname": "Rui",
+        "lastname": "Silva",
+        "age": 19,
+        "birth": {
+          "date": "2007-03-18",
+          "place": null,
+          "country": "Portugal"
+        },
+        "nationality": "Portugal",
+        "height": null,
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/449639.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 229,
+            "name": "Benfica B",
+            "logo": "https://media.api-sports.io/football/teams/229.png"
+          },
+          "league": {
+            "id": 95,
+            "name": "Segunda Liga",
+            "country": "Portugal",
+            "logo": "https://media.api-sports.io/football/leagues/95.png",
+            "flag": "https://media.api-sports.io/flags/pt.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": null,
+            "minutes": null,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": null,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": null,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
         "id": 453955,
         "name": "J. Afonso",
         "firstname": "João",
@@ -1285,101 +1380,6 @@
             "minutes": null,
             "number": null,
             "position": "Forward",
-            "rating": null,
-            "captain": false
-          },
-          "substitutes": {
-            "in": null,
-            "out": null,
-            "bench": null
-          },
-          "shots": {
-            "total": null,
-            "on": null
-          },
-          "goals": {
-            "total": 0,
-            "conceded": null,
-            "assists": 0,
-            "saves": null
-          },
-          "passes": {
-            "total": null,
-            "key": null,
-            "accuracy": null
-          },
-          "tackles": {
-            "total": null,
-            "blocks": null,
-            "interceptions": null
-          },
-          "duels": {
-            "total": null,
-            "won": null
-          },
-          "dribbles": {
-            "attempts": null,
-            "success": null,
-            "past": null
-          },
-          "fouls": {
-            "drawn": null,
-            "committed": null
-          },
-          "cards": {
-            "yellow": 0,
-            "yellowred": null,
-            "red": 0
-          },
-          "penalty": {
-            "won": null,
-            "commited": null,
-            "scored": null,
-            "missed": null,
-            "saved": null
-          }
-        }
-      ]
-    },
-    {
-      "player": {
-        "id": 668283,
-        "name": "Rui Silva",
-        "firstname": "Rui",
-        "lastname": "Silva",
-        "age": 19,
-        "birth": {
-          "date": "2007-03-18",
-          "place": null,
-          "country": "Portugal"
-        },
-        "nationality": "Portugal",
-        "height": null,
-        "weight": null,
-        "injured": false,
-        "photo": "https://media.api-sports.io/football/players/668283.png"
-      },
-      "statistics": [
-        {
-          "team": {
-            "id": 229,
-            "name": "Benfica B",
-            "logo": "https://media.api-sports.io/football/teams/229.png"
-          },
-          "league": {
-            "id": 95,
-            "name": "Segunda Liga",
-            "country": "Portugal",
-            "logo": "https://media.api-sports.io/football/leagues/95.png",
-            "flag": "https://media.api-sports.io/flags/pt.svg",
-            "season": 2026
-          },
-          "games": {
-            "appearences": 1,
-            "lineups": null,
-            "minutes": null,
-            "number": null,
-            "position": "Defender",
             "rating": null,
             "captain": false
           },

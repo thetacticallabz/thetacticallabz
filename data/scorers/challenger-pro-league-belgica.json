@@ -13,6 +13,291 @@
   "response": [
     {
       "player": {
+        "id": 570655,
+        "name": "K. Achahbar",
+        "firstname": null,
+        "lastname": null,
+        "age": 16,
+        "birth": {
+          "date": null,
+          "place": null,
+          "country": null
+        },
+        "nationality": null,
+        "height": null,
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/570655.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 19045,
+            "name": "KRC Genk II",
+            "logo": "https://media.api-sports.io/football/teams/19045.png"
+          },
+          "league": {
+            "id": 145,
+            "name": "Challenger Pro League",
+            "country": "Belgium",
+            "logo": "https://media.api-sports.io/football/leagues/145.png",
+            "flag": "https://media.api-sports.io/flags/be.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 3,
+            "lineups": 3,
+            "minutes": 90,
+            "number": 78,
+            "position": "Midfielder",
+            "rating": "9.54",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 2,
+            "bench": 1
+          },
+          "shots": {
+            "total": 4,
+            "on": 3
+          },
+          "goals": {
+            "total": 2,
+            "conceded": 0,
+            "assists": 1,
+            "saves": 0
+          },
+          "passes": {
+            "total": 21,
+            "key": 2,
+            "accuracy": 76
+          },
+          "tackles": {
+            "total": 2,
+            "blocks": 0,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 7,
+            "won": 4
+          },
+          "dribbles": {
+            "attempts": 5,
+            "success": 2,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 0,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 551277,
+        "name": "A. Vula",
+        "firstname": null,
+        "lastname": null,
+        "age": 26,
+        "birth": {
+          "date": null,
+          "place": null,
+          "country": null
+        },
+        "nationality": null,
+        "height": null,
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/551277.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 263,
+            "name": "Beerschot VA",
+            "logo": "https://media.api-sports.io/football/teams/263.png"
+          },
+          "league": {
+            "id": 145,
+            "name": "Challenger Pro League",
+            "country": "Belgium",
+            "logo": "https://media.api-sports.io/football/leagues/145.png",
+            "flag": "https://media.api-sports.io/flags/be.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 4,
+            "lineups": 2,
+            "minutes": 177,
+            "number": 15,
+            "position": "Attacker",
+            "rating": "7.42",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 1,
+            "bench": 2
+          },
+          "shots": {
+            "total": 7,
+            "on": 4
+          },
+          "goals": {
+            "total": 2,
+            "conceded": 0,
+            "assists": 0,
+            "saves": 0
+          },
+          "passes": {
+            "total": 28,
+            "key": 1,
+            "accuracy": 64
+          },
+          "tackles": {
+            "total": 2,
+            "blocks": 2,
+            "interceptions": 0
+          },
+          "duels": {
+            "total": 27,
+            "won": 14
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 4,
+            "committed": 0
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 449660,
+        "name": "E. Sternal",
+        "firstname": "Enzo",
+        "lastname": "Sternal",
+        "age": 18,
+        "birth": {
+          "date": "2007-05-28",
+          "place": "Nancy",
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": "174",
+        "weight": "68",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/449660.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 19046,
+            "name": "RSC Anderlecht II",
+            "logo": "https://media.api-sports.io/football/teams/19046.png"
+          },
+          "league": {
+            "id": 145,
+            "name": "Challenger Pro League",
+            "country": "Belgium",
+            "logo": "https://media.api-sports.io/football/leagues/145.png",
+            "flag": "https://media.api-sports.io/flags/be.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 4,
+            "lineups": 4,
+            "minutes": 252,
+            "number": 28,
+            "position": "Midfielder",
+            "rating": "7.42",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 3,
+            "bench": 0
+          },
+          "shots": {
+            "total": 7,
+            "on": 2
+          },
+          "goals": {
+            "total": 2,
+            "conceded": 0,
+            "assists": 0,
+            "saves": 0
+          },
+          "passes": {
+            "total": 120,
+            "key": 6,
+            "accuracy": 78
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": 1,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 29,
+            "won": 16
+          },
+          "dribbles": {
+            "attempts": 12,
+            "success": 5,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 8,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
         "id": 193719,
         "name": "M. Viltard",
         "firstname": "Malcolm",
@@ -45,17 +330,17 @@
             "season": 2026
           },
           "games": {
-            "appearences": 3,
-            "lineups": 3,
-            "minutes": 90,
+            "appearences": 4,
+            "lineups": 4,
+            "minutes": 118,
             "number": 24,
             "position": "Midfielder",
-            "rating": "8.2",
+            "rating": "7.46",
             "captain": false
           },
           "substitutes": {
             "in": 0,
-            "out": 0,
+            "out": 1,
             "bench": 0
           },
           "shots": {
@@ -69,9 +354,9 @@
             "saves": 0
           },
           "passes": {
-            "total": 52,
+            "total": 64,
             "key": 0,
-            "accuracy": 86
+            "accuracy": 85
           },
           "tackles": {
             "total": 7,
@@ -79,8 +364,8 @@
             "interceptions": 2
           },
           "duels": {
-            "total": 17,
-            "won": 10
+            "total": 21,
+            "won": 11
           },
           "dribbles": {
             "attempts": 1,
@@ -100,6 +385,291 @@
             "won": null,
             "commited": null,
             "scored": 1,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 327629,
+        "name": "T. Lake",
+        "firstname": "Toshio",
+        "lastname": "Lake",
+        "age": 24,
+        "birth": {
+          "date": "2001-03-26",
+          "place": "Rotterdam",
+          "country": "Netherlands"
+        },
+        "nationality": "Netherlands",
+        "height": null,
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/327629.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 263,
+            "name": "Beerschot VA",
+            "logo": "https://media.api-sports.io/football/teams/263.png"
+          },
+          "league": {
+            "id": 145,
+            "name": "Challenger Pro League",
+            "country": "Belgium",
+            "logo": "https://media.api-sports.io/football/leagues/145.png",
+            "flag": "https://media.api-sports.io/flags/be.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 4,
+            "lineups": 2,
+            "minutes": 133,
+            "number": 7,
+            "position": "Attacker",
+            "rating": "8.4",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 2,
+            "bench": 2
+          },
+          "shots": {
+            "total": 6,
+            "on": 6
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": 2,
+            "saves": 0
+          },
+          "passes": {
+            "total": 58,
+            "key": 7,
+            "accuracy": 77
+          },
+          "tackles": {
+            "total": 2,
+            "blocks": 0,
+            "interceptions": 2
+          },
+          "duels": {
+            "total": 20,
+            "won": 13
+          },
+          "dribbles": {
+            "attempts": 3,
+            "success": 2,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 7,
+            "committed": 0
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 423711,
+        "name": "Kim Myeong-Jun",
+        "firstname": "Myeong-Jun",
+        "lastname": "Kim",
+        "age": 19,
+        "birth": {
+          "date": "2006-03-21",
+          "place": null,
+          "country": "Korea Republic"
+        },
+        "nationality": "Korea Republic",
+        "height": "183",
+        "weight": "73",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/423711.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 19045,
+            "name": "KRC Genk II",
+            "logo": "https://media.api-sports.io/football/teams/19045.png"
+          },
+          "league": {
+            "id": 145,
+            "name": "Challenger Pro League",
+            "country": "Belgium",
+            "logo": "https://media.api-sports.io/football/leagues/145.png",
+            "flag": "https://media.api-sports.io/flags/be.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 4,
+            "lineups": 4,
+            "minutes": 84,
+            "number": 89,
+            "position": "Midfielder",
+            "rating": "8.81",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 2,
+            "bench": 0
+          },
+          "shots": {
+            "total": 4,
+            "on": 2
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": 1,
+            "saves": 0
+          },
+          "passes": {
+            "total": 29,
+            "key": 2,
+            "accuracy": 65
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": 2,
+            "interceptions": 2
+          },
+          "duels": {
+            "total": 8,
+            "won": 5
+          },
+          "dribbles": {
+            "attempts": 2,
+            "success": 2,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 0,
+            "committed": 0
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 354521,
+        "name": "T. Kasayanagi",
+        "firstname": "Tsubasa",
+        "lastname": "Kasayanagi",
+        "age": 22,
+        "birth": {
+          "date": "2003-06-24",
+          "place": null,
+          "country": "Japan"
+        },
+        "nationality": "Japan",
+        "height": "175 cm",
+        "weight": "63 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/354521.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 6222,
+            "name": "Patro Eisden",
+            "logo": "https://media.api-sports.io/football/teams/6222.png"
+          },
+          "league": {
+            "id": 145,
+            "name": "Challenger Pro League",
+            "country": "Belgium",
+            "logo": "https://media.api-sports.io/football/leagues/145.png",
+            "flag": "https://media.api-sports.io/flags/be.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 4,
+            "lineups": 4,
+            "minutes": 179,
+            "number": 10,
+            "position": "Midfielder",
+            "rating": "6.92",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 3,
+            "bench": 0
+          },
+          "shots": {
+            "total": 4,
+            "on": 2
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": 1,
+            "saves": 0
+          },
+          "passes": {
+            "total": 27,
+            "key": 2,
+            "accuracy": 81
+          },
+          "tackles": {
+            "total": 2,
+            "blocks": 1,
+            "interceptions": 2
+          },
+          "duels": {
+            "total": 7,
+            "won": 5
+          },
+          "dribbles": {
+            "attempts": 4,
+            "success": 3,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 0,
+            "committed": 0
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
             "missed": null,
             "saved": null
           }
@@ -140,8 +710,8 @@
             "season": 2026
           },
           "games": {
-            "appearences": 2,
-            "lineups": 2,
+            "appearences": 3,
+            "lineups": 3,
             "minutes": 90,
             "number": 97,
             "position": "Midfielder",
@@ -203,21 +773,21 @@
     },
     {
       "player": {
-        "id": 327629,
-        "name": "T. Lake",
-        "firstname": "Toshio",
-        "lastname": "Lake",
-        "age": 24,
+        "id": 89,
+        "name": "J. Vossen",
+        "firstname": "Jelle",
+        "lastname": "Vossen",
+        "age": 36,
         "birth": {
-          "date": "2001-03-26",
-          "place": "Rotterdam",
-          "country": "Netherlands"
+          "date": "1989-03-22",
+          "place": "Bilzen",
+          "country": "Belgium"
         },
-        "nationality": "Netherlands",
-        "height": null,
-        "weight": null,
+        "nationality": "Belgium",
+        "height": "180",
+        "weight": "70",
         "injured": false,
-        "photo": "https://media.api-sports.io/football/players/327629.png"
+        "photo": "https://media.api-sports.io/football/players/89.png"
       },
       "statistics": [
         {
@@ -235,22 +805,22 @@
             "season": 2026
           },
           "games": {
-            "appearences": 3,
-            "lineups": 1,
-            "minutes": 60,
-            "number": 7,
-            "position": "Attacker",
-            "rating": "8.2",
+            "appearences": 4,
+            "lineups": 4,
+            "minutes": 129,
+            "number": 9,
+            "position": "Midfielder",
+            "rating": "7.14",
             "captain": false
           },
           "substitutes": {
-            "in": 2,
-            "out": 1,
-            "bench": 2
+            "in": 0,
+            "out": 3,
+            "bench": 0
           },
           "shots": {
-            "total": 3,
-            "on": 3
+            "total": 4,
+            "on": 1
           },
           "goals": {
             "total": 1,
@@ -259,27 +829,27 @@
             "saves": 0
           },
           "passes": {
-            "total": 15,
-            "key": 3,
-            "accuracy": 66
+            "total": 28,
+            "key": 0,
+            "accuracy": 64
           },
           "tackles": {
-            "total": 0,
+            "total": 1,
             "blocks": 0,
-            "interceptions": 1
+            "interceptions": 2
           },
           "duels": {
-            "total": 6,
-            "won": 4
+            "total": 9,
+            "won": 5
           },
           "dribbles": {
-            "attempts": 0,
-            "success": 0,
+            "attempts": 2,
+            "success": 1,
             "past": null
           },
           "fouls": {
-            "drawn": 3,
-            "committed": 0
+            "drawn": 2,
+            "committed": 1
           },
           "cards": {
             "yellow": 0,
@@ -291,6 +861,386 @@
             "commited": null,
             "scored": 0,
             "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 592891,
+        "name": "Amine Daali",
+        "firstname": null,
+        "lastname": null,
+        "age": 21,
+        "birth": {
+          "date": null,
+          "place": null,
+          "country": null
+        },
+        "nationality": null,
+        "height": null,
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/592891.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 6215,
+            "name": "Dender",
+            "logo": "https://media.api-sports.io/football/teams/6215.png"
+          },
+          "league": {
+            "id": 145,
+            "name": "Challenger Pro League",
+            "country": "Belgium",
+            "logo": "https://media.api-sports.io/football/leagues/145.png",
+            "flag": "https://media.api-sports.io/flags/be.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 4,
+            "lineups": 4,
+            "minutes": 141,
+            "number": 45,
+            "position": "Midfielder",
+            "rating": "7.23",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 4,
+            "bench": 0
+          },
+          "shots": {
+            "total": 5,
+            "on": 2
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": 0,
+            "saves": 0
+          },
+          "passes": {
+            "total": 46,
+            "key": 2,
+            "accuracy": 80
+          },
+          "tackles": {
+            "total": 3,
+            "blocks": 2,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 16,
+            "won": 9
+          },
+          "dribbles": {
+            "attempts": 4,
+            "success": 4,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 2,
+            "committed": 3
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 544437,
+        "name": "E. Mballa Amougou",
+        "firstname": null,
+        "lastname": null,
+        "age": 27,
+        "birth": {
+          "date": null,
+          "place": null,
+          "country": null
+        },
+        "nationality": null,
+        "height": null,
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/544437.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 6215,
+            "name": "Dender",
+            "logo": "https://media.api-sports.io/football/teams/6215.png"
+          },
+          "league": {
+            "id": 145,
+            "name": "Challenger Pro League",
+            "country": "Belgium",
+            "logo": "https://media.api-sports.io/football/leagues/145.png",
+            "flag": "https://media.api-sports.io/flags/be.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 4,
+            "lineups": 4,
+            "minutes": 153,
+            "number": 7,
+            "position": "Attacker",
+            "rating": "7.18",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 4,
+            "bench": 0
+          },
+          "shots": {
+            "total": 6,
+            "on": 4
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": 0,
+            "saves": 0
+          },
+          "passes": {
+            "total": 28,
+            "key": 0,
+            "accuracy": 71
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": 1,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 29,
+            "won": 18
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 2,
+            "committed": 6
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 496703,
+        "name": "Sandro Vidigal",
+        "firstname": "Sandro Miguel",
+        "lastname": "Rodrigues Vidigal",
+        "age": 18,
+        "birth": {
+          "date": "2007-07-28",
+          "place": "Lisboa",
+          "country": "Portugal"
+        },
+        "nationality": "Portugal",
+        "height": null,
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/496703.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 739,
+            "name": "AS Eupen",
+            "logo": "https://media.api-sports.io/football/teams/739.png"
+          },
+          "league": {
+            "id": 145,
+            "name": "Challenger Pro League",
+            "country": "Belgium",
+            "logo": "https://media.api-sports.io/football/leagues/145.png",
+            "flag": "https://media.api-sports.io/flags/be.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 3,
+            "lineups": 1,
+            "minutes": 31,
+            "number": 17,
+            "position": "Attacker",
+            "rating": "7.6",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 0,
+            "bench": 2
+          },
+          "shots": {
+            "total": 1,
+            "on": 1
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 9,
+            "key": null,
+            "accuracy": 55
+          },
+          "tackles": {
+            "total": 2,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 5,
+            "won": 5
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 2,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 383567,
+        "name": "A. Hachem",
+        "firstname": "Abdelsamad",
+        "lastname": "Hachem",
+        "age": 23,
+        "birth": {
+          "date": "2002-06-28",
+          "place": null,
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": "188",
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/383567.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 4715,
+            "name": "Excelsior Virton",
+            "logo": "https://media.api-sports.io/football/teams/4715.png"
+          },
+          "league": {
+            "id": 145,
+            "name": "Challenger Pro League",
+            "country": "Belgium",
+            "logo": "https://media.api-sports.io/football/leagues/145.png",
+            "flag": "https://media.api-sports.io/flags/be.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 3,
+            "lineups": 3,
+            "minutes": 87,
+            "number": 11,
+            "position": "Attacker",
+            "rating": "6.3",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 0
+          },
+          "shots": {
+            "total": 5,
+            "on": 2
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 26,
+            "key": 2,
+            "accuracy": 53
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": 2
+          },
+          "duels": {
+            "total": 13,
+            "won": 6
+          },
+          "dribbles": {
+            "attempts": 2,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
             "saved": null
           }
         }
@@ -393,21 +1343,21 @@
     },
     {
       "player": {
-        "id": 551289,
+        "id": 204108,
         "name": "M. Lloci",
-        "firstname": null,
-        "lastname": null,
+        "firstname": "Matias",
+        "lastname": "Lloci",
         "age": 25,
         "birth": {
-          "date": null,
+          "date": "2000-04-22",
           "place": null,
-          "country": null
+          "country": "Belgium"
         },
-        "nationality": null,
+        "nationality": "Belgium",
         "height": null,
         "weight": null,
         "injured": false,
-        "photo": "https://media.api-sports.io/football/players/551289.png"
+        "photo": "https://media.api-sports.io/football/players/204108.png"
       },
       "statistics": [
         {
@@ -488,28 +1438,28 @@
     },
     {
       "player": {
-        "id": 496703,
-        "name": "Sandro Vidigal",
-        "firstname": "Sandro Miguel",
-        "lastname": "Rodrigues Vidigal",
-        "age": 18,
+        "id": 207000,
+        "name": "Z. Atteri",
+        "firstname": "Zakaria",
+        "lastname": "Atteri",
+        "age": 24,
         "birth": {
-          "date": "2007-07-28",
-          "place": "Lisboa",
-          "country": "Portugal"
+          "date": "2001-02-15",
+          "place": null,
+          "country": "Belgium"
         },
-        "nationality": "Portugal",
-        "height": null,
+        "nationality": "Belgium",
+        "height": "189",
         "weight": null,
         "injured": false,
-        "photo": "https://media.api-sports.io/football/players/496703.png"
+        "photo": "https://media.api-sports.io/football/players/207000.png"
       },
       "statistics": [
         {
           "team": {
-            "id": 739,
-            "name": "AS Eupen",
-            "logo": "https://media.api-sports.io/football/teams/739.png"
+            "id": 6222,
+            "name": "Patro Eisden",
+            "logo": "https://media.api-sports.io/football/teams/6222.png"
           },
           "league": {
             "id": 145,
@@ -520,18 +1470,18 @@
             "season": 2026
           },
           "games": {
-            "appearences": 2,
+            "appearences": 1,
             "lineups": 0,
-            "minutes": 31,
-            "number": 17,
+            "minutes": 27,
+            "number": 9,
             "position": "Attacker",
-            "rating": "7.6",
+            "rating": "7.33",
             "captain": false
           },
           "substitutes": {
-            "in": 2,
+            "in": 1,
             "out": 0,
-            "bench": 2
+            "bench": 1
           },
           "shots": {
             "total": 1,
@@ -541,124 +1491,29 @@
             "total": 1,
             "conceded": 0,
             "assists": 0,
-            "saves": null
+            "saves": 0
           },
           "passes": {
-            "total": 9,
-            "key": null,
-            "accuracy": 55
+            "total": 3,
+            "key": 1,
+            "accuracy": 66
           },
           "tackles": {
-            "total": 2,
-            "blocks": null,
-            "interceptions": null
+            "total": 1,
+            "blocks": 0,
+            "interceptions": 0
           },
           "duels": {
-            "total": 5,
-            "won": 5
+            "total": 6,
+            "won": 3
           },
           "dribbles": {
-            "attempts": null,
-            "success": null,
+            "attempts": 0,
+            "success": 0,
             "past": null
           },
           "fouls": {
             "drawn": 2,
-            "committed": null
-          },
-          "cards": {
-            "yellow": 0,
-            "yellowred": 0,
-            "red": 0
-          },
-          "penalty": {
-            "won": null,
-            "commited": null,
-            "scored": 0,
-            "missed": 0,
-            "saved": null
-          }
-        }
-      ]
-    },
-    {
-      "player": {
-        "id": 383567,
-        "name": "A. Hachem",
-        "firstname": "Abdelsamad",
-        "lastname": "Hachem",
-        "age": 23,
-        "birth": {
-          "date": "2002-06-28",
-          "place": null,
-          "country": "France"
-        },
-        "nationality": "France",
-        "height": "188",
-        "weight": null,
-        "injured": false,
-        "photo": "https://media.api-sports.io/football/players/383567.png"
-      },
-      "statistics": [
-        {
-          "team": {
-            "id": 4715,
-            "name": "Excelsior Virton",
-            "logo": "https://media.api-sports.io/football/teams/4715.png"
-          },
-          "league": {
-            "id": 145,
-            "name": "Challenger Pro League",
-            "country": "Belgium",
-            "logo": "https://media.api-sports.io/football/leagues/145.png",
-            "flag": "https://media.api-sports.io/flags/be.svg",
-            "season": 2026
-          },
-          "games": {
-            "appearences": 2,
-            "lineups": 2,
-            "minutes": 87,
-            "number": 11,
-            "position": "Attacker",
-            "rating": "6.3",
-            "captain": false
-          },
-          "substitutes": {
-            "in": 0,
-            "out": 1,
-            "bench": 0
-          },
-          "shots": {
-            "total": 5,
-            "on": 2
-          },
-          "goals": {
-            "total": 1,
-            "conceded": 0,
-            "assists": 0,
-            "saves": null
-          },
-          "passes": {
-            "total": 26,
-            "key": 2,
-            "accuracy": 53
-          },
-          "tackles": {
-            "total": null,
-            "blocks": null,
-            "interceptions": 2
-          },
-          "duels": {
-            "total": 13,
-            "won": 6
-          },
-          "dribbles": {
-            "attempts": 2,
-            "success": null,
-            "past": null
-          },
-          "fouls": {
-            "drawn": null,
             "committed": 1
           },
           "cards": {
@@ -670,7 +1525,102 @@
             "won": null,
             "commited": null,
             "scored": 0,
-            "missed": 0,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 388461,
+        "name": "A. Abdullahi",
+        "firstname": "Ahmed",
+        "lastname": "Abdullahi",
+        "age": 21,
+        "birth": {
+          "date": "2004-06-19",
+          "place": null,
+          "country": "Nigeria"
+        },
+        "nationality": "Nigeria",
+        "height": "181",
+        "weight": "75",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/388461.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 19685,
+            "name": "KAA Gent II",
+            "logo": "https://media.api-sports.io/football/teams/19685.png"
+          },
+          "league": {
+            "id": 145,
+            "name": "Challenger Pro League",
+            "country": "Belgium",
+            "logo": "https://media.api-sports.io/football/leagues/145.png",
+            "flag": "https://media.api-sports.io/flags/be.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 78,
+            "number": 61,
+            "position": "Midfielder",
+            "rating": "7.56",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 0
+          },
+          "shots": {
+            "total": 2,
+            "on": 2
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": 0,
+            "saves": 0
+          },
+          "passes": {
+            "total": 17,
+            "key": 2,
+            "accuracy": 76
+          },
+          "tackles": {
+            "total": 2,
+            "blocks": 0,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 11,
+            "won": 4
+          },
+          "dribbles": {
+            "attempts": 2,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 0,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": null,
             "saved": null
           }
         }
@@ -710,17 +1660,17 @@
             "season": 2026
           },
           "games": {
-            "appearences": 3,
-            "lineups": 3,
-            "minutes": 90,
+            "appearences": 4,
+            "lineups": 4,
+            "minutes": 153,
             "number": 4,
             "position": "Attacker",
-            "rating": "7.35",
+            "rating": "6.53",
             "captain": false
           },
           "substitutes": {
             "in": 0,
-            "out": 1,
+            "out": 2,
             "bench": 0
           },
           "shots": {
@@ -734,27 +1684,27 @@
             "saves": 0
           },
           "passes": {
-            "total": 18,
+            "total": 37,
             "key": 2,
-            "accuracy": 77
+            "accuracy": 78
           },
           "tackles": {
-            "total": 1,
+            "total": 2,
             "blocks": 0,
             "interceptions": 0
           },
           "duels": {
-            "total": 12,
-            "won": 7
+            "total": 19,
+            "won": 8
           },
           "dribbles": {
-            "attempts": 2,
+            "attempts": 3,
             "success": 1,
             "past": null
           },
           "fouls": {
             "drawn": 3,
-            "committed": 1
+            "committed": 3
           },
           "cards": {
             "yellow": 1,
@@ -805,8 +1755,8 @@
             "season": 2026
           },
           "games": {
-            "appearences": 1,
-            "lineups": 1,
+            "appearences": 2,
+            "lineups": 2,
             "minutes": 88,
             "number": 18,
             "position": "Defender",
@@ -815,7 +1765,7 @@
           },
           "substitutes": {
             "in": 0,
-            "out": 0,
+            "out": 1,
             "bench": 0
           },
           "shots": {
@@ -868,218 +1818,28 @@
     },
     {
       "player": {
-        "id": 8569,
-        "name": "N. Rôdes",
-        "firstname": "Nathan Christian",
-        "lastname": "Rôdes",
-        "age": 28,
+        "id": 487400,
+        "name": "R. Vydysh",
+        "firstname": "Ruslan",
+        "lastname": "Vydysh",
+        "age": 19,
         "birth": {
-          "date": "1997-12-11",
-          "place": "Etterbeek",
-          "country": "Belgium"
+          "date": "2006-07-04",
+          "place": "Zaporizhzhia",
+          "country": "Ukraine"
         },
-        "nationality": "Belgium",
-        "height": "191",
-        "weight": "75",
-        "injured": false,
-        "photo": "https://media.api-sports.io/football/players/8569.png"
-      },
-      "statistics": [
-        {
-          "team": {
-            "id": 6215,
-            "name": "Dender",
-            "logo": "https://media.api-sports.io/football/teams/6215.png"
-          },
-          "league": {
-            "id": 145,
-            "name": "Challenger Pro League",
-            "country": "Belgium",
-            "logo": "https://media.api-sports.io/football/leagues/145.png",
-            "flag": "https://media.api-sports.io/flags/be.svg",
-            "season": 2026
-          },
-          "games": {
-            "appearences": 3,
-            "lineups": 3,
-            "minutes": 90,
-            "number": 18,
-            "position": "Midfielder",
-            "rating": "6.83",
-            "captain": false
-          },
-          "substitutes": {
-            "in": 0,
-            "out": 0,
-            "bench": 0
-          },
-          "shots": {
-            "total": 0,
-            "on": 0
-          },
-          "goals": {
-            "total": 0,
-            "conceded": 0,
-            "assists": 1,
-            "saves": 0
-          },
-          "passes": {
-            "total": 37,
-            "key": 2,
-            "accuracy": 72
-          },
-          "tackles": {
-            "total": 2,
-            "blocks": 0,
-            "interceptions": 1
-          },
-          "duels": {
-            "total": 14,
-            "won": 7
-          },
-          "dribbles": {
-            "attempts": 2,
-            "success": 0,
-            "past": null
-          },
-          "fouls": {
-            "drawn": 0,
-            "committed": 1
-          },
-          "cards": {
-            "yellow": 0,
-            "yellowred": 0,
-            "red": 0
-          },
-          "penalty": {
-            "won": null,
-            "commited": null,
-            "scored": 0,
-            "missed": null,
-            "saved": null
-          }
-        }
-      ]
-    },
-    {
-      "player": {
-        "id": 428274,
-        "name": "L. Youndje",
-        "firstname": "Karol Lorenzo",
-        "lastname": "Youndje Sihom",
-        "age": 20,
-        "birth": {
-          "date": "2005-04-12",
-          "place": "Yaoundé",
-          "country": "Belgium"
-        },
-        "nationality": "Belgium",
+        "nationality": "Ukraine",
         "height": null,
         "weight": null,
         "injured": false,
-        "photo": "https://media.api-sports.io/football/players/428274.png"
+        "photo": "https://media.api-sports.io/football/players/487400.png"
       },
       "statistics": [
         {
           "team": {
-            "id": 739,
-            "name": "AS Eupen",
-            "logo": "https://media.api-sports.io/football/teams/739.png"
-          },
-          "league": {
-            "id": 145,
-            "name": "Challenger Pro League",
-            "country": "Belgium",
-            "logo": "https://media.api-sports.io/football/leagues/145.png",
-            "flag": "https://media.api-sports.io/flags/be.svg",
-            "season": 2026
-          },
-          "games": {
-            "appearences": 2,
-            "lineups": 0,
-            "minutes": 12,
-            "number": 13,
-            "position": "Defender",
-            "rating": "7",
-            "captain": false
-          },
-          "substitutes": {
-            "in": 2,
-            "out": 0,
-            "bench": 2
-          },
-          "shots": {
-            "total": null,
-            "on": null
-          },
-          "goals": {
-            "total": 0,
-            "conceded": 0,
-            "assists": 1,
-            "saves": null
-          },
-          "passes": {
-            "total": 6,
-            "key": 1,
-            "accuracy": 83
-          },
-          "tackles": {
-            "total": null,
-            "blocks": null,
-            "interceptions": 1
-          },
-          "duels": {
-            "total": null,
-            "won": null
-          },
-          "dribbles": {
-            "attempts": null,
-            "success": null,
-            "past": null
-          },
-          "fouls": {
-            "drawn": null,
-            "committed": null
-          },
-          "cards": {
-            "yellow": 0,
-            "yellowred": 0,
-            "red": 0
-          },
-          "penalty": {
-            "won": null,
-            "commited": null,
-            "scored": 0,
-            "missed": 0,
-            "saved": null
-          }
-        }
-      ]
-    },
-    {
-      "player": {
-        "id": 125679,
-        "name": "P. Wade",
-        "firstname": "Paul",
-        "lastname": "Wade",
-        "age": 25,
-        "birth": {
-          "date": "2000-04-17",
-          "place": "Cagnes-sur-Mer",
-          "country": "France"
-        },
-        "nationality": "France",
-        "height": "179",
-        "weight": "67",
-        "injured": false,
-        "photo": "https://media.api-sports.io/football/players/125679.png"
-      },
-      "statistics": [
-        {
-          "team": {
-            "id": 4715,
-            "name": "Excelsior Virton",
-            "logo": "https://media.api-sports.io/football/teams/4715.png"
+            "id": 19685,
+            "name": "KAA Gent II",
+            "logo": "https://media.api-sports.io/football/teams/19685.png"
           },
           "league": {
             "id": 145,
@@ -1092,515 +1852,40 @@
           "games": {
             "appearences": 1,
             "lineups": 1,
-            "minutes": 75,
-            "number": 10,
-            "position": "Midfielder",
-            "rating": "7.3",
+            "minutes": 90,
+            "number": 79,
+            "position": "Attacker",
+            "rating": "6.95",
             "captain": false
           },
           "substitutes": {
             "in": 0,
-            "out": 1,
+            "out": 0,
             "bench": 0
           },
           "shots": {
-            "total": 3,
+            "total": 2,
             "on": 1
           },
           "goals": {
-            "total": 0,
+            "total": 1,
             "conceded": 0,
-            "assists": 1,
-            "saves": null
+            "assists": 0,
+            "saves": 0
           },
           "passes": {
-            "total": 19,
+            "total": 37,
             "key": 2,
-            "accuracy": 84
-          },
-          "tackles": {
-            "total": 2,
-            "blocks": null,
-            "interceptions": 2
-          },
-          "duels": {
-            "total": 7,
-            "won": 4
-          },
-          "dribbles": {
-            "attempts": 3,
-            "success": 2,
-            "past": null
-          },
-          "fouls": {
-            "drawn": null,
-            "committed": null
-          },
-          "cards": {
-            "yellow": 0,
-            "yellowred": 0,
-            "red": 0
-          },
-          "penalty": {
-            "won": null,
-            "commited": null,
-            "scored": 0,
-            "missed": 0,
-            "saved": null
-          }
-        }
-      ]
-    },
-    {
-      "player": {
-        "id": 391341,
-        "name": "J. Mazouz",
-        "firstname": "Jassim",
-        "lastname": "Mazouz",
-        "age": 22,
-        "birth": {
-          "date": "2003-09-13",
-          "place": null,
-          "country": "Belgium"
-        },
-        "nationality": "Belgium",
-        "height": null,
-        "weight": null,
-        "injured": false,
-        "photo": "https://media.api-sports.io/football/players/391341.png"
-      },
-      "statistics": [
-        {
-          "team": {
-            "id": 14128,
-            "name": "Lokeren-Temse",
-            "logo": "https://media.api-sports.io/football/teams/14128.png"
-          },
-          "league": {
-            "id": 145,
-            "name": "Challenger Pro League",
-            "country": "Belgium",
-            "logo": "https://media.api-sports.io/football/leagues/145.png",
-            "flag": "https://media.api-sports.io/flags/be.svg",
-            "season": 2026
-          },
-          "games": {
-            "appearences": 0,
-            "lineups": 0,
-            "minutes": 69,
-            "number": 34,
-            "position": "Midfielder",
-            "rating": "7.2",
-            "captain": false
-          },
-          "substitutes": {
-            "in": 0,
-            "out": 0,
-            "bench": 0
-          },
-          "shots": {
-            "total": 1,
-            "on": null
-          },
-          "goals": {
-            "total": 0,
-            "conceded": 0,
-            "assists": 1,
-            "saves": null
-          },
-          "passes": {
-            "total": 23,
-            "key": 3,
-            "accuracy": 69
-          },
-          "tackles": {
-            "total": 1,
-            "blocks": null,
-            "interceptions": 1
-          },
-          "duels": {
-            "total": 9,
-            "won": 6
-          },
-          "dribbles": {
-            "attempts": 3,
-            "success": 2,
-            "past": null
-          },
-          "fouls": {
-            "drawn": 1,
-            "committed": 2
-          },
-          "cards": {
-            "yellow": 1,
-            "yellowred": 0,
-            "red": 0
-          },
-          "penalty": {
-            "won": null,
-            "commited": null,
-            "scored": 0,
-            "missed": 0,
-            "saved": null
-          }
-        }
-      ]
-    },
-    {
-      "player": {
-        "id": 161993,
-        "name": "J. Vervaque",
-        "firstname": "Jarno",
-        "lastname": "Vervaque",
-        "age": 25,
-        "birth": {
-          "date": "2000-09-26",
-          "place": null,
-          "country": "Belgium"
-        },
-        "nationality": "Belgium",
-        "height": null,
-        "weight": null,
-        "injured": false,
-        "photo": "https://media.api-sports.io/football/players/161993.png"
-      },
-      "statistics": [
-        {
-          "team": {
-            "id": 14128,
-            "name": "Lokeren-Temse",
-            "logo": "https://media.api-sports.io/football/teams/14128.png"
-          },
-          "league": {
-            "id": 145,
-            "name": "Challenger Pro League",
-            "country": "Belgium",
-            "logo": "https://media.api-sports.io/football/leagues/145.png",
-            "flag": "https://media.api-sports.io/flags/be.svg",
-            "season": 2026
-          },
-          "games": {
-            "appearences": 0,
-            "lineups": 0,
-            "minutes": 86,
-            "number": 26,
-            "position": "Defender",
-            "rating": "6.7",
-            "captain": false
-          },
-          "substitutes": {
-            "in": 0,
-            "out": 0,
-            "bench": 0
-          },
-          "shots": {
-            "total": 1,
-            "on": null
-          },
-          "goals": {
-            "total": 0,
-            "conceded": 0,
-            "assists": 1,
-            "saves": null
-          },
-          "passes": {
-            "total": 29,
-            "key": 3,
-            "accuracy": 82
-          },
-          "tackles": {
-            "total": 1,
-            "blocks": 1,
-            "interceptions": 2
-          },
-          "duels": {
-            "total": 6,
-            "won": 2
-          },
-          "dribbles": {
-            "attempts": 1,
-            "success": null,
-            "past": null
-          },
-          "fouls": {
-            "drawn": 1,
-            "committed": 2
-          },
-          "cards": {
-            "yellow": 1,
-            "yellowred": 0,
-            "red": 0
-          },
-          "penalty": {
-            "won": null,
-            "commited": null,
-            "scored": 0,
-            "missed": 0,
-            "saved": null
-          }
-        }
-      ]
-    },
-    {
-      "player": {
-        "id": 568400,
-        "name": "N. Dendani",
-        "firstname": null,
-        "lastname": null,
-        "age": 19,
-        "birth": {
-          "date": null,
-          "place": null,
-          "country": null
-        },
-        "nationality": null,
-        "height": null,
-        "weight": null,
-        "injured": false,
-        "photo": "https://media.api-sports.io/football/players/568400.png"
-      },
-      "statistics": [
-        {
-          "team": {
-            "id": 6220,
-            "name": "Liège",
-            "logo": "https://media.api-sports.io/football/teams/6220.png"
-          },
-          "league": {
-            "id": 145,
-            "name": "Challenger Pro League",
-            "country": "Belgium",
-            "logo": "https://media.api-sports.io/football/leagues/145.png",
-            "flag": "https://media.api-sports.io/flags/be.svg",
-            "season": 2026
-          },
-          "games": {
-            "appearences": 3,
-            "lineups": 2,
-            "minutes": 2,
-            "number": 11,
-            "position": "Attacker",
-            "rating": "6.22",
-            "captain": false
-          },
-          "substitutes": {
-            "in": 1,
-            "out": 2,
-            "bench": 1
-          },
-          "shots": {
-            "total": 0,
-            "on": 0
-          },
-          "goals": {
-            "total": 0,
-            "conceded": 0,
-            "assists": 0,
-            "saves": 0
-          },
-          "passes": {
-            "total": 2,
-            "key": 0,
-            "accuracy": 100
+            "accuracy": 78
           },
           "tackles": {
             "total": 0,
-            "blocks": 0,
-            "interceptions": 0
-          },
-          "duels": {
-            "total": 2,
-            "won": 0
-          },
-          "dribbles": {
-            "attempts": 1,
-            "success": 0,
-            "past": null
-          },
-          "fouls": {
-            "drawn": 0,
-            "committed": 0
-          },
-          "cards": {
-            "yellow": 0,
-            "yellowred": 0,
-            "red": 0
-          },
-          "penalty": {
-            "won": null,
-            "commited": null,
-            "scored": 0,
-            "missed": null,
-            "saved": null
-          }
-        }
-      ]
-    },
-    {
-      "player": {
-        "id": 281689,
-        "name": "A. Brrou",
-        "firstname": "Anisse",
-        "lastname": "Brrou",
-        "age": 26,
-        "birth": {
-          "date": "1999-01-01",
-          "place": null,
-          "country": "Belgium"
-        },
-        "nationality": "Belgium",
-        "height": null,
-        "weight": null,
-        "injured": false,
-        "photo": "https://media.api-sports.io/football/players/281689.png"
-      },
-      "statistics": [
-        {
-          "team": {
-            "id": 14128,
-            "name": "Lokeren-Temse",
-            "logo": "https://media.api-sports.io/football/teams/14128.png"
-          },
-          "league": {
-            "id": 145,
-            "name": "Challenger Pro League",
-            "country": "Belgium",
-            "logo": "https://media.api-sports.io/football/leagues/145.png",
-            "flag": "https://media.api-sports.io/flags/be.svg",
-            "season": 2026
-          },
-          "games": {
-            "appearences": 3,
-            "lineups": 0,
-            "minutes": 10,
-            "number": 7,
-            "position": "Attacker",
-            "rating": "6.7",
-            "captain": false
-          },
-          "substitutes": {
-            "in": 3,
-            "out": 0,
-            "bench": 3
-          },
-          "shots": {
-            "total": null,
-            "on": null
-          },
-          "goals": {
-            "total": 0,
-            "conceded": 0,
-            "assists": 0,
-            "saves": null
-          },
-          "passes": {
-            "total": 3,
-            "key": 1,
-            "accuracy": null
-          },
-          "tackles": {
-            "total": null,
-            "blocks": null,
-            "interceptions": null
-          },
-          "duels": {
-            "total": null,
-            "won": null
-          },
-          "dribbles": {
-            "attempts": null,
-            "success": null,
-            "past": null
-          },
-          "fouls": {
-            "drawn": null,
-            "committed": null
-          },
-          "cards": {
-            "yellow": 0,
-            "yellowred": 0,
-            "red": 0
-          },
-          "penalty": {
-            "won": null,
-            "commited": null,
-            "scored": 0,
-            "missed": 0,
-            "saved": null
-          }
-        }
-      ]
-    },
-    {
-      "player": {
-        "id": 396324,
-        "name": "M. Govaers",
-        "firstname": "Milan",
-        "lastname": "Govaers",
-        "age": 19,
-        "birth": {
-          "date": "2004-03-22",
-          "place": null,
-          "country": "Belgium"
-        },
-        "nationality": "Belgium",
-        "height": null,
-        "weight": null,
-        "injured": false,
-        "photo": "https://media.api-sports.io/football/players/396324.png"
-      },
-      "statistics": [
-        {
-          "team": {
-            "id": 263,
-            "name": "Beerschot VA",
-            "logo": "https://media.api-sports.io/football/teams/263.png"
-          },
-          "league": {
-            "id": 145,
-            "name": "Challenger Pro League",
-            "country": "Belgium",
-            "logo": "https://media.api-sports.io/football/leagues/145.png",
-            "flag": "https://media.api-sports.io/flags/be.svg",
-            "season": 2026
-          },
-          "games": {
-            "appearences": 3,
-            "lineups": 0,
-            "minutes": 13,
-            "number": 3,
-            "position": "Midfielder",
-            "rating": "6.9",
-            "captain": false
-          },
-          "substitutes": {
-            "in": 3,
-            "out": 0,
-            "bench": 3
-          },
-          "shots": {
-            "total": 0,
-            "on": 0
-          },
-          "goals": {
-            "total": 0,
-            "conceded": 0,
-            "assists": 0,
-            "saves": 0
-          },
-          "passes": {
-            "total": 3,
-            "key": 0,
-            "accuracy": null
-          },
-          "tackles": {
-            "total": 2,
             "blocks": 0,
             "interceptions": 1
           },
           "duels": {
             "total": 4,
-            "won": 2
+            "won": 0
           },
           "dribbles": {
             "attempts": 0,
@@ -1609,7 +1894,7 @@
           },
           "fouls": {
             "drawn": 0,
-            "committed": 0
+            "committed": 2
           },
           "cards": {
             "yellow": 0,
@@ -1619,292 +1904,7 @@
           "penalty": {
             "won": null,
             "commited": null,
-            "scored": 0,
-            "missed": null,
-            "saved": null
-          }
-        }
-      ]
-    },
-    {
-      "player": {
-        "id": 482301,
-        "name": "Gassimou Sylla",
-        "firstname": "Gassimou",
-        "lastname": "Sylla",
-        "age": 17,
-        "birth": {
-          "date": "2008-08-10",
-          "place": null,
-          "country": "Belgium"
-        },
-        "nationality": "Belgium",
-        "height": null,
-        "weight": null,
-        "injured": false,
-        "photo": "https://media.api-sports.io/football/players/482301.png"
-      },
-      "statistics": [
-        {
-          "team": {
-            "id": 19046,
-            "name": "RSC Anderlecht II",
-            "logo": "https://media.api-sports.io/football/teams/19046.png"
-          },
-          "league": {
-            "id": 145,
-            "name": "Challenger Pro League",
-            "country": "Belgium",
-            "logo": "https://media.api-sports.io/football/leagues/145.png",
-            "flag": "https://media.api-sports.io/flags/be.svg",
-            "season": 2026
-          },
-          "games": {
-            "appearences": 3,
-            "lineups": 0,
-            "minutes": 18,
-            "number": 57,
-            "position": "Attacker",
-            "rating": "6.23",
-            "captain": false
-          },
-          "substitutes": {
-            "in": 3,
-            "out": 0,
-            "bench": 3
-          },
-          "shots": {
-            "total": 1,
-            "on": 0
-          },
-          "goals": {
-            "total": 0,
-            "conceded": 0,
-            "assists": 0,
-            "saves": 0
-          },
-          "passes": {
-            "total": 9,
-            "key": 0,
-            "accuracy": 77
-          },
-          "tackles": {
-            "total": 0,
-            "blocks": 0,
-            "interceptions": 0
-          },
-          "duels": {
-            "total": 8,
-            "won": 3
-          },
-          "dribbles": {
-            "attempts": 1,
-            "success": 0,
-            "past": null
-          },
-          "fouls": {
-            "drawn": 2,
-            "committed": 1
-          },
-          "cards": {
-            "yellow": 0,
-            "yellowred": 0,
-            "red": 0
-          },
-          "penalty": {
-            "won": null,
-            "commited": null,
-            "scored": 0,
-            "missed": 0,
-            "saved": null
-          }
-        }
-      ]
-    },
-    {
-      "player": {
-        "id": 137073,
-        "name": "D. Toševski",
-        "firstname": "David",
-        "lastname": "Toševski",
-        "age": 24,
-        "birth": {
-          "date": "2001-07-16",
-          "place": "Skopje",
-          "country": "North Macedonia"
-        },
-        "nationality": "North Macedonia",
-        "height": "187",
-        "weight": "75",
-        "injured": false,
-        "photo": "https://media.api-sports.io/football/players/137073.png"
-      },
-      "statistics": [
-        {
-          "team": {
-            "id": 6215,
-            "name": "Dender",
-            "logo": "https://media.api-sports.io/football/teams/6215.png"
-          },
-          "league": {
-            "id": 145,
-            "name": "Challenger Pro League",
-            "country": "Belgium",
-            "logo": "https://media.api-sports.io/football/leagues/145.png",
-            "flag": "https://media.api-sports.io/flags/be.svg",
-            "season": 2026
-          },
-          "games": {
-            "appearences": 3,
-            "lineups": 0,
-            "minutes": 23,
-            "number": 9,
-            "position": "Attacker",
-            "rating": "6.52",
-            "captain": false
-          },
-          "substitutes": {
-            "in": 3,
-            "out": 0,
-            "bench": 3
-          },
-          "shots": {
-            "total": 1,
-            "on": 0
-          },
-          "goals": {
-            "total": 0,
-            "conceded": 0,
-            "assists": 0,
-            "saves": 0
-          },
-          "passes": {
-            "total": 7,
-            "key": 0,
-            "accuracy": 57
-          },
-          "tackles": {
-            "total": 0,
-            "blocks": 0,
-            "interceptions": 1
-          },
-          "duels": {
-            "total": 7,
-            "won": 3
-          },
-          "dribbles": {
-            "attempts": 3,
-            "success": 2,
-            "past": null
-          },
-          "fouls": {
-            "drawn": 1,
-            "committed": 0
-          },
-          "cards": {
-            "yellow": 0,
-            "yellowred": 0,
-            "red": 0
-          },
-          "penalty": {
-            "won": null,
-            "commited": null,
-            "scored": 0,
-            "missed": null,
-            "saved": null
-          }
-        }
-      ]
-    },
-    {
-      "player": {
-        "id": 8843,
-        "name": "G. Claes",
-        "firstname": "Glenn",
-        "lastname": "Claes",
-        "age": 31,
-        "birth": {
-          "date": "1994-03-08",
-          "place": "Lier",
-          "country": "Belgium"
-        },
-        "nationality": "Belgium",
-        "height": "179",
-        "weight": "62",
-        "injured": false,
-        "photo": "https://media.api-sports.io/football/players/8843.png"
-      },
-      "statistics": [
-        {
-          "team": {
-            "id": 263,
-            "name": "Beerschot VA",
-            "logo": "https://media.api-sports.io/football/teams/263.png"
-          },
-          "league": {
-            "id": 145,
-            "name": "Challenger Pro League",
-            "country": "Belgium",
-            "logo": "https://media.api-sports.io/football/leagues/145.png",
-            "flag": "https://media.api-sports.io/flags/be.svg",
-            "season": 2026
-          },
-          "games": {
-            "appearences": 3,
-            "lineups": 2,
-            "minutes": 30,
-            "number": 10,
-            "position": "Midfielder",
-            "rating": "6.63",
-            "captain": false
-          },
-          "substitutes": {
-            "in": 1,
-            "out": 2,
-            "bench": 1
-          },
-          "shots": {
-            "total": 0,
-            "on": 0
-          },
-          "goals": {
-            "total": 0,
-            "conceded": 0,
-            "assists": 0,
-            "saves": 0
-          },
-          "passes": {
-            "total": 12,
-            "key": 0,
-            "accuracy": 66
-          },
-          "tackles": {
-            "total": 0,
-            "blocks": 0,
-            "interceptions": 0
-          },
-          "duels": {
-            "total": 4,
-            "won": 0
-          },
-          "dribbles": {
-            "attempts": 1,
-            "success": 0,
-            "past": null
-          },
-          "fouls": {
-            "drawn": 0,
-            "committed": 0
-          },
-          "cards": {
-            "yellow": 0,
-            "yellowred": 0,
-            "red": 0
-          },
-          "penalty": {
-            "won": null,
-            "commited": null,
-            "scored": 0,
+            "scored": 1,
             "missed": null,
             "saved": null
           }

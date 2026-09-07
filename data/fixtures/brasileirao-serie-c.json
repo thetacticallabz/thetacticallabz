@@ -5,7 +5,7 @@
     "season": "2026"
   },
   "errors": [],
-  "results": 190,
+  "results": 214,
   "paging": {
     "current": 1,
     "total": 1
@@ -12614,7 +12614,7 @@
     {
       "fixture": {
         "id": 1526939,
-        "referee": null,
+        "referee": "B. Correia",
         "timezone": "UTC",
         "date": "2026-08-29T20:00:00+00:00",
         "timestamp": 1788033600,
@@ -12684,7 +12684,7 @@
     {
       "fixture": {
         "id": 1526941,
-        "referee": null,
+        "referee": "M. Oliveira",
         "timezone": "UTC",
         "date": "2026-08-29T20:00:00+00:00",
         "timestamp": 1788033600,
@@ -12754,7 +12754,7 @@
     {
       "fixture": {
         "id": 1526943,
-        "referee": null,
+        "referee": "M. Pereira",
         "timezone": "UTC",
         "date": "2026-08-29T20:00:00+00:00",
         "timestamp": 1788033600,
@@ -12824,7 +12824,7 @@
     {
       "fixture": {
         "id": 1526942,
-        "referee": null,
+        "referee": "A. Moraes",
         "timezone": "UTC",
         "date": "2026-08-29T20:00:00+00:00",
         "timestamp": 1788033600,
@@ -12894,7 +12894,7 @@
     {
       "fixture": {
         "id": 1526944,
-        "referee": null,
+        "referee": "A. Monteiro",
         "timezone": "UTC",
         "date": "2026-08-29T20:00:00+00:00",
         "timestamp": 1788033600,
@@ -12964,7 +12964,7 @@
     {
       "fixture": {
         "id": 1526940,
-        "referee": null,
+        "referee": "M. Silva",
         "timezone": "UTC",
         "date": "2026-08-29T20:00:00+00:00",
         "timestamp": 1788033600,
@@ -13034,7 +13034,7 @@
     {
       "fixture": {
         "id": 1526938,
-        "referee": null,
+        "referee": "W. Lisboa",
         "timezone": "UTC",
         "date": "2026-08-29T20:00:00+00:00",
         "timestamp": 1788033600,
@@ -13104,7 +13104,7 @@
     {
       "fixture": {
         "id": 1526936,
-        "referee": null,
+        "referee": "A. Furtado",
         "timezone": "UTC",
         "date": "2026-08-29T20:00:00+00:00",
         "timestamp": 1788033600,
@@ -13174,7 +13174,7 @@
     {
       "fixture": {
         "id": 1526935,
-        "referee": null,
+        "referee": "A. de Morais",
         "timezone": "UTC",
         "date": "2026-08-29T20:00:00+00:00",
         "timestamp": 1788033600,
@@ -13244,7 +13244,7 @@
     {
       "fixture": {
         "id": 1526937,
-        "referee": null,
+        "referee": "M. Pereira",
         "timezone": "UTC",
         "date": "2026-08-29T20:00:00+00:00",
         "timestamp": 1788033600,
@@ -13300,6 +13300,1686 @@
         "fulltime": {
           "home": 2,
           "away": 0
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1637832,
+        "referee": "F. dos Santos",
+        "timezone": "UTC",
+        "date": "2026-09-05T20:00:00+00:00",
+        "timestamp": 1788638400,
+        "periods": {
+          "first": 1788638400,
+          "second": 1788642000
+        },
+        "venue": {
+          "id": null,
+          "name": null,
+          "city": "Limeira"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 9
+        }
+      },
+      "league": {
+        "id": 75,
+        "name": "Serie C",
+        "country": "Brazil",
+        "logo": "https://media.api-sports.io/football/leagues/75.png",
+        "flag": "https://media.api-sports.io/flags/br.svg",
+        "season": 2026,
+        "round": "Second Stage - 1",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 1201,
+          "name": "Inter De Limeira",
+          "logo": "https://media.api-sports.io/football/teams/1201.png",
+          "winner": null
+        },
+        "away": {
+          "id": 7826,
+          "name": "Ferroviária",
+          "logo": "https://media.api-sports.io/football/teams/7826.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": 3,
+        "away": 3
+      },
+      "score": {
+        "halftime": {
+          "home": 1,
+          "away": 1
+        },
+        "fulltime": {
+          "home": 3,
+          "away": 3
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1637833,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2026-09-06T19:00:00+00:00",
+        "timestamp": 1788721200,
+        "periods": {
+          "first": 1788721200,
+          "second": 1788724800
+        },
+        "venue": {
+          "id": null,
+          "name": null,
+          "city": "Horizonte"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 6
+        }
+      },
+      "league": {
+        "id": 75,
+        "name": "Serie C",
+        "country": "Brazil",
+        "logo": "https://media.api-sports.io/football/leagues/75.png",
+        "flag": "https://media.api-sports.io/flags/br.svg",
+        "season": 2026,
+        "round": "Second Stage - 1",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 7774,
+          "name": "Floresta",
+          "logo": "https://media.api-sports.io/football/teams/7774.png",
+          "winner": false
+        },
+        "away": {
+          "id": 7833,
+          "name": "Maringá",
+          "logo": "https://media.api-sports.io/football/teams/7833.png",
+          "winner": true
+        }
+      },
+      "goals": {
+        "home": 0,
+        "away": 1
+      },
+      "score": {
+        "halftime": {
+          "home": 0,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 0,
+          "away": 1
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1637834,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2026-09-06T21:30:00+00:00",
+        "timestamp": 1788730200,
+        "periods": {
+          "first": 1788730200,
+          "second": 1788733800
+        },
+        "venue": {
+          "id": null,
+          "name": null,
+          "city": "Recife"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 8
+        }
+      },
+      "league": {
+        "id": 75,
+        "name": "Serie C",
+        "country": "Brazil",
+        "logo": "https://media.api-sports.io/football/leagues/75.png",
+        "flag": "https://media.api-sports.io/flags/br.svg",
+        "season": 2026,
+        "round": "Second Stage - 1",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 753,
+          "name": "Santa Cruz",
+          "logo": "https://media.api-sports.io/football/teams/753.png",
+          "winner": true
+        },
+        "away": {
+          "id": 1197,
+          "name": "Botafogo PB",
+          "logo": "https://media.api-sports.io/football/teams/1197.png",
+          "winner": false
+        }
+      },
+      "goals": {
+        "home": 1,
+        "away": 0
+      },
+      "score": {
+        "halftime": {
+          "home": 1,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 1,
+          "away": 0
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1637835,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2026-09-07T21:00:00+00:00",
+        "timestamp": 1788814800,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": null,
+          "name": null,
+          "city": "Belem"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 75,
+        "name": "Serie C",
+        "country": "Brazil",
+        "logo": "https://media.api-sports.io/football/leagues/75.png",
+        "flag": "https://media.api-sports.io/flags/br.svg",
+        "season": 2026,
+        "round": "Second Stage - 1",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 149,
+          "name": "Paysandu",
+          "logo": "https://media.api-sports.io/football/teams/149.png",
+          "winner": null
+        },
+        "away": {
+          "id": 1211,
+          "name": "Brusque",
+          "logo": "https://media.api-sports.io/football/teams/1211.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1637836,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2026-09-12T20:00:00+00:00",
+        "timestamp": 1789243200,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": null,
+          "name": null,
+          "city": "Joao Pessoa"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 75,
+        "name": "Serie C",
+        "country": "Brazil",
+        "logo": "https://media.api-sports.io/football/leagues/75.png",
+        "flag": "https://media.api-sports.io/flags/br.svg",
+        "season": 2026,
+        "round": "Second Stage - 2",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 1197,
+          "name": "Botafogo PB",
+          "logo": "https://media.api-sports.io/football/teams/1197.png",
+          "winner": null
+        },
+        "away": {
+          "id": 7774,
+          "name": "Floresta",
+          "logo": "https://media.api-sports.io/football/teams/7774.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1637837,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2026-09-12T22:30:00+00:00",
+        "timestamp": 1789252200,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": null,
+          "name": null,
+          "city": null
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 75,
+        "name": "Serie C",
+        "country": "Brazil",
+        "logo": "https://media.api-sports.io/football/leagues/75.png",
+        "flag": "https://media.api-sports.io/flags/br.svg",
+        "season": 2026,
+        "round": "Second Stage - 2",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 7833,
+          "name": "Maringá",
+          "logo": "https://media.api-sports.io/football/teams/7833.png",
+          "winner": null
+        },
+        "away": {
+          "id": 753,
+          "name": "Santa Cruz",
+          "logo": "https://media.api-sports.io/football/teams/753.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1637838,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2026-09-13T19:00:00+00:00",
+        "timestamp": 1789326000,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": null,
+          "name": null,
+          "city": null
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 75,
+        "name": "Serie C",
+        "country": "Brazil",
+        "logo": "https://media.api-sports.io/football/leagues/75.png",
+        "flag": "https://media.api-sports.io/flags/br.svg",
+        "season": 2026,
+        "round": "Second Stage - 2",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 7826,
+          "name": "Ferroviária",
+          "logo": "https://media.api-sports.io/football/teams/7826.png",
+          "winner": null
+        },
+        "away": {
+          "id": 149,
+          "name": "Paysandu",
+          "logo": "https://media.api-sports.io/football/teams/149.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1637839,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2026-09-13T21:30:00+00:00",
+        "timestamp": 1789335000,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": null,
+          "name": null,
+          "city": "Brusque"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 75,
+        "name": "Serie C",
+        "country": "Brazil",
+        "logo": "https://media.api-sports.io/football/leagues/75.png",
+        "flag": "https://media.api-sports.io/flags/br.svg",
+        "season": 2026,
+        "round": "Second Stage - 2",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 1211,
+          "name": "Brusque",
+          "logo": "https://media.api-sports.io/football/teams/1211.png",
+          "winner": null
+        },
+        "away": {
+          "id": 1201,
+          "name": "Inter De Limeira",
+          "logo": "https://media.api-sports.io/football/teams/1201.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1637840,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2026-09-19T20:00:00+00:00",
+        "timestamp": 1789848000,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": null,
+          "name": null,
+          "city": null
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 75,
+        "name": "Serie C",
+        "country": "Brazil",
+        "logo": "https://media.api-sports.io/football/leagues/75.png",
+        "flag": "https://media.api-sports.io/flags/br.svg",
+        "season": 2026,
+        "round": "Second Stage - 3",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 7833,
+          "name": "Maringá",
+          "logo": "https://media.api-sports.io/football/teams/7833.png",
+          "winner": null
+        },
+        "away": {
+          "id": 1197,
+          "name": "Botafogo PB",
+          "logo": "https://media.api-sports.io/football/teams/1197.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1637841,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2026-09-20T19:00:00+00:00",
+        "timestamp": 1789930800,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": null,
+          "name": null,
+          "city": "Recife"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 75,
+        "name": "Serie C",
+        "country": "Brazil",
+        "logo": "https://media.api-sports.io/football/leagues/75.png",
+        "flag": "https://media.api-sports.io/flags/br.svg",
+        "season": 2026,
+        "round": "Second Stage - 3",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 753,
+          "name": "Santa Cruz",
+          "logo": "https://media.api-sports.io/football/teams/753.png",
+          "winner": null
+        },
+        "away": {
+          "id": 7774,
+          "name": "Floresta",
+          "logo": "https://media.api-sports.io/football/teams/7774.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1637843,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2026-09-20T21:30:00+00:00",
+        "timestamp": 1789939800,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": null,
+          "name": null,
+          "city": null
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 75,
+        "name": "Serie C",
+        "country": "Brazil",
+        "logo": "https://media.api-sports.io/football/leagues/75.png",
+        "flag": "https://media.api-sports.io/flags/br.svg",
+        "season": 2026,
+        "round": "Second Stage - 3",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 149,
+          "name": "Paysandu",
+          "logo": "https://media.api-sports.io/football/teams/149.png",
+          "winner": null
+        },
+        "away": {
+          "id": 1201,
+          "name": "Inter De Limeira",
+          "logo": "https://media.api-sports.io/football/teams/1201.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1637842,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2026-09-20T21:30:00+00:00",
+        "timestamp": 1789939800,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": null,
+          "name": null,
+          "city": null
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 75,
+        "name": "Serie C",
+        "country": "Brazil",
+        "logo": "https://media.api-sports.io/football/leagues/75.png",
+        "flag": "https://media.api-sports.io/flags/br.svg",
+        "season": 2026,
+        "round": "Second Stage - 3",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 7826,
+          "name": "Ferroviária",
+          "logo": "https://media.api-sports.io/football/teams/7826.png",
+          "winner": null
+        },
+        "away": {
+          "id": 1211,
+          "name": "Brusque",
+          "logo": "https://media.api-sports.io/football/teams/1211.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1637844,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2026-09-26T20:00:00+00:00",
+        "timestamp": 1790452800,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": null,
+          "name": null,
+          "city": "Joao Pessoa"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 75,
+        "name": "Serie C",
+        "country": "Brazil",
+        "logo": "https://media.api-sports.io/football/leagues/75.png",
+        "flag": "https://media.api-sports.io/flags/br.svg",
+        "season": 2026,
+        "round": "Second Stage - 4",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 1197,
+          "name": "Botafogo PB",
+          "logo": "https://media.api-sports.io/football/teams/1197.png",
+          "winner": null
+        },
+        "away": {
+          "id": 7833,
+          "name": "Maringá",
+          "logo": "https://media.api-sports.io/football/teams/7833.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1637845,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2026-09-26T20:00:00+00:00",
+        "timestamp": 1790452800,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": null,
+          "name": null,
+          "city": "Horizonte"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 75,
+        "name": "Serie C",
+        "country": "Brazil",
+        "logo": "https://media.api-sports.io/football/leagues/75.png",
+        "flag": "https://media.api-sports.io/flags/br.svg",
+        "season": 2026,
+        "round": "Second Stage - 4",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 7774,
+          "name": "Floresta",
+          "logo": "https://media.api-sports.io/football/teams/7774.png",
+          "winner": null
+        },
+        "away": {
+          "id": 753,
+          "name": "Santa Cruz",
+          "logo": "https://media.api-sports.io/football/teams/753.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1637846,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2026-09-26T22:30:00+00:00",
+        "timestamp": 1790461800,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": null,
+          "name": null,
+          "city": "Limeira"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 75,
+        "name": "Serie C",
+        "country": "Brazil",
+        "logo": "https://media.api-sports.io/football/leagues/75.png",
+        "flag": "https://media.api-sports.io/flags/br.svg",
+        "season": 2026,
+        "round": "Second Stage - 4",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 1201,
+          "name": "Inter De Limeira",
+          "logo": "https://media.api-sports.io/football/teams/1201.png",
+          "winner": null
+        },
+        "away": {
+          "id": 149,
+          "name": "Paysandu",
+          "logo": "https://media.api-sports.io/football/teams/149.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1637847,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2026-09-27T21:30:00+00:00",
+        "timestamp": 1790544600,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": null,
+          "name": null,
+          "city": "Brusque"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 75,
+        "name": "Serie C",
+        "country": "Brazil",
+        "logo": "https://media.api-sports.io/football/leagues/75.png",
+        "flag": "https://media.api-sports.io/flags/br.svg",
+        "season": 2026,
+        "round": "Second Stage - 4",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 1211,
+          "name": "Brusque",
+          "logo": "https://media.api-sports.io/football/teams/1211.png",
+          "winner": null
+        },
+        "away": {
+          "id": 7826,
+          "name": "Ferroviária",
+          "logo": "https://media.api-sports.io/football/teams/7826.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1637849,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2026-10-03T20:00:00+00:00",
+        "timestamp": 1791057600,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": null,
+          "name": null,
+          "city": "Recife"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 75,
+        "name": "Serie C",
+        "country": "Brazil",
+        "logo": "https://media.api-sports.io/football/leagues/75.png",
+        "flag": "https://media.api-sports.io/flags/br.svg",
+        "season": 2026,
+        "round": "Second Stage - 5",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 753,
+          "name": "Santa Cruz",
+          "logo": "https://media.api-sports.io/football/teams/753.png",
+          "winner": null
+        },
+        "away": {
+          "id": 7833,
+          "name": "Maringá",
+          "logo": "https://media.api-sports.io/football/teams/7833.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1637848,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2026-10-03T20:00:00+00:00",
+        "timestamp": 1791057600,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": null,
+          "name": null,
+          "city": "Horizonte"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 75,
+        "name": "Serie C",
+        "country": "Brazil",
+        "logo": "https://media.api-sports.io/football/leagues/75.png",
+        "flag": "https://media.api-sports.io/flags/br.svg",
+        "season": 2026,
+        "round": "Second Stage - 5",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 7774,
+          "name": "Floresta",
+          "logo": "https://media.api-sports.io/football/teams/7774.png",
+          "winner": null
+        },
+        "away": {
+          "id": 1197,
+          "name": "Botafogo PB",
+          "logo": "https://media.api-sports.io/football/teams/1197.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1637851,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2026-10-03T22:30:00+00:00",
+        "timestamp": 1791066600,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": null,
+          "name": null,
+          "city": null
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 75,
+        "name": "Serie C",
+        "country": "Brazil",
+        "logo": "https://media.api-sports.io/football/leagues/75.png",
+        "flag": "https://media.api-sports.io/flags/br.svg",
+        "season": 2026,
+        "round": "Second Stage - 5",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 149,
+          "name": "Paysandu",
+          "logo": "https://media.api-sports.io/football/teams/149.png",
+          "winner": null
+        },
+        "away": {
+          "id": 7826,
+          "name": "Ferroviária",
+          "logo": "https://media.api-sports.io/football/teams/7826.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1637850,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2026-10-03T22:30:00+00:00",
+        "timestamp": 1791066600,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": null,
+          "name": null,
+          "city": "Limeira"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 75,
+        "name": "Serie C",
+        "country": "Brazil",
+        "logo": "https://media.api-sports.io/football/leagues/75.png",
+        "flag": "https://media.api-sports.io/flags/br.svg",
+        "season": 2026,
+        "round": "Second Stage - 5",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 1201,
+          "name": "Inter De Limeira",
+          "logo": "https://media.api-sports.io/football/teams/1201.png",
+          "winner": null
+        },
+        "away": {
+          "id": 1211,
+          "name": "Brusque",
+          "logo": "https://media.api-sports.io/football/teams/1211.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1637852,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2026-10-10T20:00:00+00:00",
+        "timestamp": 1791662400,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": null,
+          "name": null,
+          "city": "Joao Pessoa"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 75,
+        "name": "Serie C",
+        "country": "Brazil",
+        "logo": "https://media.api-sports.io/football/leagues/75.png",
+        "flag": "https://media.api-sports.io/flags/br.svg",
+        "season": 2026,
+        "round": "Second Stage - 6",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 1197,
+          "name": "Botafogo PB",
+          "logo": "https://media.api-sports.io/football/teams/1197.png",
+          "winner": null
+        },
+        "away": {
+          "id": 753,
+          "name": "Santa Cruz",
+          "logo": "https://media.api-sports.io/football/teams/753.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1637853,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2026-10-10T20:00:00+00:00",
+        "timestamp": 1791662400,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": null,
+          "name": null,
+          "city": "Brusque"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 75,
+        "name": "Serie C",
+        "country": "Brazil",
+        "logo": "https://media.api-sports.io/football/leagues/75.png",
+        "flag": "https://media.api-sports.io/flags/br.svg",
+        "season": 2026,
+        "round": "Second Stage - 6",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 1211,
+          "name": "Brusque",
+          "logo": "https://media.api-sports.io/football/teams/1211.png",
+          "winner": null
+        },
+        "away": {
+          "id": 149,
+          "name": "Paysandu",
+          "logo": "https://media.api-sports.io/football/teams/149.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1637854,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2026-10-10T20:00:00+00:00",
+        "timestamp": 1791662400,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": null,
+          "name": null,
+          "city": null
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 75,
+        "name": "Serie C",
+        "country": "Brazil",
+        "logo": "https://media.api-sports.io/football/leagues/75.png",
+        "flag": "https://media.api-sports.io/flags/br.svg",
+        "season": 2026,
+        "round": "Second Stage - 6",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 7826,
+          "name": "Ferroviária",
+          "logo": "https://media.api-sports.io/football/teams/7826.png",
+          "winner": null
+        },
+        "away": {
+          "id": 1201,
+          "name": "Inter De Limeira",
+          "logo": "https://media.api-sports.io/football/teams/1201.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1637855,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2026-10-10T20:00:00+00:00",
+        "timestamp": 1791662400,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": null,
+          "name": null,
+          "city": null
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 75,
+        "name": "Serie C",
+        "country": "Brazil",
+        "logo": "https://media.api-sports.io/football/leagues/75.png",
+        "flag": "https://media.api-sports.io/flags/br.svg",
+        "season": 2026,
+        "round": "Second Stage - 6",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 7833,
+          "name": "Maringá",
+          "logo": "https://media.api-sports.io/football/teams/7833.png",
+          "winner": null
+        },
+        "away": {
+          "id": 7774,
+          "name": "Floresta",
+          "logo": "https://media.api-sports.io/football/teams/7774.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
         },
         "extratime": {
           "home": null,

@@ -649,8 +649,8 @@
         "date": "2026-08-31T17:00:00+00:00",
         "timestamp": 1788195600,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1788195600,
+          "second": 1788199200
         },
         "venue": {
           "id": null,
@@ -658,10 +658,10 @@
           "city": null
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 6
         }
       },
       "league": {
@@ -679,27 +679,27 @@
           "id": 5280,
           "name": "UD Logroñés",
           "logo": "https://media.api-sports.io/football/teams/5280.png",
-          "winner": null
+          "winner": true
         },
         "away": {
           "id": 24612,
           "name": "Extremadura 1924",
           "logo": "https://media.api-sports.io/football/teams/24612.png",
-          "winner": null
+          "winner": false
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 2,
+        "away": 1
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 0
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 1
         },
         "extratime": {
           "home": null,
@@ -719,8 +719,8 @@
         "date": "2026-09-04T19:15:00+00:00",
         "timestamp": 1788549300,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1788549300,
+          "second": 1788552900
         },
         "venue": {
           "id": null,
@@ -728,10 +728,10 @@
           "city": "Ponferrada"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 4
         }
       },
       "league": {
@@ -759,17 +759,17 @@
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 0,
+        "away": 0
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         },
         "extratime": {
           "home": null,
@@ -784,13 +784,13 @@
     {
       "fixture": {
         "id": 1570731,
-        "referee": null,
+        "referee": "I. Irurtzun",
         "timezone": "UTC",
         "date": "2026-09-05T14:30:00+00:00",
         "timestamp": 1788618600,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1788618600,
+          "second": 1788622200
         },
         "venue": {
           "id": 2920,
@@ -798,10 +798,10 @@
           "city": "Miranda de Ebro"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 7
         }
       },
       "league": {
@@ -819,27 +819,27 @@
           "id": 799,
           "name": "Mirandes",
           "logo": "https://media.api-sports.io/football/teams/799.png",
-          "winner": null
+          "winner": true
         },
         "away": {
           "id": 9617,
           "name": "UD Ourense",
           "logo": "https://media.api-sports.io/football/teams/9617.png",
-          "winner": null
+          "winner": false
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 2,
+        "away": 0
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 0
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 0
         },
         "extratime": {
           "home": null,
@@ -854,13 +854,13 @@
     {
       "fixture": {
         "id": 1570734,
-        "referee": null,
+        "referee": "M. Pozueta Rodriguez",
         "timezone": "UTC",
         "date": "2026-09-05T16:45:00+00:00",
         "timestamp": 1788626700,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1788626700,
+          "second": 1788630300
         },
         "venue": {
           "id": null,
@@ -868,10 +868,10 @@
           "city": null
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 8
         }
       },
       "league": {
@@ -889,27 +889,27 @@
           "id": 5281,
           "name": "Unionistas de Salamanca",
           "logo": "https://media.api-sports.io/football/teams/5281.png",
-          "winner": null
+          "winner": false
         },
         "away": {
           "id": 9586,
           "name": "Real Unión",
           "logo": "https://media.api-sports.io/football/teams/9586.png",
-          "winner": null
+          "winner": true
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 2,
+        "away": 4
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 1
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 4
         },
         "extratime": {
           "home": null,
@@ -924,13 +924,13 @@
     {
       "fixture": {
         "id": 1570733,
-        "referee": null,
+        "referee": "O. Alvarez Rodriguez",
         "timezone": "UTC",
         "date": "2026-09-05T16:45:00+00:00",
         "timestamp": 1788626700,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1788626700,
+          "second": 1788630300
         },
         "venue": {
           "id": null,
@@ -938,10 +938,10 @@
           "city": "Pontevedra"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 6
         }
       },
       "league": {
@@ -959,27 +959,27 @@
           "id": 9407,
           "name": "Pontevedra",
           "logo": "https://media.api-sports.io/football/teams/9407.png",
-          "winner": null
+          "winner": true
         },
         "away": {
           "id": 9578,
           "name": "Arenas Getxo",
           "logo": "https://media.api-sports.io/football/teams/9578.png",
-          "winner": null
+          "winner": false
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 4,
+        "away": 1
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 0
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 4,
+          "away": 1
         },
         "extratime": {
           "home": null,
@@ -994,24 +994,24 @@
     {
       "fixture": {
         "id": 1570727,
-        "referee": null,
+        "referee": "G. Amigo",
         "timezone": "UTC",
         "date": "2026-09-05T16:45:00+00:00",
         "timestamp": 1788626700,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1788626700,
+          "second": 1788630300
         },
         "venue": {
-          "id": null,
-          "name": null,
-          "city": null
+          "id": 6907,
+          "name": "Estadio La Isla",
+          "city": "Coria"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 9
         }
       },
       "league": {
@@ -1029,27 +1029,27 @@
           "id": 9827,
           "name": "CD Coria",
           "logo": "https://media.api-sports.io/football/teams/9827.png",
-          "winner": null
+          "winner": true
         },
         "away": {
           "id": 5251,
           "name": "Barakaldo",
           "logo": "https://media.api-sports.io/football/teams/5251.png",
-          "winner": null
+          "winner": false
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 4,
+        "away": 1
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 1
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 4,
+          "away": 1
         },
         "extratime": {
           "home": null,
@@ -1069,19 +1069,19 @@
         "date": "2026-09-06T10:00:00+00:00",
         "timestamp": 1788688800,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1788688800,
+          "second": 1788692400
         },
         "venue": {
           "id": null,
-          "name": null,
+          "name": "Ciudad Deportiva de Abegondo",
           "city": null
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 6
         }
       },
       "league": {
@@ -1109,17 +1109,17 @@
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 1,
+        "away": 1
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 1
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 1
         },
         "extratime": {
           "home": null,
@@ -1139,8 +1139,8 @@
         "date": "2026-09-06T14:00:00+00:00",
         "timestamp": 1788703200,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1788703200,
+          "second": 1788706800
         },
         "venue": {
           "id": null,
@@ -1148,10 +1148,10 @@
           "city": null
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 8
         }
       },
       "league": {
@@ -1169,27 +1169,27 @@
           "id": 725,
           "name": "Cultural Leonesa",
           "logo": "https://media.api-sports.io/football/teams/725.png",
-          "winner": null
+          "winner": true
         },
         "away": {
           "id": 10140,
           "name": "Mérida AD",
           "logo": "https://media.api-sports.io/football/teams/10140.png",
-          "winner": null
+          "winner": false
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 1,
+        "away": 0
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 0
         },
         "extratime": {
           "home": null,
@@ -1209,8 +1209,8 @@
         "date": "2026-09-06T16:15:00+00:00",
         "timestamp": 1788711300,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1788711300,
+          "second": 1788714900
         },
         "venue": {
           "id": null,
@@ -1218,10 +1218,10 @@
           "city": "Lezama"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 7
         }
       },
       "league": {
@@ -1239,27 +1239,27 @@
           "id": 9579,
           "name": "Athletic Club II",
           "logo": "https://media.api-sports.io/football/teams/9579.png",
-          "winner": null
+          "winner": true
         },
         "away": {
           "id": 9632,
           "name": "Real Avilés",
           "logo": "https://media.api-sports.io/football/teams/9632.png",
-          "winner": null
+          "winner": false
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 2,
+        "away": 1
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 1
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 1
         },
         "extratime": {
           "home": null,
@@ -1279,19 +1279,19 @@
         "date": "2026-09-06T16:15:00+00:00",
         "timestamp": 1788711300,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1788711300,
+          "second": 1788714900
         },
         "venue": {
-          "id": null,
-          "name": null,
-          "city": null
+          "id": 1475,
+          "name": "Estadio Francisco de la Hera",
+          "city": "Almendralejo"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 6
         }
       },
       "league": {
@@ -1309,27 +1309,27 @@
           "id": 24612,
           "name": "Extremadura 1924",
           "logo": "https://media.api-sports.io/football/teams/24612.png",
-          "winner": null
+          "winner": true
         },
         "away": {
           "id": 9409,
           "name": "Racing Ferrol",
           "logo": "https://media.api-sports.io/football/teams/9409.png",
-          "winner": null
+          "winner": false
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 1,
+        "away": 0
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 0
         },
         "extratime": {
           "home": null,
@@ -1349,8 +1349,8 @@
         "date": "2026-09-06T18:30:00+00:00",
         "timestamp": 1788719400,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1788719400,
+          "second": 1788723000
         },
         "venue": {
           "id": 6518,
@@ -1358,10 +1358,10 @@
           "city": "Zamora"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 5
         }
       },
       "league": {
@@ -1379,97 +1379,27 @@
           "id": 9418,
           "name": "Zamora",
           "logo": "https://media.api-sports.io/football/teams/9418.png",
-          "winner": null
+          "winner": false
         },
         "away": {
           "id": 5280,
           "name": "UD Logroñés",
           "logo": "https://media.api-sports.io/football/teams/5280.png",
-          "winner": null
+          "winner": true
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 1,
+        "away": 2
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 1
         },
         "fulltime": {
-          "home": null,
-          "away": null
-        },
-        "extratime": {
-          "home": null,
-          "away": null
-        },
-        "penalty": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "fixture": {
-        "id": 1570741,
-        "referee": null,
-        "timezone": "UTC",
-        "date": "2026-09-13T15:00:00+00:00",
-        "timestamp": 1789311600,
-        "periods": {
-          "first": null,
-          "second": null
-        },
-        "venue": {
-          "id": 1465,
-          "name": "Estadio Anxo Carro",
-          "city": "Lugo"
-        },
-        "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
-        }
-      },
-      "league": {
-        "id": 435,
-        "name": "Primera División RFEF - Group 1",
-        "country": "Spain",
-        "logo": "https://media.api-sports.io/football/leagues/435.png",
-        "flag": "https://media.api-sports.io/flags/es.svg",
-        "season": 2026,
-        "round": "Group 1 - 3",
-        "standings": true
-      },
-      "teams": {
-        "home": {
-          "id": 716,
-          "name": "Lugo",
-          "logo": "https://media.api-sports.io/football/teams/716.png",
-          "winner": null
-        },
-        "away": {
-          "id": 9827,
-          "name": "CD Coria",
-          "logo": "https://media.api-sports.io/football/teams/9827.png",
-          "winner": null
-        }
-      },
-      "goals": {
-        "home": null,
-        "away": null
-      },
-      "score": {
-        "halftime": {
-          "home": null,
-          "away": null
-        },
-        "fulltime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 2
         },
         "extratime": {
           "home": null,
@@ -1486,8 +1416,8 @@
         "id": 1570738,
         "referee": null,
         "timezone": "UTC",
-        "date": "2026-09-13T15:00:00+00:00",
-        "timestamp": 1789311600,
+        "date": "2026-09-11T17:00:00+00:00",
+        "timestamp": 1789146000,
         "periods": {
           "first": null,
           "second": null
@@ -1553,81 +1483,11 @@
     },
     {
       "fixture": {
-        "id": 1570739,
-        "referee": null,
-        "timezone": "UTC",
-        "date": "2026-09-13T15:00:00+00:00",
-        "timestamp": 1789311600,
-        "periods": {
-          "first": null,
-          "second": null
-        },
-        "venue": {
-          "id": null,
-          "name": "Estadio Principe Felipe",
-          "city": null
-        },
-        "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
-        }
-      },
-      "league": {
-        "id": 435,
-        "name": "Primera División RFEF - Group 1",
-        "country": "Spain",
-        "logo": "https://media.api-sports.io/football/leagues/435.png",
-        "flag": "https://media.api-sports.io/flags/es.svg",
-        "season": 2026,
-        "round": "Group 1 - 3",
-        "standings": true
-      },
-      "teams": {
-        "home": {
-          "id": 9384,
-          "name": "Cacereño",
-          "logo": "https://media.api-sports.io/football/teams/9384.png",
-          "winner": null
-        },
-        "away": {
-          "id": 725,
-          "name": "Cultural Leonesa",
-          "logo": "https://media.api-sports.io/football/teams/725.png",
-          "winner": null
-        }
-      },
-      "goals": {
-        "home": null,
-        "away": null
-      },
-      "score": {
-        "halftime": {
-          "home": null,
-          "away": null
-        },
-        "fulltime": {
-          "home": null,
-          "away": null
-        },
-        "extratime": {
-          "home": null,
-          "away": null
-        },
-        "penalty": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "fixture": {
         "id": 1570742,
         "referee": null,
         "timezone": "UTC",
-        "date": "2026-09-13T15:00:00+00:00",
-        "timestamp": 1789311600,
+        "date": "2026-09-12T14:30:00+00:00",
+        "timestamp": 1789223400,
         "periods": {
           "first": null,
           "second": null
@@ -1693,221 +1553,11 @@
     },
     {
       "fixture": {
-        "id": 1570743,
-        "referee": null,
-        "timezone": "UTC",
-        "date": "2026-09-13T15:00:00+00:00",
-        "timestamp": 1789311600,
-        "periods": {
-          "first": null,
-          "second": null
-        },
-        "venue": {
-          "id": null,
-          "name": "Estadio Municipal da Malata",
-          "city": "Ferrol"
-        },
-        "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
-        }
-      },
-      "league": {
-        "id": 435,
-        "name": "Primera División RFEF - Group 1",
-        "country": "Spain",
-        "logo": "https://media.api-sports.io/football/leagues/435.png",
-        "flag": "https://media.api-sports.io/flags/es.svg",
-        "season": 2026,
-        "round": "Group 1 - 3",
-        "standings": true
-      },
-      "teams": {
-        "home": {
-          "id": 9409,
-          "name": "Racing Ferrol",
-          "logo": "https://media.api-sports.io/football/teams/9409.png",
-          "winner": null
-        },
-        "away": {
-          "id": 9586,
-          "name": "Real Unión",
-          "logo": "https://media.api-sports.io/football/teams/9586.png",
-          "winner": null
-        }
-      },
-      "goals": {
-        "home": null,
-        "away": null
-      },
-      "score": {
-        "halftime": {
-          "home": null,
-          "away": null
-        },
-        "fulltime": {
-          "home": null,
-          "away": null
-        },
-        "extratime": {
-          "home": null,
-          "away": null
-        },
-        "penalty": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "fixture": {
-        "id": 1570737,
-        "referee": null,
-        "timezone": "UTC",
-        "date": "2026-09-13T15:00:00+00:00",
-        "timestamp": 1789311600,
-        "periods": {
-          "first": null,
-          "second": null
-        },
-        "venue": {
-          "id": null,
-          "name": "Estadio Municipal de Fadura",
-          "city": "Getxo"
-        },
-        "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
-        }
-      },
-      "league": {
-        "id": 435,
-        "name": "Primera División RFEF - Group 1",
-        "country": "Spain",
-        "logo": "https://media.api-sports.io/football/leagues/435.png",
-        "flag": "https://media.api-sports.io/flags/es.svg",
-        "season": 2026,
-        "round": "Group 1 - 3",
-        "standings": true
-      },
-      "teams": {
-        "home": {
-          "id": 9578,
-          "name": "Arenas Getxo",
-          "logo": "https://media.api-sports.io/football/teams/9578.png",
-          "winner": null
-        },
-        "away": {
-          "id": 9418,
-          "name": "Zamora",
-          "logo": "https://media.api-sports.io/football/teams/9418.png",
-          "winner": null
-        }
-      },
-      "goals": {
-        "home": null,
-        "away": null
-      },
-      "score": {
-        "halftime": {
-          "home": null,
-          "away": null
-        },
-        "fulltime": {
-          "home": null,
-          "away": null
-        },
-        "extratime": {
-          "home": null,
-          "away": null
-        },
-        "penalty": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "fixture": {
-        "id": 1570740,
-        "referee": null,
-        "timezone": "UTC",
-        "date": "2026-09-13T15:00:00+00:00",
-        "timestamp": 1789311600,
-        "periods": {
-          "first": null,
-          "second": null
-        },
-        "venue": {
-          "id": null,
-          "name": null,
-          "city": null
-        },
-        "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
-        }
-      },
-      "league": {
-        "id": 435,
-        "name": "Primera División RFEF - Group 1",
-        "country": "Spain",
-        "logo": "https://media.api-sports.io/football/leagues/435.png",
-        "flag": "https://media.api-sports.io/flags/es.svg",
-        "season": 2026,
-        "round": "Group 1 - 3",
-        "standings": true
-      },
-      "teams": {
-        "home": {
-          "id": 9610,
-          "name": "Deportivo La Coruña II",
-          "logo": "https://media.api-sports.io/football/teams/9610.png",
-          "winner": null
-        },
-        "away": {
-          "id": 4907,
-          "name": "Ponferradina",
-          "logo": "https://media.api-sports.io/football/teams/4907.png",
-          "winner": null
-        }
-      },
-      "goals": {
-        "home": null,
-        "away": null
-      },
-      "score": {
-        "halftime": {
-          "home": null,
-          "away": null
-        },
-        "fulltime": {
-          "home": null,
-          "away": null
-        },
-        "extratime": {
-          "home": null,
-          "away": null
-        },
-        "penalty": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "fixture": {
         "id": 1570745,
         "referee": null,
         "timezone": "UTC",
-        "date": "2026-09-13T15:00:00+00:00",
-        "timestamp": 1789311600,
+        "date": "2026-09-12T16:45:00+00:00",
+        "timestamp": 1789231500,
         "periods": {
           "first": null,
           "second": null
@@ -1976,8 +1626,8 @@
         "id": 1570744,
         "referee": null,
         "timezone": "UTC",
-        "date": "2026-09-13T15:00:00+00:00",
-        "timestamp": 1789311600,
+        "date": "2026-09-12T16:45:00+00:00",
+        "timestamp": 1789231500,
         "periods": {
           "first": null,
           "second": null
@@ -2046,8 +1696,8 @@
         "id": 1570736,
         "referee": null,
         "timezone": "UTC",
-        "date": "2026-09-13T15:00:00+00:00",
-        "timestamp": 1789311600,
+        "date": "2026-09-12T19:00:00+00:00",
+        "timestamp": 1789239600,
         "periods": {
           "first": null,
           "second": null
@@ -2113,19 +1763,19 @@
     },
     {
       "fixture": {
-        "id": 1570750,
+        "id": 1570743,
         "referee": null,
         "timezone": "UTC",
-        "date": "2026-09-20T15:00:00+00:00",
-        "timestamp": 1789916400,
+        "date": "2026-09-13T10:00:00+00:00",
+        "timestamp": 1789293600,
         "periods": {
           "first": null,
           "second": null
         },
         "venue": {
           "id": null,
-          "name": null,
-          "city": "Ponferrada"
+          "name": "Estadio Municipal da Malata",
+          "city": "Ferrol"
         },
         "status": {
           "long": "Not Started",
@@ -2141,20 +1791,300 @@
         "logo": "https://media.api-sports.io/football/leagues/435.png",
         "flag": "https://media.api-sports.io/flags/es.svg",
         "season": 2026,
-        "round": "Group 1 - 4",
+        "round": "Group 1 - 3",
         "standings": true
       },
       "teams": {
         "home": {
+          "id": 9409,
+          "name": "Racing Ferrol",
+          "logo": "https://media.api-sports.io/football/teams/9409.png",
+          "winner": null
+        },
+        "away": {
+          "id": 9586,
+          "name": "Real Unión",
+          "logo": "https://media.api-sports.io/football/teams/9586.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1570737,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2026-09-13T10:00:00+00:00",
+        "timestamp": 1789293600,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": null,
+          "name": "Estadio Municipal de Fadura",
+          "city": "Getxo"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 435,
+        "name": "Primera División RFEF - Group 1",
+        "country": "Spain",
+        "logo": "https://media.api-sports.io/football/leagues/435.png",
+        "flag": "https://media.api-sports.io/flags/es.svg",
+        "season": 2026,
+        "round": "Group 1 - 3",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 9578,
+          "name": "Arenas Getxo",
+          "logo": "https://media.api-sports.io/football/teams/9578.png",
+          "winner": null
+        },
+        "away": {
+          "id": 9418,
+          "name": "Zamora",
+          "logo": "https://media.api-sports.io/football/teams/9418.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1570740,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2026-09-13T14:00:00+00:00",
+        "timestamp": 1789308000,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": null,
+          "name": null,
+          "city": null
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 435,
+        "name": "Primera División RFEF - Group 1",
+        "country": "Spain",
+        "logo": "https://media.api-sports.io/football/leagues/435.png",
+        "flag": "https://media.api-sports.io/flags/es.svg",
+        "season": 2026,
+        "round": "Group 1 - 3",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 9610,
+          "name": "Deportivo La Coruña II",
+          "logo": "https://media.api-sports.io/football/teams/9610.png",
+          "winner": null
+        },
+        "away": {
           "id": 4907,
           "name": "Ponferradina",
           "logo": "https://media.api-sports.io/football/teams/4907.png",
           "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1570741,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2026-09-13T16:15:00+00:00",
+        "timestamp": 1789316100,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": 1465,
+          "name": "Estadio Anxo Carro",
+          "city": "Lugo"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 435,
+        "name": "Primera División RFEF - Group 1",
+        "country": "Spain",
+        "logo": "https://media.api-sports.io/football/leagues/435.png",
+        "flag": "https://media.api-sports.io/flags/es.svg",
+        "season": 2026,
+        "round": "Group 1 - 3",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 716,
+          "name": "Lugo",
+          "logo": "https://media.api-sports.io/football/teams/716.png",
+          "winner": null
         },
         "away": {
-          "id": 10140,
-          "name": "Mérida AD",
-          "logo": "https://media.api-sports.io/football/teams/10140.png",
+          "id": 9827,
+          "name": "CD Coria",
+          "logo": "https://media.api-sports.io/football/teams/9827.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1570739,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2026-09-13T16:15:00+00:00",
+        "timestamp": 1789316100,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": null,
+          "name": "Estadio Principe Felipe",
+          "city": null
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 435,
+        "name": "Primera División RFEF - Group 1",
+        "country": "Spain",
+        "logo": "https://media.api-sports.io/football/leagues/435.png",
+        "flag": "https://media.api-sports.io/flags/es.svg",
+        "season": 2026,
+        "round": "Group 1 - 3",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 9384,
+          "name": "Cacereño",
+          "logo": "https://media.api-sports.io/football/teams/9384.png",
+          "winner": null
+        },
+        "away": {
+          "id": 725,
+          "name": "Cultural Leonesa",
+          "logo": "https://media.api-sports.io/football/teams/725.png",
           "winner": null
         }
       },
@@ -2186,8 +2116,8 @@
         "id": 1570753,
         "referee": null,
         "timezone": "UTC",
-        "date": "2026-09-20T15:00:00+00:00",
-        "timestamp": 1789916400,
+        "date": "2026-09-18T19:00:00+00:00",
+        "timestamp": 1789758000,
         "periods": {
           "first": null,
           "second": null
@@ -2256,8 +2186,8 @@
         "id": 1570754,
         "referee": null,
         "timezone": "UTC",
-        "date": "2026-09-20T15:00:00+00:00",
-        "timestamp": 1789916400,
+        "date": "2026-09-19T11:00:00+00:00",
+        "timestamp": 1789815600,
         "periods": {
           "first": null,
           "second": null
@@ -2323,81 +2253,11 @@
     },
     {
       "fixture": {
-        "id": 1570747,
-        "referee": null,
-        "timezone": "UTC",
-        "date": "2026-09-20T15:00:00+00:00",
-        "timestamp": 1789916400,
-        "periods": {
-          "first": null,
-          "second": null
-        },
-        "venue": {
-          "id": null,
-          "name": "Estadio Principe Felipe",
-          "city": null
-        },
-        "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
-        }
-      },
-      "league": {
-        "id": 435,
-        "name": "Primera División RFEF - Group 1",
-        "country": "Spain",
-        "logo": "https://media.api-sports.io/football/leagues/435.png",
-        "flag": "https://media.api-sports.io/flags/es.svg",
-        "season": 2026,
-        "round": "Group 1 - 4",
-        "standings": true
-      },
-      "teams": {
-        "home": {
-          "id": 9384,
-          "name": "Cacereño",
-          "logo": "https://media.api-sports.io/football/teams/9384.png",
-          "winner": null
-        },
-        "away": {
-          "id": 9578,
-          "name": "Arenas Getxo",
-          "logo": "https://media.api-sports.io/football/teams/9578.png",
-          "winner": null
-        }
-      },
-      "goals": {
-        "home": null,
-        "away": null
-      },
-      "score": {
-        "halftime": {
-          "home": null,
-          "away": null
-        },
-        "fulltime": {
-          "home": null,
-          "away": null
-        },
-        "extratime": {
-          "home": null,
-          "away": null
-        },
-        "penalty": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "fixture": {
         "id": 1570751,
         "referee": null,
         "timezone": "UTC",
-        "date": "2026-09-20T15:00:00+00:00",
-        "timestamp": 1789916400,
+        "date": "2026-09-19T14:30:00+00:00",
+        "timestamp": 1789828200,
         "periods": {
           "first": null,
           "second": null
@@ -2463,89 +2323,19 @@
     },
     {
       "fixture": {
-        "id": 1570755,
+        "id": 1570750,
         "referee": null,
         "timezone": "UTC",
-        "date": "2026-09-20T15:00:00+00:00",
-        "timestamp": 1789916400,
-        "periods": {
-          "first": null,
-          "second": null
-        },
-        "venue": {
-          "id": 6518,
-          "name": "Estadio Ruta de la Plata",
-          "city": "Zamora"
-        },
-        "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
-        }
-      },
-      "league": {
-        "id": 435,
-        "name": "Primera División RFEF - Group 1",
-        "country": "Spain",
-        "logo": "https://media.api-sports.io/football/leagues/435.png",
-        "flag": "https://media.api-sports.io/flags/es.svg",
-        "season": 2026,
-        "round": "Group 1 - 4",
-        "standings": true
-      },
-      "teams": {
-        "home": {
-          "id": 9418,
-          "name": "Zamora",
-          "logo": "https://media.api-sports.io/football/teams/9418.png",
-          "winner": null
-        },
-        "away": {
-          "id": 716,
-          "name": "Lugo",
-          "logo": "https://media.api-sports.io/football/teams/716.png",
-          "winner": null
-        }
-      },
-      "goals": {
-        "home": null,
-        "away": null
-      },
-      "score": {
-        "halftime": {
-          "home": null,
-          "away": null
-        },
-        "fulltime": {
-          "home": null,
-          "away": null
-        },
-        "extratime": {
-          "home": null,
-          "away": null
-        },
-        "penalty": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "fixture": {
-        "id": 1570746,
-        "referee": null,
-        "timezone": "UTC",
-        "date": "2026-09-20T15:00:00+00:00",
-        "timestamp": 1789916400,
+        "date": "2026-09-19T16:45:00+00:00",
+        "timestamp": 1789836300,
         "periods": {
           "first": null,
           "second": null
         },
         "venue": {
           "id": null,
-          "name": "Lezama Facilities",
-          "city": "Lezama"
+          "name": null,
+          "city": "Ponferrada"
         },
         "status": {
           "long": "Not Started",
@@ -2566,15 +2356,15 @@
       },
       "teams": {
         "home": {
-          "id": 9579,
-          "name": "Athletic Club II",
-          "logo": "https://media.api-sports.io/football/teams/9579.png",
+          "id": 4907,
+          "name": "Ponferradina",
+          "logo": "https://media.api-sports.io/football/teams/4907.png",
           "winner": null
         },
         "away": {
-          "id": 9610,
-          "name": "Deportivo La Coruña II",
-          "logo": "https://media.api-sports.io/football/teams/9610.png",
+          "id": 10140,
+          "name": "Mérida AD",
+          "logo": "https://media.api-sports.io/football/teams/10140.png",
           "winner": null
         }
       },
@@ -2606,8 +2396,8 @@
         "id": 1570752,
         "referee": null,
         "timezone": "UTC",
-        "date": "2026-09-20T15:00:00+00:00",
-        "timestamp": 1789916400,
+        "date": "2026-09-19T16:45:00+00:00",
+        "timestamp": 1789836300,
         "periods": {
           "first": null,
           "second": null
@@ -2676,8 +2466,8 @@
         "id": 1570748,
         "referee": null,
         "timezone": "UTC",
-        "date": "2026-09-20T15:00:00+00:00",
-        "timestamp": 1789916400,
+        "date": "2026-09-19T16:45:00+00:00",
+        "timestamp": 1789836300,
         "periods": {
           "first": null,
           "second": null
@@ -2743,11 +2533,81 @@
     },
     {
       "fixture": {
+        "id": 1570746,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2026-09-20T10:00:00+00:00",
+        "timestamp": 1789898400,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": null,
+          "name": "Lezama Facilities",
+          "city": "Lezama"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 435,
+        "name": "Primera División RFEF - Group 1",
+        "country": "Spain",
+        "logo": "https://media.api-sports.io/football/leagues/435.png",
+        "flag": "https://media.api-sports.io/flags/es.svg",
+        "season": 2026,
+        "round": "Group 1 - 4",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 9579,
+          "name": "Athletic Club II",
+          "logo": "https://media.api-sports.io/football/teams/9579.png",
+          "winner": null
+        },
+        "away": {
+          "id": 9610,
+          "name": "Deportivo La Coruña II",
+          "logo": "https://media.api-sports.io/football/teams/9610.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
         "id": 1570749,
         "referee": null,
         "timezone": "UTC",
-        "date": "2026-09-20T15:00:00+00:00",
-        "timestamp": 1789916400,
+        "date": "2026-09-20T14:00:00+00:00",
+        "timestamp": 1789912800,
         "periods": {
           "first": null,
           "second": null
@@ -2813,11 +2673,221 @@
     },
     {
       "fixture": {
+        "id": 1570755,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2026-09-20T16:15:00+00:00",
+        "timestamp": 1789920900,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": 6518,
+          "name": "Estadio Ruta de la Plata",
+          "city": "Zamora"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 435,
+        "name": "Primera División RFEF - Group 1",
+        "country": "Spain",
+        "logo": "https://media.api-sports.io/football/leagues/435.png",
+        "flag": "https://media.api-sports.io/flags/es.svg",
+        "season": 2026,
+        "round": "Group 1 - 4",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 9418,
+          "name": "Zamora",
+          "logo": "https://media.api-sports.io/football/teams/9418.png",
+          "winner": null
+        },
+        "away": {
+          "id": 716,
+          "name": "Lugo",
+          "logo": "https://media.api-sports.io/football/teams/716.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1570747,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2026-09-20T16:45:00+00:00",
+        "timestamp": 1789922700,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": null,
+          "name": "Estadio Principe Felipe",
+          "city": null
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 435,
+        "name": "Primera División RFEF - Group 1",
+        "country": "Spain",
+        "logo": "https://media.api-sports.io/football/leagues/435.png",
+        "flag": "https://media.api-sports.io/flags/es.svg",
+        "season": 2026,
+        "round": "Group 1 - 4",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 9384,
+          "name": "Cacereño",
+          "logo": "https://media.api-sports.io/football/teams/9384.png",
+          "winner": null
+        },
+        "away": {
+          "id": 9578,
+          "name": "Arenas Getxo",
+          "logo": "https://media.api-sports.io/football/teams/9578.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1570759,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2026-09-26T11:00:00+00:00",
+        "timestamp": 1790420400,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": null,
+          "name": null,
+          "city": null
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 435,
+        "name": "Primera División RFEF - Group 1",
+        "country": "Spain",
+        "logo": "https://media.api-sports.io/football/leagues/435.png",
+        "flag": "https://media.api-sports.io/flags/es.svg",
+        "season": 2026,
+        "round": "Group 1 - 5",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 24612,
+          "name": "Extremadura 1924",
+          "logo": "https://media.api-sports.io/football/teams/24612.png",
+          "winner": null
+        },
+        "away": {
+          "id": 9418,
+          "name": "Zamora",
+          "logo": "https://media.api-sports.io/football/teams/9418.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
         "id": 1570762,
         "referee": null,
         "timezone": "UTC",
-        "date": "2026-09-27T15:00:00+00:00",
-        "timestamp": 1790521200,
+        "date": "2026-09-26T14:30:00+00:00",
+        "timestamp": 1790433000,
         "periods": {
           "first": null,
           "second": null
@@ -2886,8 +2956,8 @@
         "id": 1570760,
         "referee": null,
         "timezone": "UTC",
-        "date": "2026-09-27T15:00:00+00:00",
-        "timestamp": 1790521200,
+        "date": "2026-09-26T14:30:00+00:00",
+        "timestamp": 1790433000,
         "periods": {
           "first": null,
           "second": null
@@ -2953,221 +3023,11 @@
     },
     {
       "fixture": {
-        "id": 1570763,
-        "referee": null,
-        "timezone": "UTC",
-        "date": "2026-09-27T15:00:00+00:00",
-        "timestamp": 1790521200,
-        "periods": {
-          "first": null,
-          "second": null
-        },
-        "venue": {
-          "id": 2920,
-          "name": "Estadio Municipal de Anduva",
-          "city": "Miranda de Ebro"
-        },
-        "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
-        }
-      },
-      "league": {
-        "id": 435,
-        "name": "Primera División RFEF - Group 1",
-        "country": "Spain",
-        "logo": "https://media.api-sports.io/football/leagues/435.png",
-        "flag": "https://media.api-sports.io/flags/es.svg",
-        "season": 2026,
-        "round": "Group 1 - 5",
-        "standings": true
-      },
-      "teams": {
-        "home": {
-          "id": 799,
-          "name": "Mirandes",
-          "logo": "https://media.api-sports.io/football/teams/799.png",
-          "winner": null
-        },
-        "away": {
-          "id": 5281,
-          "name": "Unionistas de Salamanca",
-          "logo": "https://media.api-sports.io/football/teams/5281.png",
-          "winner": null
-        }
-      },
-      "goals": {
-        "home": null,
-        "away": null
-      },
-      "score": {
-        "halftime": {
-          "home": null,
-          "away": null
-        },
-        "fulltime": {
-          "home": null,
-          "away": null
-        },
-        "extratime": {
-          "home": null,
-          "away": null
-        },
-        "penalty": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "fixture": {
-        "id": 1570758,
-        "referee": null,
-        "timezone": "UTC",
-        "date": "2026-09-27T15:00:00+00:00",
-        "timestamp": 1790521200,
-        "periods": {
-          "first": null,
-          "second": null
-        },
-        "venue": {
-          "id": null,
-          "name": "Campo de Lasesarre",
-          "city": "Barakaldo"
-        },
-        "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
-        }
-      },
-      "league": {
-        "id": 435,
-        "name": "Primera División RFEF - Group 1",
-        "country": "Spain",
-        "logo": "https://media.api-sports.io/football/leagues/435.png",
-        "flag": "https://media.api-sports.io/flags/es.svg",
-        "season": 2026,
-        "round": "Group 1 - 5",
-        "standings": true
-      },
-      "teams": {
-        "home": {
-          "id": 5251,
-          "name": "Barakaldo",
-          "logo": "https://media.api-sports.io/football/teams/5251.png",
-          "winner": null
-        },
-        "away": {
-          "id": 9632,
-          "name": "Real Avilés",
-          "logo": "https://media.api-sports.io/football/teams/9632.png",
-          "winner": null
-        }
-      },
-      "goals": {
-        "home": null,
-        "away": null
-      },
-      "score": {
-        "halftime": {
-          "home": null,
-          "away": null
-        },
-        "fulltime": {
-          "home": null,
-          "away": null
-        },
-        "extratime": {
-          "home": null,
-          "away": null
-        },
-        "penalty": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "fixture": {
-        "id": 1570764,
-        "referee": null,
-        "timezone": "UTC",
-        "date": "2026-09-27T15:00:00+00:00",
-        "timestamp": 1790521200,
-        "periods": {
-          "first": null,
-          "second": null
-        },
-        "venue": {
-          "id": null,
-          "name": null,
-          "city": "Pontevedra"
-        },
-        "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
-        }
-      },
-      "league": {
-        "id": 435,
-        "name": "Primera División RFEF - Group 1",
-        "country": "Spain",
-        "logo": "https://media.api-sports.io/football/leagues/435.png",
-        "flag": "https://media.api-sports.io/flags/es.svg",
-        "season": 2026,
-        "round": "Group 1 - 5",
-        "standings": true
-      },
-      "teams": {
-        "home": {
-          "id": 9407,
-          "name": "Pontevedra",
-          "logo": "https://media.api-sports.io/football/teams/9407.png",
-          "winner": null
-        },
-        "away": {
-          "id": 4907,
-          "name": "Ponferradina",
-          "logo": "https://media.api-sports.io/football/teams/4907.png",
-          "winner": null
-        }
-      },
-      "goals": {
-        "home": null,
-        "away": null
-      },
-      "score": {
-        "halftime": {
-          "home": null,
-          "away": null
-        },
-        "fulltime": {
-          "home": null,
-          "away": null
-        },
-        "extratime": {
-          "home": null,
-          "away": null
-        },
-        "penalty": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "fixture": {
         "id": 1570757,
         "referee": null,
         "timezone": "UTC",
-        "date": "2026-09-27T15:00:00+00:00",
-        "timestamp": 1790521200,
+        "date": "2026-09-26T16:45:00+00:00",
+        "timestamp": 1790441100,
         "periods": {
           "first": null,
           "second": null
@@ -3236,8 +3096,8 @@
         "id": 1570761,
         "referee": null,
         "timezone": "UTC",
-        "date": "2026-09-27T15:00:00+00:00",
-        "timestamp": 1790521200,
+        "date": "2026-09-26T16:45:00+00:00",
+        "timestamp": 1790441100,
         "periods": {
           "first": null,
           "second": null
@@ -3303,11 +3163,81 @@
     },
     {
       "fixture": {
+        "id": 1570758,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2026-09-27T10:00:00+00:00",
+        "timestamp": 1790503200,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": null,
+          "name": "Campo de Lasesarre",
+          "city": "Barakaldo"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 435,
+        "name": "Primera División RFEF - Group 1",
+        "country": "Spain",
+        "logo": "https://media.api-sports.io/football/leagues/435.png",
+        "flag": "https://media.api-sports.io/flags/es.svg",
+        "season": 2026,
+        "round": "Group 1 - 5",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 5251,
+          "name": "Barakaldo",
+          "logo": "https://media.api-sports.io/football/teams/5251.png",
+          "winner": null
+        },
+        "away": {
+          "id": 9632,
+          "name": "Real Avilés",
+          "logo": "https://media.api-sports.io/football/teams/9632.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
         "id": 1570765,
         "referee": null,
         "timezone": "UTC",
-        "date": "2026-09-27T15:00:00+00:00",
-        "timestamp": 1790521200,
+        "date": "2026-09-27T10:00:00+00:00",
+        "timestamp": 1790503200,
         "periods": {
           "first": null,
           "second": null
@@ -3373,11 +3303,151 @@
     },
     {
       "fixture": {
+        "id": 1570763,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2026-09-27T14:00:00+00:00",
+        "timestamp": 1790517600,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": 2920,
+          "name": "Estadio Municipal de Anduva",
+          "city": "Miranda de Ebro"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 435,
+        "name": "Primera División RFEF - Group 1",
+        "country": "Spain",
+        "logo": "https://media.api-sports.io/football/leagues/435.png",
+        "flag": "https://media.api-sports.io/flags/es.svg",
+        "season": 2026,
+        "round": "Group 1 - 5",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 799,
+          "name": "Mirandes",
+          "logo": "https://media.api-sports.io/football/teams/799.png",
+          "winner": null
+        },
+        "away": {
+          "id": 5281,
+          "name": "Unionistas de Salamanca",
+          "logo": "https://media.api-sports.io/football/teams/5281.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1570764,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2026-09-27T16:15:00+00:00",
+        "timestamp": 1790525700,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": null,
+          "name": null,
+          "city": "Pontevedra"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 435,
+        "name": "Primera División RFEF - Group 1",
+        "country": "Spain",
+        "logo": "https://media.api-sports.io/football/leagues/435.png",
+        "flag": "https://media.api-sports.io/flags/es.svg",
+        "season": 2026,
+        "round": "Group 1 - 5",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 9407,
+          "name": "Pontevedra",
+          "logo": "https://media.api-sports.io/football/teams/9407.png",
+          "winner": null
+        },
+        "away": {
+          "id": 4907,
+          "name": "Ponferradina",
+          "logo": "https://media.api-sports.io/football/teams/4907.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
         "id": 1570756,
         "referee": null,
         "timezone": "UTC",
-        "date": "2026-09-27T15:00:00+00:00",
-        "timestamp": 1790521200,
+        "date": "2026-09-27T16:15:00+00:00",
+        "timestamp": 1790525700,
         "periods": {
           "first": null,
           "second": null
@@ -3415,76 +3485,6 @@
           "id": 5280,
           "name": "UD Logroñés",
           "logo": "https://media.api-sports.io/football/teams/5280.png",
-          "winner": null
-        }
-      },
-      "goals": {
-        "home": null,
-        "away": null
-      },
-      "score": {
-        "halftime": {
-          "home": null,
-          "away": null
-        },
-        "fulltime": {
-          "home": null,
-          "away": null
-        },
-        "extratime": {
-          "home": null,
-          "away": null
-        },
-        "penalty": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "fixture": {
-        "id": 1570759,
-        "referee": null,
-        "timezone": "UTC",
-        "date": "2026-09-27T15:00:00+00:00",
-        "timestamp": 1790521200,
-        "periods": {
-          "first": null,
-          "second": null
-        },
-        "venue": {
-          "id": null,
-          "name": null,
-          "city": null
-        },
-        "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
-        }
-      },
-      "league": {
-        "id": 435,
-        "name": "Primera División RFEF - Group 1",
-        "country": "Spain",
-        "logo": "https://media.api-sports.io/football/leagues/435.png",
-        "flag": "https://media.api-sports.io/flags/es.svg",
-        "season": 2026,
-        "round": "Group 1 - 5",
-        "standings": true
-      },
-      "teams": {
-        "home": {
-          "id": 24612,
-          "name": "Extremadura 1924",
-          "logo": "https://media.api-sports.io/football/teams/24612.png",
-          "winner": null
-        },
-        "away": {
-          "id": 9418,
-          "name": "Zamora",
-          "logo": "https://media.api-sports.io/football/teams/9418.png",
           "winner": null
         }
       },
