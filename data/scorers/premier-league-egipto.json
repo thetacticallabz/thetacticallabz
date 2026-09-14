@@ -45,9 +45,9 @@
             "season": 2026
           },
           "games": {
-            "appearences": 3,
-            "lineups": 3,
-            "minutes": 267,
+            "appearences": 4,
+            "lineups": 4,
+            "minutes": 348,
             "number": 9,
             "position": "Attacker",
             "rating": "7.79",
@@ -55,41 +55,41 @@
           },
           "substitutes": {
             "in": 0,
-            "out": 1,
+            "out": 2,
             "bench": 0
           },
           "shots": {
-            "total": 10,
-            "on": 2
+            "total": 9,
+            "on": 3
           },
           "goals": {
-            "total": 2,
+            "total": 3,
             "conceded": 0,
             "assists": 1,
             "saves": 0
           },
           "passes": {
-            "total": 60,
+            "total": 72,
             "key": 3,
-            "accuracy": 73
+            "accuracy": 72
           },
           "tackles": {
-            "total": 8,
-            "blocks": 5,
-            "interceptions": 1
+            "total": 9,
+            "blocks": 0,
+            "interceptions": 2
           },
           "duels": {
-            "total": 40,
-            "won": 22
+            "total": 50,
+            "won": 25
           },
           "dribbles": {
-            "attempts": 8,
-            "success": 4,
+            "attempts": 9,
+            "success": 5,
             "past": null
           },
           "fouls": {
-            "drawn": 6,
-            "committed": 5
+            "drawn": 7,
+            "committed": 6
           },
           "cards": {
             "yellow": 0,
@@ -100,7 +100,7 @@
             "won": null,
             "commited": null,
             "scored": 0,
-            "missed": null,
+            "missed": 0,
             "saved": null
           }
         }
@@ -140,12 +140,392 @@
             "season": 2026
           },
           "games": {
-            "appearences": 3,
-            "lineups": 2,
-            "minutes": 145,
+            "appearences": 4,
+            "lineups": 3,
+            "minutes": 209,
             "number": 18,
             "position": "Attacker",
-            "rating": "7.27",
+            "rating": "7.32",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 3,
+            "bench": 1
+          },
+          "shots": {
+            "total": 4,
+            "on": 3
+          },
+          "goals": {
+            "total": 3,
+            "conceded": 0,
+            "assists": 0,
+            "saves": 0
+          },
+          "passes": {
+            "total": 36,
+            "key": 3,
+            "accuracy": 77
+          },
+          "tackles": {
+            "total": 3,
+            "blocks": 1,
+            "interceptions": 0
+          },
+          "duels": {
+            "total": 22,
+            "won": 8
+          },
+          "dribbles": {
+            "attempts": 0,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 4,
+            "committed": 7
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 17313,
+        "name": "Ahmed Bahbah",
+        "firstname": "Ahmed",
+        "lastname": "Abdel Mawgod",
+        "age": 35,
+        "birth": {
+          "date": "1988-06-16",
+          "place": null,
+          "country": "Egypt"
+        },
+        "nationality": "Egypt",
+        "height": null,
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/17313.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 1041,
+            "name": "Petrojet",
+            "logo": "https://media.api-sports.io/football/teams/1041.png"
+          },
+          "league": {
+            "id": 233,
+            "name": "Premier League",
+            "country": "Egypt",
+            "logo": "https://media.api-sports.io/football/leagues/233.png",
+            "flag": "https://media.api-sports.io/flags/eg.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 4,
+            "lineups": 4,
+            "minutes": 360,
+            "number": 15,
+            "position": null,
+            "rating": "7.07",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": 8,
+            "on": 6
+          },
+          "goals": {
+            "total": 2,
+            "conceded": 0,
+            "assists": 1,
+            "saves": 0
+          },
+          "passes": {
+            "total": 116,
+            "key": 2,
+            "accuracy": 75
+          },
+          "tackles": {
+            "total": 7,
+            "blocks": 0,
+            "interceptions": 2
+          },
+          "duels": {
+            "total": 42,
+            "won": 21
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 3,
+            "committed": 8
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 159169,
+        "name": "Ahmed Belhadji",
+        "firstname": "Ahmed",
+        "lastname": "Belhadji Saidi",
+        "age": 28,
+        "birth": {
+          "date": "1997-11-16",
+          "place": "Tárrega",
+          "country": "Spain"
+        },
+        "nationality": "Spain",
+        "height": null,
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/159169.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 14651,
+            "name": "Ceramica Cleopatra",
+            "logo": "https://media.api-sports.io/football/teams/14651.png"
+          },
+          "league": {
+            "id": 233,
+            "name": "Premier League",
+            "country": "Egypt",
+            "logo": "https://media.api-sports.io/football/leagues/233.png",
+            "flag": "https://media.api-sports.io/flags/eg.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 333,
+            "number": 10,
+            "position": "Midfielder",
+            "rating": "7.53",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 0
+          },
+          "shots": {
+            "total": 3,
+            "on": 3
+          },
+          "goals": {
+            "total": 2,
+            "conceded": 0,
+            "assists": 1,
+            "saves": 0
+          },
+          "passes": {
+            "total": 219,
+            "key": 11,
+            "accuracy": 88
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": 1,
+            "interceptions": 0
+          },
+          "duels": {
+            "total": 21,
+            "won": 9
+          },
+          "dribbles": {
+            "attempts": 5,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 6,
+            "committed": 2
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 16817,
+        "name": "Islam Mohareb",
+        "firstname": "Islam",
+        "lastname": "Mohareb",
+        "age": 33,
+        "birth": {
+          "date": "1992-01-01",
+          "place": null,
+          "country": "Egypt"
+        },
+        "nationality": "Egypt",
+        "height": "173",
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/16817.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 1039,
+            "name": "El Geish",
+            "logo": "https://media.api-sports.io/football/teams/1039.png"
+          },
+          "league": {
+            "id": 233,
+            "name": "Premier League",
+            "country": "Egypt",
+            "logo": "https://media.api-sports.io/football/leagues/233.png",
+            "flag": "https://media.api-sports.io/flags/eg.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 316,
+            "number": 12,
+            "position": "Defender",
+            "rating": "7.05",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": 4,
+            "on": 2
+          },
+          "goals": {
+            "total": 2,
+            "conceded": 0,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 126,
+            "key": 3,
+            "accuracy": 79
+          },
+          "tackles": {
+            "total": 9,
+            "blocks": 2,
+            "interceptions": 3
+          },
+          "duels": {
+            "total": 39,
+            "won": 20
+          },
+          "dribbles": {
+            "attempts": 4,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 4,
+            "committed": 3
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 16810,
+        "name": "Mostafa El Badry",
+        "firstname": "Mostafa Mohamed",
+        "lastname": "El Badry Ahmed",
+        "age": 27,
+        "birth": {
+          "date": "1998-07-01",
+          "place": null,
+          "country": "Egypt"
+        },
+        "nationality": "Egypt",
+        "height": null,
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/16810.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 1041,
+            "name": "Petrojet",
+            "logo": "https://media.api-sports.io/football/teams/1041.png"
+          },
+          "league": {
+            "id": 233,
+            "name": "Premier League",
+            "country": "Egypt",
+            "logo": "https://media.api-sports.io/football/leagues/233.png",
+            "flag": "https://media.api-sports.io/flags/eg.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 4,
+            "lineups": 3,
+            "minutes": 266,
+            "number": 19,
+            "position": null,
+            "rating": "6.85",
             "captain": false
           },
           "substitutes": {
@@ -154,40 +534,40 @@
             "bench": 1
           },
           "shots": {
-            "total": 2,
+            "total": 5,
             "on": 2
           },
           "goals": {
             "total": 2,
             "conceded": 0,
             "assists": 0,
-            "saves": null
+            "saves": 0
           },
           "passes": {
-            "total": 20,
-            "key": 1,
-            "accuracy": 80
+            "total": 88,
+            "key": 7,
+            "accuracy": 79
           },
           "tackles": {
-            "total": 1,
-            "blocks": 1,
-            "interceptions": null
+            "total": 6,
+            "blocks": 0,
+            "interceptions": 2
           },
           "duels": {
-            "total": 13,
-            "won": 4
+            "total": 25,
+            "won": 13
           },
           "dribbles": {
-            "attempts": null,
-            "success": null,
+            "attempts": 1,
+            "success": 0,
             "past": null
           },
           "fouls": {
-            "drawn": 3,
+            "drawn": 5,
             "committed": 5
           },
           "cards": {
-            "yellow": 0,
+            "yellow": 1,
             "yellowred": 0,
             "red": 0
           },
@@ -235,51 +615,51 @@
             "season": 2026
           },
           "games": {
-            "appearences": 3,
-            "lineups": 3,
-            "minutes": 263,
+            "appearences": 4,
+            "lineups": 4,
+            "minutes": 342,
             "number": 10,
             "position": "Attacker",
-            "rating": "7.48",
+            "rating": "7.15",
             "captain": false
           },
           "substitutes": {
             "in": 0,
-            "out": 2,
+            "out": 3,
             "bench": 0
           },
           "shots": {
-            "total": 4,
-            "on": 2
+            "total": 5,
+            "on": 3
           },
           "goals": {
             "total": 2,
             "conceded": 0,
             "assists": 0,
-            "saves": 0
+            "saves": null
           },
           "passes": {
-            "total": 55,
-            "key": 3,
-            "accuracy": 78
+            "total": 69,
+            "key": 4,
+            "accuracy": 75
           },
           "tackles": {
-            "total": 0,
-            "blocks": 2,
-            "interceptions": 0
+            "total": 1,
+            "blocks": 1,
+            "interceptions": null
           },
           "duels": {
-            "total": 33,
-            "won": 16
+            "total": 41,
+            "won": 19
           },
           "dribbles": {
-            "attempts": 0,
-            "success": 0,
+            "attempts": null,
+            "success": null,
             "past": null
           },
           "fouls": {
-            "drawn": 5,
-            "committed": 4
+            "drawn": 7,
+            "committed": 5
           },
           "cards": {
             "yellow": 1,
@@ -298,28 +678,28 @@
     },
     {
       "player": {
-        "id": 269277,
-        "name": "Hossam Ashraf",
-        "firstname": "Hossam Ashraf Mahmoud Ahmed",
-        "lastname": "Elagamy",
-        "age": 24,
+        "id": 639231,
+        "name": "S. Teka",
+        "firstname": null,
+        "lastname": null,
+        "age": 34,
         "birth": {
-          "date": "2001-06-20",
+          "date": null,
           "place": null,
-          "country": "Egypt"
+          "country": null
         },
-        "nationality": "Egypt",
+        "nationality": null,
         "height": null,
         "weight": null,
         "injured": false,
-        "photo": "https://media.api-sports.io/football/players/269277.png"
+        "photo": "https://media.api-sports.io/football/players/639231.png"
       },
       "statistics": [
         {
           "team": {
-            "id": 1040,
-            "name": "Zamalek SC",
-            "logo": "https://media.api-sports.io/football/teams/1040.png"
+            "id": 1046,
+            "name": "Wadi Degla",
+            "logo": "https://media.api-sports.io/football/teams/1046.png"
           },
           "league": {
             "id": 233,
@@ -330,54 +710,54 @@
             "season": 2026
           },
           "games": {
-            "appearences": 2,
-            "lineups": 1,
-            "minutes": 98,
-            "number": 7,
-            "position": "Attacker",
-            "rating": "7.9",
+            "appearences": 4,
+            "lineups": 4,
+            "minutes": 360,
+            "number": 28,
+            "position": null,
+            "rating": "7.09",
             "captain": false
           },
           "substitutes": {
-            "in": 1,
-            "out": 1,
-            "bench": 1
+            "in": 0,
+            "out": 0,
+            "bench": 0
           },
           "shots": {
-            "total": 5,
-            "on": 3
+            "total": 6,
+            "on": 2
           },
           "goals": {
             "total": 2,
             "conceded": 0,
             "assists": 0,
-            "saves": null
+            "saves": 0
           },
           "passes": {
-            "total": 38,
-            "key": null,
-            "accuracy": 63
+            "total": 239,
+            "key": 2,
+            "accuracy": 87
           },
           "tackles": {
-            "total": 2,
-            "blocks": null,
-            "interceptions": null
+            "total": 0,
+            "blocks": 1,
+            "interceptions": 3
           },
           "duels": {
-            "total": 21,
-            "won": 12
+            "total": 29,
+            "won": 17
           },
           "dribbles": {
-            "attempts": 3,
-            "success": 1,
+            "attempts": 0,
+            "success": 0,
             "past": null
           },
           "fouls": {
-            "drawn": null,
-            "committed": 3
+            "drawn": 2,
+            "committed": 9
           },
           "cards": {
-            "yellow": 0,
+            "yellow": 1,
             "yellowred": 0,
             "red": 0
           },
@@ -385,7 +765,7 @@
             "won": null,
             "commited": null,
             "scored": 0,
-            "missed": 0,
+            "missed": null,
             "saved": null
           }
         }
@@ -425,8 +805,8 @@
             "season": 2026
           },
           "games": {
-            "appearences": 0,
-            "lineups": 0,
+            "appearences": 3,
+            "lineups": 3,
             "minutes": 181,
             "number": 25,
             "position": "Midfielder",
@@ -435,7 +815,7 @@
           },
           "substitutes": {
             "in": 0,
-            "out": 0,
+            "out": 3,
             "bench": 0
           },
           "shots": {
@@ -488,28 +868,28 @@
     },
     {
       "player": {
-        "id": 159169,
-        "name": "Ahmed Belhadji",
-        "firstname": "Ahmed",
-        "lastname": "Belhadji Saidi",
-        "age": 28,
+        "id": 269277,
+        "name": "Hossam Ashraf",
+        "firstname": "Hossam Ashraf Mahmoud Ahmed",
+        "lastname": "Elagamy",
+        "age": 24,
         "birth": {
-          "date": "1997-11-16",
-          "place": "Tárrega",
-          "country": "Spain"
+          "date": "2001-06-20",
+          "place": null,
+          "country": "Egypt"
         },
-        "nationality": "Spain",
+        "nationality": "Egypt",
         "height": null,
         "weight": null,
         "injured": false,
-        "photo": "https://media.api-sports.io/football/players/159169.png"
+        "photo": "https://media.api-sports.io/football/players/269277.png"
       },
       "statistics": [
         {
           "team": {
-            "id": 14651,
-            "name": "Ceramica Cleopatra",
-            "logo": "https://media.api-sports.io/football/teams/14651.png"
+            "id": 1040,
+            "name": "Zamalek SC",
+            "logo": "https://media.api-sports.io/football/teams/1040.png"
           },
           "league": {
             "id": 233,
@@ -520,22 +900,22 @@
             "season": 2026
           },
           "games": {
-            "appearences": 0,
-            "lineups": 0,
-            "minutes": 246,
-            "number": 10,
-            "position": "Midfielder",
-            "rating": "7.7",
+            "appearences": 3,
+            "lineups": 2,
+            "minutes": 181,
+            "number": 7,
+            "position": "Attacker",
+            "rating": "7.38",
             "captain": false
           },
           "substitutes": {
-            "in": 0,
-            "out": 0,
-            "bench": 0
+            "in": 1,
+            "out": 2,
+            "bench": 1
           },
           "shots": {
-            "total": 3,
-            "on": 3
+            "total": 8,
+            "on": 4
           },
           "goals": {
             "total": 2,
@@ -544,18 +924,18 @@
             "saves": 0
           },
           "passes": {
-            "total": 176,
-            "key": 9,
-            "accuracy": 89
+            "total": 58,
+            "key": 0,
+            "accuracy": 65
           },
           "tackles": {
-            "total": 1,
+            "total": 2,
             "blocks": 0,
-            "interceptions": 0
+            "interceptions": 1
           },
           "duels": {
-            "total": 15,
-            "won": 9
+            "total": 30,
+            "won": 17
           },
           "dribbles": {
             "attempts": 3,
@@ -563,7 +943,102 @@
             "past": null
           },
           "fouls": {
-            "drawn": 6,
+            "drawn": 1,
+            "committed": 6
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 269275,
+        "name": "Osama Faisal",
+        "firstname": "Osama Faisal Ahmed Abdelhady",
+        "lastname": "El Traawy",
+        "age": 24,
+        "birth": {
+          "date": "2001-01-01",
+          "place": null,
+          "country": "Egypt"
+        },
+        "nationality": "Egypt",
+        "height": "180",
+        "weight": "73",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/269275.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 15570,
+            "name": "National Bank of Egypt",
+            "logo": "https://media.api-sports.io/football/teams/15570.png"
+          },
+          "league": {
+            "id": 233,
+            "name": "Premier League",
+            "country": "Egypt",
+            "logo": "https://media.api-sports.io/football/leagues/233.png",
+            "flag": "https://media.api-sports.io/flags/eg.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 81,
+            "number": 9,
+            "position": "Midfielder",
+            "rating": "8.6",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 0
+          },
+          "shots": {
+            "total": 5,
+            "on": 3
+          },
+          "goals": {
+            "total": 2,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 38,
+            "key": 3,
+            "accuracy": 73
+          },
+          "tackles": {
+            "total": 2,
+            "blocks": null,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 5,
+            "won": 2
+          },
+          "dribbles": {
+            "attempts": 2,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
             "committed": 1
           },
           "cards": {
@@ -575,6 +1050,196 @@
             "won": null,
             "commited": null,
             "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 16861,
+        "name": "Kahraba",
+        "firstname": "Mahmoud Abdulmonem",
+        "lastname": "Abdelhamid Soliman",
+        "age": 32,
+        "birth": {
+          "date": "1994-04-13",
+          "place": "Cairo",
+          "country": "Egypt"
+        },
+        "nationality": "Egypt",
+        "height": "182 cm",
+        "weight": "75 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/16861.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 1037,
+            "name": "Enppi",
+            "logo": "https://media.api-sports.io/football/teams/1037.png"
+          },
+          "league": {
+            "id": 233,
+            "name": "Premier League",
+            "country": "Egypt",
+            "logo": "https://media.api-sports.io/football/leagues/233.png",
+            "flag": "https://media.api-sports.io/flags/eg.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 4,
+            "lineups": 4,
+            "minutes": 333,
+            "number": 10,
+            "position": "Attacker",
+            "rating": "6.85",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 2,
+            "bench": 0
+          },
+          "shots": {
+            "total": 6,
+            "on": 2
+          },
+          "goals": {
+            "total": 2,
+            "conceded": 0,
+            "assists": 0,
+            "saves": 0
+          },
+          "passes": {
+            "total": 82,
+            "key": 1,
+            "accuracy": 76
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": 1,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 23,
+            "won": 8
+          },
+          "dribbles": {
+            "attempts": 6,
+            "success": 3,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 3,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 2,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 16871,
+        "name": "Zizo",
+        "firstname": "Ahmed Mostafa Mohamed",
+        "lastname": "Sayed",
+        "age": 30,
+        "birth": {
+          "date": "1996-01-10",
+          "place": "Cairo",
+          "country": "Egypt"
+        },
+        "nationality": "Egypt",
+        "height": "175",
+        "weight": "67",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/16871.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 1577,
+            "name": "Al Ahly",
+            "logo": "https://media.api-sports.io/football/teams/1577.png"
+          },
+          "league": {
+            "id": 233,
+            "name": "Premier League",
+            "country": "Egypt",
+            "logo": "https://media.api-sports.io/football/leagues/233.png",
+            "flag": "https://media.api-sports.io/flags/eg.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 4,
+            "lineups": 4,
+            "minutes": 339,
+            "number": 25,
+            "position": "Attacker",
+            "rating": "7.1",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 3,
+            "bench": 0
+          },
+          "shots": {
+            "total": 6,
+            "on": 4
+          },
+          "goals": {
+            "total": 2,
+            "conceded": 0,
+            "assists": 0,
+            "saves": 0
+          },
+          "passes": {
+            "total": 162,
+            "key": 10,
+            "accuracy": 90
+          },
+          "tackles": {
+            "total": 2,
+            "blocks": 0,
+            "interceptions": 0
+          },
+          "duels": {
+            "total": 22,
+            "won": 11
+          },
+          "dribbles": {
+            "attempts": 6,
+            "success": 2,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 6,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 2,
             "missed": 0,
             "saved": null
           }
@@ -615,50 +1280,50 @@
             "season": 2026
           },
           "games": {
-            "appearences": 3,
-            "lineups": 3,
-            "minutes": 220,
+            "appearences": 4,
+            "lineups": 4,
+            "minutes": 304,
             "number": 30,
             "position": "Midfielder",
-            "rating": "7.17",
+            "rating": "7.35",
             "captain": false
           },
           "substitutes": {
             "in": 0,
-            "out": 2,
+            "out": 3,
             "bench": 0
           },
           "shots": {
-            "total": 4,
+            "total": 6,
             "on": 3
           },
           "goals": {
             "total": 1,
             "conceded": 0,
-            "assists": 2,
+            "assists": 3,
             "saves": null
           },
           "passes": {
-            "total": 70,
-            "key": 3,
-            "accuracy": 72
+            "total": 100,
+            "key": 5,
+            "accuracy": 74
           },
           "tackles": {
             "total": 2,
             "blocks": null,
-            "interceptions": 3
+            "interceptions": 5
           },
           "duels": {
-            "total": 25,
-            "won": 12
+            "total": 36,
+            "won": 19
           },
           "dribbles": {
-            "attempts": 3,
-            "success": null,
+            "attempts": 4,
+            "success": 1,
             "past": null
           },
           "fouls": {
-            "drawn": 9,
+            "drawn": 14,
             "committed": null
           },
           "cards": {
@@ -710,21 +1375,21 @@
             "season": 2026
           },
           "games": {
-            "appearences": 3,
-            "lineups": 3,
-            "minutes": 248,
+            "appearences": 4,
+            "lineups": 4,
+            "minutes": 321,
             "number": 77,
             "position": "Midfielder",
-            "rating": "6.97",
+            "rating": "6.82",
             "captain": false
           },
           "substitutes": {
             "in": 0,
-            "out": 2,
+            "out": 3,
             "bench": 0
           },
           "shots": {
-            "total": 8,
+            "total": 10,
             "on": 7
           },
           "goals": {
@@ -734,27 +1399,27 @@
             "saves": 0
           },
           "passes": {
-            "total": 111,
+            "total": 133,
             "key": 5,
             "accuracy": 70
           },
           "tackles": {
-            "total": 2,
-            "blocks": 0,
+            "total": 3,
+            "blocks": 3,
             "interceptions": 2
           },
           "duels": {
-            "total": 19,
-            "won": 7
+            "total": 30,
+            "won": 11
           },
           "dribbles": {
-            "attempts": 6,
-            "success": 1,
+            "attempts": 12,
+            "success": 3,
             "past": null
           },
           "fouls": {
-            "drawn": 3,
-            "committed": 1
+            "drawn": 4,
+            "committed": 4
           },
           "cards": {
             "yellow": 0,
@@ -773,28 +1438,28 @@
     },
     {
       "player": {
-        "id": 546948,
-        "name": "M. El Sayed",
-        "firstname": null,
-        "lastname": null,
-        "age": 19,
+        "id": 425669,
+        "name": "Nour Alaa",
+        "firstname": "Nour",
+        "lastname": "Alaa El Din",
+        "age": 23,
         "birth": {
-          "date": null,
+          "date": "2002-08-08",
           "place": null,
-          "country": null
+          "country": "Egypt"
         },
-        "nationality": null,
+        "nationality": "Egypt",
         "height": null,
         "weight": null,
         "injured": false,
-        "photo": "https://media.api-sports.io/football/players/546948.png"
+        "photo": "https://media.api-sports.io/football/players/425669.png"
       },
       "statistics": [
         {
           "team": {
-            "id": 1040,
-            "name": "Zamalek SC",
-            "logo": "https://media.api-sports.io/football/teams/1040.png"
+            "id": 1572,
+            "name": "Al Ittihad",
+            "logo": "https://media.api-sports.io/football/teams/1572.png"
           },
           "league": {
             "id": 233,
@@ -805,22 +1470,22 @@
             "season": 2026
           },
           "games": {
-            "appearences": 3,
+            "appearences": 4,
             "lineups": 0,
-            "minutes": 107,
-            "number": 39,
+            "minutes": 152,
+            "number": 22,
             "position": "Midfielder",
-            "rating": "6.93",
+            "rating": "6.68",
             "captain": false
           },
           "substitutes": {
-            "in": 3,
+            "in": 4,
             "out": 0,
-            "bench": 3
+            "bench": 4
           },
           "shots": {
-            "total": 1,
-            "on": 1
+            "total": 2,
+            "on": 2
           },
           "goals": {
             "total": 1,
@@ -829,27 +1494,27 @@
             "saves": null
           },
           "passes": {
-            "total": 35,
-            "key": 3,
-            "accuracy": 91
+            "total": 30,
+            "key": 2,
+            "accuracy": 80
           },
           "tackles": {
-            "total": 2,
+            "total": null,
             "blocks": null,
-            "interceptions": 1
+            "interceptions": null
           },
           "duels": {
-            "total": 14,
-            "won": 4
+            "total": 16,
+            "won": 1
           },
           "dribbles": {
-            "attempts": 3,
+            "attempts": 4,
             "success": null,
             "past": null
           },
           "fouls": {
-            "drawn": 2,
-            "committed": 3
+            "drawn": null,
+            "committed": 5
           },
           "cards": {
             "yellow": 0,
@@ -868,11 +1533,11 @@
     },
     {
       "player": {
-        "id": 550373,
-        "name": "C. Banza",
+        "id": 578896,
+        "name": "Zizo",
         "firstname": null,
         "lastname": null,
-        "age": 26,
+        "age": 23,
         "birth": {
           "date": null,
           "place": null,
@@ -882,14 +1547,14 @@
         "height": null,
         "weight": null,
         "injured": false,
-        "photo": "https://media.api-sports.io/football/players/550373.png"
+        "photo": "https://media.api-sports.io/football/players/578896.png"
       },
       "statistics": [
         {
           "team": {
-            "id": 1040,
-            "name": "Zamalek SC",
-            "logo": "https://media.api-sports.io/football/teams/1040.png"
+            "id": 1046,
+            "name": "Wadi Degla",
+            "logo": "https://media.api-sports.io/football/teams/1046.png"
           },
           "league": {
             "id": 233,
@@ -900,12 +1565,12 @@
             "season": 2026
           },
           "games": {
-            "appearences": 3,
-            "lineups": 1,
-            "minutes": 140,
-            "number": 81,
-            "position": "Attacker",
-            "rating": "6.87",
+            "appearences": 4,
+            "lineups": 2,
+            "minutes": 204,
+            "number": 22,
+            "position": null,
+            "rating": "6.96",
             "captain": false
           },
           "substitutes": {
@@ -914,37 +1579,227 @@
             "bench": 2
           },
           "shots": {
-            "total": 5,
-            "on": 5
+            "total": 3,
+            "on": 3
           },
           "goals": {
             "total": 1,
             "conceded": 0,
             "assists": 1,
-            "saves": null
+            "saves": 0
           },
           "passes": {
-            "total": 37,
-            "key": 3,
-            "accuracy": 83
+            "total": 49,
+            "key": 5,
+            "accuracy": 69
           },
           "tackles": {
-            "total": null,
-            "blocks": null,
-            "interceptions": 1
+            "total": 3,
+            "blocks": 0,
+            "interceptions": 2
           },
           "duels": {
-            "total": 23,
-            "won": 4
+            "total": 20,
+            "won": 10
           },
           "dribbles": {
             "attempts": 7,
-            "success": 2,
+            "success": 0,
             "past": null
           },
           "fouls": {
-            "drawn": 1,
-            "committed": 8
+            "drawn": 6,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 17166,
+        "name": "Ahmed Samy",
+        "firstname": "Ahmed Samy",
+        "lastname": "Saad",
+        "age": 33,
+        "birth": {
+          "date": "1992-04-01",
+          "place": null,
+          "country": "Egypt"
+        },
+        "nationality": "Egypt",
+        "height": "184",
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/17166.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 1036,
+            "name": "Pyramids FC",
+            "logo": "https://media.api-sports.io/football/teams/1036.png"
+          },
+          "league": {
+            "id": 233,
+            "name": "Premier League",
+            "country": "Egypt",
+            "logo": "https://media.api-sports.io/football/leagues/233.png",
+            "flag": "https://media.api-sports.io/flags/eg.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 4,
+            "lineups": 4,
+            "minutes": 360,
+            "number": 4,
+            "position": "Defender",
+            "rating": "7.62",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": 4,
+            "on": 1
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": 1,
+            "saves": 0
+          },
+          "passes": {
+            "total": 221,
+            "key": 2,
+            "accuracy": 91
+          },
+          "tackles": {
+            "total": 2,
+            "blocks": 1,
+            "interceptions": 2
+          },
+          "duels": {
+            "total": 20,
+            "won": 12
+          },
+          "dribbles": {
+            "attempts": 0,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 4,
+            "committed": 5
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 190575,
+        "name": "Marwan Attia",
+        "firstname": "Marwan Attia",
+        "lastname": "Fahim Ghallab",
+        "age": 27,
+        "birth": {
+          "date": "1998-08-12",
+          "place": "Kafr El Dawwar",
+          "country": "Egypt"
+        },
+        "nationality": "Egypt",
+        "height": "176",
+        "weight": "58",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/190575.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 1577,
+            "name": "Al Ahly",
+            "logo": "https://media.api-sports.io/football/teams/1577.png"
+          },
+          "league": {
+            "id": 233,
+            "name": "Premier League",
+            "country": "Egypt",
+            "logo": "https://media.api-sports.io/football/leagues/233.png",
+            "flag": "https://media.api-sports.io/flags/eg.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 4,
+            "lineups": 4,
+            "minutes": 360,
+            "number": 13,
+            "position": "Midfielder",
+            "rating": "7.32",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": 5,
+            "on": 2
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": 1,
+            "saves": 0
+          },
+          "passes": {
+            "total": 301,
+            "key": 6,
+            "accuracy": 82
+          },
+          "tackles": {
+            "total": 8,
+            "blocks": 1,
+            "interceptions": 3
+          },
+          "duels": {
+            "total": 36,
+            "won": 18
+          },
+          "dribbles": {
+            "attempts": 5,
+            "success": 3,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 5,
+            "committed": 6
           },
           "cards": {
             "yellow": 1,
@@ -1000,13 +1855,13 @@
             "minutes": 239,
             "number": 7,
             "position": "Attacker",
-            "rating": "6.77",
+            "rating": "5.08",
             "captain": false
           },
           "substitutes": {
             "in": 0,
             "out": 3,
-            "bench": 0
+            "bench": 1
           },
           "shots": {
             "total": 4,
@@ -1016,7 +1871,7 @@
             "total": 1,
             "conceded": 0,
             "assists": 1,
-            "saves": null
+            "saves": 0
           },
           "passes": {
             "total": 29,
@@ -1025,7 +1880,7 @@
           },
           "tackles": {
             "total": 1,
-            "blocks": null,
+            "blocks": 0,
             "interceptions": 3
           },
           "duels": {
@@ -1033,868 +1888,13 @@
             "won": 3
           },
           "dribbles": {
-            "attempts": null,
-            "success": null,
-            "past": null
-          },
-          "fouls": {
-            "drawn": null,
-            "committed": 6
-          },
-          "cards": {
-            "yellow": 0,
-            "yellowred": 0,
-            "red": 0
-          },
-          "penalty": {
-            "won": null,
-            "commited": null,
-            "scored": 0,
-            "missed": 0,
-            "saved": null
-          }
-        }
-      ]
-    },
-    {
-      "player": {
-        "id": 190575,
-        "name": "Marwan Attia",
-        "firstname": "Marwan Attia",
-        "lastname": "Fahim Ghallab",
-        "age": 27,
-        "birth": {
-          "date": "1998-08-12",
-          "place": "Kafr El Dawwar",
-          "country": "Egypt"
-        },
-        "nationality": "Egypt",
-        "height": "176",
-        "weight": "58",
-        "injured": false,
-        "photo": "https://media.api-sports.io/football/players/190575.png"
-      },
-      "statistics": [
-        {
-          "team": {
-            "id": 1577,
-            "name": "Al Ahly",
-            "logo": "https://media.api-sports.io/football/teams/1577.png"
-          },
-          "league": {
-            "id": 233,
-            "name": "Premier League",
-            "country": "Egypt",
-            "logo": "https://media.api-sports.io/football/leagues/233.png",
-            "flag": "https://media.api-sports.io/flags/eg.svg",
-            "season": 2026
-          },
-          "games": {
-            "appearences": 3,
-            "lineups": 3,
-            "minutes": 270,
-            "number": 13,
-            "position": "Midfielder",
-            "rating": "7.35",
-            "captain": false
-          },
-          "substitutes": {
-            "in": 0,
-            "out": 0,
-            "bench": 0
-          },
-          "shots": {
-            "total": 6,
-            "on": 2
-          },
-          "goals": {
-            "total": 1,
-            "conceded": 0,
-            "assists": 1,
-            "saves": 0
-          },
-          "passes": {
-            "total": 229,
-            "key": 5,
-            "accuracy": 84
-          },
-          "tackles": {
-            "total": 8,
-            "blocks": 2,
-            "interceptions": 3
-          },
-          "duels": {
-            "total": 29,
-            "won": 15
-          },
-          "dribbles": {
-            "attempts": 3,
-            "success": 1,
-            "past": null
-          },
-          "fouls": {
-            "drawn": 4,
-            "committed": 5
-          },
-          "cards": {
-            "yellow": 1,
-            "yellowred": 0,
-            "red": 0
-          },
-          "penalty": {
-            "won": null,
-            "commited": null,
-            "scored": 0,
-            "missed": 0,
-            "saved": null
-          }
-        }
-      ]
-    },
-    {
-      "player": {
-        "id": 17166,
-        "name": "Ahmed Samy",
-        "firstname": "Ahmed Samy",
-        "lastname": "Saad",
-        "age": 33,
-        "birth": {
-          "date": "1992-04-01",
-          "place": null,
-          "country": "Egypt"
-        },
-        "nationality": "Egypt",
-        "height": "184",
-        "weight": null,
-        "injured": false,
-        "photo": "https://media.api-sports.io/football/players/17166.png"
-      },
-      "statistics": [
-        {
-          "team": {
-            "id": 1036,
-            "name": "Pyramids FC",
-            "logo": "https://media.api-sports.io/football/teams/1036.png"
-          },
-          "league": {
-            "id": 233,
-            "name": "Premier League",
-            "country": "Egypt",
-            "logo": "https://media.api-sports.io/football/leagues/233.png",
-            "flag": "https://media.api-sports.io/flags/eg.svg",
-            "season": 2026
-          },
-          "games": {
-            "appearences": 3,
-            "lineups": 3,
-            "minutes": 270,
-            "number": 4,
-            "position": "Defender",
-            "rating": "7.63",
-            "captain": false
-          },
-          "substitutes": {
-            "in": 0,
-            "out": 0,
-            "bench": 0
-          },
-          "shots": {
-            "total": 1,
-            "on": 1
-          },
-          "goals": {
-            "total": 1,
-            "conceded": 0,
-            "assists": 1,
-            "saves": null
-          },
-          "passes": {
-            "total": 177,
-            "key": 2,
-            "accuracy": 90
-          },
-          "tackles": {
-            "total": 2,
-            "blocks": 1,
-            "interceptions": 2
-          },
-          "duels": {
-            "total": 15,
-            "won": 8
-          },
-          "dribbles": {
-            "attempts": null,
-            "success": null,
-            "past": null
-          },
-          "fouls": {
-            "drawn": 3,
-            "committed": 4
-          },
-          "cards": {
-            "yellow": 1,
-            "yellowred": 0,
-            "red": 0
-          },
-          "penalty": {
-            "won": null,
-            "commited": null,
-            "scored": 0,
-            "missed": 0,
-            "saved": null
-          }
-        }
-      ]
-    },
-    {
-      "player": {
-        "id": 16817,
-        "name": "Islam Mohareb",
-        "firstname": "Islam",
-        "lastname": "Mohareb",
-        "age": 33,
-        "birth": {
-          "date": "1992-01-01",
-          "place": null,
-          "country": "Egypt"
-        },
-        "nationality": "Egypt",
-        "height": "173",
-        "weight": null,
-        "injured": false,
-        "photo": "https://media.api-sports.io/football/players/16817.png"
-      },
-      "statistics": [
-        {
-          "team": {
-            "id": 1039,
-            "name": "El Geish",
-            "logo": "https://media.api-sports.io/football/teams/1039.png"
-          },
-          "league": {
-            "id": 233,
-            "name": "Premier League",
-            "country": "Egypt",
-            "logo": "https://media.api-sports.io/football/leagues/233.png",
-            "flag": "https://media.api-sports.io/flags/eg.svg",
-            "season": 2026
-          },
-          "games": {
-            "appearences": 0,
-            "lineups": 0,
-            "minutes": 232,
-            "number": 12,
-            "position": "Defender",
-            "rating": "7.1",
-            "captain": false
-          },
-          "substitutes": {
-            "in": 0,
-            "out": 0,
-            "bench": 0
-          },
-          "shots": {
-            "total": 3,
-            "on": 1
-          },
-          "goals": {
-            "total": 1,
-            "conceded": 0,
-            "assists": 1,
-            "saves": null
-          },
-          "passes": {
-            "total": 96,
-            "key": 3,
-            "accuracy": 80
-          },
-          "tackles": {
-            "total": 8,
-            "blocks": 2,
-            "interceptions": 3
-          },
-          "duels": {
-            "total": 31,
-            "won": 16
-          },
-          "dribbles": {
-            "attempts": 4,
-            "success": 1,
-            "past": null
-          },
-          "fouls": {
-            "drawn": 4,
-            "committed": 2
-          },
-          "cards": {
-            "yellow": 0,
-            "yellowred": 0,
-            "red": 0
-          },
-          "penalty": {
-            "won": null,
-            "commited": null,
-            "scored": 0,
-            "missed": 0,
-            "saved": null
-          }
-        }
-      ]
-    },
-    {
-      "player": {
-        "id": 506688,
-        "name": "Ahmed Zaki",
-        "firstname": "Ahmed",
-        "lastname": "Zaki",
-        "age": 23,
-        "birth": {
-          "date": "2002-09-15",
-          "place": null,
-          "country": "Egypt"
-        },
-        "nationality": "Egypt",
-        "height": null,
-        "weight": null,
-        "injured": false,
-        "photo": "https://media.api-sports.io/football/players/506688.png"
-      },
-      "statistics": [
-        {
-          "team": {
-            "id": 1574,
-            "name": "El Gouna FC",
-            "logo": "https://media.api-sports.io/football/teams/1574.png"
-          },
-          "league": {
-            "id": 233,
-            "name": "Premier League",
-            "country": "Egypt",
-            "logo": "https://media.api-sports.io/football/leagues/233.png",
-            "flag": "https://media.api-sports.io/flags/eg.svg",
-            "season": 2026
-          },
-          "games": {
-            "appearences": 3,
-            "lineups": 0,
-            "minutes": 44,
-            "number": 11,
-            "position": "Attacker",
-            "rating": "6.49",
-            "captain": false
-          },
-          "substitutes": {
-            "in": 3,
-            "out": 0,
-            "bench": 3
-          },
-          "shots": {
-            "total": 5,
-            "on": 2
-          },
-          "goals": {
-            "total": 1,
-            "conceded": 0,
-            "assists": 0,
-            "saves": 0
-          },
-          "passes": {
-            "total": 12,
-            "key": 0,
-            "accuracy": 75
-          },
-          "tackles": {
-            "total": 0,
-            "blocks": 1,
-            "interceptions": 0
-          },
-          "duels": {
-            "total": 12,
-            "won": 3
-          },
-          "dribbles": {
-            "attempts": 2,
+            "attempts": 0,
             "success": 0,
             "past": null
           },
           "fouls": {
-            "drawn": 1,
-            "committed": 1
-          },
-          "cards": {
-            "yellow": 0,
-            "yellowred": 0,
-            "red": 0
-          },
-          "penalty": {
-            "won": null,
-            "commited": null,
-            "scored": 0,
-            "missed": 0,
-            "saved": null
-          }
-        }
-      ]
-    },
-    {
-      "player": {
-        "id": 16808,
-        "name": "Nasser Maher",
-        "firstname": "Nasser Maher Abdelhamid",
-        "lastname": "Abdelhamid El Nouhi",
-        "age": 28,
-        "birth": {
-          "date": "1997-02-08",
-          "place": "Mansoura",
-          "country": "Egypt"
-        },
-        "nationality": "Egypt",
-        "height": "177",
-        "weight": null,
-        "injured": false,
-        "photo": "https://media.api-sports.io/football/players/16808.png"
-      },
-      "statistics": [
-        {
-          "team": {
-            "id": 1036,
-            "name": "Pyramids FC",
-            "logo": "https://media.api-sports.io/football/teams/1036.png"
-          },
-          "league": {
-            "id": 233,
-            "name": "Premier League",
-            "country": "Egypt",
-            "logo": "https://media.api-sports.io/football/leagues/233.png",
-            "flag": "https://media.api-sports.io/flags/eg.svg",
-            "season": 2026
-          },
-          "games": {
-            "appearences": 3,
-            "lineups": 0,
-            "minutes": 101,
-            "number": 22,
-            "position": "Midfielder",
-            "rating": "6.97",
-            "captain": false
-          },
-          "substitutes": {
-            "in": 3,
-            "out": 0,
-            "bench": 3
-          },
-          "shots": {
-            "total": 2,
-            "on": 1
-          },
-          "goals": {
-            "total": 1,
-            "conceded": 0,
-            "assists": 0,
-            "saves": null
-          },
-          "passes": {
-            "total": 36,
-            "key": 3,
-            "accuracy": 88
-          },
-          "tackles": {
-            "total": 1,
-            "blocks": null,
-            "interceptions": null
-          },
-          "duels": {
-            "total": 7,
-            "won": 4
-          },
-          "dribbles": {
-            "attempts": 2,
-            "success": null,
-            "past": null
-          },
-          "fouls": {
-            "drawn": 3,
-            "committed": null
-          },
-          "cards": {
-            "yellow": 0,
-            "yellowred": 0,
-            "red": 0
-          },
-          "penalty": {
-            "won": null,
-            "commited": null,
-            "scored": 0,
-            "missed": 0,
-            "saved": null
-          }
-        }
-      ]
-    },
-    {
-      "player": {
-        "id": 17078,
-        "name": "Ahmed Mostafa",
-        "firstname": "Ahmed Mostafa",
-        "lastname": "Taher",
-        "age": 28,
-        "birth": {
-          "date": "1997-10-21",
-          "place": null,
-          "country": "Egypt"
-        },
-        "nationality": "Egypt",
-        "height": "167",
-        "weight": "60",
-        "injured": false,
-        "photo": "https://media.api-sports.io/football/players/17078.png"
-      },
-      "statistics": [
-        {
-          "team": {
-            "id": 16431,
-            "name": "Future FC",
-            "logo": "https://media.api-sports.io/football/teams/16431.png"
-          },
-          "league": {
-            "id": 233,
-            "name": "Premier League",
-            "country": "Egypt",
-            "logo": "https://media.api-sports.io/football/leagues/233.png",
-            "flag": "https://media.api-sports.io/flags/eg.svg",
-            "season": 2026
-          },
-          "games": {
-            "appearences": 3,
-            "lineups": 1,
-            "minutes": 109,
-            "number": 14,
-            "position": "Midfielder",
-            "rating": "6.83",
-            "captain": false
-          },
-          "substitutes": {
-            "in": 2,
-            "out": 1,
-            "bench": 2
-          },
-          "shots": {
-            "total": 2,
-            "on": 1
-          },
-          "goals": {
-            "total": 1,
-            "conceded": 0,
-            "assists": 0,
-            "saves": 0
-          },
-          "passes": {
-            "total": 25,
-            "key": 1,
-            "accuracy": 80
-          },
-          "tackles": {
-            "total": 0,
-            "blocks": 0,
-            "interceptions": 1
-          },
-          "duels": {
-            "total": 7,
-            "won": 3
-          },
-          "dribbles": {
-            "attempts": 1,
-            "success": 1,
-            "past": null
-          },
-          "fouls": {
-            "drawn": 1,
-            "committed": 2
-          },
-          "cards": {
-            "yellow": 0,
-            "yellowred": 0,
-            "red": 0
-          },
-          "penalty": {
-            "won": null,
-            "commited": null,
-            "scored": 0,
-            "missed": null,
-            "saved": null
-          }
-        }
-      ]
-    },
-    {
-      "player": {
-        "id": 292994,
-        "name": "G. Okwara",
-        "firstname": "Godwin Chika",
-        "lastname": "Okwara",
-        "age": 28,
-        "birth": {
-          "date": "1997-09-01",
-          "place": null,
-          "country": "Nigeria"
-        },
-        "nationality": "Nigeria",
-        "height": null,
-        "weight": null,
-        "injured": false,
-        "photo": "https://media.api-sports.io/football/players/292994.png"
-      },
-      "statistics": [
-        {
-          "team": {
-            "id": 1041,
-            "name": "Petrojet",
-            "logo": "https://media.api-sports.io/football/teams/1041.png"
-          },
-          "league": {
-            "id": 233,
-            "name": "Premier League",
-            "country": "Egypt",
-            "logo": "https://media.api-sports.io/football/leagues/233.png",
-            "flag": "https://media.api-sports.io/flags/eg.svg",
-            "season": 2026
-          },
-          "games": {
-            "appearences": 3,
-            "lineups": 1,
-            "minutes": 116,
-            "number": 30,
-            "position": "Attacker",
-            "rating": "7.05",
-            "captain": false
-          },
-          "substitutes": {
-            "in": 2,
-            "out": 1,
-            "bench": 2
-          },
-          "shots": {
-            "total": 3,
-            "on": 1
-          },
-          "goals": {
-            "total": 1,
-            "conceded": 0,
-            "assists": 0,
-            "saves": null
-          },
-          "passes": {
-            "total": 24,
-            "key": 1,
-            "accuracy": 62
-          },
-          "tackles": {
-            "total": null,
-            "blocks": null,
-            "interceptions": null
-          },
-          "duels": {
-            "total": 30,
-            "won": 10
-          },
-          "dribbles": {
-            "attempts": 4,
-            "success": 2,
-            "past": null
-          },
-          "fouls": {
-            "drawn": 4,
+            "drawn": 0,
             "committed": 6
-          },
-          "cards": {
-            "yellow": 0,
-            "yellowred": 0,
-            "red": 0
-          },
-          "penalty": {
-            "won": 1,
-            "commited": null,
-            "scored": 0,
-            "missed": 0,
-            "saved": null
-          }
-        }
-      ]
-    },
-    {
-      "player": {
-        "id": 16991,
-        "name": "Mohamed El Shamy",
-        "firstname": "Mohamed",
-        "lastname": "El Shamy",
-        "age": 29,
-        "birth": {
-          "date": "1996-01-01",
-          "place": null,
-          "country": "Egypt"
-        },
-        "nationality": "Egypt",
-        "height": null,
-        "weight": null,
-        "injured": false,
-        "photo": "https://media.api-sports.io/football/players/16991.png"
-      },
-      "statistics": [
-        {
-          "team": {
-            "id": 1031,
-            "name": "AL Masry",
-            "logo": "https://media.api-sports.io/football/teams/1031.png"
-          },
-          "league": {
-            "id": 233,
-            "name": "Premier League",
-            "country": "Egypt",
-            "logo": "https://media.api-sports.io/football/leagues/233.png",
-            "flag": "https://media.api-sports.io/flags/eg.svg",
-            "season": 2026
-          },
-          "games": {
-            "appearences": 3,
-            "lineups": 1,
-            "minutes": 135,
-            "number": 11,
-            "position": "Attacker",
-            "rating": "6.5",
-            "captain": false
-          },
-          "substitutes": {
-            "in": 2,
-            "out": 1,
-            "bench": 2
-          },
-          "shots": {
-            "total": 4,
-            "on": 2
-          },
-          "goals": {
-            "total": 1,
-            "conceded": 0,
-            "assists": 0,
-            "saves": null
-          },
-          "passes": {
-            "total": 25,
-            "key": 2,
-            "accuracy": 68
-          },
-          "tackles": {
-            "total": 2,
-            "blocks": null,
-            "interceptions": null
-          },
-          "duels": {
-            "total": 17,
-            "won": 4
-          },
-          "dribbles": {
-            "attempts": 5,
-            "success": 2,
-            "past": null
-          },
-          "fouls": {
-            "drawn": null,
-            "committed": 4
-          },
-          "cards": {
-            "yellow": 0,
-            "yellowred": 0,
-            "red": 0
-          },
-          "penalty": {
-            "won": null,
-            "commited": null,
-            "scored": 0,
-            "missed": 0,
-            "saved": null
-          }
-        }
-      ]
-    },
-    {
-      "player": {
-        "id": 16810,
-        "name": "Mostafa El Badry",
-        "firstname": "Mostafa Mohamed",
-        "lastname": "El Badry Ahmed",
-        "age": 27,
-        "birth": {
-          "date": "1998-07-01",
-          "place": null,
-          "country": "Egypt"
-        },
-        "nationality": "Egypt",
-        "height": null,
-        "weight": null,
-        "injured": false,
-        "photo": "https://media.api-sports.io/football/players/16810.png"
-      },
-      "statistics": [
-        {
-          "team": {
-            "id": 1041,
-            "name": "Petrojet",
-            "logo": "https://media.api-sports.io/football/teams/1041.png"
-          },
-          "league": {
-            "id": 233,
-            "name": "Premier League",
-            "country": "Egypt",
-            "logo": "https://media.api-sports.io/football/leagues/233.png",
-            "flag": "https://media.api-sports.io/flags/eg.svg",
-            "season": 2026
-          },
-          "games": {
-            "appearences": 3,
-            "lineups": 2,
-            "minutes": 152,
-            "number": 19,
-            "position": "Midfielder",
-            "rating": "6.8",
-            "captain": false
-          },
-          "substitutes": {
-            "in": 1,
-            "out": 1,
-            "bench": 1
-          },
-          "shots": {
-            "total": 3,
-            "on": 1
-          },
-          "goals": {
-            "total": 1,
-            "conceded": 0,
-            "assists": 0,
-            "saves": null
-          },
-          "passes": {
-            "total": 52,
-            "key": 2,
-            "accuracy": 80
-          },
-          "tackles": {
-            "total": 6,
-            "blocks": null,
-            "interceptions": 2
-          },
-          "duels": {
-            "total": 14,
-            "won": 8
-          },
-          "dribbles": {
-            "attempts": 1,
-            "success": null,
-            "past": null
-          },
-          "fouls": {
-            "drawn": 1,
-            "committed": 5
           },
           "cards": {
             "yellow": 0,

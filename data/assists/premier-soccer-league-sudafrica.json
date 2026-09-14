@@ -13,101 +13,6 @@
   "response": [
     {
       "player": {
-        "id": 671116,
-        "name": "Daniels",
-        "firstname": null,
-        "lastname": null,
-        "age": null,
-        "birth": {
-          "date": null,
-          "place": null,
-          "country": null
-        },
-        "nationality": null,
-        "height": null,
-        "weight": null,
-        "injured": false,
-        "photo": "https://media.api-sports.io/football/players/671116.png"
-      },
-      "statistics": [
-        {
-          "team": {
-            "id": 4905,
-            "name": "Stellenbosch",
-            "logo": "https://media.api-sports.io/football/teams/4905.png"
-          },
-          "league": {
-            "id": 288,
-            "name": "Premier Soccer League",
-            "country": "South-Africa",
-            "logo": "https://media.api-sports.io/football/leagues/288.png",
-            "flag": "https://media.api-sports.io/flags/za.svg",
-            "season": 2026
-          },
-          "games": {
-            "appearences": 5,
-            "lineups": 4,
-            "minutes": 204,
-            "number": 32,
-            "position": "Attacker",
-            "rating": "7.13",
-            "captain": false
-          },
-          "substitutes": {
-            "in": 1,
-            "out": 4,
-            "bench": 1
-          },
-          "shots": {
-            "total": 3,
-            "on": 1
-          },
-          "goals": {
-            "total": 1,
-            "conceded": 0,
-            "assists": 2,
-            "saves": null
-          },
-          "passes": {
-            "total": 54,
-            "key": 4,
-            "accuracy": 70
-          },
-          "tackles": {
-            "total": 5,
-            "blocks": null,
-            "interceptions": 1
-          },
-          "duels": {
-            "total": 36,
-            "won": 12
-          },
-          "dribbles": {
-            "attempts": 8,
-            "success": 3,
-            "past": null
-          },
-          "fouls": {
-            "drawn": 2,
-            "committed": 4
-          },
-          "cards": {
-            "yellow": 1,
-            "yellowred": 0,
-            "red": 0
-          },
-          "penalty": {
-            "won": null,
-            "commited": null,
-            "scored": 0,
-            "missed": 0,
-            "saved": null
-          }
-        }
-      ]
-    },
-    {
-      "player": {
         "id": 93009,
         "name": "T. Matthews",
         "firstname": "Tashreeq",
@@ -140,51 +45,51 @@
             "season": 2026
           },
           "games": {
-            "appearences": 5,
-            "lineups": 5,
-            "minutes": 383,
+            "appearences": 8,
+            "lineups": 7,
+            "minutes": 558,
             "number": 17,
             "position": "Midfielder",
-            "rating": "7.34",
+            "rating": "7.25",
             "captain": false
           },
           "substitutes": {
-            "in": 0,
-            "out": 3,
-            "bench": 0
+            "in": 1,
+            "out": 5,
+            "bench": 1
           },
           "shots": {
-            "total": 9,
-            "on": 2
+            "total": 15,
+            "on": 4
           },
           "goals": {
-            "total": 1,
+            "total": 2,
             "conceded": 0,
-            "assists": 2,
-            "saves": null
+            "assists": 3,
+            "saves": 0
           },
           "passes": {
-            "total": 128,
-            "key": 4,
-            "accuracy": 77
+            "total": 205,
+            "key": 8,
+            "accuracy": 81
           },
           "tackles": {
-            "total": 5,
-            "blocks": 1,
-            "interceptions": 4
+            "total": 8,
+            "blocks": 3,
+            "interceptions": 5
           },
           "duels": {
-            "total": 42,
-            "won": 24
+            "total": 62,
+            "won": 35
           },
           "dribbles": {
-            "attempts": 13,
-            "success": 6,
+            "attempts": 17,
+            "success": 9,
             "past": null
           },
           "fouls": {
-            "drawn": 12,
-            "committed": 7
+            "drawn": 16,
+            "committed": 12
           },
           "cards": {
             "yellow": 1,
@@ -203,21 +108,21 @@
     },
     {
       "player": {
-        "id": 378959,
-        "name": "L. Seema",
-        "firstname": "Lebone",
-        "lastname": "Seema",
+        "id": 179893,
+        "name": "O. Appollis",
+        "firstname": "Oswin Reagan",
+        "lastname": "Appollis",
         "age": 24,
         "birth": {
-          "date": "2001-08-14",
-          "place": null,
+          "date": "2001-08-25",
+          "place": "Cape Town",
           "country": "South Africa"
         },
         "nationality": "South Africa",
-        "height": null,
-        "weight": null,
+        "height": "171",
+        "weight": "56",
         "injured": false,
-        "photo": "https://media.api-sports.io/football/players/378959.png"
+        "photo": "https://media.api-sports.io/football/players/179893.png"
       },
       "statistics": [
         {
@@ -236,21 +141,116 @@
           },
           "games": {
             "appearences": 5,
-            "lineups": 5,
-            "minutes": 450,
-            "number": 6,
-            "position": "Defender",
-            "rating": "7.59",
+            "lineups": 3,
+            "minutes": 321,
+            "number": 12,
+            "position": "Midfielder",
+            "rating": "7.58",
             "captain": false
           },
           "substitutes": {
-            "in": 0,
-            "out": 0,
-            "bench": 0
+            "in": 2,
+            "out": 3,
+            "bench": 2
           },
           "shots": {
+            "total": 10,
+            "on": 7
+          },
+          "goals": {
             "total": 2,
-            "on": 1
+            "conceded": 0,
+            "assists": 2,
+            "saves": null
+          },
+          "passes": {
+            "total": 160,
+            "key": 6,
+            "accuracy": 82
+          },
+          "tackles": {
+            "total": 2,
+            "blocks": null,
+            "interceptions": 3
+          },
+          "duels": {
+            "total": 35,
+            "won": 21
+          },
+          "dribbles": {
+            "attempts": 10,
+            "success": 6,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 10,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 671116,
+        "name": "Daniels",
+        "firstname": null,
+        "lastname": null,
+        "age": null,
+        "birth": {
+          "date": null,
+          "place": null,
+          "country": null
+        },
+        "nationality": null,
+        "height": null,
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/671116.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 4905,
+            "name": "Stellenbosch",
+            "logo": "https://media.api-sports.io/football/teams/4905.png"
+          },
+          "league": {
+            "id": 288,
+            "name": "Premier Soccer League",
+            "country": "South-Africa",
+            "logo": "https://media.api-sports.io/football/leagues/288.png",
+            "flag": "https://media.api-sports.io/flags/za.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 6,
+            "lineups": 5,
+            "minutes": 267,
+            "number": 32,
+            "position": "Attacker",
+            "rating": "7",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 5,
+            "bench": 1
+          },
+          "shots": {
+            "total": 4,
+            "on": 2
           },
           "goals": {
             "total": 1,
@@ -259,30 +259,30 @@
             "saves": 0
           },
           "passes": {
-            "total": 283,
-            "key": 2,
-            "accuracy": 90
+            "total": 72,
+            "key": 4,
+            "accuracy": 70
           },
           "tackles": {
-            "total": 12,
+            "total": 7,
             "blocks": 0,
-            "interceptions": 3
+            "interceptions": 1
           },
           "duels": {
-            "total": 29,
-            "won": 22
+            "total": 47,
+            "won": 17
           },
           "dribbles": {
-            "attempts": 4,
-            "success": 2,
+            "attempts": 10,
+            "success": 4,
             "past": null
           },
           "fouls": {
-            "drawn": 2,
-            "committed": 0
+            "drawn": 3,
+            "committed": 8
           },
           "cards": {
-            "yellow": 0,
+            "yellow": 1,
             "yellowred": 0,
             "red": 0
           },
@@ -330,18 +330,208 @@
             "season": 2026
           },
           "games": {
-            "appearences": 4,
-            "lineups": 3,
-            "minutes": 193,
+            "appearences": 6,
+            "lineups": 5,
+            "minutes": 329,
             "number": 8,
             "position": "Midfielder",
-            "rating": "7.3",
+            "rating": "7.04",
             "captain": false
           },
           "substitutes": {
             "in": 1,
-            "out": 1,
+            "out": 3,
             "bench": 1
+          },
+          "shots": {
+            "total": 2,
+            "on": 1
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": 2,
+            "saves": 0
+          },
+          "passes": {
+            "total": 144,
+            "key": 8,
+            "accuracy": 90
+          },
+          "tackles": {
+            "total": 6,
+            "blocks": 1,
+            "interceptions": 4
+          },
+          "duels": {
+            "total": 42,
+            "won": 25
+          },
+          "dribbles": {
+            "attempts": 10,
+            "success": 6,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 11,
+            "committed": 4
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 363018,
+        "name": "N. Radebe",
+        "firstname": "Nkosikhona",
+        "lastname": "Radebe",
+        "age": 24,
+        "birth": {
+          "date": "2001-02-11",
+          "place": null,
+          "country": "South Africa"
+        },
+        "nationality": "South Africa",
+        "height": null,
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/363018.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 2669,
+            "name": "Amazulu",
+            "logo": "https://media.api-sports.io/football/teams/2669.png"
+          },
+          "league": {
+            "id": 288,
+            "name": "Premier Soccer League",
+            "country": "South-Africa",
+            "logo": "https://media.api-sports.io/football/leagues/288.png",
+            "flag": "https://media.api-sports.io/flags/za.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 6,
+            "lineups": 6,
+            "minutes": 540,
+            "number": 14,
+            "position": "Defender",
+            "rating": "7.37",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": 3,
+            "on": 1
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": 2,
+            "saves": 0
+          },
+          "passes": {
+            "total": 205,
+            "key": 7,
+            "accuracy": 73
+          },
+          "tackles": {
+            "total": 12,
+            "blocks": 3,
+            "interceptions": 16
+          },
+          "duels": {
+            "total": 74,
+            "won": 37
+          },
+          "dribbles": {
+            "attempts": 23,
+            "success": 12,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 10,
+            "committed": 9
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 378959,
+        "name": "L. Seema",
+        "firstname": "Lebone",
+        "lastname": "Seema",
+        "age": 24,
+        "birth": {
+          "date": "2001-08-14",
+          "place": null,
+          "country": "South Africa"
+        },
+        "nationality": "South Africa",
+        "height": null,
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/378959.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 2700,
+            "name": "Orlando Pirates",
+            "logo": "https://media.api-sports.io/football/teams/2700.png"
+          },
+          "league": {
+            "id": 288,
+            "name": "Premier Soccer League",
+            "country": "South-Africa",
+            "logo": "https://media.api-sports.io/football/leagues/288.png",
+            "flag": "https://media.api-sports.io/flags/za.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 5,
+            "lineups": 5,
+            "minutes": 450,
+            "number": 6,
+            "position": "Defender",
+            "rating": "7.66",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
           },
           "shots": {
             "total": 2,
@@ -354,30 +544,30 @@
             "saves": null
           },
           "passes": {
-            "total": 91,
-            "key": 5,
-            "accuracy": 87
+            "total": 283,
+            "key": 2,
+            "accuracy": 90
           },
           "tackles": {
-            "total": 4,
+            "total": 12,
             "blocks": 1,
             "interceptions": 2
           },
           "duels": {
-            "total": 23,
-            "won": 16
+            "total": 29,
+            "won": 22
           },
           "dribbles": {
-            "attempts": 7,
-            "success": 5,
+            "attempts": 4,
+            "success": 2,
             "past": null
           },
           "fouls": {
-            "drawn": 6,
-            "committed": 3
+            "drawn": 2,
+            "committed": null
           },
           "cards": {
-            "yellow": 1,
+            "yellow": 0,
             "yellowred": 0,
             "red": 0
           },
@@ -430,7 +620,7 @@
             "minutes": 450,
             "number": 20,
             "position": "Midfielder",
-            "rating": "7.09",
+            "rating": "7.18",
             "captain": false
           },
           "substitutes": {
@@ -446,7 +636,7 @@
             "total": 1,
             "conceded": 0,
             "assists": 2,
-            "saves": 0
+            "saves": null
           },
           "passes": {
             "total": 220,
@@ -488,6 +678,196 @@
     },
     {
       "player": {
+        "id": 297527,
+        "name": "L. Mojela",
+        "firstname": "Lehlohonolo Bradley",
+        "lastname": "Mojela",
+        "age": 29,
+        "birth": {
+          "date": "1996-09-18",
+          "place": null,
+          "country": "South Africa"
+        },
+        "nationality": "South Africa",
+        "height": null,
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/297527.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 15537,
+            "name": "Sekhukhune United",
+            "logo": "https://media.api-sports.io/football/teams/15537.png"
+          },
+          "league": {
+            "id": 288,
+            "name": "Premier Soccer League",
+            "country": "South-Africa",
+            "logo": "https://media.api-sports.io/football/leagues/288.png",
+            "flag": "https://media.api-sports.io/flags/za.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 6,
+            "lineups": 4,
+            "minutes": 358,
+            "number": 21,
+            "position": "Midfielder",
+            "rating": "6.9",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 4,
+            "bench": 2
+          },
+          "shots": {
+            "total": 7,
+            "on": 5
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 2,
+            "saves": 0
+          },
+          "passes": {
+            "total": 88,
+            "key": 6,
+            "accuracy": 65
+          },
+          "tackles": {
+            "total": 11,
+            "blocks": 1,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 51,
+            "won": 29
+          },
+          "dribbles": {
+            "attempts": 8,
+            "success": 2,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 13,
+            "committed": 10
+          },
+          "cards": {
+            "yellow": 3,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 531419,
+        "name": "S. Nkwali",
+        "firstname": null,
+        "lastname": null,
+        "age": 20,
+        "birth": {
+          "date": null,
+          "place": null,
+          "country": null
+        },
+        "nationality": null,
+        "height": null,
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/531419.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 4905,
+            "name": "Stellenbosch",
+            "logo": "https://media.api-sports.io/football/teams/4905.png"
+          },
+          "league": {
+            "id": 288,
+            "name": "Premier Soccer League",
+            "country": "South-Africa",
+            "logo": "https://media.api-sports.io/football/leagues/288.png",
+            "flag": "https://media.api-sports.io/flags/za.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 6,
+            "lineups": 5,
+            "minutes": 433,
+            "number": 26,
+            "position": "Defender",
+            "rating": "6.96",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 1,
+            "bench": 1
+          },
+          "shots": {
+            "total": 2,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 2,
+            "saves": 0
+          },
+          "passes": {
+            "total": 172,
+            "key": 4,
+            "accuracy": 68
+          },
+          "tackles": {
+            "total": 8,
+            "blocks": 3,
+            "interceptions": 5
+          },
+          "duels": {
+            "total": 39,
+            "won": 27
+          },
+          "dribbles": {
+            "attempts": 4,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": 5
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
         "id": 441126,
         "name": "A. Maqokola",
         "firstname": "Athini",
@@ -520,21 +900,21 @@
             "season": 2026
           },
           "games": {
-            "appearences": 5,
-            "lineups": 5,
-            "minutes": 428,
+            "appearences": 6,
+            "lineups": 6,
+            "minutes": 513,
             "number": 2,
             "position": "Attacker",
-            "rating": "6.75",
+            "rating": "6.74",
             "captain": false
           },
           "substitutes": {
             "in": 0,
-            "out": 5,
+            "out": 6,
             "bench": 0
           },
           "shots": {
-            "total": 5,
+            "total": 8,
             "on": 2
           },
           "goals": {
@@ -544,27 +924,27 @@
             "saves": 0
           },
           "passes": {
-            "total": 81,
-            "key": 4,
-            "accuracy": 66
+            "total": 113,
+            "key": 5,
+            "accuracy": 71
           },
           "tackles": {
-            "total": 6,
-            "blocks": 1,
+            "total": 10,
+            "blocks": 3,
             "interceptions": 2
           },
           "duels": {
-            "total": 49,
-            "won": 21
+            "total": 61,
+            "won": 28
           },
           "dribbles": {
-            "attempts": 8,
-            "success": 2,
+            "attempts": 10,
+            "success": 3,
             "past": null
           },
           "fouls": {
-            "drawn": 13,
-            "committed": 7
+            "drawn": 15,
+            "committed": 8
           },
           "cards": {
             "yellow": 1,
@@ -573,6 +953,196 @@
           },
           "penalty": {
             "won": 1,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 295885,
+        "name": "P. Kumalo",
+        "firstname": "Philani",
+        "lastname": "Kumalo",
+        "age": 24,
+        "birth": {
+          "date": "2001-01-03",
+          "place": null,
+          "country": "South Africa"
+        },
+        "nationality": "South Africa",
+        "height": null,
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/295885.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 2690,
+            "name": "Golden Arrows",
+            "logo": "https://media.api-sports.io/football/teams/2690.png"
+          },
+          "league": {
+            "id": 288,
+            "name": "Premier Soccer League",
+            "country": "South-Africa",
+            "logo": "https://media.api-sports.io/football/leagues/288.png",
+            "flag": "https://media.api-sports.io/flags/za.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 5,
+            "lineups": 2,
+            "minutes": 192,
+            "number": 36,
+            "position": "Midfielder",
+            "rating": "6.9",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 3,
+            "out": 2,
+            "bench": 3
+          },
+          "shots": {
+            "total": 2,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 2,
+            "saves": null
+          },
+          "passes": {
+            "total": 71,
+            "key": 8,
+            "accuracy": 70
+          },
+          "tackles": {
+            "total": 2,
+            "blocks": null,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 19,
+            "won": 5
+          },
+          "dribbles": {
+            "attempts": 6,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 2,
+            "committed": 2
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 46436,
+        "name": "T. Potsane",
+        "firstname": "Tebogo",
+        "lastname": "Potsane",
+        "age": 32,
+        "birth": {
+          "date": "1993-09-03",
+          "place": null,
+          "country": "South Africa"
+        },
+        "nationality": "South Africa",
+        "height": null,
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/46436.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 26299,
+            "name": "Siwelele",
+            "logo": "https://media.api-sports.io/football/teams/26299.png"
+          },
+          "league": {
+            "id": 288,
+            "name": "Premier Soccer League",
+            "country": "South-Africa",
+            "logo": "https://media.api-sports.io/football/leagues/288.png",
+            "flag": "https://media.api-sports.io/flags/za.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 4,
+            "lineups": 1,
+            "minutes": 134,
+            "number": 16,
+            "position": "Midfielder",
+            "rating": "6.25",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 3,
+            "out": 1,
+            "bench": 3
+          },
+          "shots": {
+            "total": 0,
+            "on": 0
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 2,
+            "saves": 0
+          },
+          "passes": {
+            "total": 66,
+            "key": 4,
+            "accuracy": 78
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": 0,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 16,
+            "won": 4
+          },
+          "dribbles": {
+            "attempts": 7,
+            "success": 2,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": 2
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
             "commited": null,
             "scored": 0,
             "missed": 0,
@@ -710,33 +1280,33 @@
             "season": 2026
           },
           "games": {
-            "appearences": 5,
-            "lineups": 5,
-            "minutes": 383,
+            "appearences": 6,
+            "lineups": 6,
+            "minutes": 468,
             "number": 23,
             "position": "Attacker",
-            "rating": "7.7",
+            "rating": "7.56",
             "captain": false
           },
           "substitutes": {
             "in": 0,
-            "out": 4,
+            "out": 5,
             "bench": 0
           },
           "shots": {
-            "total": 10,
-            "on": 7
+            "total": 12,
+            "on": 9
           },
           "goals": {
-            "total": 6,
+            "total": 7,
             "conceded": 0,
             "assists": 1,
             "saves": 0
           },
           "passes": {
-            "total": 84,
-            "key": 4,
-            "accuracy": 75
+            "total": 99,
+            "key": 5,
+            "accuracy": 77
           },
           "tackles": {
             "total": 5,
@@ -744,8 +1314,8 @@
             "interceptions": 1
           },
           "duels": {
-            "total": 46,
-            "won": 21
+            "total": 55,
+            "won": 24
           },
           "dribbles": {
             "attempts": 5,
@@ -753,8 +1323,8 @@
             "past": null
           },
           "fouls": {
-            "drawn": 5,
-            "committed": 6
+            "drawn": 6,
+            "committed": 7
           },
           "cards": {
             "yellow": 1,
@@ -805,51 +1375,51 @@
             "season": 2026
           },
           "games": {
-            "appearences": 4,
-            "lineups": 4,
-            "minutes": 329,
+            "appearences": 7,
+            "lineups": 7,
+            "minutes": 559,
             "number": 12,
             "position": "Attacker",
-            "rating": "7.08",
+            "rating": "6.78",
             "captain": false
           },
           "substitutes": {
             "in": 0,
-            "out": 3,
+            "out": 5,
             "bench": 1
           },
           "shots": {
-            "total": 10,
-            "on": 7
+            "total": 17,
+            "on": 11
           },
           "goals": {
             "total": 3,
             "conceded": 0,
             "assists": 1,
-            "saves": null
+            "saves": 0
           },
           "passes": {
-            "total": 47,
-            "key": 2,
-            "accuracy": 78
+            "total": 92,
+            "key": 5,
+            "accuracy": 70
           },
           "tackles": {
-            "total": 3,
-            "blocks": null,
-            "interceptions": 1
+            "total": 4,
+            "blocks": 1,
+            "interceptions": 2
           },
           "duels": {
-            "total": 27,
-            "won": 12
+            "total": 44,
+            "won": 17
           },
           "dribbles": {
-            "attempts": 5,
-            "success": 3,
+            "attempts": 9,
+            "success": 5,
             "past": null
           },
           "fouls": {
-            "drawn": 3,
-            "committed": 5
+            "drawn": 4,
+            "committed": 7
           },
           "cards": {
             "yellow": 2,
@@ -860,101 +1430,6 @@
             "won": null,
             "commited": null,
             "scored": 1,
-            "missed": 0,
-            "saved": null
-          }
-        }
-      ]
-    },
-    {
-      "player": {
-        "id": 179893,
-        "name": "O. Appollis",
-        "firstname": "Oswin Reagan",
-        "lastname": "Appollis",
-        "age": 24,
-        "birth": {
-          "date": "2001-08-25",
-          "place": "Cape Town",
-          "country": "South Africa"
-        },
-        "nationality": "South Africa",
-        "height": "171",
-        "weight": "56",
-        "injured": false,
-        "photo": "https://media.api-sports.io/football/players/179893.png"
-      },
-      "statistics": [
-        {
-          "team": {
-            "id": 2700,
-            "name": "Orlando Pirates",
-            "logo": "https://media.api-sports.io/football/teams/2700.png"
-          },
-          "league": {
-            "id": 288,
-            "name": "Premier Soccer League",
-            "country": "South-Africa",
-            "logo": "https://media.api-sports.io/football/leagues/288.png",
-            "flag": "https://media.api-sports.io/flags/za.svg",
-            "season": 2026
-          },
-          "games": {
-            "appearences": 5,
-            "lineups": 3,
-            "minutes": 321,
-            "number": 12,
-            "position": "Midfielder",
-            "rating": "7.6",
-            "captain": false
-          },
-          "substitutes": {
-            "in": 2,
-            "out": 3,
-            "bench": 2
-          },
-          "shots": {
-            "total": 10,
-            "on": 7
-          },
-          "goals": {
-            "total": 2,
-            "conceded": 0,
-            "assists": 1,
-            "saves": 0
-          },
-          "passes": {
-            "total": 160,
-            "key": 6,
-            "accuracy": 82
-          },
-          "tackles": {
-            "total": 2,
-            "blocks": 0,
-            "interceptions": 3
-          },
-          "duels": {
-            "total": 36,
-            "won": 21
-          },
-          "dribbles": {
-            "attempts": 10,
-            "success": 6,
-            "past": null
-          },
-          "fouls": {
-            "drawn": 10,
-            "committed": 1
-          },
-          "cards": {
-            "yellow": 0,
-            "yellowred": 0,
-            "red": 0
-          },
-          "penalty": {
-            "won": null,
-            "commited": null,
-            "scored": 0,
             "missed": 0,
             "saved": null
           }
@@ -1000,7 +1475,7 @@
             "minutes": 174,
             "number": 25,
             "position": "Attacker",
-            "rating": "7.17",
+            "rating": "7.08",
             "captain": false
           },
           "substitutes": {
@@ -1009,31 +1484,31 @@
             "bench": 3
           },
           "shots": {
-            "total": 6,
-            "on": 4
+            "total": 5,
+            "on": 3
           },
           "goals": {
             "total": 2,
             "conceded": 0,
             "assists": 1,
-            "saves": 0
+            "saves": null
           },
           "passes": {
-            "total": 34,
+            "total": 33,
             "key": 1,
-            "accuracy": 76
+            "accuracy": 75
           },
           "tackles": {
             "total": 2,
-            "blocks": 0,
-            "interceptions": 0
+            "blocks": null,
+            "interceptions": null
           },
           "duels": {
-            "total": 29,
+            "total": 27,
             "won": 10
           },
           "dribbles": {
-            "attempts": 4,
+            "attempts": 3,
             "success": 2,
             "past": null
           },
@@ -1051,6 +1526,196 @@
             "commited": null,
             "scored": 0,
             "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 3291,
+        "name": "L. Maboe",
+        "firstname": "Lebohang Kgosana",
+        "lastname": "Maboe",
+        "age": 31,
+        "birth": {
+          "date": "1994-09-17",
+          "place": null,
+          "country": "South Africa"
+        },
+        "nationality": "South Africa",
+        "height": null,
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/3291.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 2691,
+            "name": "Kaizer Chiefs",
+            "logo": "https://media.api-sports.io/football/teams/2691.png"
+          },
+          "league": {
+            "id": 288,
+            "name": "Premier Soccer League",
+            "country": "South-Africa",
+            "logo": "https://media.api-sports.io/football/leagues/288.png",
+            "flag": "https://media.api-sports.io/flags/za.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 6,
+            "lineups": 6,
+            "minutes": 429,
+            "number": 6,
+            "position": "Midfielder",
+            "rating": "7.34",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 2,
+            "bench": 0
+          },
+          "shots": {
+            "total": 5,
+            "on": 3
+          },
+          "goals": {
+            "total": 2,
+            "conceded": 0,
+            "assists": 1,
+            "saves": 0
+          },
+          "passes": {
+            "total": 289,
+            "key": 7,
+            "accuracy": 85
+          },
+          "tackles": {
+            "total": 12,
+            "blocks": 0,
+            "interceptions": 7
+          },
+          "duels": {
+            "total": 54,
+            "won": 29
+          },
+          "dribbles": {
+            "attempts": 12,
+            "success": 5,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 11,
+            "committed": 5
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 1,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 430365,
+        "name": "S. Mthanti",
+        "firstname": "Siyanda",
+        "lastname": "Mthanti",
+        "age": 22,
+        "birth": {
+          "date": "2003-09-19",
+          "place": null,
+          "country": "South Africa"
+        },
+        "nationality": "South Africa",
+        "height": null,
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/430365.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 2699,
+            "name": "Mamelodi Sundowns",
+            "logo": "https://media.api-sports.io/football/teams/2699.png"
+          },
+          "league": {
+            "id": 288,
+            "name": "Premier Soccer League",
+            "country": "South-Africa",
+            "logo": "https://media.api-sports.io/football/leagues/288.png",
+            "flag": "https://media.api-sports.io/flags/za.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 7,
+            "lineups": 3,
+            "minutes": 100,
+            "number": 38,
+            "position": "Midfielder",
+            "rating": "7.26",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 4,
+            "out": 2,
+            "bench": 4
+          },
+          "shots": {
+            "total": 2,
+            "on": 2
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": 1,
+            "saves": 0
+          },
+          "passes": {
+            "total": 43,
+            "key": 5,
+            "accuracy": 81
+          },
+          "tackles": {
+            "total": 2,
+            "blocks": 0,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 10,
+            "won": 5
+          },
+          "dribbles": {
+            "attempts": 6,
+            "success": 3,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 0,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": null,
             "saved": null
           }
         }
@@ -1090,21 +1755,21 @@
             "season": 2026
           },
           "games": {
-            "appearences": 5,
+            "appearences": 6,
             "lineups": 4,
-            "minutes": 188,
+            "minutes": 233,
             "number": 18,
             "position": "Midfielder",
-            "rating": "6.62",
+            "rating": "6.71",
             "captain": false
           },
           "substitutes": {
-            "in": 1,
+            "in": 2,
             "out": 4,
-            "bench": 1
+            "bench": 2
           },
           "shots": {
-            "total": 3,
+            "total": 4,
             "on": 2
           },
           "goals": {
@@ -1114,18 +1779,18 @@
             "saves": 0
           },
           "passes": {
-            "total": 41,
-            "key": 2,
-            "accuracy": 56
+            "total": 55,
+            "key": 3,
+            "accuracy": 63
           },
           "tackles": {
-            "total": 3,
-            "blocks": 0,
+            "total": 7,
+            "blocks": 1,
             "interceptions": 2
           },
           "duels": {
-            "total": 21,
-            "won": 5
+            "total": 27,
+            "won": 11
           },
           "dribbles": {
             "attempts": 6,
@@ -1133,7 +1798,7 @@
             "past": null
           },
           "fouls": {
-            "drawn": 2,
+            "drawn": 4,
             "committed": 2
           },
           "cards": {
@@ -1185,12 +1850,12 @@
             "season": 2026
           },
           "games": {
-            "appearences": 5,
-            "lineups": 5,
-            "minutes": 344,
+            "appearences": 6,
+            "lineups": 6,
+            "minutes": 434,
             "number": 44,
             "position": "Attacker",
-            "rating": "6.29",
+            "rating": "6.1",
             "captain": false
           },
           "substitutes": {
@@ -1199,8 +1864,8 @@
             "bench": 0
           },
           "shots": {
-            "total": 8,
-            "on": 3
+            "total": 10,
+            "on": 4
           },
           "goals": {
             "total": 1,
@@ -1209,18 +1874,18 @@
             "saves": 0
           },
           "passes": {
-            "total": 45,
-            "key": 3,
-            "accuracy": 68
+            "total": 55,
+            "key": 5,
+            "accuracy": 72
           },
           "tackles": {
             "total": 0,
-            "blocks": 1,
+            "blocks": 0,
             "interceptions": 0
           },
           "duels": {
-            "total": 56,
-            "won": 11
+            "total": 62,
+            "won": 13
           },
           "dribbles": {
             "attempts": 10,
@@ -1228,676 +1893,11 @@
             "past": null
           },
           "fouls": {
-            "drawn": 4,
-            "committed": 7
-          },
-          "cards": {
-            "yellow": 0,
-            "yellowred": 0,
-            "red": 0
-          },
-          "penalty": {
-            "won": null,
-            "commited": null,
-            "scored": 0,
-            "missed": 0,
-            "saved": null
-          }
-        }
-      ]
-    },
-    {
-      "player": {
-        "id": 98976,
-        "name": "S. George",
-        "firstname": "Sedwyn Curtis",
-        "lastname": "George",
-        "age": 34,
-        "birth": {
-          "date": "1991-08-28",
-          "place": "Pietermaritzburg",
-          "country": "South Africa"
-        },
-        "nationality": "South Africa",
-        "height": null,
-        "weight": null,
-        "injured": false,
-        "photo": "https://media.api-sports.io/football/players/98976.png"
-      },
-      "statistics": [
-        {
-          "team": {
-            "id": 8074,
-            "name": "TS Galaxy",
-            "logo": "https://media.api-sports.io/football/teams/8074.png"
-          },
-          "league": {
-            "id": 288,
-            "name": "Premier Soccer League",
-            "country": "South-Africa",
-            "logo": "https://media.api-sports.io/football/leagues/288.png",
-            "flag": "https://media.api-sports.io/flags/za.svg",
-            "season": 2026
-          },
-          "games": {
-            "appearences": 5,
-            "lineups": 5,
-            "minutes": 407,
-            "number": 19,
-            "position": "Attacker",
-            "rating": "6.81",
-            "captain": false
-          },
-          "substitutes": {
-            "in": 0,
-            "out": 5,
-            "bench": 0
-          },
-          "shots": {
-            "total": 8,
-            "on": 2
-          },
-          "goals": {
-            "total": 1,
-            "conceded": 0,
-            "assists": 1,
-            "saves": 0
-          },
-          "passes": {
-            "total": 98,
-            "key": 7,
-            "accuracy": 69
-          },
-          "tackles": {
-            "total": 6,
-            "blocks": 0,
-            "interceptions": 1
-          },
-          "duels": {
-            "total": 51,
-            "won": 23
-          },
-          "dribbles": {
-            "attempts": 5,
-            "success": 0,
-            "past": null
-          },
-          "fouls": {
-            "drawn": 4,
-            "committed": 5
-          },
-          "cards": {
-            "yellow": 0,
-            "yellowred": 0,
-            "red": 0
-          },
-          "penalty": {
-            "won": null,
-            "commited": null,
-            "scored": 0,
-            "missed": 0,
-            "saved": null
-          }
-        }
-      ]
-    },
-    {
-      "player": {
-        "id": 363018,
-        "name": "N. Radebe",
-        "firstname": "Nkosikhona",
-        "lastname": "Radebe",
-        "age": 24,
-        "birth": {
-          "date": "2001-02-11",
-          "place": null,
-          "country": "South Africa"
-        },
-        "nationality": "South Africa",
-        "height": null,
-        "weight": null,
-        "injured": false,
-        "photo": "https://media.api-sports.io/football/players/363018.png"
-      },
-      "statistics": [
-        {
-          "team": {
-            "id": 2669,
-            "name": "Amazulu",
-            "logo": "https://media.api-sports.io/football/teams/2669.png"
-          },
-          "league": {
-            "id": 288,
-            "name": "Premier Soccer League",
-            "country": "South-Africa",
-            "logo": "https://media.api-sports.io/football/leagues/288.png",
-            "flag": "https://media.api-sports.io/flags/za.svg",
-            "season": 2026
-          },
-          "games": {
-            "appearences": 5,
-            "lineups": 5,
-            "minutes": 450,
-            "number": 14,
-            "position": "Defender",
-            "rating": "7.32",
-            "captain": false
-          },
-          "substitutes": {
-            "in": 0,
-            "out": 0,
-            "bench": 0
-          },
-          "shots": {
-            "total": 5,
-            "on": 1
-          },
-          "goals": {
-            "total": 1,
-            "conceded": 0,
-            "assists": 1,
-            "saves": 0
-          },
-          "passes": {
-            "total": 156,
-            "key": 5,
-            "accuracy": 73
-          },
-          "tackles": {
-            "total": 11,
-            "blocks": 6,
-            "interceptions": 14
-          },
-          "duels": {
-            "total": 57,
-            "won": 31
-          },
-          "dribbles": {
-            "attempts": 18,
-            "success": 11,
-            "past": null
-          },
-          "fouls": {
-            "drawn": 6,
-            "committed": 6
-          },
-          "cards": {
-            "yellow": 0,
-            "yellowred": 0,
-            "red": 0
-          },
-          "penalty": {
-            "won": null,
-            "commited": null,
-            "scored": 0,
-            "missed": 0,
-            "saved": null
-          }
-        }
-      ]
-    },
-    {
-      "player": {
-        "id": 639897,
-        "name": "N. Mlotshwa",
-        "firstname": null,
-        "lastname": null,
-        "age": 24,
-        "birth": {
-          "date": null,
-          "place": null,
-          "country": null
-        },
-        "nationality": null,
-        "height": null,
-        "weight": null,
-        "injured": false,
-        "photo": "https://media.api-sports.io/football/players/639897.png"
-      },
-      "statistics": [
-        {
-          "team": {
-            "id": 2698,
-            "name": "Chippa United",
-            "logo": "https://media.api-sports.io/football/teams/2698.png"
-          },
-          "league": {
-            "id": 288,
-            "name": "Premier Soccer League",
-            "country": "South-Africa",
-            "logo": "https://media.api-sports.io/football/leagues/288.png",
-            "flag": "https://media.api-sports.io/flags/za.svg",
-            "season": 2026
-          },
-          "games": {
-            "appearences": 4,
-            "lineups": 3,
-            "minutes": 240,
-            "number": 29,
-            "position": "Attacker",
-            "rating": "6.81",
-            "captain": false
-          },
-          "substitutes": {
-            "in": 1,
-            "out": 3,
-            "bench": 1
-          },
-          "shots": {
-            "total": 3,
-            "on": 1
-          },
-          "goals": {
-            "total": 1,
-            "conceded": 0,
-            "assists": 1,
-            "saves": 0
-          },
-          "passes": {
-            "total": 66,
-            "key": 2,
-            "accuracy": 77
-          },
-          "tackles": {
-            "total": 3,
-            "blocks": 0,
-            "interceptions": 0
-          },
-          "duels": {
-            "total": 40,
-            "won": 16
-          },
-          "dribbles": {
-            "attempts": 3,
-            "success": 0,
-            "past": null
-          },
-          "fouls": {
-            "drawn": 3,
-            "committed": 4
-          },
-          "cards": {
-            "yellow": 0,
-            "yellowred": 0,
-            "red": 0
-          },
-          "penalty": {
-            "won": null,
-            "commited": null,
-            "scored": 0,
-            "missed": 0,
-            "saved": null
-          }
-        }
-      ]
-    },
-    {
-      "player": {
-        "id": 388630,
-        "name": "B. Dlamini",
-        "firstname": "Bonginkosi",
-        "lastname": "Dlamini",
-        "age": 28,
-        "birth": {
-          "date": null,
-          "place": null,
-          "country": "South Africa"
-        },
-        "nationality": "South Africa",
-        "height": null,
-        "weight": null,
-        "injured": false,
-        "photo": "https://media.api-sports.io/football/players/388630.png"
-      },
-      "statistics": [
-        {
-          "team": {
-            "id": 2693,
-            "name": "Polokwane City",
-            "logo": "https://media.api-sports.io/football/teams/2693.png"
-          },
-          "league": {
-            "id": 288,
-            "name": "Premier Soccer League",
-            "country": "South-Africa",
-            "logo": "https://media.api-sports.io/football/leagues/288.png",
-            "flag": "https://media.api-sports.io/flags/za.svg",
-            "season": 2026
-          },
-          "games": {
-            "appearences": 1,
-            "lineups": 1,
-            "minutes": 254,
-            "number": 17,
-            "position": "Midfielder",
-            "rating": "6.72",
-            "captain": false
-          },
-          "substitutes": {
-            "in": 0,
-            "out": 0,
-            "bench": 0
-          },
-          "shots": {
-            "total": 2,
-            "on": 1
-          },
-          "goals": {
-            "total": 1,
-            "conceded": 0,
-            "assists": 1,
-            "saves": 0
-          },
-          "passes": {
-            "total": 73,
-            "key": 2,
-            "accuracy": 54
-          },
-          "tackles": {
-            "total": 10,
-            "blocks": 1,
-            "interceptions": 5
-          },
-          "duels": {
-            "total": 40,
-            "won": 20
-          },
-          "dribbles": {
-            "attempts": 7,
-            "success": 3,
-            "past": null
-          },
-          "fouls": {
-            "drawn": 3,
-            "committed": 4
-          },
-          "cards": {
-            "yellow": 0,
-            "yellowred": 0,
-            "red": 0
-          },
-          "penalty": {
-            "won": null,
-            "commited": null,
-            "scored": 0,
-            "missed": 0,
-            "saved": null
-          }
-        }
-      ]
-    },
-    {
-      "player": {
-        "id": 642458,
-        "name": "S. Mdluli",
-        "firstname": null,
-        "lastname": null,
-        "age": 33,
-        "birth": {
-          "date": null,
-          "place": null,
-          "country": null
-        },
-        "nationality": null,
-        "height": null,
-        "weight": null,
-        "injured": false,
-        "photo": "https://media.api-sports.io/football/players/642458.png"
-      },
-      "statistics": [
-        {
-          "team": {
-            "id": 22234,
-            "name": "Milford FC",
-            "logo": "https://media.api-sports.io/football/teams/22234.png"
-          },
-          "league": {
-            "id": 288,
-            "name": "Premier Soccer League",
-            "country": "South-Africa",
-            "logo": "https://media.api-sports.io/football/leagues/288.png",
-            "flag": "https://media.api-sports.io/flags/za.svg",
-            "season": 2026
-          },
-          "games": {
-            "appearences": 6,
-            "lineups": 6,
-            "minutes": 540,
-            "number": 14,
-            "position": "Defender",
-            "rating": "6.85",
-            "captain": false
-          },
-          "substitutes": {
-            "in": 0,
-            "out": 0,
-            "bench": 0
-          },
-          "shots": {
-            "total": 6,
-            "on": 2
-          },
-          "goals": {
-            "total": 0,
-            "conceded": 0,
-            "assists": 1,
-            "saves": 0
-          },
-          "passes": {
-            "total": 287,
-            "key": 12,
-            "accuracy": 79
-          },
-          "tackles": {
-            "total": 10,
-            "blocks": 0,
-            "interceptions": 6
-          },
-          "duels": {
-            "total": 50,
-            "won": 24
-          },
-          "dribbles": {
-            "attempts": 11,
-            "success": 4,
-            "past": null
-          },
-          "fouls": {
-            "drawn": 7,
-            "committed": 3
-          },
-          "cards": {
-            "yellow": 0,
-            "yellowred": 0,
-            "red": 0
-          },
-          "penalty": {
-            "won": null,
-            "commited": null,
-            "scored": 0,
-            "missed": 0,
-            "saved": null
-          }
-        }
-      ]
-    },
-    {
-      "player": {
-        "id": 46334,
-        "name": "A. Modiba",
-        "firstname": "Aubrey",
-        "lastname": "Maphosa Modiba",
-        "age": 30,
-        "birth": {
-          "date": "1995-07-22",
-          "place": "Polokwane",
-          "country": "South Africa"
-        },
-        "nationality": "South Africa",
-        "height": "167",
-        "weight": "53",
-        "injured": false,
-        "photo": "https://media.api-sports.io/football/players/46334.png"
-      },
-      "statistics": [
-        {
-          "team": {
-            "id": 2699,
-            "name": "Mamelodi Sundowns",
-            "logo": "https://media.api-sports.io/football/teams/2699.png"
-          },
-          "league": {
-            "id": 288,
-            "name": "Premier Soccer League",
-            "country": "South-Africa",
-            "logo": "https://media.api-sports.io/football/leagues/288.png",
-            "flag": "https://media.api-sports.io/flags/za.svg",
-            "season": 2026
-          },
-          "games": {
-            "appearences": 5,
-            "lineups": 2,
-            "minutes": 242,
-            "number": 6,
-            "position": "Defender",
-            "rating": "6.9",
-            "captain": false
-          },
-          "substitutes": {
-            "in": 3,
-            "out": 1,
-            "bench": 3
-          },
-          "shots": {
-            "total": 1,
-            "on": null
-          },
-          "goals": {
-            "total": 0,
-            "conceded": 0,
-            "assists": 1,
-            "saves": null
-          },
-          "passes": {
-            "total": 157,
-            "key": 2,
-            "accuracy": 85
-          },
-          "tackles": {
-            "total": 8,
-            "blocks": null,
-            "interceptions": 3
-          },
-          "duels": {
-            "total": 29,
-            "won": 15
-          },
-          "dribbles": {
-            "attempts": 3,
-            "success": 1,
-            "past": null
-          },
-          "fouls": {
-            "drawn": 4,
-            "committed": 6
-          },
-          "cards": {
-            "yellow": 0,
-            "yellowred": 0,
-            "red": 0
-          },
-          "penalty": {
-            "won": null,
-            "commited": null,
-            "scored": 0,
-            "missed": 0,
-            "saved": null
-          }
-        }
-      ]
-    },
-    {
-      "player": {
-        "id": 297527,
-        "name": "L. Mojela",
-        "firstname": "Lehlohonolo Bradley",
-        "lastname": "Mojela",
-        "age": 29,
-        "birth": {
-          "date": "1996-09-18",
-          "place": null,
-          "country": "South Africa"
-        },
-        "nationality": "South Africa",
-        "height": null,
-        "weight": null,
-        "injured": false,
-        "photo": "https://media.api-sports.io/football/players/297527.png"
-      },
-      "statistics": [
-        {
-          "team": {
-            "id": 15537,
-            "name": "Sekhukhune United",
-            "logo": "https://media.api-sports.io/football/teams/15537.png"
-          },
-          "league": {
-            "id": 288,
-            "name": "Premier Soccer League",
-            "country": "South-Africa",
-            "logo": "https://media.api-sports.io/football/leagues/288.png",
-            "flag": "https://media.api-sports.io/flags/za.svg",
-            "season": 2026
-          },
-          "games": {
-            "appearences": 5,
-            "lineups": 3,
-            "minutes": 291,
-            "number": 21,
-            "position": "Midfielder",
-            "rating": "6.88",
-            "captain": false
-          },
-          "substitutes": {
-            "in": 2,
-            "out": 3,
-            "bench": 2
-          },
-          "shots": {
-            "total": 7,
-            "on": 5
-          },
-          "goals": {
-            "total": 0,
-            "conceded": 0,
-            "assists": 1,
-            "saves": 0
-          },
-          "passes": {
-            "total": 76,
-            "key": 5,
-            "accuracy": 65
-          },
-          "tackles": {
-            "total": 10,
-            "blocks": 1,
-            "interceptions": 0
-          },
-          "duels": {
-            "total": 44,
-            "won": 27
-          },
-          "dribbles": {
-            "attempts": 6,
-            "success": 2,
-            "past": null
-          },
-          "fouls": {
-            "drawn": 12,
+            "drawn": 5,
             "committed": 8
           },
           "cards": {
-            "yellow": 2,
+            "yellow": 0,
             "yellowred": 0,
             "red": 0
           },

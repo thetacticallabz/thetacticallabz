@@ -433,25 +433,25 @@
     },
     {
       "fixture": {
-        "id": 1611398,
+        "id": 1611387,
         "referee": null,
         "timezone": "UTC",
-        "date": "2026-09-12T15:00:00+00:00",
-        "timestamp": 1789225200,
+        "date": "2026-09-10T18:00:00+00:00",
+        "timestamp": 1789063200,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1789063200,
+          "second": 1789066800
         },
         "venue": {
           "id": null,
-          "name": null,
-          "city": null
+          "name": "20 August 1955 Stadium",
+          "city": "Algiers"
         },
         "status": {
-          "long": "Match Postponed",
-          "short": "PST",
-          "elapsed": null,
-          "extra": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 7
         }
       },
       "league": {
@@ -461,525 +461,35 @@
         "logo": "https://media.api-sports.io/football/leagues/186.png",
         "flag": "https://media.api-sports.io/flags/dz.svg",
         "season": 2026,
-        "round": "Regular Season - 3",
+        "round": "Regular Season - 2",
         "standings": true
       },
       "teams": {
         "home": {
-          "id": 905,
-          "name": "ES Setif",
-          "logo": "https://media.api-sports.io/football/teams/905.png",
-          "winner": null
-        },
-        "away": {
-          "id": 911,
-          "name": "CS Constantine",
-          "logo": "https://media.api-sports.io/football/teams/911.png",
-          "winner": null
-        }
-      },
-      "goals": {
-        "home": null,
-        "away": null
-      },
-      "score": {
-        "halftime": {
-          "home": null,
-          "away": null
-        },
-        "fulltime": {
-          "home": null,
-          "away": null
-        },
-        "extratime": {
-          "home": null,
-          "away": null
-        },
-        "penalty": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "fixture": {
-        "id": 1611400,
-        "referee": null,
-        "timezone": "UTC",
-        "date": "2026-09-12T15:00:00+00:00",
-        "timestamp": 1789225200,
-        "periods": {
-          "first": null,
-          "second": null
-        },
-        "venue": {
-          "id": null,
-          "name": null,
-          "city": null
-        },
-        "status": {
-          "long": "Match Postponed",
-          "short": "PST",
-          "elapsed": null,
-          "extra": null
-        }
-      },
-      "league": {
-        "id": 186,
-        "name": "Ligue 1",
-        "country": "Algeria",
-        "logo": "https://media.api-sports.io/football/leagues/186.png",
-        "flag": "https://media.api-sports.io/flags/dz.svg",
-        "season": 2026,
-        "round": "Regular Season - 3",
-        "standings": true
-      },
-      "teams": {
-        "home": {
-          "id": 906,
-          "name": "MC Alger",
-          "logo": "https://media.api-sports.io/football/teams/906.png",
-          "winner": null
-        },
-        "away": {
-          "id": 10777,
-          "name": "MB Rouisset",
-          "logo": "https://media.api-sports.io/football/teams/10777.png",
-          "winner": null
-        }
-      },
-      "goals": {
-        "home": null,
-        "away": null
-      },
-      "score": {
-        "halftime": {
-          "home": null,
-          "away": null
-        },
-        "fulltime": {
-          "home": null,
-          "away": null
-        },
-        "extratime": {
-          "home": null,
-          "away": null
-        },
-        "penalty": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "fixture": {
-        "id": 1611396,
-        "referee": null,
-        "timezone": "UTC",
-        "date": "2026-09-12T15:00:00+00:00",
-        "timestamp": 1789225200,
-        "periods": {
-          "first": null,
-          "second": null
-        },
-        "venue": {
-          "id": null,
-          "name": "18 February Stadium",
-          "city": "Biskra"
-        },
-        "status": {
-          "long": "Match Postponed",
-          "short": "PST",
-          "elapsed": null,
-          "extra": null
-        }
-      },
-      "league": {
-        "id": 186,
-        "name": "Ligue 1",
-        "country": "Algeria",
-        "logo": "https://media.api-sports.io/football/leagues/186.png",
-        "flag": "https://media.api-sports.io/flags/dz.svg",
-        "season": 2026,
-        "round": "Regular Season - 3",
-        "standings": true
-      },
-      "teams": {
-        "home": {
-          "id": 909,
-          "name": "US Biskra",
-          "logo": "https://media.api-sports.io/football/teams/909.png",
-          "winner": null
-        },
-        "away": {
-          "id": 904,
-          "name": "CR Belouizdad",
-          "logo": "https://media.api-sports.io/football/teams/904.png",
-          "winner": null
-        }
-      },
-      "goals": {
-        "home": null,
-        "away": null
-      },
-      "score": {
-        "halftime": {
-          "home": null,
-          "away": null
-        },
-        "fulltime": {
-          "home": null,
-          "away": null
-        },
-        "extratime": {
-          "home": null,
-          "away": null
-        },
-        "penalty": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "fixture": {
-        "id": 1611395,
-        "referee": null,
-        "timezone": "UTC",
-        "date": "2026-09-12T15:00:00+00:00",
-        "timestamp": 1789225200,
-        "periods": {
-          "first": null,
-          "second": null
-        },
-        "venue": {
-          "id": null,
-          "name": null,
-          "city": null
-        },
-        "status": {
-          "long": "Match Postponed",
-          "short": "PST",
-          "elapsed": null,
-          "extra": null
-        }
-      },
-      "league": {
-        "id": 186,
-        "name": "Ligue 1",
-        "country": "Algeria",
-        "logo": "https://media.api-sports.io/football/leagues/186.png",
-        "flag": "https://media.api-sports.io/flags/dz.svg",
-        "season": 2026,
-        "round": "Regular Season - 3",
-        "standings": true
-      },
-      "teams": {
-        "home": {
-          "id": 931,
-          "name": "ASO Chlef",
-          "logo": "https://media.api-sports.io/football/teams/931.png",
-          "winner": null
-        },
-        "away": {
-          "id": 907,
-          "name": "MC Oran",
-          "logo": "https://media.api-sports.io/football/teams/907.png",
-          "winner": null
-        }
-      },
-      "goals": {
-        "home": null,
-        "away": null
-      },
-      "score": {
-        "halftime": {
-          "home": null,
-          "away": null
-        },
-        "fulltime": {
-          "home": null,
-          "away": null
-        },
-        "extratime": {
-          "home": null,
-          "away": null
-        },
-        "penalty": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "fixture": {
-        "id": 1611402,
-        "referee": null,
-        "timezone": "UTC",
-        "date": "2026-09-12T15:00:00+00:00",
-        "timestamp": 1789225200,
-        "periods": {
-          "first": null,
-          "second": null
-        },
-        "venue": {
-          "id": null,
-          "name": null,
-          "city": null
-        },
-        "status": {
-          "long": "Match Postponed",
-          "short": "PST",
-          "elapsed": null,
-          "extra": null
-        }
-      },
-      "league": {
-        "id": 186,
-        "name": "Ligue 1",
-        "country": "Algeria",
-        "logo": "https://media.api-sports.io/football/leagues/186.png",
-        "flag": "https://media.api-sports.io/flags/dz.svg",
-        "season": 2026,
-        "round": "Regular Season - 3",
-        "standings": true
-      },
-      "teams": {
-        "home": {
-          "id": 10715,
-          "name": "Témouchent",
-          "logo": "https://media.api-sports.io/football/teams/10715.png",
-          "winner": null
-        },
-        "away": {
-          "id": 918,
-          "name": "JS Kabylie",
-          "logo": "https://media.api-sports.io/football/teams/918.png",
-          "winner": null
-        }
-      },
-      "goals": {
-        "home": null,
-        "away": null
-      },
-      "score": {
-        "halftime": {
-          "home": null,
-          "away": null
-        },
-        "fulltime": {
-          "home": null,
-          "away": null
-        },
-        "extratime": {
-          "home": null,
-          "away": null
-        },
-        "penalty": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "fixture": {
-        "id": 1611399,
-        "referee": null,
-        "timezone": "UTC",
-        "date": "2026-09-12T15:00:00+00:00",
-        "timestamp": 1789225200,
-        "periods": {
-          "first": null,
-          "second": null
-        },
-        "venue": {
-          "id": null,
-          "name": null,
-          "city": null
-        },
-        "status": {
-          "long": "Match Postponed",
-          "short": "PST",
-          "elapsed": null,
-          "extra": null
-        }
-      },
-      "league": {
-        "id": 186,
-        "name": "Ligue 1",
-        "country": "Algeria",
-        "logo": "https://media.api-sports.io/football/leagues/186.png",
-        "flag": "https://media.api-sports.io/flags/dz.svg",
-        "season": 2026,
-        "round": "Regular Season - 3",
-        "standings": true
-      },
-      "teams": {
-        "home": {
-          "id": 10752,
-          "name": "Khenchela",
-          "logo": "https://media.api-sports.io/football/teams/10752.png",
-          "winner": null
-        },
-        "away": {
           "id": 10792,
           "name": "Ben Aknoun",
           "logo": "https://media.api-sports.io/football/teams/10792.png",
           "winner": null
-        }
-      },
-      "goals": {
-        "home": null,
-        "away": null
-      },
-      "score": {
-        "halftime": {
-          "home": null,
-          "away": null
-        },
-        "fulltime": {
-          "home": null,
-          "away": null
-        },
-        "extratime": {
-          "home": null,
-          "away": null
-        },
-        "penalty": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "fixture": {
-        "id": 1611401,
-        "referee": null,
-        "timezone": "UTC",
-        "date": "2026-09-12T15:00:00+00:00",
-        "timestamp": 1789225200,
-        "periods": {
-          "first": null,
-          "second": null
-        },
-        "venue": {
-          "id": null,
-          "name": null,
-          "city": null
-        },
-        "status": {
-          "long": "Match Postponed",
-          "short": "PST",
-          "elapsed": null,
-          "extra": null
-        }
-      },
-      "league": {
-        "id": 186,
-        "name": "Ligue 1",
-        "country": "Algeria",
-        "logo": "https://media.api-sports.io/football/leagues/186.png",
-        "flag": "https://media.api-sports.io/flags/dz.svg",
-        "season": 2026,
-        "round": "Regular Season - 3",
-        "standings": true
-      },
-      "teams": {
-        "home": {
-          "id": 10780,
-          "name": "Olympique Akbou",
-          "logo": "https://media.api-sports.io/football/teams/10780.png",
-          "winner": null
         },
         "away": {
-          "id": 910,
-          "name": "USM Alger",
-          "logo": "https://media.api-sports.io/football/teams/910.png",
+          "id": 909,
+          "name": "US Biskra",
+          "logo": "https://media.api-sports.io/football/teams/909.png",
           "winner": null
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 2,
+        "away": 2
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 2
         },
         "fulltime": {
-          "home": null,
-          "away": null
-        },
-        "extratime": {
-          "home": null,
-          "away": null
-        },
-        "penalty": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "fixture": {
-        "id": 1611397,
-        "referee": null,
-        "timezone": "UTC",
-        "date": "2026-09-12T15:00:00+00:00",
-        "timestamp": 1789225200,
-        "periods": {
-          "first": null,
-          "second": null
-        },
-        "venue": {
-          "id": null,
-          "name": null,
-          "city": null
-        },
-        "status": {
-          "long": "Match Postponed",
-          "short": "PST",
-          "elapsed": null,
-          "extra": null
-        }
-      },
-      "league": {
-        "id": 186,
-        "name": "Ligue 1",
-        "country": "Algeria",
-        "logo": "https://media.api-sports.io/football/leagues/186.png",
-        "flag": "https://media.api-sports.io/flags/dz.svg",
-        "season": 2026,
-        "round": "Regular Season - 3",
-        "standings": true
-      },
-      "teams": {
-        "home": {
-          "id": 20699,
-          "name": "JS El Biar",
-          "logo": "https://media.api-sports.io/football/teams/20699.png",
-          "winner": null
-        },
-        "away": {
-          "id": 914,
-          "name": "JS Saoura",
-          "logo": "https://media.api-sports.io/football/teams/914.png",
-          "winner": null
-        }
-      },
-      "goals": {
-        "home": null,
-        "away": null
-      },
-      "score": {
-        "halftime": {
-          "home": null,
-          "away": null
-        },
-        "fulltime": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 2
         },
         "extratime": {
           "home": null,
@@ -996,22 +506,22 @@
         "id": 1611394,
         "referee": null,
         "timezone": "UTC",
-        "date": "2026-09-10T19:00:00+00:00",
-        "timestamp": 1789066800,
+        "date": "2026-09-10T20:00:00+00:00",
+        "timestamp": 1789070400,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1789070400,
+          "second": 1789074000
         },
         "venue": {
-          "id": null,
-          "name": null,
-          "city": null
+          "id": 5,
+          "name": "Stade du 5 Juillet 1962",
+          "city": "Algiers"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 5
         }
       },
       "league": {
@@ -1029,97 +539,27 @@
           "id": 910,
           "name": "USM Alger",
           "logo": "https://media.api-sports.io/football/teams/910.png",
-          "winner": null
+          "winner": true
         },
         "away": {
           "id": 20699,
           "name": "JS El Biar",
           "logo": "https://media.api-sports.io/football/teams/20699.png",
-          "winner": null
+          "winner": false
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 2,
+        "away": 0
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 0
         },
         "fulltime": {
-          "home": null,
-          "away": null
-        },
-        "extratime": {
-          "home": null,
-          "away": null
-        },
-        "penalty": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "fixture": {
-        "id": 1611387,
-        "referee": null,
-        "timezone": "UTC",
-        "date": "2026-09-10T19:00:00+00:00",
-        "timestamp": 1789066800,
-        "periods": {
-          "first": null,
-          "second": null
-        },
-        "venue": {
-          "id": null,
-          "name": null,
-          "city": null
-        },
-        "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
-        }
-      },
-      "league": {
-        "id": 186,
-        "name": "Ligue 1",
-        "country": "Algeria",
-        "logo": "https://media.api-sports.io/football/leagues/186.png",
-        "flag": "https://media.api-sports.io/flags/dz.svg",
-        "season": 2026,
-        "round": "Regular Season - 2",
-        "standings": true
-      },
-      "teams": {
-        "home": {
-          "id": 10792,
-          "name": "Ben Aknoun",
-          "logo": "https://media.api-sports.io/football/teams/10792.png",
-          "winner": null
-        },
-        "away": {
-          "id": 909,
-          "name": "US Biskra",
-          "logo": "https://media.api-sports.io/football/teams/909.png",
-          "winner": null
-        }
-      },
-      "goals": {
-        "home": null,
-        "away": null
-      },
-      "score": {
-        "halftime": {
-          "home": null,
-          "away": null
-        },
-        "fulltime": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 0
         },
         "extratime": {
           "home": null,
@@ -1139,19 +579,19 @@
         "date": "2026-09-11T18:00:00+00:00",
         "timestamp": 1789149600,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1789149600,
+          "second": 1789153200
         },
         "venue": {
           "id": null,
-          "name": null,
-          "city": null
+          "name": "Miloud Hadefi stadium",
+          "city": "Oran"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 7
         }
       },
       "league": {
@@ -1169,27 +609,27 @@
           "id": 907,
           "name": "MC Oran",
           "logo": "https://media.api-sports.io/football/teams/907.png",
-          "winner": null
+          "winner": true
         },
         "away": {
           "id": 10715,
           "name": "Témouchent",
           "logo": "https://media.api-sports.io/football/teams/10715.png",
-          "winner": null
+          "winner": false
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 2,
+        "away": 0
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 0
         },
         "extratime": {
           "home": null,
@@ -1209,19 +649,19 @@
         "date": "2026-09-11T20:00:00+00:00",
         "timestamp": 1789156800,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1789156800,
+          "second": 1789160400
         },
         "venue": {
-          "id": null,
-          "name": null,
-          "city": null
+          "id": 5,
+          "name": "Stade du 5 Juillet 1962",
+          "city": "Algiers"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 6
         }
       },
       "league": {
@@ -1239,27 +679,27 @@
           "id": 904,
           "name": "CR Belouizdad",
           "logo": "https://media.api-sports.io/football/teams/904.png",
-          "winner": null
+          "winner": true
         },
         "away": {
           "id": 905,
           "name": "ES Setif",
           "logo": "https://media.api-sports.io/football/teams/905.png",
-          "winner": null
+          "winner": false
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 1,
+        "away": 0
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 0
         },
         "extratime": {
           "home": null,
@@ -1279,19 +719,19 @@
         "date": "2026-09-12T18:00:00+00:00",
         "timestamp": 1789236000,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1789236000,
+          "second": 1789239600
         },
         "venue": {
           "id": null,
           "name": null,
-          "city": null
+          "city": "Ouargla"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 7
         }
       },
       "league": {
@@ -1309,27 +749,27 @@
           "id": 10777,
           "name": "MB Rouisset",
           "logo": "https://media.api-sports.io/football/teams/10777.png",
-          "winner": null
+          "winner": true
         },
         "away": {
           "id": 10780,
           "name": "Olympique Akbou",
           "logo": "https://media.api-sports.io/football/teams/10780.png",
-          "winner": null
+          "winner": false
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 2,
+        "away": 0
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 0
         },
         "extratime": {
           "home": null,
@@ -1349,19 +789,19 @@
         "date": "2026-09-12T20:00:00+00:00",
         "timestamp": 1789243200,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1789243200,
+          "second": 1789246800
         },
         "venue": {
           "id": null,
-          "name": null,
-          "city": null
+          "name": "Stadium Mohamed Hamlaoui",
+          "city": "Constantine"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 3
         }
       },
       "league": {
@@ -1379,27 +819,27 @@
           "id": 911,
           "name": "CS Constantine",
           "logo": "https://media.api-sports.io/football/teams/911.png",
-          "winner": null
+          "winner": true
         },
         "away": {
           "id": 931,
           "name": "ASO Chlef",
           "logo": "https://media.api-sports.io/football/teams/931.png",
-          "winner": null
+          "winner": false
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 3,
+        "away": 0
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 0
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 3,
+          "away": 0
         },
         "extratime": {
           "home": null,
@@ -1428,8 +868,8 @@
           "city": null
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
+          "long": "Match Postponed",
+          "short": "PST",
           "elapsed": null,
           "extra": null
         }
@@ -1498,8 +938,8 @@
           "city": null
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
+          "long": "Match Postponed",
+          "short": "PST",
           "elapsed": null,
           "extra": null
         }
@@ -1568,8 +1008,8 @@
           "city": null
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
+          "long": "Match Postponed",
+          "short": "PST",
           "elapsed": null,
           "extra": null
         }
@@ -1638,8 +1078,8 @@
           "city": null
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
+          "long": "Match Postponed",
+          "short": "PST",
           "elapsed": null,
           "extra": null
         }
@@ -1708,8 +1148,8 @@
           "city": null
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
+          "long": "Match Postponed",
+          "short": "PST",
           "elapsed": null,
           "extra": null
         }
@@ -1778,8 +1218,8 @@
           "city": "Tizi Ouzou"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
+          "long": "Match Postponed",
+          "short": "PST",
           "elapsed": null,
           "extra": null
         }
@@ -1848,8 +1288,8 @@
           "city": null
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
+          "long": "Match Postponed",
+          "short": "PST",
           "elapsed": null,
           "extra": null
         }
@@ -1918,8 +1358,8 @@
           "city": null
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
+          "long": "Match Postponed",
+          "short": "PST",
           "elapsed": null,
           "extra": null
         }
@@ -1945,6 +1385,566 @@
           "id": 20699,
           "name": "JS El Biar",
           "logo": "https://media.api-sports.io/football/teams/20699.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1611396,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2026-09-17T17:00:00+00:00",
+        "timestamp": 1789664400,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": null,
+          "name": "18 February Stadium",
+          "city": "Biskra"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 186,
+        "name": "Ligue 1",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/leagues/186.png",
+        "flag": "https://media.api-sports.io/flags/dz.svg",
+        "season": 2026,
+        "round": "Regular Season - 3",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 909,
+          "name": "US Biskra",
+          "logo": "https://media.api-sports.io/football/teams/909.png",
+          "winner": null
+        },
+        "away": {
+          "id": 904,
+          "name": "CR Belouizdad",
+          "logo": "https://media.api-sports.io/football/teams/904.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1611402,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2026-09-17T19:00:00+00:00",
+        "timestamp": 1789671600,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": null,
+          "name": "Stade Omar Oucief",
+          "city": null
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 186,
+        "name": "Ligue 1",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/leagues/186.png",
+        "flag": "https://media.api-sports.io/flags/dz.svg",
+        "season": 2026,
+        "round": "Regular Season - 3",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 10715,
+          "name": "Témouchent",
+          "logo": "https://media.api-sports.io/football/teams/10715.png",
+          "winner": null
+        },
+        "away": {
+          "id": 918,
+          "name": "JS Kabylie",
+          "logo": "https://media.api-sports.io/football/teams/918.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1611399,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2026-09-18T15:00:00+00:00",
+        "timestamp": 1789743600,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": null,
+          "name": "Amar Hamam Stadium",
+          "city": "Khenchela"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 186,
+        "name": "Ligue 1",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/leagues/186.png",
+        "flag": "https://media.api-sports.io/flags/dz.svg",
+        "season": 2026,
+        "round": "Regular Season - 3",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 10752,
+          "name": "Khenchela",
+          "logo": "https://media.api-sports.io/football/teams/10752.png",
+          "winner": null
+        },
+        "away": {
+          "id": 10792,
+          "name": "Ben Aknoun",
+          "logo": "https://media.api-sports.io/football/teams/10792.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1611400,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2026-09-18T18:00:00+00:00",
+        "timestamp": 1789754400,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": null,
+          "name": "Ali La Pointe Stadium",
+          "city": "Douera"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 186,
+        "name": "Ligue 1",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/leagues/186.png",
+        "flag": "https://media.api-sports.io/flags/dz.svg",
+        "season": 2026,
+        "round": "Regular Season - 3",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 906,
+          "name": "MC Alger",
+          "logo": "https://media.api-sports.io/football/teams/906.png",
+          "winner": null
+        },
+        "away": {
+          "id": 10777,
+          "name": "MB Rouisset",
+          "logo": "https://media.api-sports.io/football/teams/10777.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1611395,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2026-09-18T20:00:00+00:00",
+        "timestamp": 1789761600,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": null,
+          "name": "Mohamed Boumezrag Stadium",
+          "city": "Chlef"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 186,
+        "name": "Ligue 1",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/leagues/186.png",
+        "flag": "https://media.api-sports.io/flags/dz.svg",
+        "season": 2026,
+        "round": "Regular Season - 3",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 931,
+          "name": "ASO Chlef",
+          "logo": "https://media.api-sports.io/football/teams/931.png",
+          "winner": null
+        },
+        "away": {
+          "id": 907,
+          "name": "MC Oran",
+          "logo": "https://media.api-sports.io/football/teams/907.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1611397,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2026-09-18T20:00:00+00:00",
+        "timestamp": 1789761600,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": 12,
+          "name": "Stade Mustapha Tchaker",
+          "city": "Blida"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 186,
+        "name": "Ligue 1",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/leagues/186.png",
+        "flag": "https://media.api-sports.io/flags/dz.svg",
+        "season": 2026,
+        "round": "Regular Season - 3",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 20699,
+          "name": "JS El Biar",
+          "logo": "https://media.api-sports.io/football/teams/20699.png",
+          "winner": null
+        },
+        "away": {
+          "id": 914,
+          "name": "JS Saoura",
+          "logo": "https://media.api-sports.io/football/teams/914.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1611401,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2026-09-19T15:00:00+00:00",
+        "timestamp": 1789830000,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": null,
+          "name": "Stade des Martyrs",
+          "city": "Akbou"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 186,
+        "name": "Ligue 1",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/leagues/186.png",
+        "flag": "https://media.api-sports.io/flags/dz.svg",
+        "season": 2026,
+        "round": "Regular Season - 3",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 10780,
+          "name": "Olympique Akbou",
+          "logo": "https://media.api-sports.io/football/teams/10780.png",
+          "winner": null
+        },
+        "away": {
+          "id": 910,
+          "name": "USM Alger",
+          "logo": "https://media.api-sports.io/football/teams/910.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1611398,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2026-09-19T18:00:00+00:00",
+        "timestamp": 1789840800,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": null,
+          "name": "Stade 8 Mai 1945",
+          "city": null
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 186,
+        "name": "Ligue 1",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/leagues/186.png",
+        "flag": "https://media.api-sports.io/flags/dz.svg",
+        "season": 2026,
+        "round": "Regular Season - 3",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 905,
+          "name": "ES Setif",
+          "logo": "https://media.api-sports.io/football/teams/905.png",
+          "winner": null
+        },
+        "away": {
+          "id": 911,
+          "name": "CS Constantine",
+          "logo": "https://media.api-sports.io/football/teams/911.png",
           "winner": null
         }
       },

@@ -5,7 +5,7 @@
     "season": "2026"
   },
   "errors": [],
-  "results": 5,
+  "results": 6,
   "paging": {
     "current": 1,
     "total": 1
@@ -320,6 +320,101 @@
             "id": 300,
             "name": "Kanazawa",
             "logo": "https://media.api-sports.io/football/teams/300.png"
+          },
+          "league": {
+            "id": 99,
+            "name": "J2 League",
+            "country": "Japan",
+            "logo": "https://media.api-sports.io/football/leagues/99.png",
+            "flag": "https://media.api-sports.io/flags/jp.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": null,
+            "minutes": null,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": null,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": null,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 679839,
+        "name": "Gun-il Kim",
+        "firstname": "Gun-il",
+        "lastname": "Kim",
+        "age": 23,
+        "birth": {
+          "date": "2002-12-06",
+          "place": null,
+          "country": "South Korea"
+        },
+        "nationality": "South Korea",
+        "height": null,
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/679839.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 756,
+            "name": "Thespakusatsu Gunma",
+            "logo": "https://media.api-sports.io/football/teams/756.png"
           },
           "league": {
             "id": 99,

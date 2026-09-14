@@ -12893,84 +12893,14 @@
     },
     {
       "fixture": {
-        "id": 1511688,
-        "referee": null,
-        "timezone": "UTC",
-        "date": "2026-09-08T21:00:00+00:00",
-        "timestamp": 1788901200,
-        "periods": {
-          "first": null,
-          "second": null
-        },
-        "venue": {
-          "id": 344,
-          "name": "Estadio Municipal de San Felipe",
-          "city": "San Felipe"
-        },
-        "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
-        }
-      },
-      "league": {
-        "id": 266,
-        "name": "Primera B",
-        "country": "Chile",
-        "logo": "https://media.api-sports.io/football/leagues/266.png",
-        "flag": "https://media.api-sports.io/flags/cl.svg",
-        "season": 2026,
-        "round": "Regular Season - 25",
-        "standings": true
-      },
-      "teams": {
-        "home": {
-          "id": 2340,
-          "name": "Union San Felipe",
-          "logo": "https://media.api-sports.io/football/teams/2340.png",
-          "winner": null
-        },
-        "away": {
-          "id": 2322,
-          "name": "San Luis",
-          "logo": "https://media.api-sports.io/football/teams/2322.png",
-          "winner": null
-        }
-      },
-      "goals": {
-        "home": null,
-        "away": null
-      },
-      "score": {
-        "halftime": {
-          "home": null,
-          "away": null
-        },
-        "fulltime": {
-          "home": null,
-          "away": null
-        },
-        "extratime": {
-          "home": null,
-          "away": null
-        },
-        "penalty": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "fixture": {
         "id": 1511686,
         "referee": null,
         "timezone": "UTC",
         "date": "2026-09-08T21:00:00+00:00",
         "timestamp": 1788901200,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1788901200,
+          "second": 1788904800
         },
         "venue": {
           "id": null,
@@ -12978,10 +12908,10 @@
           "city": "Puerto Montt"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 7
         }
       },
       "league": {
@@ -12999,27 +12929,27 @@
           "id": 2342,
           "name": "D. Puerto Montt",
           "logo": "https://media.api-sports.io/football/teams/2342.png",
-          "winner": null
+          "winner": false
         },
         "away": {
           "id": 2344,
           "name": "Rangers de Talca",
           "logo": "https://media.api-sports.io/football/teams/2344.png",
-          "winner": null
+          "winner": true
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 1,
+        "away": 2
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 1
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 2
         },
         "extratime": {
           "home": null,
@@ -13039,8 +12969,8 @@
         "date": "2026-09-08T23:30:00+00:00",
         "timestamp": 1788910200,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1788910200,
+          "second": 1788913800
         },
         "venue": {
           "id": null,
@@ -13048,10 +12978,10 @@
           "city": null
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 6
         }
       },
       "league": {
@@ -13069,27 +12999,27 @@
           "id": 2316,
           "name": "Curico Unido",
           "logo": "https://media.api-sports.io/football/teams/2316.png",
-          "winner": null
+          "winner": true
         },
         "away": {
           "id": 2321,
           "name": "Union Espanola",
           "logo": "https://media.api-sports.io/football/teams/2321.png",
-          "winner": null
+          "winner": false
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 2,
+        "away": 1
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 1
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 1
         },
         "extratime": {
           "home": null,
@@ -13109,8 +13039,8 @@
         "date": "2026-09-08T23:30:00+00:00",
         "timestamp": 1788910200,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1788910200,
+          "second": 1788913800
         },
         "venue": {
           "id": null,
@@ -13118,10 +13048,10 @@
           "city": "Temuco"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 6
         }
       },
       "league": {
@@ -13139,27 +13069,27 @@
           "id": 2317,
           "name": "Deportes Temuco",
           "logo": "https://media.api-sports.io/football/teams/2317.png",
-          "winner": null
+          "winner": true
         },
         "away": {
           "id": 2333,
           "name": "Santiago Wanderers",
           "logo": "https://media.api-sports.io/football/teams/2333.png",
-          "winner": null
+          "winner": false
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 3,
+        "away": 0
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 0
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 3,
+          "away": 0
         },
         "extratime": {
           "home": null,
@@ -13179,8 +13109,8 @@
         "date": "2026-09-09T21:00:00+00:00",
         "timestamp": 1788987600,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1788987600,
+          "second": 1788991200
         },
         "venue": {
           "id": null,
@@ -13188,10 +13118,10 @@
           "city": "Recoleta"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 7
         }
       },
       "league": {
@@ -13209,27 +13139,27 @@
           "id": 5644,
           "name": "Recoleta",
           "logo": "https://media.api-sports.io/football/teams/5644.png",
-          "winner": null
+          "winner": true
         },
         "away": {
           "id": 2345,
           "name": "San Marcos de Arica",
           "logo": "https://media.api-sports.io/football/teams/2345.png",
-          "winner": null
+          "winner": false
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 2,
+        "away": 1
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 1
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 1
         },
         "extratime": {
           "home": null,
@@ -13249,8 +13179,8 @@
         "date": "2026-09-09T23:30:00+00:00",
         "timestamp": 1788996600,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1788996600,
+          "second": 1789000200
         },
         "venue": {
           "id": 336,
@@ -13258,10 +13188,10 @@
           "city": "Iquique"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 8
         }
       },
       "league": {
@@ -13279,27 +13209,27 @@
           "id": 2319,
           "name": "Deportes Iquique",
           "logo": "https://media.api-sports.io/football/teams/2319.png",
-          "winner": null
+          "winner": false
         },
         "away": {
           "id": 2346,
           "name": "Deportes Santa Cruz",
           "logo": "https://media.api-sports.io/football/teams/2346.png",
-          "winner": null
+          "winner": true
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 0,
+        "away": 1
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 1
         },
         "extratime": {
           "home": null,
@@ -13319,8 +13249,8 @@
         "date": "2026-09-09T23:30:00+00:00",
         "timestamp": 1788996600,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1788996600,
+          "second": 1789000200
         },
         "venue": {
           "id": null,
@@ -13328,10 +13258,10 @@
           "city": null
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 8
         }
       },
       "league": {
@@ -13359,17 +13289,17 @@
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 1,
+        "away": 1
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 1
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 1
         },
         "extratime": {
           "home": null,
@@ -13389,8 +13319,8 @@
         "date": "2026-09-10T23:00:00+00:00",
         "timestamp": 1789081200,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1789081200,
+          "second": 1789084800
         },
         "venue": {
           "id": null,
@@ -13398,10 +13328,10 @@
           "city": "Antofagasta"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 6
         }
       },
       "league": {
@@ -13429,17 +13359,17 @@
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 0,
+        "away": 0
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         },
         "extratime": {
           "home": null,
@@ -13459,8 +13389,8 @@
         "date": "2026-09-13T15:30:00+00:00",
         "timestamp": 1789313400,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1789313400,
+          "second": 1789317000
         },
         "venue": {
           "id": null,
@@ -13468,10 +13398,10 @@
           "city": "Santiago de Chile"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 7
         }
       },
       "league": {
@@ -13489,27 +13419,27 @@
           "id": 2336,
           "name": "Magallanes",
           "logo": "https://media.api-sports.io/football/teams/2336.png",
-          "winner": null
+          "winner": true
         },
         "away": {
           "id": 2342,
           "name": "D. Puerto Montt",
           "logo": "https://media.api-sports.io/football/teams/2342.png",
-          "winner": null
+          "winner": false
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 2,
+        "away": 0
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 0
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 0
         },
         "extratime": {
           "home": null,
@@ -13529,8 +13459,8 @@
         "date": "2026-09-13T18:00:00+00:00",
         "timestamp": 1789322400,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1789322400,
+          "second": 1789326000
         },
         "venue": {
           "id": 2672,
@@ -13538,10 +13468,10 @@
           "city": "Arica"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 7
         }
       },
       "league": {
@@ -13559,97 +13489,27 @@
           "id": 2345,
           "name": "San Marcos de Arica",
           "logo": "https://media.api-sports.io/football/teams/2345.png",
-          "winner": null
+          "winner": true
         },
         "away": {
           "id": 2316,
           "name": "Curico Unido",
           "logo": "https://media.api-sports.io/football/teams/2316.png",
-          "winner": null
+          "winner": false
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 3,
+        "away": 0
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 0
         },
         "fulltime": {
-          "home": null,
-          "away": null
-        },
-        "extratime": {
-          "home": null,
-          "away": null
-        },
-        "penalty": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "fixture": {
-        "id": 1511693,
-        "referee": null,
-        "timezone": "UTC",
-        "date": "2026-09-14T21:00:00+00:00",
-        "timestamp": 1789419600,
-        "periods": {
-          "first": null,
-          "second": null
-        },
-        "venue": {
-          "id": 344,
-          "name": "Estadio Municipal de San Felipe",
-          "city": "San Felipe"
-        },
-        "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
-        }
-      },
-      "league": {
-        "id": 266,
-        "name": "Primera B",
-        "country": "Chile",
-        "logo": "https://media.api-sports.io/football/leagues/266.png",
-        "flag": "https://media.api-sports.io/flags/cl.svg",
-        "season": 2026,
-        "round": "Regular Season - 26",
-        "standings": true
-      },
-      "teams": {
-        "home": {
-          "id": 2340,
-          "name": "Union San Felipe",
-          "logo": "https://media.api-sports.io/football/teams/2340.png",
-          "winner": null
-        },
-        "away": {
-          "id": 2343,
-          "name": "Deportes Copiapo",
-          "logo": "https://media.api-sports.io/football/teams/2343.png",
-          "winner": null
-        }
-      },
-      "goals": {
-        "home": null,
-        "away": null
-      },
-      "score": {
-        "halftime": {
-          "home": null,
-          "away": null
-        },
-        "fulltime": {
-          "home": null,
-          "away": null
+          "home": 3,
+          "away": 0
         },
         "extratime": {
           "home": null,
@@ -13943,6 +13803,76 @@
     },
     {
       "fixture": {
+        "id": 1511693,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2026-09-26T15:30:00+00:00",
+        "timestamp": 1790436600,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": 344,
+          "name": "Estadio Municipal de San Felipe",
+          "city": "San Felipe"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 266,
+        "name": "Primera B",
+        "country": "Chile",
+        "logo": "https://media.api-sports.io/football/leagues/266.png",
+        "flag": "https://media.api-sports.io/flags/cl.svg",
+        "season": 2026,
+        "round": "Regular Season - 26",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2340,
+          "name": "Union San Felipe",
+          "logo": "https://media.api-sports.io/football/teams/2340.png",
+          "winner": null
+        },
+        "away": {
+          "id": 2343,
+          "name": "Deportes Copiapo",
+          "logo": "https://media.api-sports.io/football/teams/2343.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
         "id": 1511690,
         "referee": null,
         "timezone": "UTC",
@@ -13985,6 +13915,76 @@
           "id": 2333,
           "name": "Santiago Wanderers",
           "logo": "https://media.api-sports.io/football/teams/2333.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1511688,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2026-09-30T21:00:00+00:00",
+        "timestamp": 1790802000,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": 344,
+          "name": "Estadio Municipal de San Felipe",
+          "city": "San Felipe"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 266,
+        "name": "Primera B",
+        "country": "Chile",
+        "logo": "https://media.api-sports.io/football/leagues/266.png",
+        "flag": "https://media.api-sports.io/flags/cl.svg",
+        "season": 2026,
+        "round": "Regular Season - 25",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2340,
+          "name": "Union San Felipe",
+          "logo": "https://media.api-sports.io/football/teams/2340.png",
+          "winner": null
+        },
+        "away": {
+          "id": 2322,
+          "name": "San Luis",
+          "logo": "https://media.api-sports.io/football/teams/2322.png",
           "winner": null
         }
       },

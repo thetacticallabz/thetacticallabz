@@ -583,6 +583,101 @@
     },
     {
       "player": {
+        "id": 400550,
+        "name": "G. Sousa",
+        "firstname": "Goncalo",
+        "lastname": "Sousa",
+        "age": 20,
+        "birth": {
+          "date": "2006-06-30",
+          "place": null,
+          "country": "Portugal"
+        },
+        "nationality": "Portugal",
+        "height": null,
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/400550.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 243,
+            "name": "FC Porto B",
+            "logo": "https://media.api-sports.io/football/teams/243.png"
+          },
+          "league": {
+            "id": 95,
+            "name": "Segunda Liga",
+            "country": "Portugal",
+            "logo": "https://media.api-sports.io/football/leagues/95.png",
+            "flag": "https://media.api-sports.io/flags/pt.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": null,
+            "minutes": null,
+            "number": null,
+            "position": "Forward",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": null,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": null,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
         "id": 449624,
         "name": "Gabriel Silva",
         "firstname": "Gabriel",
@@ -1058,7 +1153,7 @@
     },
     {
       "player": {
-        "id": 550902,
+        "id": 525901,
         "name": "M. Figueiredo",
         "firstname": "Miguel",
         "lastname": "Figueiredo",
@@ -1072,7 +1167,7 @@
         "height": null,
         "weight": null,
         "injured": false,
-        "photo": "https://media.api-sports.io/football/players/550902.png"
+        "photo": "https://media.api-sports.io/football/players/525901.png"
       },
       "statistics": [
         {
@@ -1095,101 +1190,6 @@
             "minutes": null,
             "number": null,
             "position": "Midfielder",
-            "rating": null,
-            "captain": false
-          },
-          "substitutes": {
-            "in": null,
-            "out": null,
-            "bench": null
-          },
-          "shots": {
-            "total": null,
-            "on": null
-          },
-          "goals": {
-            "total": 0,
-            "conceded": null,
-            "assists": 0,
-            "saves": null
-          },
-          "passes": {
-            "total": null,
-            "key": null,
-            "accuracy": null
-          },
-          "tackles": {
-            "total": null,
-            "blocks": null,
-            "interceptions": null
-          },
-          "duels": {
-            "total": null,
-            "won": null
-          },
-          "dribbles": {
-            "attempts": null,
-            "success": null,
-            "past": null
-          },
-          "fouls": {
-            "drawn": null,
-            "committed": null
-          },
-          "cards": {
-            "yellow": 0,
-            "yellowred": null,
-            "red": 0
-          },
-          "penalty": {
-            "won": null,
-            "commited": null,
-            "scored": null,
-            "missed": null,
-            "saved": null
-          }
-        }
-      ]
-    },
-    {
-      "player": {
-        "id": 550909,
-        "name": "G. Sousa",
-        "firstname": "Goncalo",
-        "lastname": "Sousa",
-        "age": 20,
-        "birth": {
-          "date": "2006-06-30",
-          "place": null,
-          "country": "Portugal"
-        },
-        "nationality": "Portugal",
-        "height": null,
-        "weight": null,
-        "injured": false,
-        "photo": "https://media.api-sports.io/football/players/550909.png"
-      },
-      "statistics": [
-        {
-          "team": {
-            "id": 243,
-            "name": "FC Porto B",
-            "logo": "https://media.api-sports.io/football/teams/243.png"
-          },
-          "league": {
-            "id": 95,
-            "name": "Segunda Liga",
-            "country": "Portugal",
-            "logo": "https://media.api-sports.io/football/leagues/95.png",
-            "flag": "https://media.api-sports.io/flags/pt.svg",
-            "season": 2026
-          },
-          "games": {
-            "appearences": 1,
-            "lineups": null,
-            "minutes": null,
-            "number": null,
-            "position": "Forward",
             "rating": null,
             "captain": false
           },

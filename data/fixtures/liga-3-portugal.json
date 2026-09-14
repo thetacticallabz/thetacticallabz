@@ -2819,8 +2819,8 @@
         "date": "2026-09-12T10:00:00+00:00",
         "timestamp": 1789207200,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1789207200,
+          "second": 1789210800
         },
         "venue": {
           "id": 10959,
@@ -2828,10 +2828,10 @@
           "city": "Oliveira de Azemeis"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 5
         }
       },
       "league": {
@@ -2849,27 +2849,27 @@
           "id": 233,
           "name": "Oliveirense",
           "logo": "https://media.api-sports.io/football/teams/233.png",
-          "winner": null
+          "winner": true
         },
         "away": {
           "id": 245,
           "name": "Mafra",
           "logo": "https://media.api-sports.io/football/teams/245.png",
-          "winner": null
+          "winner": false
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 2,
+        "away": 1
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 0
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 1
         },
         "extratime": {
           "home": null,
@@ -2889,8 +2889,8 @@
         "date": "2026-09-12T14:00:00+00:00",
         "timestamp": 1789221600,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1789221600,
+          "second": 1789225200
         },
         "venue": {
           "id": null,
@@ -2898,10 +2898,10 @@
           "city": null
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 11
         }
       },
       "league": {
@@ -2919,27 +2919,27 @@
           "id": 237,
           "name": "Varzim",
           "logo": "https://media.api-sports.io/football/teams/237.png",
-          "winner": null
+          "winner": false
         },
         "away": {
           "id": 4809,
           "name": "Vianense",
           "logo": "https://media.api-sports.io/football/teams/4809.png",
-          "winner": null
+          "winner": true
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 1,
+        "away": 2
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 0
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 2
         },
         "extratime": {
           "home": null,
@@ -2959,19 +2959,19 @@
         "date": "2026-09-12T15:00:00+00:00",
         "timestamp": 1789225200,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1789225200,
+          "second": 1789228800
         },
         "venue": {
           "id": null,
-          "name": null,
+          "name": "Estadio Algarve",
           "city": null
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 6
         }
       },
       "league": {
@@ -2989,27 +2989,27 @@
           "id": 4758,
           "name": "Louletano",
           "logo": "https://media.api-sports.io/football/teams/4758.png",
-          "winner": null
+          "winner": false
         },
         "away": {
           "id": 6369,
           "name": "União Santarém",
           "logo": "https://media.api-sports.io/football/teams/6369.png",
-          "winner": null
+          "winner": true
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 1,
+        "away": 2
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 0
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 2
         },
         "extratime": {
           "home": null,
@@ -3029,8 +3029,8 @@
         "date": "2026-09-12T15:00:00+00:00",
         "timestamp": 1789225200,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1789225200,
+          "second": 1789228800
         },
         "venue": {
           "id": null,
@@ -3038,10 +3038,10 @@
           "city": "Trofa"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 5
         }
       },
       "league": {
@@ -3059,27 +3059,27 @@
           "id": 4801,
           "name": "Trofense",
           "logo": "https://media.api-sports.io/football/teams/4801.png",
-          "winner": null
+          "winner": false
         },
         "away": {
           "id": 4757,
           "name": "Leça",
           "logo": "https://media.api-sports.io/football/teams/4757.png",
-          "winner": null
+          "winner": true
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 1,
+        "away": 4
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 3
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 4
         },
         "extratime": {
           "home": null,
@@ -3099,19 +3099,19 @@
         "date": "2026-09-12T15:00:00+00:00",
         "timestamp": 1789225200,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1789225200,
+          "second": 1789228800
         },
         "venue": {
           "id": null,
-          "name": null,
-          "city": null
+          "name": "Municipal de Marco de Canaveses",
+          "city": "Marco de Canaveses"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 5
         }
       },
       "league": {
@@ -3129,27 +3129,27 @@
           "id": 22089,
           "name": "AD Marco 09",
           "logo": "https://media.api-sports.io/football/teams/22089.png",
-          "winner": null
+          "winner": true
         },
         "away": {
           "id": 232,
           "name": "Guimaraes B",
           "logo": "https://media.api-sports.io/football/teams/232.png",
-          "winner": null
+          "winner": false
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 1,
+        "away": 0
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 0
         },
         "extratime": {
           "home": null,
@@ -3169,19 +3169,19 @@
         "date": "2026-09-12T16:00:00+00:00",
         "timestamp": 1789228800,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1789228800,
+          "second": 1789232400
         },
         "venue": {
-          "id": null,
-          "name": null,
-          "city": null
+          "id": 20174,
+          "name": "Campo Estrela",
+          "city": "Evora"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 7
         }
       },
       "league": {
@@ -3209,17 +3209,17 @@
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 2,
+        "away": 2
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 1
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 2
         },
         "extratime": {
           "home": null,
@@ -3239,8 +3239,8 @@
         "date": "2026-09-13T10:00:00+00:00",
         "timestamp": 1789293600,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1789293600,
+          "second": 1789297200
         },
         "venue": {
           "id": null,
@@ -3248,10 +3248,10 @@
           "city": "Lisbon"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 7
         }
       },
       "league": {
@@ -3269,27 +3269,27 @@
           "id": 17692,
           "name": "CF Os Belenenses",
           "logo": "https://media.api-sports.io/football/teams/17692.png",
-          "winner": null
+          "winner": true
         },
         "away": {
           "id": 4872,
           "name": "Atlético CP",
           "logo": "https://media.api-sports.io/football/teams/4872.png",
-          "winner": null
+          "winner": false
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 1,
+        "away": 0
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 0
         },
         "extratime": {
           "home": null,
@@ -3309,8 +3309,8 @@
         "date": "2026-09-13T16:00:00+00:00",
         "timestamp": 1789315200,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1789315200,
+          "second": 1789318800
         },
         "venue": {
           "id": null,
@@ -3318,10 +3318,10 @@
           "city": null
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 6
         }
       },
       "league": {
@@ -3349,17 +3349,17 @@
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 1,
+        "away": 1
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 1
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 1
         },
         "extratime": {
           "home": null,
@@ -3379,8 +3379,8 @@
         "date": "2026-09-13T16:00:00+00:00",
         "timestamp": 1789315200,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1789315200,
+          "second": 1789318800
         },
         "venue": {
           "id": 3581,
@@ -3388,10 +3388,10 @@
           "city": "Caldas da Rainha"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 4
         }
       },
       "league": {
@@ -3409,27 +3409,27 @@
           "id": 4733,
           "name": "Caldas",
           "logo": "https://media.api-sports.io/football/teams/4733.png",
-          "winner": null
+          "winner": true
         },
         "away": {
           "id": 4816,
           "name": "Vitória de Sernache",
           "logo": "https://media.api-sports.io/football/teams/4816.png",
-          "winner": null
+          "winner": false
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 2,
+        "away": 0
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 0
         },
         "extratime": {
           "home": null,
@@ -3449,8 +3449,8 @@
         "date": "2026-09-13T19:30:00+00:00",
         "timestamp": 1789327800,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1789327800,
+          "second": 1789331400
         },
         "venue": {
           "id": null,
@@ -3458,10 +3458,10 @@
           "city": "Paredes"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 6
         }
       },
       "league": {
@@ -3479,27 +3479,27 @@
           "id": 4778,
           "name": "Paredes",
           "logo": "https://media.api-sports.io/football/teams/4778.png",
-          "winner": null
+          "winner": true
         },
         "away": {
           "id": 809,
           "name": "Fafe",
           "logo": "https://media.api-sports.io/football/teams/809.png",
-          "winner": null
+          "winner": false
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 2,
+        "away": 1
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 0
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 1
         },
         "extratime": {
           "home": null,

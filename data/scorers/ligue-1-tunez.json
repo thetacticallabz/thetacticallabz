@@ -5,10 +5,106 @@
     "season": "2026"
   },
   "errors": [],
-  "results": 0,
+  "results": 1,
   "paging": {
     "current": 1,
     "total": 1
   },
-  "response": []
+  "response": [
+    {
+      "player": {
+        "id": 680900,
+        "name": "Mohamed Bouzaabya",
+        "firstname": "Mohamed",
+        "lastname": "Bouzaabya",
+        "age": 0,
+        "birth": {
+          "date": null,
+          "place": null,
+          "country": "Tunisia"
+        },
+        "nationality": "Tunisia",
+        "height": null,
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/680900.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 984,
+            "name": "ES Metlaoui",
+            "logo": "https://media.api-sports.io/football/teams/984.png"
+          },
+          "league": {
+            "id": 202,
+            "name": "Ligue 1",
+            "country": "Tunisia",
+            "logo": "https://media.api-sports.io/football/leagues/202.png",
+            "flag": "https://media.api-sports.io/flags/tn.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": null,
+            "minutes": null,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": null,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 1,
+            "conceded": null,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": null,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    }
+  ]
 }

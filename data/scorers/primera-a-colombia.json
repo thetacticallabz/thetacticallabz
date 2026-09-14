@@ -13,6 +13,101 @@
   "response": [
     {
       "player": {
+        "id": 13491,
+        "name": "Y. Guzmán",
+        "firstname": "Yeison Estiven",
+        "lastname": "Guzmán Gómez",
+        "age": 27,
+        "birth": {
+          "date": "1998-03-22",
+          "place": "La Unión",
+          "country": "Colombia"
+        },
+        "nationality": "Colombia",
+        "height": "170 cm",
+        "weight": "65 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/13491.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 1138,
+            "name": "America de Cali",
+            "logo": "https://media.api-sports.io/football/teams/1138.png"
+          },
+          "league": {
+            "id": 239,
+            "name": "Primera A",
+            "country": "Colombia",
+            "logo": "https://media.api-sports.io/football/leagues/239.png",
+            "flag": "https://media.api-sports.io/flags/co.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 26,
+            "lineups": 24,
+            "minutes": 2186,
+            "number": 10,
+            "position": "Attacker",
+            "rating": "7.61",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 8,
+            "bench": 2
+          },
+          "shots": {
+            "total": 46,
+            "on": 26
+          },
+          "goals": {
+            "total": 16,
+            "conceded": 0,
+            "assists": 4,
+            "saves": null
+          },
+          "passes": {
+            "total": 1038,
+            "key": 70,
+            "accuracy": 85
+          },
+          "tackles": {
+            "total": 13,
+            "blocks": 3,
+            "interceptions": 9
+          },
+          "duels": {
+            "total": 135,
+            "won": 67
+          },
+          "dribbles": {
+            "attempts": 12,
+            "success": 8,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 43,
+            "committed": 16
+          },
+          "cards": {
+            "yellow": 4,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": 2,
+            "commited": null,
+            "scored": 8,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
         "id": 1761,
         "name": "A. Morelos",
         "firstname": "Alfredo José",
@@ -50,7 +145,7 @@
             "minutes": 2033,
             "number": 9,
             "position": "Attacker",
-            "rating": "7.05",
+            "rating": "7.06",
             "captain": false
           },
           "substitutes": {
@@ -59,14 +154,14 @@
             "bench": 4
           },
           "shots": {
-            "total": 60,
+            "total": 58,
             "on": 33
           },
           "goals": {
             "total": 14,
             "conceded": 0,
             "assists": 6,
-            "saves": 0
+            "saves": null
           },
           "passes": {
             "total": 645,
@@ -75,7 +170,7 @@
           },
           "tackles": {
             "total": 10,
-            "blocks": 4,
+            "blocks": 2,
             "interceptions": 3
           },
           "duels": {
@@ -235,18 +330,18 @@
             "season": 2026
           },
           "games": {
-            "appearences": 29,
+            "appearences": 30,
             "lineups": 25,
-            "minutes": 2293,
+            "minutes": 2310,
             "number": 11,
             "position": "Attacker",
-            "rating": "6.97",
+            "rating": "6.95",
             "captain": false
           },
           "substitutes": {
-            "in": 4,
+            "in": 5,
             "out": 8,
-            "bench": 4
+            "bench": 5
           },
           "shots": {
             "total": 79,
@@ -259,18 +354,18 @@
             "saves": 0
           },
           "passes": {
-            "total": 457,
+            "total": 465,
             "key": 26,
             "accuracy": 70
           },
           "tackles": {
             "total": 5,
-            "blocks": 5,
+            "blocks": 3,
             "interceptions": 1
           },
           "duels": {
-            "total": 171,
-            "won": 71
+            "total": 172,
+            "won": 72
           },
           "dribbles": {
             "attempts": 21,
@@ -430,7 +525,7 @@
             "minutes": 1994,
             "number": 17,
             "position": "Attacker",
-            "rating": "7.02",
+            "rating": "7",
             "captain": false
           },
           "substitutes": {
@@ -439,8 +534,8 @@
             "bench": 5
           },
           "shots": {
-            "total": 53,
-            "on": 33
+            "total": 55,
+            "on": 34
           },
           "goals": {
             "total": 13,
@@ -449,13 +544,13 @@
             "saves": 0
           },
           "passes": {
-            "total": 503,
-            "key": 33,
-            "accuracy": 77
+            "total": 505,
+            "key": 32,
+            "accuracy": 78
           },
           "tackles": {
             "total": 1,
-            "blocks": 0,
+            "blocks": 1,
             "interceptions": 3
           },
           "duels": {
@@ -481,101 +576,6 @@
             "commited": null,
             "scored": 4,
             "missed": 1,
-            "saved": null
-          }
-        }
-      ]
-    },
-    {
-      "player": {
-        "id": 531423,
-        "name": "Y. Guzman",
-        "firstname": null,
-        "lastname": null,
-        "age": 27,
-        "birth": {
-          "date": null,
-          "place": null,
-          "country": null
-        },
-        "nationality": null,
-        "height": null,
-        "weight": null,
-        "injured": false,
-        "photo": "https://media.api-sports.io/football/players/531423.png"
-      },
-      "statistics": [
-        {
-          "team": {
-            "id": 1138,
-            "name": "America de Cali",
-            "logo": "https://media.api-sports.io/football/teams/1138.png"
-          },
-          "league": {
-            "id": 239,
-            "name": "Primera A",
-            "country": "Colombia",
-            "logo": "https://media.api-sports.io/football/leagues/239.png",
-            "flag": "https://media.api-sports.io/flags/co.svg",
-            "season": 2026
-          },
-          "games": {
-            "appearences": 25,
-            "lineups": 23,
-            "minutes": 1843,
-            "number": 10,
-            "position": "Attacker",
-            "rating": "7.55",
-            "captain": false
-          },
-          "substitutes": {
-            "in": 2,
-            "out": 7,
-            "bench": 2
-          },
-          "shots": {
-            "total": 40,
-            "on": 22
-          },
-          "goals": {
-            "total": 12,
-            "conceded": 0,
-            "assists": 3,
-            "saves": null
-          },
-          "passes": {
-            "total": 895,
-            "key": 66,
-            "accuracy": 85
-          },
-          "tackles": {
-            "total": 9,
-            "blocks": 3,
-            "interceptions": 8
-          },
-          "duels": {
-            "total": 109,
-            "won": 51
-          },
-          "dribbles": {
-            "attempts": 9,
-            "success": 6,
-            "past": null
-          },
-          "fouls": {
-            "drawn": 34,
-            "committed": 14
-          },
-          "cards": {
-            "yellow": 4,
-            "yellowred": 0,
-            "red": 0
-          },
-          "penalty": {
-            "won": 2,
-            "commited": null,
-            "scored": 5,
-            "missed": 0,
             "saved": null
           }
         }
@@ -715,7 +715,7 @@
             "minutes": 1726,
             "number": 14,
             "position": "Midfielder",
-            "rating": "6.95",
+            "rating": "7",
             "captain": false
           },
           "substitutes": {
@@ -734,9 +734,9 @@
             "saves": 0
           },
           "passes": {
-            "total": 600,
+            "total": 610,
             "key": 32,
-            "accuracy": 81
+            "accuracy": 82
           },
           "tackles": {
             "total": 22,
@@ -744,12 +744,12 @@
             "interceptions": 10
           },
           "duels": {
-            "total": 193,
-            "won": 83
+            "total": 196,
+            "won": 85
           },
           "dribbles": {
-            "attempts": 42,
-            "success": 17,
+            "attempts": 45,
+            "success": 19,
             "past": null
           },
           "fouls": {
@@ -805,54 +805,54 @@
             "season": 2026
           },
           "games": {
-            "appearences": 23,
-            "lineups": 22,
-            "minutes": 1750,
+            "appearences": 25,
+            "lineups": 24,
+            "minutes": 1924,
             "number": 23,
             "position": "Midfielder",
-            "rating": "6.9",
+            "rating": "6.94",
             "captain": false
           },
           "substitutes": {
             "in": 1,
-            "out": 13,
+            "out": 14,
             "bench": 1
           },
           "shots": {
-            "total": 47,
-            "on": 25
+            "total": 53,
+            "on": 27
           },
           "goals": {
-            "total": 9,
+            "total": 10,
             "conceded": 0,
-            "assists": 3,
-            "saves": null
+            "assists": 4,
+            "saves": 0
           },
           "passes": {
-            "total": 335,
-            "key": 36,
-            "accuracy": 69
+            "total": 377,
+            "key": 41,
+            "accuracy": 70
           },
           "tackles": {
-            "total": 8,
-            "blocks": 2,
+            "total": 9,
+            "blocks": 3,
             "interceptions": 4
           },
           "duels": {
-            "total": 106,
-            "won": 39
+            "total": 120,
+            "won": 43
           },
           "dribbles": {
-            "attempts": 17,
-            "success": 4,
+            "attempts": 20,
+            "success": 5,
             "past": null
           },
           "fouls": {
             "drawn": 20,
-            "committed": 20
+            "committed": 24
           },
           "cards": {
-            "yellow": 6,
+            "yellow": 7,
             "yellowred": 0,
             "red": 0
           },
@@ -900,9 +900,9 @@
             "season": 2026
           },
           "games": {
-            "appearences": 22,
-            "lineups": 19,
-            "minutes": 1802,
+            "appearences": 23,
+            "lineups": 20,
+            "minutes": 1887,
             "number": 23,
             "position": "Attacker",
             "rating": "6.82",
@@ -910,11 +910,11 @@
           },
           "substitutes": {
             "in": 3,
-            "out": 1,
+            "out": 2,
             "bench": 3
           },
           "shots": {
-            "total": 51,
+            "total": 53,
             "on": 20
           },
           "goals": {
@@ -924,9 +924,9 @@
             "saves": 0
           },
           "passes": {
-            "total": 432,
+            "total": 458,
             "key": 14,
-            "accuracy": 72
+            "accuracy": 73
           },
           "tackles": {
             "total": 10,
@@ -934,11 +934,11 @@
             "interceptions": 2
           },
           "duels": {
-            "total": 177,
-            "won": 75
+            "total": 180,
+            "won": 76
           },
           "dribbles": {
-            "attempts": 36,
+            "attempts": 37,
             "success": 13,
             "past": null
           },
@@ -995,51 +995,51 @@
             "season": 2026
           },
           "games": {
-            "appearences": 19,
-            "lineups": 19,
-            "minutes": 1494,
+            "appearences": 21,
+            "lineups": 20,
+            "minutes": 1603,
             "number": 27,
             "position": "Attacker",
-            "rating": "7.04",
+            "rating": "6.99",
             "captain": false
           },
           "substitutes": {
-            "in": 0,
+            "in": 1,
             "out": 8,
-            "bench": 0
+            "bench": 1
           },
           "shots": {
-            "total": 45,
-            "on": 26
+            "total": 50,
+            "on": 28
           },
           "goals": {
             "total": 9,
             "conceded": 0,
             "assists": 1,
-            "saves": null
+            "saves": 0
           },
           "passes": {
-            "total": 275,
+            "total": 302,
             "key": 23,
-            "accuracy": 60
+            "accuracy": 61
           },
           "tackles": {
             "total": 12,
-            "blocks": 2,
+            "blocks": 5,
             "interceptions": 1
           },
           "duels": {
-            "total": 180,
-            "won": 83
+            "total": 192,
+            "won": 86
           },
           "dribbles": {
-            "attempts": 24,
+            "attempts": 25,
             "success": 10,
             "past": null
           },
           "fouls": {
-            "drawn": 37,
-            "committed": 24
+            "drawn": 40,
+            "committed": 25
           },
           "cards": {
             "yellow": 4,
@@ -1153,6 +1153,101 @@
     },
     {
       "player": {
+        "id": 51923,
+        "name": "F. Sanguinetti",
+        "firstname": "Fabricio Damián",
+        "lastname": "Sanguinetti Fernández",
+        "age": 25,
+        "birth": {
+          "date": "2000-08-23",
+          "place": "Rocha",
+          "country": "Uruguay"
+        },
+        "nationality": "Uruguay",
+        "height": null,
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/51923.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 1134,
+            "name": "Internacional de Bogota",
+            "logo": "https://media.api-sports.io/football/teams/1134.png"
+          },
+          "league": {
+            "id": 239,
+            "name": "Primera A",
+            "country": "Colombia",
+            "logo": "https://media.api-sports.io/football/leagues/239.png",
+            "flag": "https://media.api-sports.io/flags/co.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 27,
+            "lineups": 27,
+            "minutes": 2185,
+            "number": 7,
+            "position": "Attacker",
+            "rating": "6.95",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 16,
+            "bench": 0
+          },
+          "shots": {
+            "total": 50,
+            "on": 24
+          },
+          "goals": {
+            "total": 8,
+            "conceded": 0,
+            "assists": 7,
+            "saves": 0
+          },
+          "passes": {
+            "total": 385,
+            "key": 46,
+            "accuracy": 68
+          },
+          "tackles": {
+            "total": 8,
+            "blocks": 4,
+            "interceptions": 5
+          },
+          "duels": {
+            "total": 168,
+            "won": 63
+          },
+          "dribbles": {
+            "attempts": 56,
+            "success": 25,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 9,
+            "committed": 16
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": 1,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
         "id": 6695,
         "name": "L. Pons",
         "firstname": "Luciano Daniel",
@@ -1240,6 +1335,101 @@
             "won": 1,
             "commited": null,
             "scored": 0,
+            "missed": 1,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 6632,
+        "name": "A. Rentería",
+        "firstname": "Andrés Yair",
+        "lastname": "Rentería Morelo",
+        "age": 32,
+        "birth": {
+          "date": "1993-03-06",
+          "place": "Medellín",
+          "country": "Colombia"
+        },
+        "nationality": "Colombia",
+        "height": "181",
+        "weight": "80",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/6632.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 1133,
+            "name": "Jaguares",
+            "logo": "https://media.api-sports.io/football/teams/1133.png"
+          },
+          "league": {
+            "id": 239,
+            "name": "Primera A",
+            "country": "Colombia",
+            "logo": "https://media.api-sports.io/football/leagues/239.png",
+            "flag": "https://media.api-sports.io/flags/co.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 21,
+            "lineups": 21,
+            "minutes": 1708,
+            "number": 11,
+            "position": "Attacker",
+            "rating": "7",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 10,
+            "bench": 0
+          },
+          "shots": {
+            "total": 48,
+            "on": 20
+          },
+          "goals": {
+            "total": 8,
+            "conceded": 0,
+            "assists": 3,
+            "saves": 0
+          },
+          "passes": {
+            "total": 320,
+            "key": 10,
+            "accuracy": 79
+          },
+          "tackles": {
+            "total": 4,
+            "blocks": 5,
+            "interceptions": 4
+          },
+          "duels": {
+            "total": 137,
+            "won": 73
+          },
+          "dribbles": {
+            "attempts": 18,
+            "success": 9,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 29,
+            "committed": 17
+          },
+          "cards": {
+            "yellow": 4,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": 1,
+            "commited": null,
+            "scored": 1,
             "missed": 1,
             "saved": null
           }
@@ -1377,10 +1567,10 @@
           "games": {
             "appearences": 28,
             "lineups": 22,
-            "minutes": 1862,
+            "minutes": 1866,
             "number": 19,
             "position": "Midfielder",
-            "rating": "6.96",
+            "rating": "6.94",
             "captain": false
           },
           "substitutes": {
@@ -1396,7 +1586,7 @@
             "total": 7,
             "conceded": 0,
             "assists": 7,
-            "saves": 0
+            "saves": null
           },
           "passes": {
             "total": 846,
@@ -1475,7 +1665,7 @@
             "minutes": 1647,
             "number": 29,
             "position": "Midfielder",
-            "rating": "6.78",
+            "rating": "6.8",
             "captain": false
           },
           "substitutes": {
@@ -1491,7 +1681,7 @@
             "total": 7,
             "conceded": 0,
             "assists": 6,
-            "saves": 0
+            "saves": null
           },
           "passes": {
             "total": 349,
@@ -1518,101 +1708,6 @@
           },
           "cards": {
             "yellow": 0,
-            "yellowred": 0,
-            "red": 0
-          },
-          "penalty": {
-            "won": 1,
-            "commited": null,
-            "scored": 0,
-            "missed": 0,
-            "saved": null
-          }
-        }
-      ]
-    },
-    {
-      "player": {
-        "id": 51923,
-        "name": "F. Sanguinetti",
-        "firstname": "Fabricio Damián",
-        "lastname": "Sanguinetti Fernández",
-        "age": 25,
-        "birth": {
-          "date": "2000-08-23",
-          "place": "Rocha",
-          "country": "Uruguay"
-        },
-        "nationality": "Uruguay",
-        "height": null,
-        "weight": null,
-        "injured": false,
-        "photo": "https://media.api-sports.io/football/players/51923.png"
-      },
-      "statistics": [
-        {
-          "team": {
-            "id": 1134,
-            "name": "Internacional de Bogota",
-            "logo": "https://media.api-sports.io/football/teams/1134.png"
-          },
-          "league": {
-            "id": 239,
-            "name": "Primera A",
-            "country": "Colombia",
-            "logo": "https://media.api-sports.io/football/leagues/239.png",
-            "flag": "https://media.api-sports.io/flags/co.svg",
-            "season": 2026
-          },
-          "games": {
-            "appearences": 25,
-            "lineups": 25,
-            "minutes": 1939,
-            "number": 7,
-            "position": "Attacker",
-            "rating": "6.94",
-            "captain": false
-          },
-          "substitutes": {
-            "in": 0,
-            "out": 15,
-            "bench": 0
-          },
-          "shots": {
-            "total": 40,
-            "on": 21
-          },
-          "goals": {
-            "total": 7,
-            "conceded": 0,
-            "assists": 6,
-            "saves": 0
-          },
-          "passes": {
-            "total": 334,
-            "key": 34,
-            "accuracy": 70
-          },
-          "tackles": {
-            "total": 7,
-            "blocks": 2,
-            "interceptions": 2
-          },
-          "duels": {
-            "total": 154,
-            "won": 61
-          },
-          "dribbles": {
-            "attempts": 52,
-            "success": 24,
-            "past": null
-          },
-          "fouls": {
-            "drawn": 9,
-            "committed": 14
-          },
-          "cards": {
-            "yellow": 1,
             "yellowred": 0,
             "red": 0
           },
@@ -1723,101 +1818,6 @@
     },
     {
       "player": {
-        "id": 6632,
-        "name": "A. Rentería",
-        "firstname": "Andrés Yair",
-        "lastname": "Rentería Morelo",
-        "age": 32,
-        "birth": {
-          "date": "1993-03-06",
-          "place": "Medellín",
-          "country": "Colombia"
-        },
-        "nationality": "Colombia",
-        "height": "181",
-        "weight": "80",
-        "injured": false,
-        "photo": "https://media.api-sports.io/football/players/6632.png"
-      },
-      "statistics": [
-        {
-          "team": {
-            "id": 1133,
-            "name": "Jaguares",
-            "logo": "https://media.api-sports.io/football/teams/1133.png"
-          },
-          "league": {
-            "id": 239,
-            "name": "Primera A",
-            "country": "Colombia",
-            "logo": "https://media.api-sports.io/football/leagues/239.png",
-            "flag": "https://media.api-sports.io/flags/co.svg",
-            "season": 2026
-          },
-          "games": {
-            "appearences": 20,
-            "lineups": 20,
-            "minutes": 1618,
-            "number": 11,
-            "position": "Attacker",
-            "rating": "6.98",
-            "captain": false
-          },
-          "substitutes": {
-            "in": 0,
-            "out": 10,
-            "bench": 0
-          },
-          "shots": {
-            "total": 42,
-            "on": 19
-          },
-          "goals": {
-            "total": 7,
-            "conceded": 0,
-            "assists": 3,
-            "saves": 0
-          },
-          "passes": {
-            "total": 307,
-            "key": 10,
-            "accuracy": 79
-          },
-          "tackles": {
-            "total": 4,
-            "blocks": 4,
-            "interceptions": 3
-          },
-          "duels": {
-            "total": 134,
-            "won": 72
-          },
-          "dribbles": {
-            "attempts": 18,
-            "success": 9,
-            "past": null
-          },
-          "fouls": {
-            "drawn": 29,
-            "committed": 15
-          },
-          "cards": {
-            "yellow": 4,
-            "yellowred": 0,
-            "red": 0
-          },
-          "penalty": {
-            "won": 1,
-            "commited": null,
-            "scored": 0,
-            "missed": 1,
-            "saved": null
-          }
-        }
-      ]
-    },
-    {
-      "player": {
         "id": 35794,
         "name": "M. Moreno",
         "firstname": "Marlos",
@@ -1855,7 +1855,7 @@
             "minutes": 1102,
             "number": 7,
             "position": "Midfielder",
-            "rating": "6.9",
+            "rating": "6.92",
             "captain": false
           },
           "substitutes": {
@@ -1871,7 +1871,7 @@
             "total": 7,
             "conceded": 0,
             "assists": 2,
-            "saves": 0
+            "saves": null
           },
           "passes": {
             "total": 314,

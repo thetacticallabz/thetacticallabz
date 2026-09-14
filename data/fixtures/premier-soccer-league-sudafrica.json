@@ -2464,7 +2464,7 @@
     {
       "fixture": {
         "id": 1600330,
-        "referee": null,
+        "referee": "Thokozani Mkhize, South Africa",
         "timezone": "UTC",
         "date": "2026-09-04T17:30:00+00:00",
         "timestamp": 1788543000,
@@ -2534,7 +2534,7 @@
     {
       "fixture": {
         "id": 1600331,
-        "referee": null,
+        "referee": "Christopher Kistoor, South Africa",
         "timezone": "UTC",
         "date": "2026-09-04T17:30:00+00:00",
         "timestamp": 1788543000,
@@ -2543,8 +2543,8 @@
           "second": null
         },
         "venue": {
-          "id": null,
-          "name": "King Zwelithini Stadium",
+          "id": 7259,
+          "name": "Princess Magogo Stadium",
           "city": "Durban"
         },
         "status": {
@@ -2604,7 +2604,7 @@
     {
       "fixture": {
         "id": 1600332,
-        "referee": null,
+        "referee": "Mokhele Thulo, South Africa",
         "timezone": "UTC",
         "date": "2026-09-05T13:00:00+00:00",
         "timestamp": 1788613200,
@@ -2614,8 +2614,8 @@
         },
         "venue": {
           "id": null,
-          "name": "Sisa Dukashe Stadium",
-          "city": "Mdantsane"
+          "name": "Dobsonville Stadium",
+          "city": "Soweto"
         },
         "status": {
           "long": "Match Finished",
@@ -2674,7 +2674,7 @@
     {
       "fixture": {
         "id": 1600334,
-        "referee": null,
+        "referee": "Jelly Chavani, South Africa",
         "timezone": "UTC",
         "date": "2026-09-05T15:30:00+00:00",
         "timestamp": 1788622200,
@@ -2744,7 +2744,7 @@
     {
       "fixture": {
         "id": 1600336,
-        "referee": null,
+        "referee": "Cedrick Muvhali, South Africa",
         "timezone": "UTC",
         "date": "2026-09-06T13:00:00+00:00",
         "timestamp": 1788699600,
@@ -2814,7 +2814,7 @@
     {
       "fixture": {
         "id": 1600335,
-        "referee": null,
+        "referee": "Moreki Lekwape, South Africa",
         "timezone": "UTC",
         "date": "2026-09-06T15:30:00+00:00",
         "timestamp": 1788708600,
@@ -2884,7 +2884,7 @@
     {
       "fixture": {
         "id": 1600345,
-        "referee": null,
+        "referee": "Siyabulela Qunta, South Africa",
         "timezone": "UTC",
         "date": "2026-09-09T17:30:00+00:00",
         "timestamp": 1788975000,
@@ -2894,13 +2894,13 @@
         },
         "venue": {
           "id": null,
-          "name": "Lucas Masterpieces Moripe Stadium",
-          "city": "Pretoria"
+          "name": "Loftus Versfeld Stadium",
+          "city": "Tshwane/Pretoria"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
           "extra": null
         }
       },
@@ -2919,27 +2919,27 @@
           "id": 2699,
           "name": "Mamelodi Sundowns",
           "logo": "https://media.api-sports.io/football/teams/2699.png",
-          "winner": null
+          "winner": true
         },
         "away": {
           "id": 26299,
           "name": "Siwelele",
           "logo": "https://media.api-sports.io/football/teams/26299.png",
-          "winner": null
+          "winner": false
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 3,
+        "away": 0
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 3,
+          "away": 0
         },
         "extratime": {
           "home": null,
@@ -2968,9 +2968,9 @@
           "city": "Stellenbosch"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
           "extra": null
         }
       },
@@ -2999,17 +2999,17 @@
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 1,
+        "away": 1
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 1
         },
         "extratime": {
           "home": null,
@@ -3038,9 +3038,9 @@
           "city": "Durban"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
           "extra": null
         }
       },
@@ -3059,27 +3059,27 @@
           "id": 2669,
           "name": "Amazulu",
           "logo": "https://media.api-sports.io/football/teams/2669.png",
-          "winner": null
+          "winner": true
         },
         "away": {
           "id": 2682,
           "name": "Marumo Gallants",
           "logo": "https://media.api-sports.io/football/teams/2682.png",
-          "winner": null
+          "winner": false
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 1,
+        "away": 0
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 0
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 0
         },
         "extratime": {
           "home": null,
@@ -3108,9 +3108,9 @@
           "city": "Polokwane"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
           "extra": null
         }
       },
@@ -3139,17 +3139,17 @@
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 1,
+        "away": 1
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 1
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 1
         },
         "extratime": {
           "home": null,
@@ -3178,9 +3178,9 @@
           "city": "Mdantsane"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
           "extra": null
         }
       },
@@ -3209,17 +3209,17 @@
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 1,
+        "away": 1
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 1
         },
         "extratime": {
           "home": null,
@@ -3248,9 +3248,9 @@
           "city": null
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
           "extra": null
         }
       },
@@ -3269,27 +3269,27 @@
           "id": 22234,
           "name": "Milford FC",
           "logo": "https://media.api-sports.io/football/teams/22234.png",
-          "winner": null
+          "winner": true
         },
         "away": {
           "id": 10567,
           "name": "Richards Bay",
           "logo": "https://media.api-sports.io/football/teams/10567.png",
-          "winner": null
+          "winner": false
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 5,
+        "away": 1
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 0
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 5,
+          "away": 1
         },
         "extratime": {
           "home": null,
@@ -3318,9 +3318,9 @@
           "city": null
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
           "extra": null
         }
       },
@@ -3349,17 +3349,17 @@
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 1,
+        "away": 1
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 1
         },
         "extratime": {
           "home": null,
@@ -3388,9 +3388,9 @@
           "city": "Mbombela"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
           "extra": null
         }
       },
@@ -3409,27 +3409,27 @@
           "id": 8074,
           "name": "TS Galaxy",
           "logo": "https://media.api-sports.io/football/teams/8074.png",
-          "winner": null
+          "winner": false
         },
         "away": {
           "id": 24759,
           "name": "Kruger United",
           "logo": "https://media.api-sports.io/football/teams/24759.png",
-          "winner": null
+          "winner": true
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 0,
+        "away": 1
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 1
         },
         "extratime": {
           "home": null,

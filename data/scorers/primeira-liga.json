@@ -45,42 +45,42 @@
             "season": 2026
           },
           "games": {
-            "appearences": 4,
-            "lineups": 4,
-            "minutes": 311,
+            "appearences": 5,
+            "lineups": 5,
+            "minutes": 377,
             "number": 14,
             "position": "Attacker",
-            "rating": "7.99",
+            "rating": "7.84",
             "captain": false
           },
           "substitutes": {
             "in": 0,
-            "out": 3,
+            "out": 4,
             "bench": 0
           },
           "shots": {
-            "total": 12,
-            "on": 8
+            "total": 14,
+            "on": 9
           },
           "goals": {
-            "total": 5,
+            "total": 6,
             "conceded": 0,
             "assists": 2,
             "saves": 0
           },
           "passes": {
-            "total": 84,
-            "key": 6,
-            "accuracy": 67
+            "total": 107,
+            "key": 7,
+            "accuracy": 71
           },
           "tackles": {
-            "total": 5,
-            "blocks": 0,
+            "total": 6,
+            "blocks": 1,
             "interceptions": 0
           },
           "duels": {
-            "total": 46,
-            "won": 24
+            "total": 53,
+            "won": 29
           },
           "dribbles": {
             "attempts": 5,
@@ -90,6 +90,101 @@
           "fouls": {
             "drawn": 6,
             "committed": 4
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 1,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 362755,
+        "name": "G. Prestianni",
+        "firstname": "Gianluca",
+        "lastname": "Prestianni Gross",
+        "age": 20,
+        "birth": {
+          "date": "2006-01-31",
+          "place": "Ciudadela",
+          "country": "Argentina"
+        },
+        "nationality": "Argentina",
+        "height": "165",
+        "weight": "63",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/362755.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 211,
+            "name": "Benfica",
+            "logo": "https://media.api-sports.io/football/teams/211.png"
+          },
+          "league": {
+            "id": 94,
+            "name": "Primeira Liga",
+            "country": "Portugal",
+            "logo": "https://media.api-sports.io/football/leagues/94.png",
+            "flag": "https://media.api-sports.io/flags/pt.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 5,
+            "lineups": 5,
+            "minutes": 408,
+            "number": 25,
+            "position": "Midfielder",
+            "rating": "8.6",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 3,
+            "bench": 0
+          },
+          "shots": {
+            "total": 17,
+            "on": 10
+          },
+          "goals": {
+            "total": 4,
+            "conceded": 0,
+            "assists": 2,
+            "saves": 0
+          },
+          "passes": {
+            "total": 210,
+            "key": 14,
+            "accuracy": 86
+          },
+          "tackles": {
+            "total": 7,
+            "blocks": 0,
+            "interceptions": 3
+          },
+          "duels": {
+            "total": 59,
+            "won": 39
+          },
+          "dribbles": {
+            "attempts": 27,
+            "success": 16,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 15,
+            "committed": 1
           },
           "cards": {
             "yellow": 0,
@@ -140,21 +235,21 @@
             "season": 2026
           },
           "games": {
-            "appearences": 4,
-            "lineups": 4,
-            "minutes": 356,
+            "appearences": 5,
+            "lineups": 5,
+            "minutes": 443,
             "number": 37,
             "position": "Attacker",
-            "rating": "7.6",
+            "rating": "7.33",
             "captain": false
           },
           "substitutes": {
             "in": 0,
-            "out": 3,
+            "out": 4,
             "bench": 0
           },
           "shots": {
-            "total": 12,
+            "total": 13,
             "on": 6
           },
           "goals": {
@@ -164,9 +259,9 @@
             "saves": 0
           },
           "passes": {
-            "total": 50,
+            "total": 62,
             "key": 3,
-            "accuracy": 64
+            "accuracy": 66
           },
           "tackles": {
             "total": 9,
@@ -174,8 +269,8 @@
             "interceptions": 1
           },
           "duels": {
-            "total": 59,
-            "won": 26
+            "total": 70,
+            "won": 32
           },
           "dribbles": {
             "attempts": 8,
@@ -183,8 +278,8 @@
             "past": null
           },
           "fouls": {
-            "drawn": 3,
-            "committed": 5
+            "drawn": 5,
+            "committed": 6
           },
           "cards": {
             "yellow": 1,
@@ -240,7 +335,7 @@
             "minutes": 281,
             "number": 97,
             "position": "Attacker",
-            "rating": "7.2",
+            "rating": "7.14",
             "captain": false
           },
           "substitutes": {
@@ -256,7 +351,7 @@
             "total": 4,
             "conceded": 0,
             "assists": 1,
-            "saves": 0
+            "saves": null
           },
           "passes": {
             "total": 76,
@@ -264,9 +359,9 @@
             "accuracy": 80
           },
           "tackles": {
-            "total": 0,
-            "blocks": 0,
-            "interceptions": 0
+            "total": null,
+            "blocks": 1,
+            "interceptions": null
           },
           "duels": {
             "total": 27,
@@ -330,51 +425,51 @@
             "season": 2026
           },
           "games": {
-            "appearences": 4,
-            "lineups": 4,
-            "minutes": 298,
+            "appearences": 5,
+            "lineups": 5,
+            "minutes": 374,
             "number": 9,
             "position": "Attacker",
-            "rating": "7.15",
+            "rating": "6.92",
             "captain": false
           },
           "substitutes": {
             "in": 0,
-            "out": 3,
+            "out": 4,
             "bench": 0
           },
           "shots": {
-            "total": 12,
-            "on": 7
+            "total": 15,
+            "on": 9
           },
           "goals": {
             "total": 4,
             "conceded": 0,
-            "assists": 0,
+            "assists": 1,
             "saves": null
           },
           "passes": {
-            "total": 53,
-            "key": 1,
-            "accuracy": 54
+            "total": 72,
+            "key": 3,
+            "accuracy": 62
           },
           "tackles": {
-            "total": 4,
+            "total": 5,
             "blocks": 1,
-            "interceptions": null
+            "interceptions": 2
           },
           "duels": {
-            "total": 50,
-            "won": 22
+            "total": 55,
+            "won": 23
           },
           "dribbles": {
-            "attempts": 9,
+            "attempts": 10,
             "success": 5,
             "past": null
           },
           "fouls": {
             "drawn": 7,
-            "committed": 5
+            "committed": 6
           },
           "cards": {
             "yellow": 0,
@@ -430,7 +525,7 @@
             "minutes": 350,
             "number": 58,
             "position": "Midfielder",
-            "rating": "7.42",
+            "rating": "7.36",
             "captain": false
           },
           "substitutes": {
@@ -446,7 +541,7 @@
             "total": 3,
             "conceded": 0,
             "assists": 1,
-            "saves": 0
+            "saves": null
           },
           "passes": {
             "total": 125,
@@ -455,7 +550,7 @@
           },
           "tackles": {
             "total": 9,
-            "blocks": 0,
+            "blocks": null,
             "interceptions": 1
           },
           "duels": {
@@ -488,28 +583,28 @@
     },
     {
       "player": {
-        "id": 362755,
-        "name": "G. Prestianni",
-        "firstname": "Gianluca",
-        "lastname": "Prestianni Gross",
-        "age": 20,
+        "id": 263530,
+        "name": "Pau Victor",
+        "firstname": "Pau",
+        "lastname": "Victor Delgado",
+        "age": 24,
         "birth": {
-          "date": "2006-01-31",
-          "place": "Ciudadela",
-          "country": "Argentina"
+          "date": "2001-11-26",
+          "place": "San Cugat del Vallès",
+          "country": "Spain"
         },
-        "nationality": "Argentina",
-        "height": "165",
-        "weight": "63",
+        "nationality": "Spain",
+        "height": "184",
+        "weight": "77",
         "injured": false,
-        "photo": "https://media.api-sports.io/football/players/362755.png"
+        "photo": "https://media.api-sports.io/football/players/263530.png"
       },
       "statistics": [
         {
           "team": {
-            "id": 211,
-            "name": "Benfica",
-            "logo": "https://media.api-sports.io/football/teams/211.png"
+            "id": 217,
+            "name": "SC Braga",
+            "logo": "https://media.api-sports.io/football/teams/217.png"
           },
           "league": {
             "id": 94,
@@ -521,21 +616,21 @@
           },
           "games": {
             "appearences": 4,
-            "lineups": 4,
-            "minutes": 342,
-            "number": 25,
-            "position": "Midfielder",
-            "rating": "8.55",
+            "lineups": 3,
+            "minutes": 264,
+            "number": 10,
+            "position": "Attacker",
+            "rating": "7.05",
             "captain": false
           },
           "substitutes": {
-            "in": 0,
+            "in": 1,
             "out": 2,
-            "bench": 0
+            "bench": 1
           },
           "shots": {
-            "total": 14,
-            "on": 8
+            "total": 5,
+            "on": 4
           },
           "goals": {
             "total": 3,
@@ -544,27 +639,122 @@
             "saves": 0
           },
           "passes": {
-            "total": 168,
-            "key": 9,
-            "accuracy": 85
+            "total": 117,
+            "key": 3,
+            "accuracy": 79
           },
           "tackles": {
-            "total": 7,
-            "blocks": 0,
-            "interceptions": 3
+            "total": 1,
+            "blocks": 1,
+            "interceptions": 1
           },
           "duels": {
-            "total": 43,
-            "won": 27
+            "total": 37,
+            "won": 12
           },
           "dribbles": {
-            "attempts": 18,
-            "success": 9,
+            "attempts": 8,
+            "success": 2,
             "past": null
           },
           "fouls": {
-            "drawn": 10,
-            "committed": 1
+            "drawn": 8,
+            "committed": 6
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 133453,
+        "name": "Borja Sainz",
+        "firstname": "Borja",
+        "lastname": "Sainz Eguskiza",
+        "age": 25,
+        "birth": {
+          "date": "2001-02-01",
+          "place": "Leioa",
+          "country": "Spain"
+        },
+        "nationality": "Spain",
+        "height": "178",
+        "weight": "75",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/133453.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 212,
+            "name": "FC Porto",
+            "logo": "https://media.api-sports.io/football/teams/212.png"
+          },
+          "league": {
+            "id": 94,
+            "name": "Primeira Liga",
+            "country": "Portugal",
+            "logo": "https://media.api-sports.io/football/leagues/94.png",
+            "flag": "https://media.api-sports.io/flags/pt.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 6,
+            "lineups": 0,
+            "minutes": 143,
+            "number": 17,
+            "position": "Attacker",
+            "rating": "7.04",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 6,
+            "out": 0,
+            "bench": 6
+          },
+          "shots": {
+            "total": 9,
+            "on": 8
+          },
+          "goals": {
+            "total": 3,
+            "conceded": 0,
+            "assists": 0,
+            "saves": 0
+          },
+          "passes": {
+            "total": 31,
+            "key": 3,
+            "accuracy": 83
+          },
+          "tackles": {
+            "total": 2,
+            "blocks": 0,
+            "interceptions": 0
+          },
+          "duels": {
+            "total": 13,
+            "won": 6
+          },
+          "dribbles": {
+            "attempts": 4,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 3,
+            "committed": 2
           },
           "cards": {
             "yellow": 0,
@@ -615,141 +805,46 @@
             "season": 2026
           },
           "games": {
-            "appearences": 4,
-            "lineups": 4,
-            "minutes": 256,
+            "appearences": 5,
+            "lineups": 5,
+            "minutes": 331,
             "number": 17,
             "position": "Attacker",
-            "rating": "7.28",
+            "rating": "6.74",
             "captain": false
           },
           "substitutes": {
             "in": 0,
-            "out": 4,
+            "out": 5,
             "bench": 0
           },
           "shots": {
-            "total": 7,
-            "on": 4
+            "total": 8,
+            "on": 5
           },
           "goals": {
             "total": 3,
             "conceded": 0,
             "assists": 0,
-            "saves": 0
+            "saves": null
           },
           "passes": {
-            "total": 46,
+            "total": 69,
             "key": 1,
-            "accuracy": 76
+            "accuracy": 68
           },
           "tackles": {
             "total": 5,
-            "blocks": 0,
-            "interceptions": 0
+            "blocks": null,
+            "interceptions": null
           },
           "duels": {
-            "total": 30,
-            "won": 16
+            "total": 34,
+            "won": 17
           },
           "dribbles": {
             "attempts": 3,
-            "success": 0,
-            "past": null
-          },
-          "fouls": {
-            "drawn": 5,
-            "committed": 4
-          },
-          "cards": {
-            "yellow": 1,
-            "yellowred": 0,
-            "red": 0
-          },
-          "penalty": {
-            "won": null,
-            "commited": null,
-            "scored": 0,
-            "missed": 0,
-            "saved": null
-          }
-        }
-      ]
-    },
-    {
-      "player": {
-        "id": 263530,
-        "name": "Pau Victor",
-        "firstname": "Pau",
-        "lastname": "Victor Delgado",
-        "age": 24,
-        "birth": {
-          "date": "2001-11-26",
-          "place": "San Cugat del Vallès",
-          "country": "Spain"
-        },
-        "nationality": "Spain",
-        "height": "184",
-        "weight": "77",
-        "injured": false,
-        "photo": "https://media.api-sports.io/football/players/263530.png"
-      },
-      "statistics": [
-        {
-          "team": {
-            "id": 217,
-            "name": "SC Braga",
-            "logo": "https://media.api-sports.io/football/teams/217.png"
-          },
-          "league": {
-            "id": 94,
-            "name": "Primeira Liga",
-            "country": "Portugal",
-            "logo": "https://media.api-sports.io/football/leagues/94.png",
-            "flag": "https://media.api-sports.io/flags/pt.svg",
-            "season": 2026
-          },
-          "games": {
-            "appearences": 3,
-            "lineups": 2,
-            "minutes": 188,
-            "number": 10,
-            "position": "Attacker",
-            "rating": "7.35",
-            "captain": false
-          },
-          "substitutes": {
-            "in": 1,
-            "out": 1,
-            "bench": 1
-          },
-          "shots": {
-            "total": 4,
-            "on": 4
-          },
-          "goals": {
-            "total": 3,
-            "conceded": 0,
-            "assists": 0,
-            "saves": 0
-          },
-          "passes": {
-            "total": 82,
-            "key": 0,
-            "accuracy": 79
-          },
-          "tackles": {
-            "total": 1,
-            "blocks": 0,
-            "interceptions": 0
-          },
-          "duels": {
-            "total": 27,
-            "won": 9
-          },
-          "dribbles": {
-            "attempts": 7,
-            "success": 1,
+            "success": null,
             "past": null
           },
           "fouls": {
@@ -757,7 +852,7 @@
             "committed": 4
           },
           "cards": {
-            "yellow": 2,
+            "yellow": 1,
             "yellowred": 0,
             "red": 0
           },
@@ -805,33 +900,33 @@
             "season": 2026
           },
           "games": {
-            "appearences": 5,
-            "lineups": 5,
-            "minutes": 375,
+            "appearences": 6,
+            "lineups": 6,
+            "minutes": 455,
             "number": 10,
             "position": "Midfielder",
-            "rating": "7.7",
+            "rating": "7.65",
             "captain": false
           },
           "substitutes": {
             "in": 0,
-            "out": 4,
+            "out": 5,
             "bench": 0
           },
           "shots": {
-            "total": 9,
+            "total": 10,
             "on": 5
           },
           "goals": {
             "total": 3,
             "conceded": 0,
-            "assists": 2,
+            "assists": 3,
             "saves": 0
           },
           "passes": {
-            "total": 156,
-            "key": 10,
-            "accuracy": 83
+            "total": 177,
+            "key": 12,
+            "accuracy": 81
           },
           "tackles": {
             "total": 11,
@@ -839,16 +934,16 @@
             "interceptions": 2
           },
           "duels": {
-            "total": 41,
-            "won": 21
+            "total": 49,
+            "won": 25
           },
           "dribbles": {
-            "attempts": 9,
-            "success": 3,
+            "attempts": 14,
+            "success": 6,
             "past": null
           },
           "fouls": {
-            "drawn": 4,
+            "drawn": 5,
             "committed": 9
           },
           "cards": {
@@ -858,6 +953,196 @@
           },
           "penalty": {
             "won": null,
+            "commited": null,
+            "scored": 1,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 43282,
+        "name": "I. Stoica",
+        "firstname": "Ianis",
+        "lastname": "Ilie Stoica",
+        "age": 23,
+        "birth": {
+          "date": "2002-12-08",
+          "place": "București",
+          "country": "Romania"
+        },
+        "nationality": "Romania",
+        "height": "180",
+        "weight": "68",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/43282.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 15130,
+            "name": "Estrela",
+            "logo": "https://media.api-sports.io/football/teams/15130.png"
+          },
+          "league": {
+            "id": 94,
+            "name": "Primeira Liga",
+            "country": "Portugal",
+            "logo": "https://media.api-sports.io/football/leagues/94.png",
+            "flag": "https://media.api-sports.io/flags/pt.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 5,
+            "lineups": 5,
+            "minutes": 330,
+            "number": 10,
+            "position": "Midfielder",
+            "rating": "7.12",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 5,
+            "bench": 0
+          },
+          "shots": {
+            "total": 6,
+            "on": 4
+          },
+          "goals": {
+            "total": 3,
+            "conceded": 0,
+            "assists": 1,
+            "saves": 0
+          },
+          "passes": {
+            "total": 88,
+            "key": 6,
+            "accuracy": 84
+          },
+          "tackles": {
+            "total": 5,
+            "blocks": 0,
+            "interceptions": 2
+          },
+          "duels": {
+            "total": 31,
+            "won": 12
+          },
+          "dribbles": {
+            "attempts": 4,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 5,
+            "committed": 6
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 1,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 2063,
+        "name": "André Silva",
+        "firstname": "André Miguel",
+        "lastname": "Valente da Silva",
+        "age": 30,
+        "birth": {
+          "date": "1995-11-06",
+          "place": "Gondomar",
+          "country": "Portugal"
+        },
+        "nationality": "Portugal",
+        "height": "185",
+        "weight": "84",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/2063.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 212,
+            "name": "FC Porto",
+            "logo": "https://media.api-sports.io/football/teams/212.png"
+          },
+          "league": {
+            "id": 94,
+            "name": "Primeira Liga",
+            "country": "Portugal",
+            "logo": "https://media.api-sports.io/football/leagues/94.png",
+            "flag": "https://media.api-sports.io/flags/pt.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 6,
+            "lineups": 5,
+            "minutes": 401,
+            "number": 19,
+            "position": "Attacker",
+            "rating": "6.76",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 4,
+            "bench": 1
+          },
+          "shots": {
+            "total": 10,
+            "on": 5
+          },
+          "goals": {
+            "total": 3,
+            "conceded": 0,
+            "assists": 0,
+            "saves": 0
+          },
+          "passes": {
+            "total": 84,
+            "key": 3,
+            "accuracy": 72
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": 1,
+            "interceptions": 0
+          },
+          "duels": {
+            "total": 41,
+            "won": 13
+          },
+          "dribbles": {
+            "attempts": 7,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 7,
+            "committed": 5
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": 2,
             "commited": null,
             "scored": 1,
             "missed": 0,
@@ -905,7 +1190,7 @@
             "minutes": 415,
             "number": 70,
             "position": "Attacker",
-            "rating": "6.76",
+            "rating": "6.82",
             "captain": false
           },
           "substitutes": {
@@ -921,20 +1206,20 @@
             "total": 3,
             "conceded": 0,
             "assists": 0,
-            "saves": 0
+            "saves": null
           },
           "passes": {
-            "total": 64,
+            "total": 62,
             "key": 1,
-            "accuracy": 78
+            "accuracy": 79
           },
           "tackles": {
             "total": 2,
-            "blocks": 0,
-            "interceptions": 0
+            "blocks": null,
+            "interceptions": null
           },
           "duels": {
-            "total": 26,
+            "total": 25,
             "won": 11
           },
           "dribbles": {
@@ -995,21 +1280,21 @@
             "season": 2026
           },
           "games": {
-            "appearences": 5,
-            "lineups": 5,
-            "minutes": 335,
+            "appearences": 6,
+            "lineups": 6,
+            "minutes": 397,
             "number": 7,
             "position": "Attacker",
-            "rating": "7.84",
+            "rating": "7.75",
             "captain": false
           },
           "substitutes": {
             "in": 0,
-            "out": 5,
+            "out": 6,
             "bench": 0
           },
           "shots": {
-            "total": 12,
+            "total": 13,
             "on": 7
           },
           "goals": {
@@ -1019,9 +1304,9 @@
             "saves": 0
           },
           "passes": {
-            "total": 83,
-            "key": 7,
-            "accuracy": 68
+            "total": 97,
+            "key": 8,
+            "accuracy": 67
           },
           "tackles": {
             "total": 14,
@@ -1029,17 +1314,17 @@
             "interceptions": 1
           },
           "duels": {
-            "total": 47,
-            "won": 28
+            "total": 49,
+            "won": 29
           },
           "dribbles": {
-            "attempts": 13,
-            "success": 5,
+            "attempts": 12,
+            "success": 4,
             "past": null
           },
           "fouls": {
-            "drawn": 6,
-            "committed": 2
+            "drawn": 8,
+            "committed": 3
           },
           "cards": {
             "yellow": 0,
@@ -1095,7 +1380,7 @@
             "minutes": 184,
             "number": 7,
             "position": "Attacker",
-            "rating": "6.85",
+            "rating": "6.88",
             "captain": false
           },
           "substitutes": {
@@ -1104,14 +1389,14 @@
             "bench": 2
           },
           "shots": {
-            "total": 11,
+            "total": 10,
             "on": 5
           },
           "goals": {
             "total": 2,
             "conceded": 0,
             "assists": 2,
-            "saves": 0
+            "saves": null
           },
           "passes": {
             "total": 25,
@@ -1120,7 +1405,7 @@
           },
           "tackles": {
             "total": 1,
-            "blocks": 1,
+            "blocks": null,
             "interceptions": 1
           },
           "duels": {
@@ -1185,17 +1470,17 @@
             "season": 2026
           },
           "games": {
-            "appearences": 4,
-            "lineups": 4,
-            "minutes": 346,
+            "appearences": 5,
+            "lineups": 5,
+            "minutes": 412,
             "number": 18,
             "position": "Midfielder",
-            "rating": "7.05",
+            "rating": "7.01",
             "captain": false
           },
           "substitutes": {
             "in": 0,
-            "out": 1,
+            "out": 2,
             "bench": 0
           },
           "shots": {
@@ -1209,18 +1494,18 @@
             "saves": 0
           },
           "passes": {
-            "total": 135,
+            "total": 160,
             "key": 4,
             "accuracy": 81
           },
           "tackles": {
             "total": 7,
-            "blocks": 0,
-            "interceptions": 1
+            "blocks": 1,
+            "interceptions": 2
           },
           "duels": {
-            "total": 39,
-            "won": 19
+            "total": 47,
+            "won": 26
           },
           "dribbles": {
             "attempts": 2,
@@ -1228,8 +1513,8 @@
             "past": null
           },
           "fouls": {
-            "drawn": 5,
-            "committed": 7
+            "drawn": 8,
+            "committed": 8
           },
           "cards": {
             "yellow": 0,
@@ -1248,28 +1533,28 @@
     },
     {
       "player": {
-        "id": 133453,
-        "name": "Borja Sainz",
-        "firstname": "Borja",
-        "lastname": "Sainz Eguskiza",
-        "age": 25,
+        "id": 278941,
+        "name": "A. Marcus",
+        "firstname": "Abraham Ayomide",
+        "lastname": "Marcus",
+        "age": 26,
         "birth": {
-          "date": "2001-02-01",
-          "place": "Leioa",
-          "country": "Spain"
+          "date": "2000-01-02",
+          "place": null,
+          "country": "Nigeria"
         },
-        "nationality": "Spain",
+        "nationality": "Nigeria",
         "height": "178",
-        "weight": "75",
+        "weight": "73",
         "injured": false,
-        "photo": "https://media.api-sports.io/football/players/133453.png"
+        "photo": "https://media.api-sports.io/football/players/278941.png"
       },
       "statistics": [
         {
           "team": {
-            "id": 212,
-            "name": "FC Porto",
-            "logo": "https://media.api-sports.io/football/teams/212.png"
+            "id": 15130,
+            "name": "Estrela",
+            "logo": "https://media.api-sports.io/football/teams/15130.png"
           },
           "league": {
             "id": 94,
@@ -1281,50 +1566,50 @@
           },
           "games": {
             "appearences": 5,
-            "lineups": 0,
-            "minutes": 115,
-            "number": 17,
-            "position": "Attacker",
-            "rating": "7.03",
+            "lineups": 5,
+            "minutes": 449,
+            "number": 99,
+            "position": "Midfielder",
+            "rating": "7.34",
             "captain": false
           },
           "substitutes": {
-            "in": 5,
-            "out": 0,
-            "bench": 5
+            "in": 0,
+            "out": 1,
+            "bench": 0
           },
           "shots": {
-            "total": 9,
-            "on": 7
+            "total": 11,
+            "on": 8
           },
           "goals": {
             "total": 2,
             "conceded": 0,
-            "assists": 0,
+            "assists": 1,
             "saves": 0
           },
           "passes": {
-            "total": 26,
-            "key": 3,
-            "accuracy": 84
+            "total": 102,
+            "key": 8,
+            "accuracy": 74
           },
           "tackles": {
-            "total": 1,
+            "total": 2,
             "blocks": 1,
-            "interceptions": 0
+            "interceptions": 1
           },
           "duels": {
-            "total": 12,
-            "won": 5
+            "total": 57,
+            "won": 24
           },
           "dribbles": {
-            "attempts": 4,
-            "success": 1,
+            "attempts": 19,
+            "success": 10,
             "past": null
           },
           "fouls": {
-            "drawn": 3,
-            "committed": 2
+            "drawn": 6,
+            "committed": 4
           },
           "cards": {
             "yellow": 0,
@@ -1375,18 +1660,18 @@
             "season": 2026
           },
           "games": {
-            "appearences": 5,
+            "appearences": 6,
             "lineups": 5,
-            "minutes": 326,
+            "minutes": 344,
             "number": 9,
             "position": "Attacker",
-            "rating": "6.62",
+            "rating": "6.57",
             "captain": false
           },
           "substitutes": {
-            "in": 0,
+            "in": 1,
             "out": 5,
-            "bench": 0
+            "bench": 1
           },
           "shots": {
             "total": 5,
@@ -1399,8 +1684,8 @@
             "saves": 0
           },
           "passes": {
-            "total": 29,
-            "key": 2,
+            "total": 35,
+            "key": 3,
             "accuracy": 65
           },
           "tackles": {
@@ -1409,8 +1694,8 @@
             "interceptions": 0
           },
           "duels": {
-            "total": 39,
-            "won": 8
+            "total": 44,
+            "won": 9
           },
           "dribbles": {
             "attempts": 4,
@@ -1470,117 +1755,22 @@
             "season": 2026
           },
           "games": {
-            "appearences": 4,
-            "lineups": 4,
-            "minutes": 278,
+            "appearences": 6,
+            "lineups": 6,
+            "minutes": 457,
             "number": 33,
             "position": "Attacker",
-            "rating": "6.93",
+            "rating": "6.71",
             "captain": false
           },
           "substitutes": {
             "in": 0,
-            "out": 4,
+            "out": 5,
             "bench": 0
           },
           "shots": {
-            "total": 5,
-            "on": 4
-          },
-          "goals": {
-            "total": 2,
-            "conceded": 0,
-            "assists": 0,
-            "saves": null
-          },
-          "passes": {
-            "total": 26,
-            "key": 2,
-            "accuracy": 69
-          },
-          "tackles": {
-            "total": null,
-            "blocks": null,
-            "interceptions": null
-          },
-          "duels": {
-            "total": 23,
-            "won": 7
-          },
-          "dribbles": {
-            "attempts": 1,
-            "success": null,
-            "past": null
-          },
-          "fouls": {
-            "drawn": 4,
-            "committed": 4
-          },
-          "cards": {
-            "yellow": 0,
-            "yellowred": 0,
-            "red": 0
-          },
-          "penalty": {
-            "won": null,
-            "commited": null,
-            "scored": 0,
-            "missed": 0,
-            "saved": null
-          }
-        }
-      ]
-    },
-    {
-      "player": {
-        "id": 278941,
-        "name": "A. Marcus",
-        "firstname": "Abraham Ayomide",
-        "lastname": "Marcus",
-        "age": 26,
-        "birth": {
-          "date": "2000-01-02",
-          "place": null,
-          "country": "Nigeria"
-        },
-        "nationality": "Nigeria",
-        "height": "178",
-        "weight": "73",
-        "injured": false,
-        "photo": "https://media.api-sports.io/football/players/278941.png"
-      },
-      "statistics": [
-        {
-          "team": {
-            "id": 15130,
-            "name": "Estrela",
-            "logo": "https://media.api-sports.io/football/teams/15130.png"
-          },
-          "league": {
-            "id": 94,
-            "name": "Primeira Liga",
-            "country": "Portugal",
-            "logo": "https://media.api-sports.io/football/leagues/94.png",
-            "flag": "https://media.api-sports.io/flags/pt.svg",
-            "season": 2026
-          },
-          "games": {
-            "appearences": 4,
-            "lineups": 4,
-            "minutes": 359,
-            "number": 99,
-            "position": "Midfielder",
-            "rating": "7.24",
-            "captain": false
-          },
-          "substitutes": {
-            "in": 0,
-            "out": 1,
-            "bench": 0
-          },
-          "shots": {
-            "total": 9,
-            "on": 6
+            "total": 10,
+            "on": 5
           },
           "goals": {
             "total": 2,
@@ -1589,30 +1779,30 @@
             "saves": 0
           },
           "passes": {
-            "total": 82,
-            "key": 6,
-            "accuracy": 73
+            "total": 48,
+            "key": 2,
+            "accuracy": 70
           },
           "tackles": {
-            "total": 2,
+            "total": 1,
             "blocks": 0,
             "interceptions": 1
           },
           "duels": {
-            "total": 44,
-            "won": 15
+            "total": 47,
+            "won": 13
           },
           "dribbles": {
-            "attempts": 17,
-            "success": 8,
+            "attempts": 2,
+            "success": 1,
             "past": null
           },
           "fouls": {
-            "drawn": 2,
-            "committed": 3
+            "drawn": 7,
+            "committed": 6
           },
           "cards": {
-            "yellow": 0,
+            "yellow": 1,
             "yellowred": 0,
             "red": 0
           },
@@ -1660,12 +1850,12 @@
             "season": 2026
           },
           "games": {
-            "appearences": 4,
-            "lineups": 4,
-            "minutes": 360,
+            "appearences": 5,
+            "lineups": 5,
+            "minutes": 450,
             "number": 14,
             "position": "Attacker",
-            "rating": "7.33",
+            "rating": "7.3",
             "captain": false
           },
           "substitutes": {
@@ -1674,8 +1864,8 @@
             "bench": 0
           },
           "shots": {
-            "total": 6,
-            "on": 4
+            "total": 7,
+            "on": 5
           },
           "goals": {
             "total": 2,
@@ -1684,26 +1874,26 @@
             "saves": null
           },
           "passes": {
-            "total": 62,
-            "key": 4,
-            "accuracy": 85
+            "total": 77,
+            "key": 6,
+            "accuracy": 84
           },
           "tackles": {
-            "total": null,
+            "total": 1,
             "blocks": null,
             "interceptions": 1
           },
           "duels": {
-            "total": 21,
-            "won": 9
+            "total": 25,
+            "won": 12
           },
           "dribbles": {
-            "attempts": 5,
-            "success": 2,
+            "attempts": 6,
+            "success": 3,
             "past": null
           },
           "fouls": {
-            "drawn": 5,
+            "drawn": 6,
             "committed": null
           },
           "cards": {
@@ -1715,196 +1905,6 @@
             "won": null,
             "commited": null,
             "scored": 0,
-            "missed": 0,
-            "saved": null
-          }
-        }
-      ]
-    },
-    {
-      "player": {
-        "id": 47116,
-        "name": "Héctor Hernández",
-        "firstname": "Héctor José",
-        "lastname": "Hernández Marrero",
-        "age": 30,
-        "birth": {
-          "date": "1995-09-14",
-          "place": "Las Palmas de Gran Canaria",
-          "country": "Spain"
-        },
-        "nationality": "Spain",
-        "height": "180",
-        "weight": "73",
-        "injured": false,
-        "photo": "https://media.api-sports.io/football/players/47116.png"
-      },
-      "statistics": [
-        {
-          "team": {
-            "id": 762,
-            "name": "GIL Vicente",
-            "logo": "https://media.api-sports.io/football/teams/762.png"
-          },
-          "league": {
-            "id": 94,
-            "name": "Primeira Liga",
-            "country": "Portugal",
-            "logo": "https://media.api-sports.io/football/leagues/94.png",
-            "flag": "https://media.api-sports.io/flags/pt.svg",
-            "season": 2026
-          },
-          "games": {
-            "appearences": 3,
-            "lineups": 2,
-            "minutes": 176,
-            "number": 23,
-            "position": "Attacker",
-            "rating": "6.89",
-            "captain": false
-          },
-          "substitutes": {
-            "in": 1,
-            "out": 2,
-            "bench": 1
-          },
-          "shots": {
-            "total": 4,
-            "on": 3
-          },
-          "goals": {
-            "total": 2,
-            "conceded": 0,
-            "assists": 1,
-            "saves": 0
-          },
-          "passes": {
-            "total": 33,
-            "key": 1,
-            "accuracy": 72
-          },
-          "tackles": {
-            "total": 2,
-            "blocks": 0,
-            "interceptions": 0
-          },
-          "duels": {
-            "total": 14,
-            "won": 5
-          },
-          "dribbles": {
-            "attempts": 2,
-            "success": 2,
-            "past": null
-          },
-          "fouls": {
-            "drawn": 0,
-            "committed": 3
-          },
-          "cards": {
-            "yellow": 1,
-            "yellowred": 0,
-            "red": 0
-          },
-          "penalty": {
-            "won": null,
-            "commited": null,
-            "scored": 1,
-            "missed": 0,
-            "saved": null
-          }
-        }
-      ]
-    },
-    {
-      "player": {
-        "id": 2063,
-        "name": "André Silva",
-        "firstname": "André Miguel",
-        "lastname": "Valente da Silva",
-        "age": 30,
-        "birth": {
-          "date": "1995-11-06",
-          "place": "Gondomar",
-          "country": "Portugal"
-        },
-        "nationality": "Portugal",
-        "height": "185",
-        "weight": "84",
-        "injured": false,
-        "photo": "https://media.api-sports.io/football/players/2063.png"
-      },
-      "statistics": [
-        {
-          "team": {
-            "id": 212,
-            "name": "FC Porto",
-            "logo": "https://media.api-sports.io/football/teams/212.png"
-          },
-          "league": {
-            "id": 94,
-            "name": "Primeira Liga",
-            "country": "Portugal",
-            "logo": "https://media.api-sports.io/football/leagues/94.png",
-            "flag": "https://media.api-sports.io/flags/pt.svg",
-            "season": 2026
-          },
-          "games": {
-            "appearences": 5,
-            "lineups": 4,
-            "minutes": 339,
-            "number": 19,
-            "position": "Attacker",
-            "rating": "6.66",
-            "captain": false
-          },
-          "substitutes": {
-            "in": 1,
-            "out": 3,
-            "bench": 1
-          },
-          "shots": {
-            "total": 7,
-            "on": 4
-          },
-          "goals": {
-            "total": 2,
-            "conceded": 0,
-            "assists": 0,
-            "saves": 0
-          },
-          "passes": {
-            "total": 75,
-            "key": 2,
-            "accuracy": 73
-          },
-          "tackles": {
-            "total": 1,
-            "blocks": 0,
-            "interceptions": 0
-          },
-          "duels": {
-            "total": 39,
-            "won": 12
-          },
-          "dribbles": {
-            "attempts": 7,
-            "success": 1,
-            "past": null
-          },
-          "fouls": {
-            "drawn": 6,
-            "committed": 5
-          },
-          "cards": {
-            "yellow": 0,
-            "yellowred": 0,
-            "red": 0
-          },
-          "penalty": {
-            "won": 2,
-            "commited": null,
-            "scored": 1,
             "missed": 0,
             "saved": null
           }

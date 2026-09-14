@@ -1414,7 +1414,7 @@
     {
       "fixture": {
         "id": 1608255,
-        "referee": null,
+        "referee": "G. Rossini",
         "timezone": "UTC",
         "date": "2026-09-06T13:00:00+00:00",
         "timestamp": 1788699600,
@@ -1484,7 +1484,7 @@
     {
       "fixture": {
         "id": 1608251,
-        "referee": null,
+        "referee": "M. Cavacini",
         "timezone": "UTC",
         "date": "2026-09-06T13:00:00+00:00",
         "timestamp": 1788699600,
@@ -1554,7 +1554,7 @@
     {
       "fixture": {
         "id": 1608256,
-        "referee": null,
+        "referee": "A. Mazzer",
         "timezone": "UTC",
         "date": "2026-09-06T16:00:00+00:00",
         "timestamp": 1788710400,
@@ -1624,7 +1624,7 @@
     {
       "fixture": {
         "id": 1608254,
-        "referee": null,
+        "referee": "C. Zito",
         "timezone": "UTC",
         "date": "2026-09-06T19:00:00+00:00",
         "timestamp": 1788721200,
@@ -1694,7 +1694,7 @@
     {
       "fixture": {
         "id": 1608257,
-        "referee": null,
+        "referee": "G. Sciolti",
         "timezone": "UTC",
         "date": "2026-09-06T19:00:00+00:00",
         "timestamp": 1788721200,
@@ -1764,7 +1764,7 @@
     {
       "fixture": {
         "id": 1608253,
-        "referee": null,
+        "referee": "M. Picardi",
         "timezone": "UTC",
         "date": "2026-09-06T19:00:00+00:00",
         "timestamp": 1788721200,
@@ -1834,13 +1834,13 @@
     {
       "fixture": {
         "id": 1608258,
-        "referee": null,
+        "referee": "D. Galiffi",
         "timezone": "UTC",
         "date": "2026-09-07T19:00:00+00:00",
         "timestamp": 1788807600,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1788807600,
+          "second": 1788811200
         },
         "venue": {
           "id": 930,
@@ -1848,10 +1848,10 @@
           "city": "Vercelli"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 10
         }
       },
       "league": {
@@ -1869,27 +1869,27 @@
           "id": 526,
           "name": "PRO Vercelli",
           "logo": "https://media.api-sports.io/football/teams/526.png",
-          "winner": null
+          "winner": true
         },
         "away": {
           "id": 9450,
           "name": "Folgore Caratese",
           "logo": "https://media.api-sports.io/football/teams/9450.png",
-          "winner": null
+          "winner": false
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 1,
+        "away": 0
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 0
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 0
         },
         "extratime": {
           "home": null,
@@ -1904,13 +1904,13 @@
     {
       "fixture": {
         "id": 1608259,
-        "referee": null,
+        "referee": "M. Frasynyak",
         "timezone": "UTC",
         "date": "2026-09-07T19:00:00+00:00",
         "timestamp": 1788807600,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1788807600,
+          "second": 1788811200
         },
         "venue": {
           "id": null,
@@ -1918,10 +1918,10 @@
           "city": "Meda"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 5
         }
       },
       "league": {
@@ -1939,27 +1939,27 @@
           "id": 875,
           "name": "Renate",
           "logo": "https://media.api-sports.io/football/teams/875.png",
-          "winner": null
+          "winner": false
         },
         "away": {
           "id": 513,
           "name": "Novara",
           "logo": "https://media.api-sports.io/football/teams/513.png",
-          "winner": null
+          "winner": true
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 1,
+        "away": 2
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 2
         },
         "extratime": {
           "home": null,
@@ -1974,13 +1974,13 @@
     {
       "fixture": {
         "id": 1608260,
-        "referee": null,
+        "referee": "J. Gallorini",
         "timezone": "UTC",
         "date": "2026-09-07T19:00:00+00:00",
         "timestamp": 1788807600,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1788807600,
+          "second": 1788811200
         },
         "venue": {
           "id": 12059,
@@ -1988,10 +1988,10 @@
           "city": "Trento"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 9
         }
       },
       "league": {
@@ -2009,27 +2009,27 @@
           "id": 17147,
           "name": "Trento",
           "logo": "https://media.api-sports.io/football/teams/17147.png",
-          "winner": null
+          "winner": true
         },
         "away": {
           "id": 6379,
           "name": "Lecco",
           "logo": "https://media.api-sports.io/football/teams/6379.png",
-          "winner": null
+          "winner": false
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 1,
+        "away": 0
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 0
         },
         "extratime": {
           "home": null,
@@ -2044,13 +2044,13 @@
     {
       "fixture": {
         "id": 1608252,
-        "referee": null,
+        "referee": "V. Teghille",
         "timezone": "UTC",
         "date": "2026-09-07T19:00:00+00:00",
         "timestamp": 1788807600,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1788807600,
+          "second": 1788811200
         },
         "venue": {
           "id": 6550,
@@ -2058,10 +2058,10 @@
           "city": "Sesto San Giovanni"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 8
         }
       },
       "league": {
@@ -2089,17 +2089,17 @@
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 1,
+        "away": 1
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 1
         },
         "extratime": {
           "home": null,
@@ -2119,8 +2119,8 @@
         "date": "2026-09-13T13:00:00+00:00",
         "timestamp": 1789304400,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1789304400,
+          "second": 1789308000
         },
         "venue": {
           "id": 4705,
@@ -2128,10 +2128,10 @@
           "city": "Lecco"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 8
         }
       },
       "league": {
@@ -2149,27 +2149,27 @@
           "id": 6379,
           "name": "Lecco",
           "logo": "https://media.api-sports.io/football/teams/6379.png",
-          "winner": null
+          "winner": true
         },
         "away": {
           "id": 865,
           "name": "Giana Erminio",
           "logo": "https://media.api-sports.io/football/teams/865.png",
-          "winner": null
+          "winner": false
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 1,
+        "away": 0
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 0
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 0
         },
         "extratime": {
           "home": null,
@@ -2189,8 +2189,8 @@
         "date": "2026-09-13T13:00:00+00:00",
         "timestamp": 1789304400,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1789304400,
+          "second": 1789308000
         },
         "venue": {
           "id": null,
@@ -2198,10 +2198,10 @@
           "city": "Feltre"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 10
         }
       },
       "league": {
@@ -2229,17 +2229,17 @@
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 0,
+        "away": 0
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         },
         "extratime": {
           "home": null,
@@ -2259,8 +2259,8 @@
         "date": "2026-09-13T13:00:00+00:00",
         "timestamp": 1789304400,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1789304400,
+          "second": 1789308000
         },
         "venue": {
           "id": 884,
@@ -2268,10 +2268,10 @@
           "city": "Carpi"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 6
         }
       },
       "league": {
@@ -2289,27 +2289,27 @@
           "id": 17825,
           "name": "Athletic Carpi",
           "logo": "https://media.api-sports.io/football/teams/17825.png",
-          "winner": null
+          "winner": false
         },
         "away": {
           "id": 510,
           "name": "Cittadella",
           "logo": "https://media.api-sports.io/football/teams/510.png",
-          "winner": null
+          "winner": true
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 1,
+        "away": 2
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 0
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 2
         },
         "extratime": {
           "home": null,
@@ -2329,19 +2329,19 @@
         "date": "2026-09-13T13:00:00+00:00",
         "timestamp": 1789304400,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1789304400,
+          "second": 1789308000
         },
         "venue": {
-          "id": null,
-          "name": null,
-          "city": null
+          "id": 20271,
+          "name": "Stadio Omobono Tenni",
+          "city": "Treviso"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 11
         }
       },
       "league": {
@@ -2359,27 +2359,27 @@
           "id": 22319,
           "name": "Treviso",
           "logo": "https://media.api-sports.io/football/teams/22319.png",
-          "winner": null
+          "winner": true
         },
         "away": {
           "id": 526,
           "name": "PRO Vercelli",
           "logo": "https://media.api-sports.io/football/teams/526.png",
-          "winner": null
+          "winner": false
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 2,
+        "away": 1
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 0
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 1
         },
         "extratime": {
           "home": null,
@@ -2399,8 +2399,8 @@
         "date": "2026-09-13T16:00:00+00:00",
         "timestamp": 1789315200,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1789315200,
+          "second": 1789318800
         },
         "venue": {
           "id": null,
@@ -2408,10 +2408,10 @@
           "city": "Lumezzane"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 7
         }
       },
       "league": {
@@ -2439,17 +2439,17 @@
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 2,
+        "away": 2
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 1
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 2
         },
         "extratime": {
           "home": null,
@@ -2469,19 +2469,19 @@
         "date": "2026-09-13T16:00:00+00:00",
         "timestamp": 1789315200,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1789315200,
+          "second": 1789318800
         },
         "venue": {
           "id": null,
-          "name": null,
-          "city": null
+          "name": "AlbinoLeffe",
+          "city": "Zanica"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 15
         }
       },
       "league": {
@@ -2499,27 +2499,27 @@
           "id": 9450,
           "name": "Folgore Caratese",
           "logo": "https://media.api-sports.io/football/teams/9450.png",
-          "winner": null
+          "winner": false
         },
         "away": {
           "id": 17824,
           "name": "Alcione",
           "logo": "https://media.api-sports.io/football/teams/17824.png",
-          "winner": null
+          "winner": true
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 2,
+        "away": 3
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 1
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 3
         },
         "extratime": {
           "home": null,
@@ -2539,8 +2539,8 @@
         "date": "2026-09-13T16:00:00+00:00",
         "timestamp": 1789315200,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1789315200,
+          "second": 1789318800
         },
         "venue": {
           "id": null,
@@ -2548,10 +2548,10 @@
           "city": "Ospitaletto"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 7
         }
       },
       "league": {
@@ -2569,27 +2569,27 @@
           "id": 24696,
           "name": "Ospitaletto",
           "logo": "https://media.api-sports.io/football/teams/24696.png",
-          "winner": null
+          "winner": true
         },
         "away": {
           "id": 1715,
           "name": "Juventus U23",
           "logo": "https://media.api-sports.io/football/teams/1715.png",
-          "winner": null
+          "winner": false
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 3,
+        "away": 0
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 0
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 3,
+          "away": 0
         },
         "extratime": {
           "home": null,
@@ -2609,8 +2609,8 @@
         "date": "2026-09-13T19:00:00+00:00",
         "timestamp": 1789326000,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1789326000,
+          "second": 1789329600
         },
         "venue": {
           "id": null,
@@ -2618,10 +2618,10 @@
           "city": "Novara"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 7
         }
       },
       "league": {
@@ -2639,27 +2639,27 @@
           "id": 513,
           "name": "Novara",
           "logo": "https://media.api-sports.io/football/teams/513.png",
-          "winner": null
+          "winner": false
         },
         "away": {
           "id": 6380,
           "name": "Pergolettese",
           "logo": "https://media.api-sports.io/football/teams/6380.png",
-          "winner": null
+          "winner": true
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 0,
+        "away": 1
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 1
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 1
         },
         "extratime": {
           "home": null,
@@ -2679,8 +2679,8 @@
         "date": "2026-09-13T19:00:00+00:00",
         "timestamp": 1789326000,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1789326000,
+          "second": 1789329600
         },
         "venue": {
           "id": null,
@@ -2688,10 +2688,10 @@
           "city": "Arzignano"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 9
         }
       },
       "league": {
@@ -2709,27 +2709,27 @@
           "id": 6378,
           "name": "Arzignano Valchiampo",
           "logo": "https://media.api-sports.io/football/teams/6378.png",
-          "winner": null
+          "winner": false
         },
         "away": {
           "id": 17816,
           "name": "Desenzano Calvina",
           "logo": "https://media.api-sports.io/football/teams/17816.png",
-          "winner": null
+          "winner": true
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 1,
+        "away": 2
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 2
         },
         "extratime": {
           "home": null,
@@ -2749,8 +2749,8 @@
         "date": "2026-09-13T19:00:00+00:00",
         "timestamp": 1789326000,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1789326000,
+          "second": 1789329600
         },
         "venue": {
           "id": 12059,
@@ -2758,10 +2758,10 @@
           "city": "Trento"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 7
         }
       },
       "league": {
@@ -2789,17 +2789,17 @@
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 0,
+        "away": 0
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         },
         "extratime": {
           "home": null,

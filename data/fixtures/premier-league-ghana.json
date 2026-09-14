@@ -573,6 +573,566 @@
     },
     {
       "fixture": {
+        "id": 1602113,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2026-09-12T15:00:00+00:00",
+        "timestamp": 1789225200,
+        "periods": {
+          "first": 1789225200,
+          "second": 1789228800
+        },
+        "venue": {
+          "id": 5735,
+          "name": "Len Clay Stadium",
+          "city": "Obuasi"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 6
+        }
+      },
+      "league": {
+        "id": 570,
+        "name": "Premier League",
+        "country": "Ghana",
+        "logo": "https://media.api-sports.io/football/leagues/570.png",
+        "flag": "https://media.api-sports.io/flags/gh.svg",
+        "season": 2026,
+        "round": "Regular Season - 2",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 8056,
+          "name": "Ashanti Gold",
+          "logo": "https://media.api-sports.io/football/teams/8056.png",
+          "winner": true
+        },
+        "away": {
+          "id": 22782,
+          "name": "Vision",
+          "logo": "https://media.api-sports.io/football/teams/22782.png",
+          "winner": false
+        }
+      },
+      "goals": {
+        "home": 3,
+        "away": 1
+      },
+      "score": {
+        "halftime": {
+          "home": 3,
+          "away": 1
+        },
+        "fulltime": {
+          "home": 3,
+          "away": 1
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1602112,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2026-09-13T15:00:00+00:00",
+        "timestamp": 1789311600,
+        "periods": {
+          "first": 1789311600,
+          "second": 1789315200
+        },
+        "venue": {
+          "id": 4727,
+          "name": "Baba Yara Stadium",
+          "city": "Kumasi"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 6
+        }
+      },
+      "league": {
+        "id": 570,
+        "name": "Premier League",
+        "country": "Ghana",
+        "logo": "https://media.api-sports.io/football/leagues/570.png",
+        "flag": "https://media.api-sports.io/flags/gh.svg",
+        "season": 2026,
+        "round": "Regular Season - 2",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 6411,
+          "name": "Asante Kotoko",
+          "logo": "https://media.api-sports.io/football/teams/6411.png",
+          "winner": true
+        },
+        "away": {
+          "id": 13882,
+          "name": "Heart of Lions",
+          "logo": "https://media.api-sports.io/football/teams/13882.png",
+          "winner": false
+        }
+      },
+      "goals": {
+        "home": 2,
+        "away": 1
+      },
+      "score": {
+        "halftime": {
+          "home": 1,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 2,
+          "away": 1
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1602111,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2026-09-13T15:00:00+00:00",
+        "timestamp": 1789311600,
+        "periods": {
+          "first": 1789311600,
+          "second": 1789315200
+        },
+        "venue": {
+          "id": 5744,
+          "name": "Agyeman Badu Stadium",
+          "city": "Dormaa Ahenkro"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 7
+        }
+      },
+      "league": {
+        "id": 570,
+        "name": "Premier League",
+        "country": "Ghana",
+        "logo": "https://media.api-sports.io/football/leagues/570.png",
+        "flag": "https://media.api-sports.io/flags/gh.svg",
+        "season": 2026,
+        "round": "Regular Season - 2",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 8079,
+          "name": "Aduana Stars",
+          "logo": "https://media.api-sports.io/football/teams/8079.png",
+          "winner": false
+        },
+        "away": {
+          "id": 20022,
+          "name": "Samartex",
+          "logo": "https://media.api-sports.io/football/teams/20022.png",
+          "winner": true
+        }
+      },
+      "goals": {
+        "home": 0,
+        "away": 1
+      },
+      "score": {
+        "halftime": {
+          "home": 0,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 0,
+          "away": 1
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1602114,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2026-09-13T15:00:00+00:00",
+        "timestamp": 1789311600,
+        "periods": {
+          "first": 1789311600,
+          "second": 1789315200
+        },
+        "venue": {
+          "id": 7794,
+          "name": "Golden City Park",
+          "city": "Berekum"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 570,
+        "name": "Premier League",
+        "country": "Ghana",
+        "logo": "https://media.api-sports.io/football/leagues/570.png",
+        "flag": "https://media.api-sports.io/flags/gh.svg",
+        "season": 2026,
+        "round": "Regular Season - 2",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 12244,
+          "name": "Berekum Chelsea",
+          "logo": "https://media.api-sports.io/football/teams/12244.png",
+          "winner": true
+        },
+        "away": {
+          "id": 4450,
+          "name": "Dreams",
+          "logo": "https://media.api-sports.io/football/teams/4450.png",
+          "winner": false
+        }
+      },
+      "goals": {
+        "home": 3,
+        "away": 1
+      },
+      "score": {
+        "halftime": {
+          "home": 2,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 3,
+          "away": 1
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1602116,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2026-09-13T15:00:00+00:00",
+        "timestamp": 1789311600,
+        "periods": {
+          "first": 1789311600,
+          "second": 1789315200
+        },
+        "venue": {
+          "id": null,
+          "name": "Naa Sheriga Sports Centre",
+          "city": "Nalerigu"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 4
+        }
+      },
+      "league": {
+        "id": 570,
+        "name": "Premier League",
+        "country": "Ghana",
+        "logo": "https://media.api-sports.io/football/leagues/570.png",
+        "flag": "https://media.api-sports.io/flags/gh.svg",
+        "season": 2026,
+        "round": "Regular Season - 2",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 12251,
+          "name": "Karela",
+          "logo": "https://media.api-sports.io/football/teams/12251.png",
+          "winner": true
+        },
+        "away": {
+          "id": 8099,
+          "name": "Bechem United",
+          "logo": "https://media.api-sports.io/football/teams/8099.png",
+          "winner": false
+        }
+      },
+      "goals": {
+        "home": 3,
+        "away": 1
+      },
+      "score": {
+        "halftime": {
+          "home": 1,
+          "away": 1
+        },
+        "fulltime": {
+          "home": 3,
+          "away": 1
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1602115,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2026-09-13T15:00:00+00:00",
+        "timestamp": 1789311600,
+        "periods": {
+          "first": 1789311600,
+          "second": 1789315200
+        },
+        "venue": {
+          "id": null,
+          "name": null,
+          "city": "Bibiani"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 11
+        }
+      },
+      "league": {
+        "id": 570,
+        "name": "Premier League",
+        "country": "Ghana",
+        "logo": "https://media.api-sports.io/football/leagues/570.png",
+        "flag": "https://media.api-sports.io/flags/gh.svg",
+        "season": 2026,
+        "round": "Regular Season - 2",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 17993,
+          "name": "Bibiani Gold Stars",
+          "logo": "https://media.api-sports.io/football/teams/17993.png",
+          "winner": false
+        },
+        "away": {
+          "id": 12249,
+          "name": "Hearts of Oak",
+          "logo": "https://media.api-sports.io/football/teams/12249.png",
+          "winner": true
+        }
+      },
+      "goals": {
+        "home": 1,
+        "away": 2
+      },
+      "score": {
+        "halftime": {
+          "home": 1,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 1,
+          "away": 2
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1602118,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2026-09-13T15:00:00+00:00",
+        "timestamp": 1789311600,
+        "periods": {
+          "first": 1789311600,
+          "second": 1789315200
+        },
+        "venue": {
+          "id": 21452,
+          "name": "Swedru Stadium",
+          "city": "Agona Swedru"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 4
+        }
+      },
+      "league": {
+        "id": 570,
+        "name": "Premier League",
+        "country": "Ghana",
+        "logo": "https://media.api-sports.io/football/leagues/570.png",
+        "flag": "https://media.api-sports.io/flags/gh.svg",
+        "season": 2026,
+        "round": "Regular Season - 2",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 21093,
+          "name": "Swedru All Blacks",
+          "logo": "https://media.api-sports.io/football/teams/21093.png",
+          "winner": true
+        },
+        "away": {
+          "id": 21071,
+          "name": "Debibi United",
+          "logo": "https://media.api-sports.io/football/teams/21071.png",
+          "winner": false
+        }
+      },
+      "goals": {
+        "home": 1,
+        "away": 0
+      },
+      "score": {
+        "halftime": {
+          "home": 1,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 1,
+          "away": 0
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1602119,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2026-09-13T15:00:00+00:00",
+        "timestamp": 1789311600,
+        "periods": {
+          "first": 1789311600,
+          "second": 1789315200
+        },
+        "venue": {
+          "id": 21454,
+          "name": "Wenchi Sports Stadium",
+          "city": "Wenchi"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 570,
+        "name": "Premier League",
+        "country": "Ghana",
+        "logo": "https://media.api-sports.io/football/leagues/570.png",
+        "flag": "https://media.api-sports.io/flags/gh.svg",
+        "season": 2026,
+        "round": "Regular Season - 2",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 22783,
+          "name": "Young Apostles",
+          "logo": "https://media.api-sports.io/football/teams/22783.png",
+          "winner": true
+        },
+        "away": {
+          "id": 22763,
+          "name": "Basake Holy Stars",
+          "logo": "https://media.api-sports.io/football/teams/22763.png",
+          "winner": false
+        }
+      },
+      "goals": {
+        "home": 1,
+        "away": 0
+      },
+      "score": {
+        "halftime": {
+          "home": 1,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 1,
+          "away": 0
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
         "id": 1602104,
         "referee": null,
         "timezone": "UTC",
@@ -643,566 +1203,6 @@
     },
     {
       "fixture": {
-        "id": 1602112,
-        "referee": null,
-        "timezone": "UTC",
-        "date": "2026-09-12T15:00:00+00:00",
-        "timestamp": 1789225200,
-        "periods": {
-          "first": null,
-          "second": null
-        },
-        "venue": {
-          "id": 4727,
-          "name": "Baba Yara Stadium",
-          "city": "Kumasi"
-        },
-        "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
-        }
-      },
-      "league": {
-        "id": 570,
-        "name": "Premier League",
-        "country": "Ghana",
-        "logo": "https://media.api-sports.io/football/leagues/570.png",
-        "flag": "https://media.api-sports.io/flags/gh.svg",
-        "season": 2026,
-        "round": "Regular Season - 2",
-        "standings": true
-      },
-      "teams": {
-        "home": {
-          "id": 6411,
-          "name": "Asante Kotoko",
-          "logo": "https://media.api-sports.io/football/teams/6411.png",
-          "winner": null
-        },
-        "away": {
-          "id": 13882,
-          "name": "Heart of Lions",
-          "logo": "https://media.api-sports.io/football/teams/13882.png",
-          "winner": null
-        }
-      },
-      "goals": {
-        "home": null,
-        "away": null
-      },
-      "score": {
-        "halftime": {
-          "home": null,
-          "away": null
-        },
-        "fulltime": {
-          "home": null,
-          "away": null
-        },
-        "extratime": {
-          "home": null,
-          "away": null
-        },
-        "penalty": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "fixture": {
-        "id": 1602113,
-        "referee": null,
-        "timezone": "UTC",
-        "date": "2026-09-12T15:00:00+00:00",
-        "timestamp": 1789225200,
-        "periods": {
-          "first": null,
-          "second": null
-        },
-        "venue": {
-          "id": 5735,
-          "name": "Len Clay Stadium",
-          "city": "Obuasi"
-        },
-        "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
-        }
-      },
-      "league": {
-        "id": 570,
-        "name": "Premier League",
-        "country": "Ghana",
-        "logo": "https://media.api-sports.io/football/leagues/570.png",
-        "flag": "https://media.api-sports.io/flags/gh.svg",
-        "season": 2026,
-        "round": "Regular Season - 2",
-        "standings": true
-      },
-      "teams": {
-        "home": {
-          "id": 8056,
-          "name": "Ashanti Gold",
-          "logo": "https://media.api-sports.io/football/teams/8056.png",
-          "winner": null
-        },
-        "away": {
-          "id": 22782,
-          "name": "Vision",
-          "logo": "https://media.api-sports.io/football/teams/22782.png",
-          "winner": null
-        }
-      },
-      "goals": {
-        "home": null,
-        "away": null
-      },
-      "score": {
-        "halftime": {
-          "home": null,
-          "away": null
-        },
-        "fulltime": {
-          "home": null,
-          "away": null
-        },
-        "extratime": {
-          "home": null,
-          "away": null
-        },
-        "penalty": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "fixture": {
-        "id": 1602111,
-        "referee": null,
-        "timezone": "UTC",
-        "date": "2026-09-12T15:00:00+00:00",
-        "timestamp": 1789225200,
-        "periods": {
-          "first": null,
-          "second": null
-        },
-        "venue": {
-          "id": 5744,
-          "name": "Agyeman Badu Stadium",
-          "city": "Dormaa Ahenkro"
-        },
-        "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
-        }
-      },
-      "league": {
-        "id": 570,
-        "name": "Premier League",
-        "country": "Ghana",
-        "logo": "https://media.api-sports.io/football/leagues/570.png",
-        "flag": "https://media.api-sports.io/flags/gh.svg",
-        "season": 2026,
-        "round": "Regular Season - 2",
-        "standings": true
-      },
-      "teams": {
-        "home": {
-          "id": 8079,
-          "name": "Aduana Stars",
-          "logo": "https://media.api-sports.io/football/teams/8079.png",
-          "winner": null
-        },
-        "away": {
-          "id": 20022,
-          "name": "Samartex",
-          "logo": "https://media.api-sports.io/football/teams/20022.png",
-          "winner": null
-        }
-      },
-      "goals": {
-        "home": null,
-        "away": null
-      },
-      "score": {
-        "halftime": {
-          "home": null,
-          "away": null
-        },
-        "fulltime": {
-          "home": null,
-          "away": null
-        },
-        "extratime": {
-          "home": null,
-          "away": null
-        },
-        "penalty": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "fixture": {
-        "id": 1602114,
-        "referee": null,
-        "timezone": "UTC",
-        "date": "2026-09-12T15:00:00+00:00",
-        "timestamp": 1789225200,
-        "periods": {
-          "first": null,
-          "second": null
-        },
-        "venue": {
-          "id": 7794,
-          "name": "Golden City Park",
-          "city": "Berekum"
-        },
-        "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
-        }
-      },
-      "league": {
-        "id": 570,
-        "name": "Premier League",
-        "country": "Ghana",
-        "logo": "https://media.api-sports.io/football/leagues/570.png",
-        "flag": "https://media.api-sports.io/flags/gh.svg",
-        "season": 2026,
-        "round": "Regular Season - 2",
-        "standings": true
-      },
-      "teams": {
-        "home": {
-          "id": 12244,
-          "name": "Berekum Chelsea",
-          "logo": "https://media.api-sports.io/football/teams/12244.png",
-          "winner": null
-        },
-        "away": {
-          "id": 4450,
-          "name": "Dreams",
-          "logo": "https://media.api-sports.io/football/teams/4450.png",
-          "winner": null
-        }
-      },
-      "goals": {
-        "home": null,
-        "away": null
-      },
-      "score": {
-        "halftime": {
-          "home": null,
-          "away": null
-        },
-        "fulltime": {
-          "home": null,
-          "away": null
-        },
-        "extratime": {
-          "home": null,
-          "away": null
-        },
-        "penalty": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "fixture": {
-        "id": 1602116,
-        "referee": null,
-        "timezone": "UTC",
-        "date": "2026-09-12T15:00:00+00:00",
-        "timestamp": 1789225200,
-        "periods": {
-          "first": null,
-          "second": null
-        },
-        "venue": {
-          "id": null,
-          "name": "Naa Sheriga Sports Centre",
-          "city": "Nalerigu"
-        },
-        "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
-        }
-      },
-      "league": {
-        "id": 570,
-        "name": "Premier League",
-        "country": "Ghana",
-        "logo": "https://media.api-sports.io/football/leagues/570.png",
-        "flag": "https://media.api-sports.io/flags/gh.svg",
-        "season": 2026,
-        "round": "Regular Season - 2",
-        "standings": true
-      },
-      "teams": {
-        "home": {
-          "id": 12251,
-          "name": "Karela",
-          "logo": "https://media.api-sports.io/football/teams/12251.png",
-          "winner": null
-        },
-        "away": {
-          "id": 8099,
-          "name": "Bechem United",
-          "logo": "https://media.api-sports.io/football/teams/8099.png",
-          "winner": null
-        }
-      },
-      "goals": {
-        "home": null,
-        "away": null
-      },
-      "score": {
-        "halftime": {
-          "home": null,
-          "away": null
-        },
-        "fulltime": {
-          "home": null,
-          "away": null
-        },
-        "extratime": {
-          "home": null,
-          "away": null
-        },
-        "penalty": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "fixture": {
-        "id": 1602115,
-        "referee": null,
-        "timezone": "UTC",
-        "date": "2026-09-12T15:00:00+00:00",
-        "timestamp": 1789225200,
-        "periods": {
-          "first": null,
-          "second": null
-        },
-        "venue": {
-          "id": null,
-          "name": null,
-          "city": "Bibiani"
-        },
-        "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
-        }
-      },
-      "league": {
-        "id": 570,
-        "name": "Premier League",
-        "country": "Ghana",
-        "logo": "https://media.api-sports.io/football/leagues/570.png",
-        "flag": "https://media.api-sports.io/flags/gh.svg",
-        "season": 2026,
-        "round": "Regular Season - 2",
-        "standings": true
-      },
-      "teams": {
-        "home": {
-          "id": 17993,
-          "name": "Bibiani Gold Stars",
-          "logo": "https://media.api-sports.io/football/teams/17993.png",
-          "winner": null
-        },
-        "away": {
-          "id": 12249,
-          "name": "Hearts of Oak",
-          "logo": "https://media.api-sports.io/football/teams/12249.png",
-          "winner": null
-        }
-      },
-      "goals": {
-        "home": null,
-        "away": null
-      },
-      "score": {
-        "halftime": {
-          "home": null,
-          "away": null
-        },
-        "fulltime": {
-          "home": null,
-          "away": null
-        },
-        "extratime": {
-          "home": null,
-          "away": null
-        },
-        "penalty": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "fixture": {
-        "id": 1602118,
-        "referee": null,
-        "timezone": "UTC",
-        "date": "2026-09-12T15:00:00+00:00",
-        "timestamp": 1789225200,
-        "periods": {
-          "first": null,
-          "second": null
-        },
-        "venue": {
-          "id": 21452,
-          "name": "Swedru Stadium",
-          "city": "Agona Swedru"
-        },
-        "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
-        }
-      },
-      "league": {
-        "id": 570,
-        "name": "Premier League",
-        "country": "Ghana",
-        "logo": "https://media.api-sports.io/football/leagues/570.png",
-        "flag": "https://media.api-sports.io/flags/gh.svg",
-        "season": 2026,
-        "round": "Regular Season - 2",
-        "standings": true
-      },
-      "teams": {
-        "home": {
-          "id": 21093,
-          "name": "Swedru All Blacks",
-          "logo": "https://media.api-sports.io/football/teams/21093.png",
-          "winner": null
-        },
-        "away": {
-          "id": 21071,
-          "name": "Debibi United",
-          "logo": "https://media.api-sports.io/football/teams/21071.png",
-          "winner": null
-        }
-      },
-      "goals": {
-        "home": null,
-        "away": null
-      },
-      "score": {
-        "halftime": {
-          "home": null,
-          "away": null
-        },
-        "fulltime": {
-          "home": null,
-          "away": null
-        },
-        "extratime": {
-          "home": null,
-          "away": null
-        },
-        "penalty": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "fixture": {
-        "id": 1602119,
-        "referee": null,
-        "timezone": "UTC",
-        "date": "2026-09-12T15:00:00+00:00",
-        "timestamp": 1789225200,
-        "periods": {
-          "first": null,
-          "second": null
-        },
-        "venue": {
-          "id": 21454,
-          "name": "Wenchi Sports Stadium",
-          "city": "Wenchi"
-        },
-        "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
-        }
-      },
-      "league": {
-        "id": 570,
-        "name": "Premier League",
-        "country": "Ghana",
-        "logo": "https://media.api-sports.io/football/leagues/570.png",
-        "flag": "https://media.api-sports.io/flags/gh.svg",
-        "season": 2026,
-        "round": "Regular Season - 2",
-        "standings": true
-      },
-      "teams": {
-        "home": {
-          "id": 22783,
-          "name": "Young Apostles",
-          "logo": "https://media.api-sports.io/football/teams/22783.png",
-          "winner": null
-        },
-        "away": {
-          "id": 22763,
-          "name": "Basake Holy Stars",
-          "logo": "https://media.api-sports.io/football/teams/22763.png",
-          "winner": null
-        }
-      },
-      "goals": {
-        "home": null,
-        "away": null
-      },
-      "score": {
-        "halftime": {
-          "home": null,
-          "away": null
-        },
-        "fulltime": {
-          "home": null,
-          "away": null
-        },
-        "extratime": {
-          "home": null,
-          "away": null
-        },
-        "penalty": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "fixture": {
         "id": 1602117,
         "referee": null,
         "timezone": "UTC",
@@ -1218,8 +1218,8 @@
           "city": "Tarkwa"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
+          "long": "Match Postponed",
+          "short": "PST",
           "elapsed": null,
           "extra": null
         }
@@ -1343,426 +1343,6 @@
     },
     {
       "fixture": {
-        "id": 1602120,
-        "referee": null,
-        "timezone": "UTC",
-        "date": "2026-09-19T15:00:00+00:00",
-        "timestamp": 1789830000,
-        "periods": {
-          "first": null,
-          "second": null
-        },
-        "venue": {
-          "id": 5744,
-          "name": "Agyeman Badu Stadium",
-          "city": "Dormaa Ahenkro"
-        },
-        "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
-        }
-      },
-      "league": {
-        "id": 570,
-        "name": "Premier League",
-        "country": "Ghana",
-        "logo": "https://media.api-sports.io/football/leagues/570.png",
-        "flag": "https://media.api-sports.io/flags/gh.svg",
-        "season": 2026,
-        "round": "Regular Season - 3",
-        "standings": true
-      },
-      "teams": {
-        "home": {
-          "id": 8079,
-          "name": "Aduana Stars",
-          "logo": "https://media.api-sports.io/football/teams/8079.png",
-          "winner": null
-        },
-        "away": {
-          "id": 12251,
-          "name": "Karela",
-          "logo": "https://media.api-sports.io/football/teams/12251.png",
-          "winner": null
-        }
-      },
-      "goals": {
-        "home": null,
-        "away": null
-      },
-      "score": {
-        "halftime": {
-          "home": null,
-          "away": null
-        },
-        "fulltime": {
-          "home": null,
-          "away": null
-        },
-        "extratime": {
-          "home": null,
-          "away": null
-        },
-        "penalty": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "fixture": {
-        "id": 1602124,
-        "referee": null,
-        "timezone": "UTC",
-        "date": "2026-09-19T15:00:00+00:00",
-        "timestamp": 1789830000,
-        "periods": {
-          "first": null,
-          "second": null
-        },
-        "venue": {
-          "id": null,
-          "name": "WAFA Park",
-          "city": "Sogakope"
-        },
-        "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
-        }
-      },
-      "league": {
-        "id": 570,
-        "name": "Premier League",
-        "country": "Ghana",
-        "logo": "https://media.api-sports.io/football/leagues/570.png",
-        "flag": "https://media.api-sports.io/flags/gh.svg",
-        "season": 2026,
-        "round": "Regular Season - 3",
-        "standings": true
-      },
-      "teams": {
-        "home": {
-          "id": 12249,
-          "name": "Hearts of Oak",
-          "logo": "https://media.api-sports.io/football/teams/12249.png",
-          "winner": null
-        },
-        "away": {
-          "id": 8099,
-          "name": "Bechem United",
-          "logo": "https://media.api-sports.io/football/teams/8099.png",
-          "winner": null
-        }
-      },
-      "goals": {
-        "home": null,
-        "away": null
-      },
-      "score": {
-        "halftime": {
-          "home": null,
-          "away": null
-        },
-        "fulltime": {
-          "home": null,
-          "away": null
-        },
-        "extratime": {
-          "home": null,
-          "away": null
-        },
-        "penalty": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "fixture": {
-        "id": 1602123,
-        "referee": null,
-        "timezone": "UTC",
-        "date": "2026-09-19T15:00:00+00:00",
-        "timestamp": 1789830000,
-        "periods": {
-          "first": null,
-          "second": null
-        },
-        "venue": {
-          "id": 8595,
-          "name": "Kpandu stadium",
-          "city": "Kpandu"
-        },
-        "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
-        }
-      },
-      "league": {
-        "id": 570,
-        "name": "Premier League",
-        "country": "Ghana",
-        "logo": "https://media.api-sports.io/football/leagues/570.png",
-        "flag": "https://media.api-sports.io/flags/gh.svg",
-        "season": 2026,
-        "round": "Regular Season - 3",
-        "standings": true
-      },
-      "teams": {
-        "home": {
-          "id": 13882,
-          "name": "Heart of Lions",
-          "logo": "https://media.api-sports.io/football/teams/13882.png",
-          "winner": null
-        },
-        "away": {
-          "id": 21093,
-          "name": "Swedru All Blacks",
-          "logo": "https://media.api-sports.io/football/teams/21093.png",
-          "winner": null
-        }
-      },
-      "goals": {
-        "home": null,
-        "away": null
-      },
-      "score": {
-        "halftime": {
-          "home": null,
-          "away": null
-        },
-        "fulltime": {
-          "home": null,
-          "away": null
-        },
-        "extratime": {
-          "home": null,
-          "away": null
-        },
-        "penalty": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "fixture": {
-        "id": 1602127,
-        "referee": null,
-        "timezone": "UTC",
-        "date": "2026-09-19T15:00:00+00:00",
-        "timestamp": 1789830000,
-        "periods": {
-          "first": null,
-          "second": null
-        },
-        "venue": {
-          "id": null,
-          "name": "Samartex Park",
-          "city": "Tarkwa"
-        },
-        "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
-        }
-      },
-      "league": {
-        "id": 570,
-        "name": "Premier League",
-        "country": "Ghana",
-        "logo": "https://media.api-sports.io/football/leagues/570.png",
-        "flag": "https://media.api-sports.io/flags/gh.svg",
-        "season": 2026,
-        "round": "Regular Season - 3",
-        "standings": true
-      },
-      "teams": {
-        "home": {
-          "id": 20022,
-          "name": "Samartex",
-          "logo": "https://media.api-sports.io/football/teams/20022.png",
-          "winner": null
-        },
-        "away": {
-          "id": 6411,
-          "name": "Asante Kotoko",
-          "logo": "https://media.api-sports.io/football/teams/6411.png",
-          "winner": null
-        }
-      },
-      "goals": {
-        "home": null,
-        "away": null
-      },
-      "score": {
-        "halftime": {
-          "home": null,
-          "away": null
-        },
-        "fulltime": {
-          "home": null,
-          "away": null
-        },
-        "extratime": {
-          "home": null,
-          "away": null
-        },
-        "penalty": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "fixture": {
-        "id": 1602121,
-        "referee": null,
-        "timezone": "UTC",
-        "date": "2026-09-19T15:00:00+00:00",
-        "timestamp": 1789830000,
-        "periods": {
-          "first": null,
-          "second": null
-        },
-        "venue": {
-          "id": null,
-          "name": null,
-          "city": null
-        },
-        "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
-        }
-      },
-      "league": {
-        "id": 570,
-        "name": "Premier League",
-        "country": "Ghana",
-        "logo": "https://media.api-sports.io/football/leagues/570.png",
-        "flag": "https://media.api-sports.io/flags/gh.svg",
-        "season": 2026,
-        "round": "Regular Season - 3",
-        "standings": true
-      },
-      "teams": {
-        "home": {
-          "id": 21071,
-          "name": "Debibi United",
-          "logo": "https://media.api-sports.io/football/teams/21071.png",
-          "winner": null
-        },
-        "away": {
-          "id": 22783,
-          "name": "Young Apostles",
-          "logo": "https://media.api-sports.io/football/teams/22783.png",
-          "winner": null
-        }
-      },
-      "goals": {
-        "home": null,
-        "away": null
-      },
-      "score": {
-        "halftime": {
-          "home": null,
-          "away": null
-        },
-        "fulltime": {
-          "home": null,
-          "away": null
-        },
-        "extratime": {
-          "home": null,
-          "away": null
-        },
-        "penalty": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "fixture": {
-        "id": 1602125,
-        "referee": null,
-        "timezone": "UTC",
-        "date": "2026-09-19T15:00:00+00:00",
-        "timestamp": 1789830000,
-        "periods": {
-          "first": null,
-          "second": null
-        },
-        "venue": {
-          "id": 7798,
-          "name": "Crosby Awuah Memorial Stadium",
-          "city": "Nzema Anyinase"
-        },
-        "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
-        }
-      },
-      "league": {
-        "id": 570,
-        "name": "Premier League",
-        "country": "Ghana",
-        "logo": "https://media.api-sports.io/football/leagues/570.png",
-        "flag": "https://media.api-sports.io/flags/gh.svg",
-        "season": 2026,
-        "round": "Regular Season - 3",
-        "standings": true
-      },
-      "teams": {
-        "home": {
-          "id": 22763,
-          "name": "Basake Holy Stars",
-          "logo": "https://media.api-sports.io/football/teams/22763.png",
-          "winner": null
-        },
-        "away": {
-          "id": 8056,
-          "name": "Ashanti Gold",
-          "logo": "https://media.api-sports.io/football/teams/8056.png",
-          "winner": null
-        }
-      },
-      "goals": {
-        "home": null,
-        "away": null
-      },
-      "score": {
-        "halftime": {
-          "home": null,
-          "away": null
-        },
-        "fulltime": {
-          "home": null,
-          "away": null
-        },
-        "extratime": {
-          "home": null,
-          "away": null
-        },
-        "penalty": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "fixture": {
         "id": 1602128,
         "referee": null,
         "timezone": "UTC",
@@ -1833,11 +1413,431 @@
     },
     {
       "fixture": {
+        "id": 1602120,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2026-09-20T15:00:00+00:00",
+        "timestamp": 1789916400,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": 5744,
+          "name": "Agyeman Badu Stadium",
+          "city": "Dormaa Ahenkro"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 570,
+        "name": "Premier League",
+        "country": "Ghana",
+        "logo": "https://media.api-sports.io/football/leagues/570.png",
+        "flag": "https://media.api-sports.io/flags/gh.svg",
+        "season": 2026,
+        "round": "Regular Season - 3",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 8079,
+          "name": "Aduana Stars",
+          "logo": "https://media.api-sports.io/football/teams/8079.png",
+          "winner": null
+        },
+        "away": {
+          "id": 12251,
+          "name": "Karela",
+          "logo": "https://media.api-sports.io/football/teams/12251.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1602124,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2026-09-20T15:00:00+00:00",
+        "timestamp": 1789916400,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": null,
+          "name": "WAFA Park",
+          "city": "Sogakope"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 570,
+        "name": "Premier League",
+        "country": "Ghana",
+        "logo": "https://media.api-sports.io/football/leagues/570.png",
+        "flag": "https://media.api-sports.io/flags/gh.svg",
+        "season": 2026,
+        "round": "Regular Season - 3",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 12249,
+          "name": "Hearts of Oak",
+          "logo": "https://media.api-sports.io/football/teams/12249.png",
+          "winner": null
+        },
+        "away": {
+          "id": 8099,
+          "name": "Bechem United",
+          "logo": "https://media.api-sports.io/football/teams/8099.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1602123,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2026-09-20T15:00:00+00:00",
+        "timestamp": 1789916400,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": 8595,
+          "name": "Kpandu stadium",
+          "city": "Kpandu"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 570,
+        "name": "Premier League",
+        "country": "Ghana",
+        "logo": "https://media.api-sports.io/football/leagues/570.png",
+        "flag": "https://media.api-sports.io/flags/gh.svg",
+        "season": 2026,
+        "round": "Regular Season - 3",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 13882,
+          "name": "Heart of Lions",
+          "logo": "https://media.api-sports.io/football/teams/13882.png",
+          "winner": null
+        },
+        "away": {
+          "id": 21093,
+          "name": "Swedru All Blacks",
+          "logo": "https://media.api-sports.io/football/teams/21093.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1602127,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2026-09-20T15:00:00+00:00",
+        "timestamp": 1789916400,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": null,
+          "name": "Samartex Park",
+          "city": "Tarkwa"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 570,
+        "name": "Premier League",
+        "country": "Ghana",
+        "logo": "https://media.api-sports.io/football/leagues/570.png",
+        "flag": "https://media.api-sports.io/flags/gh.svg",
+        "season": 2026,
+        "round": "Regular Season - 3",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 20022,
+          "name": "Samartex",
+          "logo": "https://media.api-sports.io/football/teams/20022.png",
+          "winner": null
+        },
+        "away": {
+          "id": 6411,
+          "name": "Asante Kotoko",
+          "logo": "https://media.api-sports.io/football/teams/6411.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1602121,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2026-09-20T15:00:00+00:00",
+        "timestamp": 1789916400,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": null,
+          "name": null,
+          "city": null
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 570,
+        "name": "Premier League",
+        "country": "Ghana",
+        "logo": "https://media.api-sports.io/football/leagues/570.png",
+        "flag": "https://media.api-sports.io/flags/gh.svg",
+        "season": 2026,
+        "round": "Regular Season - 3",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 21071,
+          "name": "Debibi United",
+          "logo": "https://media.api-sports.io/football/teams/21071.png",
+          "winner": null
+        },
+        "away": {
+          "id": 22783,
+          "name": "Young Apostles",
+          "logo": "https://media.api-sports.io/football/teams/22783.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1602125,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2026-09-20T15:00:00+00:00",
+        "timestamp": 1789916400,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": 7798,
+          "name": "Crosby Awuah Memorial Stadium",
+          "city": "Nzema Anyinase"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 570,
+        "name": "Premier League",
+        "country": "Ghana",
+        "logo": "https://media.api-sports.io/football/leagues/570.png",
+        "flag": "https://media.api-sports.io/flags/gh.svg",
+        "season": 2026,
+        "round": "Regular Season - 3",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 22763,
+          "name": "Basake Holy Stars",
+          "logo": "https://media.api-sports.io/football/teams/22763.png",
+          "winner": null
+        },
+        "away": {
+          "id": 8056,
+          "name": "Ashanti Gold",
+          "logo": "https://media.api-sports.io/football/teams/8056.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
         "id": 1602126,
         "referee": null,
         "timezone": "UTC",
-        "date": "2026-09-19T15:00:00+00:00",
-        "timestamp": 1789830000,
+        "date": "2026-09-20T15:00:00+00:00",
+        "timestamp": 1789916400,
         "periods": {
           "first": null,
           "second": null
@@ -1906,8 +1906,8 @@
         "id": 1602129,
         "referee": null,
         "timezone": "UTC",
-        "date": "2026-09-26T15:00:00+00:00",
-        "timestamp": 1790434800,
+        "date": "2026-09-27T15:30:00+00:00",
+        "timestamp": 1790523000,
         "periods": {
           "first": null,
           "second": null
@@ -1976,8 +1976,8 @@
         "id": 1602130,
         "referee": null,
         "timezone": "UTC",
-        "date": "2026-09-26T15:00:00+00:00",
-        "timestamp": 1790434800,
+        "date": "2026-09-27T15:30:00+00:00",
+        "timestamp": 1790523000,
         "periods": {
           "first": null,
           "second": null
@@ -2046,8 +2046,8 @@
         "id": 1602131,
         "referee": null,
         "timezone": "UTC",
-        "date": "2026-09-26T15:00:00+00:00",
-        "timestamp": 1790434800,
+        "date": "2026-09-27T15:30:00+00:00",
+        "timestamp": 1790523000,
         "periods": {
           "first": null,
           "second": null
@@ -2116,8 +2116,8 @@
         "id": 1602132,
         "referee": null,
         "timezone": "UTC",
-        "date": "2026-09-26T15:00:00+00:00",
-        "timestamp": 1790434800,
+        "date": "2026-09-27T15:30:00+00:00",
+        "timestamp": 1790523000,
         "periods": {
           "first": null,
           "second": null
@@ -2186,8 +2186,8 @@
         "id": 1602134,
         "referee": null,
         "timezone": "UTC",
-        "date": "2026-09-26T15:00:00+00:00",
-        "timestamp": 1790434800,
+        "date": "2026-09-27T15:30:00+00:00",
+        "timestamp": 1790523000,
         "periods": {
           "first": null,
           "second": null
@@ -2256,8 +2256,8 @@
         "id": 1602135,
         "referee": null,
         "timezone": "UTC",
-        "date": "2026-09-26T15:00:00+00:00",
-        "timestamp": 1790434800,
+        "date": "2026-09-27T15:30:00+00:00",
+        "timestamp": 1790523000,
         "periods": {
           "first": null,
           "second": null
@@ -2326,8 +2326,8 @@
         "id": 1602133,
         "referee": null,
         "timezone": "UTC",
-        "date": "2026-09-26T15:00:00+00:00",
-        "timestamp": 1790434800,
+        "date": "2026-09-27T15:30:00+00:00",
+        "timestamp": 1790523000,
         "periods": {
           "first": null,
           "second": null
@@ -2396,8 +2396,8 @@
         "id": 1602136,
         "referee": null,
         "timezone": "UTC",
-        "date": "2026-09-26T15:00:00+00:00",
-        "timestamp": 1790434800,
+        "date": "2026-09-27T15:30:00+00:00",
+        "timestamp": 1790523000,
         "periods": {
           "first": null,
           "second": null
@@ -2466,8 +2466,8 @@
         "id": 1602137,
         "referee": null,
         "timezone": "UTC",
-        "date": "2026-09-26T15:00:00+00:00",
-        "timestamp": 1790434800,
+        "date": "2026-09-27T15:30:00+00:00",
+        "timestamp": 1790523000,
         "periods": {
           "first": null,
           "second": null
@@ -2536,8 +2536,8 @@
         "id": 1602141,
         "referee": null,
         "timezone": "UTC",
-        "date": "2026-10-03T15:00:00+00:00",
-        "timestamp": 1791039600,
+        "date": "2026-10-04T15:30:00+00:00",
+        "timestamp": 1791127800,
         "periods": {
           "first": null,
           "second": null
@@ -2606,8 +2606,8 @@
         "id": 1602139,
         "referee": null,
         "timezone": "UTC",
-        "date": "2026-10-03T15:00:00+00:00",
-        "timestamp": 1791039600,
+        "date": "2026-10-04T15:30:00+00:00",
+        "timestamp": 1791127800,
         "periods": {
           "first": null,
           "second": null
@@ -2676,8 +2676,8 @@
         "id": 1602138,
         "referee": null,
         "timezone": "UTC",
-        "date": "2026-10-03T15:00:00+00:00",
-        "timestamp": 1791039600,
+        "date": "2026-10-04T15:30:00+00:00",
+        "timestamp": 1791127800,
         "periods": {
           "first": null,
           "second": null
@@ -2746,8 +2746,8 @@
         "id": 1602142,
         "referee": null,
         "timezone": "UTC",
-        "date": "2026-10-03T15:00:00+00:00",
-        "timestamp": 1791039600,
+        "date": "2026-10-04T15:30:00+00:00",
+        "timestamp": 1791127800,
         "periods": {
           "first": null,
           "second": null
@@ -2816,8 +2816,8 @@
         "id": 1602145,
         "referee": null,
         "timezone": "UTC",
-        "date": "2026-10-03T15:00:00+00:00",
-        "timestamp": 1791039600,
+        "date": "2026-10-04T15:30:00+00:00",
+        "timestamp": 1791127800,
         "periods": {
           "first": null,
           "second": null
@@ -2886,8 +2886,8 @@
         "id": 1602140,
         "referee": null,
         "timezone": "UTC",
-        "date": "2026-10-03T15:00:00+00:00",
-        "timestamp": 1791039600,
+        "date": "2026-10-04T15:30:00+00:00",
+        "timestamp": 1791127800,
         "periods": {
           "first": null,
           "second": null
@@ -2956,8 +2956,8 @@
         "id": 1602143,
         "referee": null,
         "timezone": "UTC",
-        "date": "2026-10-03T15:00:00+00:00",
-        "timestamp": 1791039600,
+        "date": "2026-10-04T15:30:00+00:00",
+        "timestamp": 1791127800,
         "periods": {
           "first": null,
           "second": null
@@ -3026,8 +3026,8 @@
         "id": 1602146,
         "referee": null,
         "timezone": "UTC",
-        "date": "2026-10-03T15:00:00+00:00",
-        "timestamp": 1791039600,
+        "date": "2026-10-04T15:30:00+00:00",
+        "timestamp": 1791127800,
         "periods": {
           "first": null,
           "second": null
@@ -3096,8 +3096,8 @@
         "id": 1602144,
         "referee": null,
         "timezone": "UTC",
-        "date": "2026-10-03T15:00:00+00:00",
-        "timestamp": 1791039600,
+        "date": "2026-10-04T15:30:00+00:00",
+        "timestamp": 1791127800,
         "periods": {
           "first": null,
           "second": null
@@ -3166,8 +3166,8 @@
         "id": 1602147,
         "referee": null,
         "timezone": "UTC",
-        "date": "2026-10-10T15:00:00+00:00",
-        "timestamp": 1791644400,
+        "date": "2026-10-11T15:30:00+00:00",
+        "timestamp": 1791732600,
         "periods": {
           "first": null,
           "second": null
@@ -3236,8 +3236,8 @@
         "id": 1602148,
         "referee": null,
         "timezone": "UTC",
-        "date": "2026-10-10T15:00:00+00:00",
-        "timestamp": 1791644400,
+        "date": "2026-10-11T15:30:00+00:00",
+        "timestamp": 1791732600,
         "periods": {
           "first": null,
           "second": null
@@ -3306,8 +3306,8 @@
         "id": 1602149,
         "referee": null,
         "timezone": "UTC",
-        "date": "2026-10-10T15:00:00+00:00",
-        "timestamp": 1791644400,
+        "date": "2026-10-11T15:30:00+00:00",
+        "timestamp": 1791732600,
         "periods": {
           "first": null,
           "second": null
@@ -3376,8 +3376,8 @@
         "id": 1602151,
         "referee": null,
         "timezone": "UTC",
-        "date": "2026-10-10T15:00:00+00:00",
-        "timestamp": 1791644400,
+        "date": "2026-10-11T15:30:00+00:00",
+        "timestamp": 1791732600,
         "periods": {
           "first": null,
           "second": null
@@ -3446,8 +3446,8 @@
         "id": 1602152,
         "referee": null,
         "timezone": "UTC",
-        "date": "2026-10-10T15:00:00+00:00",
-        "timestamp": 1791644400,
+        "date": "2026-10-11T15:30:00+00:00",
+        "timestamp": 1791732600,
         "periods": {
           "first": null,
           "second": null
@@ -3516,8 +3516,8 @@
         "id": 1602153,
         "referee": null,
         "timezone": "UTC",
-        "date": "2026-10-10T15:00:00+00:00",
-        "timestamp": 1791644400,
+        "date": "2026-10-11T15:30:00+00:00",
+        "timestamp": 1791732600,
         "periods": {
           "first": null,
           "second": null
@@ -3586,8 +3586,8 @@
         "id": 1602150,
         "referee": null,
         "timezone": "UTC",
-        "date": "2026-10-10T15:00:00+00:00",
-        "timestamp": 1791644400,
+        "date": "2026-10-11T15:30:00+00:00",
+        "timestamp": 1791732600,
         "periods": {
           "first": null,
           "second": null
@@ -3656,8 +3656,8 @@
         "id": 1602154,
         "referee": null,
         "timezone": "UTC",
-        "date": "2026-10-10T15:00:00+00:00",
-        "timestamp": 1791644400,
+        "date": "2026-10-11T15:30:00+00:00",
+        "timestamp": 1791732600,
         "periods": {
           "first": null,
           "second": null
@@ -3726,8 +3726,8 @@
         "id": 1602155,
         "referee": null,
         "timezone": "UTC",
-        "date": "2026-10-10T15:00:00+00:00",
-        "timestamp": 1791644400,
+        "date": "2026-10-11T15:30:00+00:00",
+        "timestamp": 1791732600,
         "periods": {
           "first": null,
           "second": null

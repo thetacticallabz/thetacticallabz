@@ -13,101 +13,6 @@
   "response": [
     {
       "player": {
-        "id": 69406,
-        "name": "A. Drinan",
-        "firstname": "Aaron John",
-        "lastname": "Drinan",
-        "age": 27,
-        "birth": {
-          "date": "1998-05-06",
-          "place": "Cork",
-          "country": "Republic of Ireland"
-        },
-        "nationality": "Republic of Ireland",
-        "height": "182",
-        "weight": "73",
-        "injured": false,
-        "photo": "https://media.api-sports.io/football/players/69406.png"
-      },
-      "statistics": [
-        {
-          "team": {
-            "id": 1353,
-            "name": "Swindon Town",
-            "logo": "https://media.api-sports.io/football/teams/1353.png"
-          },
-          "league": {
-            "id": 42,
-            "name": "League Two",
-            "country": "England",
-            "logo": "https://media.api-sports.io/football/leagues/42.png",
-            "flag": "https://media.api-sports.io/flags/gb-eng.svg",
-            "season": 2026
-          },
-          "games": {
-            "appearences": 5,
-            "lineups": 5,
-            "minutes": 449,
-            "number": 23,
-            "position": "Attacker",
-            "rating": "7.35",
-            "captain": false
-          },
-          "substitutes": {
-            "in": 0,
-            "out": 1,
-            "bench": 0
-          },
-          "shots": {
-            "total": 12,
-            "on": 9
-          },
-          "goals": {
-            "total": 5,
-            "conceded": 0,
-            "assists": 0,
-            "saves": 0
-          },
-          "passes": {
-            "total": 80,
-            "key": 3,
-            "accuracy": 68
-          },
-          "tackles": {
-            "total": 2,
-            "blocks": 1,
-            "interceptions": 1
-          },
-          "duels": {
-            "total": 51,
-            "won": 11
-          },
-          "dribbles": {
-            "attempts": 3,
-            "success": 1,
-            "past": null
-          },
-          "fouls": {
-            "drawn": 1,
-            "committed": 1
-          },
-          "cards": {
-            "yellow": 0,
-            "yellowred": 0,
-            "red": 0
-          },
-          "penalty": {
-            "won": null,
-            "commited": null,
-            "scored": 0,
-            "missed": 0,
-            "saved": null
-          }
-        }
-      ]
-    },
-    {
-      "player": {
         "id": 118360,
         "name": "A. Newby",
         "firstname": "Alexander Lewis",
@@ -140,33 +45,33 @@
             "season": 2026
           },
           "games": {
-            "appearences": 5,
-            "lineups": 4,
-            "minutes": 378,
+            "appearences": 6,
+            "lineups": 5,
+            "minutes": 452,
             "number": 30,
             "position": "Midfielder",
-            "rating": "7.72",
+            "rating": "8.06",
             "captain": false
           },
           "substitutes": {
             "in": 1,
-            "out": 3,
+            "out": 4,
             "bench": 1
           },
           "shots": {
-            "total": 15,
-            "on": 11
+            "total": 17,
+            "on": 13
           },
           "goals": {
-            "total": 4,
+            "total": 6,
             "conceded": 0,
             "assists": 1,
             "saves": 0
           },
           "passes": {
-            "total": 143,
-            "key": 5,
-            "accuracy": 86
+            "total": 173,
+            "key": 7,
+            "accuracy": 85
           },
           "tackles": {
             "total": 1,
@@ -174,207 +79,17 @@
             "interceptions": 2
           },
           "duels": {
-            "total": 35,
-            "won": 12
+            "total": 46,
+            "won": 15
           },
           "dribbles": {
-            "attempts": 7,
-            "success": 3,
+            "attempts": 11,
+            "success": 5,
             "past": null
           },
           "fouls": {
-            "drawn": 7,
-            "committed": 2
-          },
-          "cards": {
-            "yellow": 0,
-            "yellowred": 0,
-            "red": 0
-          },
-          "penalty": {
-            "won": null,
-            "commited": null,
-            "scored": 0,
-            "missed": 0,
-            "saved": null
-          }
-        }
-      ]
-    },
-    {
-      "player": {
-        "id": 180559,
-        "name": "C. Caton",
-        "firstname": "Charlie",
-        "lastname": "Caton",
-        "age": 23,
-        "birth": {
-          "date": "2002-11-25",
-          "place": "Bodelwyddan",
-          "country": "Wales"
-        },
-        "nationality": "Wales",
-        "height": null,
-        "weight": null,
-        "injured": false,
-        "photo": "https://media.api-sports.io/football/players/180559.png"
-      },
-      "statistics": [
-        {
-          "team": {
-            "id": 1360,
-            "name": "Accrington ST",
-            "logo": "https://media.api-sports.io/football/teams/1360.png"
-          },
-          "league": {
-            "id": 42,
-            "name": "League Two",
-            "country": "England",
-            "logo": "https://media.api-sports.io/football/leagues/42.png",
-            "flag": "https://media.api-sports.io/flags/gb-eng.svg",
-            "season": 2026
-          },
-          "games": {
-            "appearences": 5,
-            "lineups": 5,
-            "minutes": 398,
-            "number": 18,
-            "position": "Attacker",
-            "rating": "7.13",
-            "captain": false
-          },
-          "substitutes": {
-            "in": 0,
-            "out": 3,
-            "bench": 0
-          },
-          "shots": {
-            "total": 16,
-            "on": 8
-          },
-          "goals": {
-            "total": 4,
-            "conceded": 0,
-            "assists": 0,
-            "saves": 0
-          },
-          "passes": {
-            "total": 65,
-            "key": 2,
-            "accuracy": 61
-          },
-          "tackles": {
-            "total": 1,
-            "blocks": 0,
-            "interceptions": 0
-          },
-          "duels": {
-            "total": 77,
-            "won": 26
-          },
-          "dribbles": {
-            "attempts": 7,
-            "success": 4,
-            "past": null
-          },
-          "fouls": {
-            "drawn": 3,
-            "committed": 4
-          },
-          "cards": {
-            "yellow": 0,
-            "yellowred": 0,
-            "red": 0
-          },
-          "penalty": {
-            "won": null,
-            "commited": null,
-            "scored": 0,
-            "missed": 0,
-            "saved": null
-          }
-        }
-      ]
-    },
-    {
-      "player": {
-        "id": 623779,
-        "name": "S. Gwengwe",
-        "firstname": null,
-        "lastname": null,
-        "age": 25,
-        "birth": {
-          "date": null,
-          "place": null,
-          "country": null
-        },
-        "nationality": null,
-        "height": null,
-        "weight": null,
-        "injured": false,
-        "photo": "https://media.api-sports.io/football/players/623779.png"
-      },
-      "statistics": [
-        {
-          "team": {
-            "id": 1367,
-            "name": "Newport County",
-            "logo": "https://media.api-sports.io/football/teams/1367.png"
-          },
-          "league": {
-            "id": 42,
-            "name": "League Two",
-            "country": "England",
-            "logo": "https://media.api-sports.io/football/leagues/42.png",
-            "flag": "https://media.api-sports.io/flags/gb-eng.svg",
-            "season": 2026
-          },
-          "games": {
-            "appearences": 5,
-            "lineups": 5,
-            "minutes": 433,
-            "number": 9,
-            "position": "Midfielder",
-            "rating": "6.78",
-            "captain": false
-          },
-          "substitutes": {
-            "in": 0,
-            "out": 2,
-            "bench": 0
-          },
-          "shots": {
-            "total": 5,
-            "on": 4
-          },
-          "goals": {
-            "total": 4,
-            "conceded": 0,
-            "assists": 0,
-            "saves": 0
-          },
-          "passes": {
-            "total": 35,
-            "key": 1,
-            "accuracy": 45
-          },
-          "tackles": {
-            "total": 0,
-            "blocks": 0,
-            "interceptions": 1
-          },
-          "duels": {
-            "total": 66,
-            "won": 17
-          },
-          "dribbles": {
-            "attempts": 10,
-            "success": 2,
-            "past": null
-          },
-          "fouls": {
-            "drawn": 4,
-            "committed": 7
+            "drawn": 8,
+            "committed": 3
           },
           "cards": {
             "yellow": 0,
@@ -425,12 +140,12 @@
             "season": 2026
           },
           "games": {
-            "appearences": 5,
-            "lineups": 5,
-            "minutes": 449,
+            "appearences": 6,
+            "lineups": 6,
+            "minutes": 539,
             "number": 8,
             "position": "Midfielder",
-            "rating": "7.17",
+            "rating": "7.33",
             "captain": false
           },
           "substitutes": {
@@ -439,8 +154,388 @@
             "bench": 0
           },
           "shots": {
-            "total": 8,
-            "on": 6
+            "total": 11,
+            "on": 8
+          },
+          "goals": {
+            "total": 6,
+            "conceded": 0,
+            "assists": 0,
+            "saves": 0
+          },
+          "passes": {
+            "total": 152,
+            "key": 10,
+            "accuracy": 75
+          },
+          "tackles": {
+            "total": 9,
+            "blocks": 2,
+            "interceptions": 3
+          },
+          "duels": {
+            "total": 52,
+            "won": 17
+          },
+          "dribbles": {
+            "attempts": 6,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 2,
+            "committed": 6
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 1,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 19529,
+        "name": "C. Lakin",
+        "firstname": "Charlie",
+        "lastname": "Lakin",
+        "age": 26,
+        "birth": {
+          "date": "1999-05-08",
+          "place": "Solihull",
+          "country": "England"
+        },
+        "nationality": "England",
+        "height": "183",
+        "weight": "76",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/19529.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 1369,
+            "name": "Barnet",
+            "logo": "https://media.api-sports.io/football/teams/1369.png"
+          },
+          "league": {
+            "id": 42,
+            "name": "League Two",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/42.png",
+            "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 6,
+            "lineups": 6,
+            "minutes": 520,
+            "number": 8,
+            "position": "Midfielder",
+            "rating": "7.26",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 2,
+            "bench": 0
+          },
+          "shots": {
+            "total": 12,
+            "on": 8
+          },
+          "goals": {
+            "total": 5,
+            "conceded": 0,
+            "assists": 2,
+            "saves": 0
+          },
+          "passes": {
+            "total": 143,
+            "key": 16,
+            "accuracy": 58
+          },
+          "tackles": {
+            "total": 5,
+            "blocks": 0,
+            "interceptions": 3
+          },
+          "duels": {
+            "total": 76,
+            "won": 25
+          },
+          "dribbles": {
+            "attempts": 16,
+            "success": 4,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 11,
+            "committed": 6
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 180559,
+        "name": "C. Caton",
+        "firstname": "Charlie",
+        "lastname": "Caton",
+        "age": 23,
+        "birth": {
+          "date": "2002-11-25",
+          "place": "Bodelwyddan",
+          "country": "Wales"
+        },
+        "nationality": "Wales",
+        "height": null,
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/180559.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 1360,
+            "name": "Accrington ST",
+            "logo": "https://media.api-sports.io/football/teams/1360.png"
+          },
+          "league": {
+            "id": 42,
+            "name": "League Two",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/42.png",
+            "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 6,
+            "lineups": 6,
+            "minutes": 443,
+            "number": 18,
+            "position": "Attacker",
+            "rating": "7.25",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 4,
+            "bench": 0
+          },
+          "shots": {
+            "total": 19,
+            "on": 9
+          },
+          "goals": {
+            "total": 5,
+            "conceded": 0,
+            "assists": 0,
+            "saves": 0
+          },
+          "passes": {
+            "total": 69,
+            "key": 2,
+            "accuracy": 60
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": 1,
+            "interceptions": 0
+          },
+          "duels": {
+            "total": 83,
+            "won": 27
+          },
+          "dribbles": {
+            "attempts": 8,
+            "success": 4,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 3,
+            "committed": 6
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 69406,
+        "name": "A. Drinan",
+        "firstname": "Aaron John",
+        "lastname": "Drinan",
+        "age": 27,
+        "birth": {
+          "date": "1998-05-06",
+          "place": "Cork",
+          "country": "Republic of Ireland"
+        },
+        "nationality": "Republic of Ireland",
+        "height": "182",
+        "weight": "73",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/69406.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 1353,
+            "name": "Swindon Town",
+            "logo": "https://media.api-sports.io/football/teams/1353.png"
+          },
+          "league": {
+            "id": 42,
+            "name": "League Two",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/42.png",
+            "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 6,
+            "lineups": 6,
+            "minutes": 527,
+            "number": 23,
+            "position": "Attacker",
+            "rating": "7.18",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 2,
+            "bench": 0
+          },
+          "shots": {
+            "total": 15,
+            "on": 10
+          },
+          "goals": {
+            "total": 5,
+            "conceded": 0,
+            "assists": 0,
+            "saves": 0
+          },
+          "passes": {
+            "total": 95,
+            "key": 4,
+            "accuracy": 69
+          },
+          "tackles": {
+            "total": 3,
+            "blocks": 2,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 63,
+            "won": 18
+          },
+          "dribbles": {
+            "attempts": 5,
+            "success": 3,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 2,
+            "committed": 2
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 623779,
+        "name": "S. Gwengwe",
+        "firstname": null,
+        "lastname": null,
+        "age": 25,
+        "birth": {
+          "date": null,
+          "place": null,
+          "country": null
+        },
+        "nationality": null,
+        "height": null,
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/623779.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 1367,
+            "name": "Newport County",
+            "logo": "https://media.api-sports.io/football/teams/1367.png"
+          },
+          "league": {
+            "id": 42,
+            "name": "League Two",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/42.png",
+            "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 6,
+            "lineups": 6,
+            "minutes": 502,
+            "number": 9,
+            "position": "Midfielder",
+            "rating": "6.69",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 3,
+            "bench": 0
+          },
+          "shots": {
+            "total": 5,
+            "on": 4
           },
           "goals": {
             "total": 4,
@@ -449,27 +544,27 @@
             "saves": 0
           },
           "passes": {
-            "total": 134,
-            "key": 8,
-            "accuracy": 75
+            "total": 44,
+            "key": 2,
+            "accuracy": 40
           },
           "tackles": {
-            "total": 10,
-            "blocks": 1,
-            "interceptions": 3
+            "total": 4,
+            "blocks": 0,
+            "interceptions": 1
           },
           "duels": {
-            "total": 46,
-            "won": 15
+            "total": 70,
+            "won": 20
           },
           "dribbles": {
-            "attempts": 5,
-            "success": 0,
+            "attempts": 9,
+            "success": 2,
             "past": null
           },
           "fouls": {
-            "drawn": 0,
-            "committed": 6
+            "drawn": 4,
+            "committed": 7
           },
           "cards": {
             "yellow": 0,
@@ -520,12 +615,12 @@
             "season": 2026
           },
           "games": {
-            "appearences": 5,
-            "lineups": 5,
-            "minutes": 450,
+            "appearences": 6,
+            "lineups": 6,
+            "minutes": 540,
             "number": 19,
             "position": "Attacker",
-            "rating": "7.14",
+            "rating": "7.12",
             "captain": false
           },
           "substitutes": {
@@ -534,7 +629,7 @@
             "bench": 0
           },
           "shots": {
-            "total": 12,
+            "total": 17,
             "on": 7
           },
           "goals": {
@@ -544,27 +639,27 @@
             "saves": 0
           },
           "passes": {
-            "total": 115,
+            "total": 147,
             "key": 4,
-            "accuracy": 80
+            "accuracy": 82
           },
           "tackles": {
-            "total": 0,
-            "blocks": 2,
+            "total": 1,
+            "blocks": 7,
             "interceptions": 0
           },
           "duels": {
-            "total": 65,
-            "won": 32
+            "total": 71,
+            "won": 35
           },
           "dribbles": {
-            "attempts": 2,
+            "attempts": 3,
             "success": 0,
             "past": null
           },
           "fouls": {
             "drawn": 3,
-            "committed": 4
+            "committed": 5
           },
           "cards": {
             "yellow": 0,
@@ -583,28 +678,28 @@
     },
     {
       "player": {
-        "id": 19529,
-        "name": "C. Lakin",
-        "firstname": "Charlie",
-        "lastname": "Lakin",
-        "age": 26,
+        "id": 434183,
+        "name": "J. Evans",
+        "firstname": "Jake",
+        "lastname": "Evans",
+        "age": 17,
         "birth": {
-          "date": "1999-05-08",
-          "place": "Solihull",
+          "date": "2008-06-04",
+          "place": null,
           "country": "England"
         },
         "nationality": "England",
-        "height": "183",
-        "weight": "76",
+        "height": null,
+        "weight": null,
         "injured": false,
-        "photo": "https://media.api-sports.io/football/players/19529.png"
+        "photo": "https://media.api-sports.io/football/players/434183.png"
       },
       "statistics": [
         {
           "team": {
-            "id": 1369,
-            "name": "Barnet",
-            "logo": "https://media.api-sports.io/football/teams/1369.png"
+            "id": 1372,
+            "name": "Cheltenham",
+            "logo": "https://media.api-sports.io/football/teams/1372.png"
           },
           "league": {
             "id": 42,
@@ -615,22 +710,22 @@
             "season": 2026
           },
           "games": {
-            "appearences": 5,
+            "appearences": 6,
             "lineups": 5,
-            "minutes": 430,
-            "number": 8,
-            "position": "Midfielder",
-            "rating": "7.17",
+            "minutes": 428,
+            "number": 19,
+            "position": "Attacker",
+            "rating": "7.07",
             "captain": false
           },
           "substitutes": {
-            "in": 0,
-            "out": 2,
-            "bench": 0
+            "in": 1,
+            "out": 5,
+            "bench": 1
           },
           "shots": {
-            "total": 9,
-            "on": 5
+            "total": 8,
+            "on": 6
           },
           "goals": {
             "total": 3,
@@ -639,27 +734,27 @@
             "saves": 0
           },
           "passes": {
-            "total": 121,
-            "key": 13,
-            "accuracy": 57
+            "total": 97,
+            "key": 4,
+            "accuracy": 65
           },
           "tackles": {
-            "total": 5,
+            "total": 10,
             "blocks": 1,
             "interceptions": 3
           },
           "duels": {
-            "total": 64,
-            "won": 21
+            "total": 80,
+            "won": 34
           },
           "dribbles": {
-            "attempts": 15,
-            "success": 3,
+            "attempts": 24,
+            "success": 13,
             "past": null
           },
           "fouls": {
-            "drawn": 8,
-            "committed": 6
+            "drawn": 7,
+            "committed": 11
           },
           "cards": {
             "yellow": 1,
@@ -710,12 +805,12 @@
             "season": 2026
           },
           "games": {
-            "appearences": 5,
-            "lineups": 5,
-            "minutes": 437,
+            "appearences": 6,
+            "lineups": 6,
+            "minutes": 527,
             "number": 9,
             "position": "Attacker",
-            "rating": "7.05",
+            "rating": "7.01",
             "captain": false
           },
           "substitutes": {
@@ -734,18 +829,18 @@
             "saves": 0
           },
           "passes": {
-            "total": 59,
-            "key": 6,
-            "accuracy": 61
+            "total": 69,
+            "key": 7,
+            "accuracy": 65
           },
           "tackles": {
-            "total": 5,
-            "blocks": 4,
+            "total": 6,
+            "blocks": 3,
             "interceptions": 2
           },
           "duels": {
-            "total": 76,
-            "won": 34
+            "total": 86,
+            "won": 37
           },
           "dribbles": {
             "attempts": 6,
@@ -753,8 +848,8 @@
             "past": null
           },
           "fouls": {
-            "drawn": 14,
-            "committed": 8
+            "drawn": 15,
+            "committed": 9
           },
           "cards": {
             "yellow": 1,
@@ -805,22 +900,22 @@
             "season": 2026
           },
           "games": {
-            "appearences": 5,
-            "lineups": 4,
-            "minutes": 339,
+            "appearences": 6,
+            "lineups": 5,
+            "minutes": 417,
             "number": 10,
             "position": "Attacker",
-            "rating": "7.06",
+            "rating": "6.98",
             "captain": false
           },
           "substitutes": {
             "in": 1,
-            "out": 3,
+            "out": 4,
             "bench": 1
           },
           "shots": {
-            "total": 16,
-            "on": 7
+            "total": 18,
+            "on": 8
           },
           "goals": {
             "total": 3,
@@ -829,27 +924,27 @@
             "saves": 0
           },
           "passes": {
-            "total": 68,
-            "key": 7,
-            "accuracy": 64
+            "total": 82,
+            "key": 8,
+            "accuracy": 67
           },
           "tackles": {
             "total": 2,
             "blocks": 0,
-            "interceptions": 1
+            "interceptions": 3
           },
           "duels": {
-            "total": 36,
-            "won": 16
+            "total": 45,
+            "won": 19
           },
           "dribbles": {
-            "attempts": 2,
+            "attempts": 3,
             "success": 2,
             "past": null
           },
           "fouls": {
-            "drawn": 7,
-            "committed": 6
+            "drawn": 9,
+            "committed": 9
           },
           "cards": {
             "yellow": 1,
@@ -900,21 +995,21 @@
             "season": 2026
           },
           "games": {
-            "appearences": 5,
-            "lineups": 5,
-            "minutes": 448,
+            "appearences": 6,
+            "lineups": 6,
+            "minutes": 536,
             "number": 20,
             "position": "Attacker",
-            "rating": "7.25",
+            "rating": "6.86",
             "captain": false
           },
           "substitutes": {
             "in": 0,
-            "out": 2,
+            "out": 3,
             "bench": 0
           },
           "shots": {
-            "total": 8,
+            "total": 6,
             "on": 4
           },
           "goals": {
@@ -924,17 +1019,17 @@
             "saves": 0
           },
           "passes": {
-            "total": 48,
-            "key": 9,
-            "accuracy": 79
+            "total": 53,
+            "key": 10,
+            "accuracy": 77
           },
           "tackles": {
             "total": 4,
-            "blocks": 2,
+            "blocks": 0,
             "interceptions": 0
           },
           "duels": {
-            "total": 43,
+            "total": 53,
             "won": 15
           },
           "dribbles": {
@@ -944,7 +1039,7 @@
           },
           "fouls": {
             "drawn": 4,
-            "committed": 7
+            "committed": 8
           },
           "cards": {
             "yellow": 0,
@@ -995,21 +1090,21 @@
             "season": 2026
           },
           "games": {
-            "appearences": 5,
-            "lineups": 5,
-            "minutes": 430,
+            "appearences": 6,
+            "lineups": 6,
+            "minutes": 516,
             "number": 12,
             "position": "Midfielder",
-            "rating": "7.42",
+            "rating": "7.23",
             "captain": false
           },
           "substitutes": {
             "in": 0,
-            "out": 2,
+            "out": 3,
             "bench": 0
           },
           "shots": {
-            "total": 10,
+            "total": 9,
             "on": 3
           },
           "goals": {
@@ -1019,22 +1114,22 @@
             "saves": 0
           },
           "passes": {
-            "total": 158,
-            "key": 17,
-            "accuracy": 81
+            "total": 182,
+            "key": 18,
+            "accuracy": 82
           },
           "tackles": {
             "total": 8,
-            "blocks": 1,
+            "blocks": 0,
             "interceptions": 5
           },
           "duels": {
-            "total": 48,
-            "won": 24
+            "total": 54,
+            "won": 26
           },
           "dribbles": {
-            "attempts": 4,
-            "success": 2,
+            "attempts": 6,
+            "success": 3,
             "past": null
           },
           "fouls": {
@@ -1049,6 +1144,196 @@
           "penalty": {
             "won": null,
             "commited": 1,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 155862,
+        "name": "O. Pearce",
+        "firstname": "Ollie",
+        "lastname": "Pearce",
+        "age": 30,
+        "birth": {
+          "date": "1995-08-08",
+          "place": "Brighton",
+          "country": "England"
+        },
+        "nationality": "England",
+        "height": "174",
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/155862.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 1828,
+            "name": "York",
+            "logo": "https://media.api-sports.io/football/teams/1828.png"
+          },
+          "league": {
+            "id": 42,
+            "name": "League Two",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/42.png",
+            "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 6,
+            "lineups": 6,
+            "minutes": 511,
+            "number": 10,
+            "position": "Attacker",
+            "rating": "6.87",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 2,
+            "bench": 0
+          },
+          "shots": {
+            "total": 12,
+            "on": 4
+          },
+          "goals": {
+            "total": 2,
+            "conceded": 0,
+            "assists": 3,
+            "saves": 0
+          },
+          "passes": {
+            "total": 81,
+            "key": 7,
+            "accuracy": 77
+          },
+          "tackles": {
+            "total": 3,
+            "blocks": 2,
+            "interceptions": 0
+          },
+          "duels": {
+            "total": 33,
+            "won": 9
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 4,
+            "committed": 4
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 82223,
+        "name": "K. Green",
+        "firstname": "Kieran Thomas",
+        "lastname": "Green",
+        "age": 28,
+        "birth": {
+          "date": "1997-06-30",
+          "place": "Stockton-on-Tees",
+          "country": "England"
+        },
+        "nationality": "England",
+        "height": "184",
+        "weight": "78",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/82223.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 1365,
+            "name": "Grimsby",
+            "logo": "https://media.api-sports.io/football/teams/1365.png"
+          },
+          "league": {
+            "id": 42,
+            "name": "League Two",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/42.png",
+            "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 6,
+            "lineups": 6,
+            "minutes": 521,
+            "number": 4,
+            "position": "Midfielder",
+            "rating": "6.83",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 2,
+            "bench": 0
+          },
+          "shots": {
+            "total": 3,
+            "on": 2
+          },
+          "goals": {
+            "total": 2,
+            "conceded": 0,
+            "assists": 2,
+            "saves": 0
+          },
+          "passes": {
+            "total": 167,
+            "key": 9,
+            "accuracy": 57
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": 0,
+            "interceptions": 2
+          },
+          "duels": {
+            "total": 91,
+            "won": 35
+          },
+          "dribbles": {
+            "attempts": 5,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 4,
+            "committed": 7
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
             "scored": 0,
             "missed": 0,
             "saved": null
@@ -1090,12 +1375,12 @@
             "season": 2026
           },
           "games": {
-            "appearences": 5,
-            "lineups": 5,
-            "minutes": 449,
+            "appearences": 6,
+            "lineups": 6,
+            "minutes": 539,
             "number": 10,
             "position": "Midfielder",
-            "rating": "7.26",
+            "rating": "7.24",
             "captain": false
           },
           "substitutes": {
@@ -1104,7 +1389,7 @@
             "bench": 0
           },
           "shots": {
-            "total": 6,
+            "total": 8,
             "on": 2
           },
           "goals": {
@@ -1114,26 +1399,26 @@
             "saves": 0
           },
           "passes": {
-            "total": 121,
-            "key": 7,
-            "accuracy": 72
+            "total": 148,
+            "key": 10,
+            "accuracy": 75
           },
           "tackles": {
-            "total": 4,
-            "blocks": 2,
+            "total": 6,
+            "blocks": 4,
             "interceptions": 3
           },
           "duels": {
-            "total": 47,
-            "won": 23
+            "total": 61,
+            "won": 29
           },
           "dribbles": {
-            "attempts": 6,
-            "success": 3,
+            "attempts": 9,
+            "success": 5,
             "past": null
           },
           "fouls": {
-            "drawn": 11,
+            "drawn": 13,
             "committed": 1
           },
           "cards": {
@@ -1185,22 +1470,22 @@
             "season": 2026
           },
           "games": {
-            "appearences": 5,
-            "lineups": 2,
-            "minutes": 234,
+            "appearences": 6,
+            "lineups": 3,
+            "minutes": 297,
             "number": 7,
             "position": "Attacker",
-            "rating": "6.85",
+            "rating": "6.94",
             "captain": false
           },
           "substitutes": {
             "in": 3,
-            "out": 2,
+            "out": 3,
             "bench": 3
           },
           "shots": {
             "total": 6,
-            "on": 3
+            "on": 4
           },
           "goals": {
             "total": 2,
@@ -1209,27 +1494,122 @@
             "saves": 0
           },
           "passes": {
-            "total": 59,
-            "key": 5,
+            "total": 74,
+            "key": 7,
             "accuracy": 50
           },
           "tackles": {
             "total": 3,
-            "blocks": 1,
+            "blocks": 0,
             "interceptions": 0
           },
           "duels": {
-            "total": 42,
-            "won": 18
+            "total": 51,
+            "won": 22
           },
           "dribbles": {
-            "attempts": 7,
-            "success": 3,
+            "attempts": 8,
+            "success": 4,
             "past": null
           },
           "fouls": {
-            "drawn": 6,
+            "drawn": 7,
             "committed": 7
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 135545,
+        "name": "L. Bonis",
+        "firstname": "Lee",
+        "lastname": "Bonis",
+        "age": 26,
+        "birth": {
+          "date": "1999-08-03",
+          "place": "Portadown",
+          "country": "Northern Ireland"
+        },
+        "nationality": "Northern Ireland",
+        "height": "186",
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/135545.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 1345,
+            "name": "Chesterfield",
+            "logo": "https://media.api-sports.io/football/teams/1345.png"
+          },
+          "league": {
+            "id": 42,
+            "name": "League Two",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/42.png",
+            "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 6,
+            "lineups": 5,
+            "minutes": 416,
+            "number": 10,
+            "position": "Attacker",
+            "rating": "6.81",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 3,
+            "bench": 1
+          },
+          "shots": {
+            "total": 12,
+            "on": 4
+          },
+          "goals": {
+            "total": 2,
+            "conceded": 0,
+            "assists": 1,
+            "saves": 0
+          },
+          "passes": {
+            "total": 62,
+            "key": 6,
+            "accuracy": 66
+          },
+          "tackles": {
+            "total": 2,
+            "blocks": 1,
+            "interceptions": 3
+          },
+          "duels": {
+            "total": 74,
+            "won": 26
+          },
+          "dribbles": {
+            "attempts": 4,
+            "success": 2,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 8,
+            "committed": 9
           },
           "cards": {
             "yellow": 1,
@@ -1280,17 +1660,17 @@
             "season": 2026
           },
           "games": {
-            "appearences": 5,
-            "lineups": 5,
-            "minutes": 394,
+            "appearences": 6,
+            "lineups": 6,
+            "minutes": 439,
             "number": 29,
             "position": "Attacker",
-            "rating": "7.04",
+            "rating": "6.9",
             "captain": false
           },
           "substitutes": {
             "in": 0,
-            "out": 3,
+            "out": 4,
             "bench": 0
           },
           "shots": {
@@ -1304,9 +1684,9 @@
             "saves": 0
           },
           "passes": {
-            "total": 57,
+            "total": 60,
             "key": 6,
-            "accuracy": 82
+            "accuracy": 81
           },
           "tackles": {
             "total": 1,
@@ -1314,11 +1694,11 @@
             "interceptions": 0
           },
           "duels": {
-            "total": 45,
+            "total": 46,
             "won": 17
           },
           "dribbles": {
-            "attempts": 13,
+            "attempts": 14,
             "success": 9,
             "past": null
           },
@@ -1343,28 +1723,28 @@
     },
     {
       "player": {
-        "id": 19505,
-        "name": "T. Ince",
-        "firstname": "Thomas Christopher",
-        "lastname": "Ince",
-        "age": 33,
+        "id": 17794,
+        "name": "J. Powell",
+        "firstname": "Joe James",
+        "lastname": "Powell",
+        "age": 27,
         "birth": {
-          "date": "1992-01-30",
-          "place": "Stockport",
+          "date": "1998-10-30",
+          "place": "Newham",
           "country": "England"
         },
         "nationality": "England",
         "height": "178",
-        "weight": "66",
+        "weight": "68",
         "injured": false,
-        "photo": "https://media.api-sports.io/football/players/19505.png"
+        "photo": "https://media.api-sports.io/football/players/17794.png"
       },
       "statistics": [
         {
           "team": {
-            "id": 1381,
-            "name": "Tranmere",
-            "logo": "https://media.api-sports.io/football/teams/1381.png"
+            "id": 1844,
+            "name": "Salford City",
+            "logo": "https://media.api-sports.io/football/teams/1844.png"
           },
           "league": {
             "id": 42,
@@ -1375,22 +1755,22 @@
             "season": 2026
           },
           "games": {
-            "appearences": 5,
-            "lineups": 5,
-            "minutes": 449,
-            "number": 10,
-            "position": "Attacker",
-            "rating": "7.04",
+            "appearences": 6,
+            "lineups": 6,
+            "minutes": 456,
+            "number": 6,
+            "position": "Midfielder",
+            "rating": "7.09",
             "captain": false
           },
           "substitutes": {
             "in": 0,
-            "out": 1,
+            "out": 5,
             "bench": 0
           },
           "shots": {
-            "total": 9,
-            "on": 5
+            "total": 7,
+            "on": 4
           },
           "goals": {
             "total": 2,
@@ -1399,30 +1779,30 @@
             "saves": 0
           },
           "passes": {
-            "total": 109,
-            "key": 4,
-            "accuracy": 77
+            "total": 248,
+            "key": 10,
+            "accuracy": 82
           },
           "tackles": {
             "total": 6,
-            "blocks": 2,
-            "interceptions": 3
+            "blocks": 1,
+            "interceptions": 2
           },
           "duels": {
-            "total": 39,
-            "won": 16
+            "total": 59,
+            "won": 25
           },
           "dribbles": {
-            "attempts": 7,
-            "success": 2,
+            "attempts": 11,
+            "success": 4,
             "past": null
           },
           "fouls": {
-            "drawn": 5,
-            "committed": 6
+            "drawn": 11,
+            "committed": 8
           },
           "cards": {
-            "yellow": 2,
+            "yellow": 1,
             "yellowred": 0,
             "red": 0
           },
@@ -1438,28 +1818,28 @@
     },
     {
       "player": {
-        "id": 18040,
-        "name": "T. James",
-        "firstname": "Thomas Lynn",
-        "lastname": "James",
-        "age": 29,
+        "id": 119086,
+        "name": "Ronan Hale",
+        "firstname": "Ronan Aiden Connolly Shea Chap",
+        "lastname": "Hale",
+        "age": 27,
         "birth": {
-          "date": "1996-04-15",
-          "place": "Cardiff",
-          "country": "Wales"
+          "date": "1998-09-08",
+          "place": "Belfast",
+          "country": "Republic of Ireland"
         },
-        "nationality": "Wales",
-        "height": "180",
-        "weight": "65",
+        "nationality": "Republic of Ireland",
+        "height": "176",
+        "weight": "70",
         "injured": false,
-        "photo": "https://media.api-sports.io/football/players/18040.png"
+        "photo": "https://media.api-sports.io/football/players/119086.png"
       },
       "statistics": [
         {
           "team": {
-            "id": 1334,
-            "name": "Bristol Rovers",
-            "logo": "https://media.api-sports.io/football/teams/1334.png"
+            "id": 1347,
+            "name": "Gillingham",
+            "logo": "https://media.api-sports.io/football/teams/1347.png"
           },
           "league": {
             "id": 42,
@@ -1470,22 +1850,22 @@
             "season": 2026
           },
           "games": {
-            "appearences": 4,
-            "lineups": 4,
-            "minutes": 355,
-            "number": 2,
-            "position": "Defender",
-            "rating": "7.15",
+            "appearences": 6,
+            "lineups": 6,
+            "minutes": 498,
+            "number": 10,
+            "position": "Attacker",
+            "rating": "6.91",
             "captain": false
           },
           "substitutes": {
             "in": 0,
-            "out": 1,
+            "out": 4,
             "bench": 0
           },
           "shots": {
-            "total": 2,
-            "on": 2
+            "total": 19,
+            "on": 8
           },
           "goals": {
             "total": 2,
@@ -1494,407 +1874,27 @@
             "saves": 0
           },
           "passes": {
-            "total": 133,
-            "key": 7,
-            "accuracy": 66
-          },
-          "tackles": {
-            "total": 3,
-            "blocks": 1,
-            "interceptions": 5
-          },
-          "duels": {
-            "total": 23,
-            "won": 13
-          },
-          "dribbles": {
-            "attempts": 3,
-            "success": 0,
-            "past": null
-          },
-          "fouls": {
-            "drawn": 1,
-            "committed": 1
-          },
-          "cards": {
-            "yellow": 2,
-            "yellowred": 0,
-            "red": 0
-          },
-          "penalty": {
-            "won": null,
-            "commited": null,
-            "scored": 0,
-            "missed": 0,
-            "saved": null
-          }
-        }
-      ]
-    },
-    {
-      "player": {
-        "id": 69381,
-        "name": "R. Coughlan",
-        "firstname": "Ronan Liam",
-        "lastname": "Coughlan",
-        "age": 29,
-        "birth": {
-          "date": "1995-10-02",
-          "place": "Limerick",
-          "country": "Republic of Ireland"
-        },
-        "nationality": "Republic of Ireland",
-        "height": "178",
-        "weight": "75",
-        "injured": false,
-        "photo": "https://media.api-sports.io/football/players/69381.png"
-      },
-      "statistics": [
-        {
-          "team": {
-            "id": 1336,
-            "name": "Fleetwood Town",
-            "logo": "https://media.api-sports.io/football/teams/1336.png"
-          },
-          "league": {
-            "id": 42,
-            "name": "League Two",
-            "country": "England",
-            "logo": "https://media.api-sports.io/football/leagues/42.png",
-            "flag": "https://media.api-sports.io/flags/gb-eng.svg",
-            "season": 2026
-          },
-          "games": {
-            "appearences": 3,
-            "lineups": 1,
-            "minutes": 115,
-            "number": 19,
-            "position": "Attacker",
-            "rating": "7.68",
-            "captain": false
-          },
-          "substitutes": {
-            "in": 2,
-            "out": 1,
-            "bench": 2
-          },
-          "shots": {
-            "total": 3,
-            "on": 2
-          },
-          "goals": {
-            "total": 2,
-            "conceded": 0,
-            "assists": 1,
-            "saves": 0
-          },
-          "passes": {
-            "total": 29,
-            "key": 3,
-            "accuracy": 65
+            "total": 104,
+            "key": 5,
+            "accuracy": 73
           },
           "tackles": {
             "total": 4,
-            "blocks": 1,
-            "interceptions": 0
+            "blocks": 2,
+            "interceptions": 2
           },
           "duels": {
-            "total": 21,
-            "won": 10
+            "total": 50,
+            "won": 19
           },
           "dribbles": {
-            "attempts": 3,
-            "success": 2,
+            "attempts": 11,
+            "success": 5,
             "past": null
           },
           "fouls": {
-            "drawn": 2,
-            "committed": 2
-          },
-          "cards": {
-            "yellow": 0,
-            "yellowred": 0,
-            "red": 0
-          },
-          "penalty": {
-            "won": null,
-            "commited": null,
-            "scored": 0,
-            "missed": 0,
-            "saved": null
-          }
-        }
-      ]
-    },
-    {
-      "player": {
-        "id": 17810,
-        "name": "R. Broom",
-        "firstname": "Ryan James",
-        "lastname": "Broom",
-        "age": 29,
-        "birth": {
-          "date": "1996-09-04",
-          "place": "Newport",
-          "country": "Wales"
-        },
-        "nationality": "Wales",
-        "height": "177",
-        "weight": "80",
-        "injured": false,
-        "photo": "https://media.api-sports.io/football/players/17810.png"
-      },
-      "statistics": [
-        {
-          "team": {
-            "id": 1372,
-            "name": "Cheltenham",
-            "logo": "https://media.api-sports.io/football/teams/1372.png"
-          },
-          "league": {
-            "id": 42,
-            "name": "League Two",
-            "country": "England",
-            "logo": "https://media.api-sports.io/football/leagues/42.png",
-            "flag": "https://media.api-sports.io/flags/gb-eng.svg",
-            "season": 2026
-          },
-          "games": {
-            "appearences": 3,
-            "lineups": 2,
-            "minutes": 179,
-            "number": 14,
-            "position": "Midfielder",
-            "rating": "6.93",
-            "captain": false
-          },
-          "substitutes": {
-            "in": 1,
-            "out": 1,
-            "bench": 1
-          },
-          "shots": {
-            "total": 4,
-            "on": 3
-          },
-          "goals": {
-            "total": 2,
-            "conceded": 0,
-            "assists": 1,
-            "saves": null
-          },
-          "passes": {
-            "total": 46,
-            "key": 1,
-            "accuracy": 71
-          },
-          "tackles": {
-            "total": 4,
-            "blocks": 1,
-            "interceptions": null
-          },
-          "duels": {
-            "total": 25,
-            "won": 7
-          },
-          "dribbles": {
-            "attempts": 4,
-            "success": 1,
-            "past": null
-          },
-          "fouls": {
-            "drawn": 1,
-            "committed": 1
-          },
-          "cards": {
-            "yellow": 0,
-            "yellowred": 0,
-            "red": 0
-          },
-          "penalty": {
-            "won": null,
-            "commited": 1,
-            "scored": 0,
-            "missed": 0,
-            "saved": null
-          }
-        }
-      ]
-    },
-    {
-      "player": {
-        "id": 445923,
-        "name": "P. Aderoju",
-        "firstname": "Oluwalopemiwa Adedunmola",
-        "lastname": "Aderoju",
-        "age": 21,
-        "birth": {
-          "date": "2004-05-05",
-          "place": null,
-          "country": "England"
-        },
-        "nationality": "England",
-        "height": null,
-        "weight": null,
-        "injured": false,
-        "photo": "https://media.api-sports.io/football/players/445923.png"
-      },
-      "statistics": [
-        {
-          "team": {
-            "id": 1362,
-            "name": "Crawley Town",
-            "logo": "https://media.api-sports.io/football/teams/1362.png"
-          },
-          "league": {
-            "id": 42,
-            "name": "League Two",
-            "country": "England",
-            "logo": "https://media.api-sports.io/football/leagues/42.png",
-            "flag": "https://media.api-sports.io/flags/gb-eng.svg",
-            "season": 2026
-          },
-          "games": {
-            "appearences": 5,
-            "lineups": 3,
-            "minutes": 291,
-            "number": 11,
-            "position": "Attacker",
-            "rating": "7.1",
-            "captain": false
-          },
-          "substitutes": {
-            "in": 2,
-            "out": 2,
-            "bench": 2
-          },
-          "shots": {
-            "total": 5,
-            "on": 3
-          },
-          "goals": {
-            "total": 2,
-            "conceded": 0,
-            "assists": 0,
-            "saves": 0
-          },
-          "passes": {
-            "total": 29,
-            "key": 1,
-            "accuracy": 75
-          },
-          "tackles": {
-            "total": 2,
-            "blocks": 1,
-            "interceptions": 1
-          },
-          "duels": {
-            "total": 41,
-            "won": 21
-          },
-          "dribbles": {
-            "attempts": 4,
-            "success": 2,
-            "past": null
-          },
-          "fouls": {
-            "drawn": 12,
-            "committed": 7
-          },
-          "cards": {
-            "yellow": 0,
-            "yellowred": 0,
-            "red": 0
-          },
-          "penalty": {
-            "won": 1,
-            "commited": null,
-            "scored": 0,
-            "missed": 0,
-            "saved": null
-          }
-        }
-      ]
-    },
-    {
-      "player": {
-        "id": 459488,
-        "name": "Z. Okoro",
-        "firstname": "Zane",
-        "lastname": "Okoro",
-        "age": 18,
-        "birth": {
-          "date": "2007-09-24",
-          "place": "Norwalk",
-          "country": "England"
-        },
-        "nationality": "England",
-        "height": null,
-        "weight": null,
-        "injured": false,
-        "photo": "https://media.api-sports.io/football/players/459488.png"
-      },
-      "statistics": [
-        {
-          "team": {
-            "id": 1381,
-            "name": "Tranmere",
-            "logo": "https://media.api-sports.io/football/teams/1381.png"
-          },
-          "league": {
-            "id": 42,
-            "name": "League Two",
-            "country": "England",
-            "logo": "https://media.api-sports.io/football/leagues/42.png",
-            "flag": "https://media.api-sports.io/flags/gb-eng.svg",
-            "season": 2026
-          },
-          "games": {
-            "appearences": 5,
-            "lineups": 4,
-            "minutes": 299,
-            "number": 17,
-            "position": "Attacker",
-            "rating": "6.84",
-            "captain": false
-          },
-          "substitutes": {
-            "in": 1,
-            "out": 4,
-            "bench": 1
-          },
-          "shots": {
-            "total": 4,
-            "on": 2
-          },
-          "goals": {
-            "total": 2,
-            "conceded": 0,
-            "assists": 0,
-            "saves": 0
-          },
-          "passes": {
-            "total": 42,
-            "key": 1,
-            "accuracy": 61
-          },
-          "tackles": {
-            "total": 5,
-            "blocks": 0,
-            "interceptions": 1
-          },
-          "duels": {
-            "total": 53,
-            "won": 25
-          },
-          "dribbles": {
-            "attempts": 7,
-            "success": 2,
-            "past": null
-          },
-          "fouls": {
-            "drawn": 9,
-            "committed": 4
+            "drawn": 6,
+            "committed": 8
           },
           "cards": {
             "yellow": 1,

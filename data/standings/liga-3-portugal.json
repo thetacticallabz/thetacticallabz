@@ -28,30 +28,30 @@
                 "name": "Paredes",
                 "logo": "https://media.api-sports.io/football/teams/4778.png"
               },
-              "points": 9,
-              "goalsDiff": 3,
+              "points": 12,
+              "goalsDiff": 4,
               "group": "Liga 3",
-              "form": "WLWW",
+              "form": "WWLWW",
               "status": "same",
               "description": "Promotion - Liga 3 (Promotion Group)",
               "all": {
-                "played": 4,
-                "win": 3,
+                "played": 5,
+                "win": 4,
+                "draw": 0,
+                "lose": 1,
+                "goals": {
+                  "for": 8,
+                  "against": 4
+                }
+              },
+              "home": {
+                "played": 3,
+                "win": 2,
                 "draw": 0,
                 "lose": 1,
                 "goals": {
                   "for": 6,
-                  "against": 3
-                }
-              },
-              "home": {
-                "played": 2,
-                "win": 1,
-                "draw": 0,
-                "lose": 1,
-                "goals": {
-                  "for": 4,
-                  "against": 3
+                  "against": 4
                 }
               },
               "away": {
@@ -64,39 +64,84 @@
                   "against": 0
                 }
               },
-              "update": "2026-09-06T00:00:00+00:00"
+              "update": "2026-09-13T00:00:00+00:00"
             },
             {
               "rank": 2,
+              "team": {
+                "id": 22089,
+                "name": "AD Marco 09",
+                "logo": "https://media.api-sports.io/football/teams/22089.png"
+              },
+              "points": 10,
+              "goalsDiff": 3,
+              "group": "Liga 3",
+              "form": "WDWLW",
+              "status": "same",
+              "description": "Promotion - Liga 3 (Promotion Group)",
+              "all": {
+                "played": 5,
+                "win": 3,
+                "draw": 1,
+                "lose": 1,
+                "goals": {
+                  "for": 6,
+                  "against": 3
+                }
+              },
+              "home": {
+                "played": 3,
+                "win": 3,
+                "draw": 0,
+                "lose": 0,
+                "goals": {
+                  "for": 5,
+                  "against": 1
+                }
+              },
+              "away": {
+                "played": 2,
+                "win": 0,
+                "draw": 1,
+                "lose": 1,
+                "goals": {
+                  "for": 1,
+                  "against": 2
+                }
+              },
+              "update": "2026-09-13T00:00:00+00:00"
+            },
+            {
+              "rank": 3,
               "team": {
                 "id": 237,
                 "name": "Varzim",
                 "logo": "https://media.api-sports.io/football/teams/237.png"
               },
               "points": 9,
-              "goalsDiff": 4,
+              "goalsDiff": 3,
               "group": "Liga 3",
-              "form": "LWWW",
+              "form": "LLWWW",
               "status": "same",
               "description": "Promotion - Liga 3 (Promotion Group)",
               "all": {
-                "played": 4,
+                "played": 5,
                 "win": 3,
                 "draw": 0,
-                "lose": 1,
+                "lose": 2,
                 "goals": {
-                  "for": 7,
-                  "against": 3
+                  "for": 8,
+                  "against": 5
                 }
               },
               "home": {
-                "played": 2,
+                "played": 3,
                 "win": 1,
                 "draw": 0,
-                "lose": 1,
+                "lose": 2,
                 "goals": {
-                  "for": 2,
-                  "against": 2
+                  "for": 3,
+                  "against": 4
                 }
               },
               "away": {
@@ -109,29 +154,29 @@
                   "against": 1
                 }
               },
-              "update": "2026-09-06T00:00:00+00:00"
+              "update": "2026-09-13T00:00:00+00:00"
             },
             {
-              "rank": 3,
+              "rank": 4,
               "team": {
                 "id": 809,
                 "name": "Fafe",
                 "logo": "https://media.api-sports.io/football/teams/809.png"
               },
               "points": 8,
-              "goalsDiff": 5,
+              "goalsDiff": 4,
               "group": "Liga 3",
-              "form": "WDWD",
+              "form": "LWDWD",
               "status": "same",
               "description": "Promotion - Liga 3 (Promotion Group)",
               "all": {
-                "played": 4,
+                "played": 5,
                 "win": 2,
                 "draw": 2,
-                "lose": 0,
+                "lose": 1,
                 "goals": {
-                  "for": 7,
-                  "against": 2
+                  "for": 8,
+                  "against": 4
                 }
               },
               "home": {
@@ -145,61 +190,16 @@
                 }
               },
               "away": {
-                "played": 2,
+                "played": 3,
                 "win": 2,
                 "draw": 0,
-                "lose": 0,
-                "goals": {
-                  "for": 6,
-                  "against": 1
-                }
-              },
-              "update": "2026-09-06T00:00:00+00:00"
-            },
-            {
-              "rank": 4,
-              "team": {
-                "id": 22089,
-                "name": "AD Marco 09",
-                "logo": "https://media.api-sports.io/football/teams/22089.png"
-              },
-              "points": 7,
-              "goalsDiff": 2,
-              "group": "Liga 3",
-              "form": "DWLW",
-              "status": "same",
-              "description": "Promotion - Liga 3 (Promotion Group)",
-              "all": {
-                "played": 4,
-                "win": 2,
-                "draw": 1,
                 "lose": 1,
                 "goals": {
-                  "for": 5,
+                  "for": 7,
                   "against": 3
                 }
               },
-              "home": {
-                "played": 2,
-                "win": 2,
-                "draw": 0,
-                "lose": 0,
-                "goals": {
-                  "for": 4,
-                  "against": 1
-                }
-              },
-              "away": {
-                "played": 2,
-                "win": 0,
-                "draw": 1,
-                "lose": 1,
-                "goals": {
-                  "for": 1,
-                  "against": 2
-                }
-              },
-              "update": "2026-09-06T00:00:00+00:00"
+              "update": "2026-09-13T00:00:00+00:00"
             },
             {
               "rank": 5,
@@ -208,20 +208,20 @@
                 "name": "Vianense",
                 "logo": "https://media.api-sports.io/football/teams/4809.png"
               },
-              "points": 5,
-              "goalsDiff": 0,
+              "points": 8,
+              "goalsDiff": 1,
               "group": "Liga 3",
-              "form": "DLWD",
+              "form": "WDLWD",
               "status": "same",
               "description": "Liga 3 (Relegation Group)",
               "all": {
-                "played": 4,
-                "win": 1,
+                "played": 5,
+                "win": 2,
                 "draw": 2,
                 "lose": 1,
                 "goals": {
-                  "for": 4,
-                  "against": 4
+                  "for": 6,
+                  "against": 5
                 }
               },
               "home": {
@@ -235,38 +235,83 @@
                 }
               },
               "away": {
+                "played": 3,
+                "win": 1,
+                "draw": 1,
+                "lose": 1,
+                "goals": {
+                  "for": 2,
+                  "against": 3
+                }
+              },
+              "update": "2026-09-13T00:00:00+00:00"
+            },
+            {
+              "rank": 6,
+              "team": {
+                "id": 4757,
+                "name": "Leça",
+                "logo": "https://media.api-sports.io/football/teams/4757.png"
+              },
+              "points": 7,
+              "goalsDiff": -1,
+              "group": "Liga 3",
+              "form": "WLWLD",
+              "status": "same",
+              "description": "Liga 3 (Relegation Group)",
+              "all": {
+                "played": 5,
+                "win": 2,
+                "draw": 1,
+                "lose": 2,
+                "goals": {
+                  "for": 7,
+                  "against": 8
+                }
+              },
+              "home": {
                 "played": 2,
                 "win": 0,
                 "draw": 1,
                 "lose": 1,
                 "goals": {
-                  "for": 0,
-                  "against": 2
+                  "for": 1,
+                  "against": 4
                 }
               },
-              "update": "2026-09-06T00:00:00+00:00"
+              "away": {
+                "played": 3,
+                "win": 2,
+                "draw": 0,
+                "lose": 1,
+                "goals": {
+                  "for": 6,
+                  "against": 4
+                }
+              },
+              "update": "2026-09-13T00:00:00+00:00"
             },
             {
-              "rank": 6,
+              "rank": 7,
               "team": {
                 "id": 232,
                 "name": "Guimaraes B",
                 "logo": "https://media.api-sports.io/football/teams/232.png"
               },
               "points": 5,
-              "goalsDiff": 0,
+              "goalsDiff": -1,
               "group": "Liga 3",
-              "form": "DDWL",
+              "form": "LDDWL",
               "status": "same",
               "description": "Liga 3 (Relegation Group)",
               "all": {
-                "played": 4,
+                "played": 5,
                 "win": 1,
                 "draw": 2,
-                "lose": 1,
+                "lose": 2,
                 "goals": {
                   "for": 4,
-                  "against": 4
+                  "against": 5
                 }
               },
               "home": {
@@ -280,48 +325,48 @@
                 }
               },
               "away": {
-                "played": 2,
+                "played": 3,
                 "win": 0,
                 "draw": 1,
-                "lose": 1,
+                "lose": 2,
                 "goals": {
                   "for": 2,
-                  "against": 4
+                  "against": 5
                 }
               },
-              "update": "2026-09-06T00:00:00+00:00"
+              "update": "2026-09-13T00:00:00+00:00"
             },
             {
-              "rank": 7,
+              "rank": 8,
               "team": {
                 "id": 4801,
                 "name": "Trofense",
                 "logo": "https://media.api-sports.io/football/teams/4801.png"
               },
               "points": 4,
-              "goalsDiff": -2,
+              "goalsDiff": -5,
               "group": "Liga 3",
-              "form": "DWLL",
+              "form": "LDWLL",
               "status": "same",
               "description": "Liga 3 (Relegation Group)",
               "all": {
-                "played": 4,
+                "played": 5,
                 "win": 1,
                 "draw": 1,
-                "lose": 2,
+                "lose": 3,
                 "goals": {
-                  "for": 1,
-                  "against": 3
+                  "for": 2,
+                  "against": 7
                 }
               },
               "home": {
-                "played": 2,
+                "played": 3,
                 "win": 1,
                 "draw": 0,
-                "lose": 1,
+                "lose": 2,
                 "goals": {
-                  "for": 1,
-                  "against": 1
+                  "for": 2,
+                  "against": 5
                 }
               },
               "away": {
@@ -334,52 +379,7 @@
                   "against": 2
                 }
               },
-              "update": "2026-09-06T00:00:00+00:00"
-            },
-            {
-              "rank": 8,
-              "team": {
-                "id": 4757,
-                "name": "Leça",
-                "logo": "https://media.api-sports.io/football/teams/4757.png"
-              },
-              "points": 4,
-              "goalsDiff": -4,
-              "group": "Liga 3",
-              "form": "LWLD",
-              "status": "same",
-              "description": "Liga 3 (Relegation Group)",
-              "all": {
-                "played": 4,
-                "win": 1,
-                "draw": 1,
-                "lose": 2,
-                "goals": {
-                  "for": 3,
-                  "against": 7
-                }
-              },
-              "home": {
-                "played": 2,
-                "win": 0,
-                "draw": 1,
-                "lose": 1,
-                "goals": {
-                  "for": 1,
-                  "against": 4
-                }
-              },
-              "away": {
-                "played": 2,
-                "win": 1,
-                "draw": 0,
-                "lose": 1,
-                "goals": {
-                  "for": 2,
-                  "against": 3
-                }
-              },
-              "update": "2026-09-06T00:00:00+00:00"
+              "update": "2026-09-13T00:00:00+00:00"
             },
             {
               "rank": 9,
@@ -388,20 +388,20 @@
                 "name": "São João Ver",
                 "logo": "https://media.api-sports.io/football/teams/6367.png"
               },
-              "points": 2,
+              "points": 3,
               "goalsDiff": -3,
               "group": "Liga 3",
-              "form": "DLLD",
+              "form": "DDLLD",
               "status": "same",
               "description": "Liga 3 (Relegation Group)",
               "all": {
-                "played": 4,
+                "played": 5,
                 "win": 0,
-                "draw": 2,
+                "draw": 3,
                 "lose": 2,
                 "goals": {
-                  "for": 2,
-                  "against": 5
+                  "for": 3,
+                  "against": 6
                 }
               },
               "home": {
@@ -415,16 +415,16 @@
                 }
               },
               "away": {
-                "played": 2,
+                "played": 3,
                 "win": 0,
-                "draw": 1,
+                "draw": 2,
                 "lose": 1,
                 "goals": {
-                  "for": 1,
-                  "against": 2
+                  "for": 2,
+                  "against": 3
                 }
               },
-              "update": "2026-09-06T00:00:00+00:00"
+              "update": "2026-09-13T00:00:00+00:00"
             },
             {
               "rank": 10,
@@ -433,30 +433,30 @@
                 "name": "Pacos Ferreira",
                 "logo": "https://media.api-sports.io/football/teams/234.png"
               },
-              "points": 1,
+              "points": 2,
               "goalsDiff": -5,
               "group": "Liga 3",
-              "form": "DLLL",
+              "form": "DDLLL",
               "status": "same",
               "description": "Liga 3 (Relegation Group)",
               "all": {
-                "played": 4,
+                "played": 5,
                 "win": 0,
-                "draw": 1,
+                "draw": 2,
                 "lose": 3,
                 "goals": {
-                  "for": 4,
-                  "against": 9
+                  "for": 5,
+                  "against": 10
                 }
               },
               "home": {
-                "played": 2,
+                "played": 3,
                 "win": 0,
-                "draw": 0,
+                "draw": 1,
                 "lose": 2,
                 "goals": {
-                  "for": 1,
-                  "against": 5
+                  "for": 2,
+                  "against": 6
                 }
               },
               "away": {
@@ -469,7 +469,7 @@
                   "against": 4
                 }
               },
-              "update": "2026-09-06T00:00:00+00:00"
+              "update": "2026-09-13T00:00:00+00:00"
             },
             {
               "rank": 1,
@@ -478,29 +478,29 @@
                 "name": "CF Os Belenenses",
                 "logo": "https://media.api-sports.io/football/teams/17692.png"
               },
-              "points": 12,
-              "goalsDiff": 10,
+              "points": 15,
+              "goalsDiff": 11,
               "group": "Liga 3",
-              "form": "WWWW",
+              "form": "WWWWW",
               "status": "same",
               "description": "Promotion - Liga 3 (Promotion Group)",
               "all": {
-                "played": 4,
-                "win": 4,
+                "played": 5,
+                "win": 5,
                 "draw": 0,
                 "lose": 0,
                 "goals": {
-                  "for": 12,
+                  "for": 13,
                   "against": 2
                 }
               },
               "home": {
-                "played": 2,
-                "win": 2,
+                "played": 3,
+                "win": 3,
                 "draw": 0,
                 "lose": 0,
                 "goals": {
-                  "for": 6,
+                  "for": 7,
                   "against": 0
                 }
               },
@@ -514,7 +514,7 @@
                   "against": 2
                 }
               },
-              "update": "2026-09-06T00:00:00+00:00"
+              "update": "2026-09-13T00:00:00+00:00"
             },
             {
               "rank": 2,
@@ -524,19 +524,19 @@
                 "logo": "https://media.api-sports.io/football/teams/4872.png"
               },
               "points": 10,
-              "goalsDiff": 6,
+              "goalsDiff": 5,
               "group": "Liga 3",
-              "form": "WWDW",
+              "form": "LWWDW",
               "status": "same",
               "description": "Promotion - Liga 3 (Promotion Group)",
               "all": {
-                "played": 4,
+                "played": 5,
                 "win": 3,
                 "draw": 1,
-                "lose": 0,
+                "lose": 1,
                 "goals": {
                   "for": 8,
-                  "against": 2
+                  "against": 3
                 }
               },
               "home": {
@@ -550,138 +550,48 @@
                 }
               },
               "away": {
-                "played": 2,
+                "played": 3,
                 "win": 2,
                 "draw": 0,
-                "lose": 0,
+                "lose": 1,
                 "goals": {
                   "for": 4,
-                  "against": 0
+                  "against": 1
                 }
               },
-              "update": "2026-09-06T00:00:00+00:00"
+              "update": "2026-09-13T00:00:00+00:00"
             },
             {
               "rank": 3,
-              "team": {
-                "id": 245,
-                "name": "Mafra",
-                "logo": "https://media.api-sports.io/football/teams/245.png"
-              },
-              "points": 7,
-              "goalsDiff": 5,
-              "group": "Liga 3",
-              "form": "WLDW",
-              "status": "same",
-              "description": "Promotion - Liga 3 (Promotion Group)",
-              "all": {
-                "played": 4,
-                "win": 2,
-                "draw": 1,
-                "lose": 1,
-                "goals": {
-                  "for": 8,
-                  "against": 3
-                }
-              },
-              "home": {
-                "played": 2,
-                "win": 2,
-                "draw": 0,
-                "lose": 0,
-                "goals": {
-                  "for": 6,
-                  "against": 0
-                }
-              },
-              "away": {
-                "played": 2,
-                "win": 0,
-                "draw": 1,
-                "lose": 1,
-                "goals": {
-                  "for": 2,
-                  "against": 3
-                }
-              },
-              "update": "2026-09-06T00:00:00+00:00"
-            },
-            {
-              "rank": 4,
-              "team": {
-                "id": 4758,
-                "name": "Louletano",
-                "logo": "https://media.api-sports.io/football/teams/4758.png"
-              },
-              "points": 7,
-              "goalsDiff": 1,
-              "group": "Liga 3",
-              "form": "WWLD",
-              "status": "same",
-              "description": "Promotion - Liga 3 (Promotion Group)",
-              "all": {
-                "played": 4,
-                "win": 2,
-                "draw": 1,
-                "lose": 1,
-                "goals": {
-                  "for": 6,
-                  "against": 5
-                }
-              },
-              "home": {
-                "played": 2,
-                "win": 1,
-                "draw": 0,
-                "lose": 1,
-                "goals": {
-                  "for": 2,
-                  "against": 3
-                }
-              },
-              "away": {
-                "played": 2,
-                "win": 1,
-                "draw": 1,
-                "lose": 0,
-                "goals": {
-                  "for": 4,
-                  "against": 2
-                }
-              },
-              "update": "2026-09-06T00:00:00+00:00"
-            },
-            {
-              "rank": 5,
               "team": {
                 "id": 233,
                 "name": "Oliveirense",
                 "logo": "https://media.api-sports.io/football/teams/233.png"
               },
-              "points": 5,
-              "goalsDiff": -1,
+              "points": 8,
+              "goalsDiff": 0,
               "group": "Liga 3",
-              "form": "LWDD",
+              "form": "WLWDD",
               "status": "same",
-              "description": "Liga 3 (Relegation Group)",
+              "description": "Promotion - Liga 3 (Promotion Group)",
               "all": {
-                "played": 4,
-                "win": 1,
+                "played": 5,
+                "win": 2,
                 "draw": 2,
                 "lose": 1,
                 "goals": {
-                  "for": 5,
-                  "against": 6
+                  "for": 7,
+                  "against": 7
                 }
               },
               "home": {
-                "played": 2,
-                "win": 1,
+                "played": 3,
+                "win": 2,
                 "draw": 1,
                 "lose": 0,
                 "goals": {
-                  "for": 3,
-                  "against": 2
+                  "for": 5,
+                  "against": 3
                 }
               },
               "away": {
@@ -694,69 +604,44 @@
                   "against": 4
                 }
               },
-              "update": "2026-09-06T00:00:00+00:00"
+              "update": "2026-09-13T00:00:00+00:00"
             },
             {
-              "rank": 6,
+              "rank": 4,
               "team": {
-                "id": 15207,
-                "name": "Lusitano Évora 1911",
-                "logo": "https://media.api-sports.io/football/teams/15207.png"
+                "id": 245,
+                "name": "Mafra",
+                "logo": "https://media.api-sports.io/football/teams/245.png"
               },
-              "points": 4,
-              "goalsDiff": -1,
+              "points": 7,
+              "goalsDiff": 4,
               "group": "Liga 3",
-              "form": "LWDL",
+              "form": "LWLDW",
               "status": "same",
-              "description": "Liga 3 (Relegation Group)",
+              "description": "Promotion - Liga 3 (Promotion Group)",
               "all": {
-                "played": 4,
-                "win": 1,
+                "played": 5,
+                "win": 2,
                 "draw": 1,
                 "lose": 2,
                 "goals": {
-                  "for": 2,
-                  "against": 3
+                  "for": 9,
+                  "against": 5
                 }
               },
               "home": {
                 "played": 2,
-                "win": 1,
+                "win": 2,
                 "draw": 0,
-                "lose": 1,
+                "lose": 0,
                 "goals": {
-                  "for": 2,
-                  "against": 2
+                  "for": 6,
+                  "against": 0
                 }
               },
               "away": {
-                "played": 2,
+                "played": 3,
                 "win": 0,
-                "draw": 1,
-                "lose": 1,
-                "goals": {
-                  "for": 0,
-                  "against": 1
-                }
-              },
-              "update": "2026-09-06T00:00:00+00:00"
-            },
-            {
-              "rank": 7,
-              "team": {
-                "id": 4733,
-                "name": "Caldas",
-                "logo": "https://media.api-sports.io/football/teams/4733.png"
-              },
-              "points": 4,
-              "goalsDiff": -2,
-              "group": "Liga 3",
-              "form": "WLDL",
-              "status": "same",
-              "description": "Liga 3 (Relegation Group)",
-              "all": {
-                "played": 4,
-                "win": 1,
                 "draw": 1,
                 "lose": 2,
                 "goals": {
@@ -764,13 +649,83 @@
                   "against": 5
                 }
               },
+              "update": "2026-09-13T00:00:00+00:00"
+            },
+            {
+              "rank": 5,
+              "team": {
+                "id": 4758,
+                "name": "Louletano",
+                "logo": "https://media.api-sports.io/football/teams/4758.png"
+              },
+              "points": 7,
+              "goalsDiff": 0,
+              "group": "Liga 3",
+              "form": "LWWLD",
+              "status": "same",
+              "description": "Liga 3 (Relegation Group)",
+              "all": {
+                "played": 5,
+                "win": 2,
+                "draw": 1,
+                "lose": 2,
+                "goals": {
+                  "for": 7,
+                  "against": 7
+                }
+              },
               "home": {
+                "played": 3,
+                "win": 1,
+                "draw": 0,
+                "lose": 2,
+                "goals": {
+                  "for": 3,
+                  "against": 5
+                }
+              },
+              "away": {
                 "played": 2,
-                "win": 0,
+                "win": 1,
+                "draw": 1,
+                "lose": 0,
+                "goals": {
+                  "for": 4,
+                  "against": 2
+                }
+              },
+              "update": "2026-09-13T00:00:00+00:00"
+            },
+            {
+              "rank": 6,
+              "team": {
+                "id": 4733,
+                "name": "Caldas",
+                "logo": "https://media.api-sports.io/football/teams/4733.png"
+              },
+              "points": 7,
+              "goalsDiff": 0,
+              "group": "Liga 3",
+              "form": "WWLDL",
+              "status": "same",
+              "description": "Liga 3 (Relegation Group)",
+              "all": {
+                "played": 5,
+                "win": 2,
+                "draw": 1,
+                "lose": 2,
+                "goals": {
+                  "for": 5,
+                  "against": 5
+                }
+              },
+              "home": {
+                "played": 3,
+                "win": 1,
                 "draw": 1,
                 "lose": 1,
                 "goals": {
-                  "for": 2,
+                  "for": 4,
                   "against": 4
                 }
               },
@@ -784,7 +739,52 @@
                   "against": 1
                 }
               },
-              "update": "2026-09-06T00:00:00+00:00"
+              "update": "2026-09-13T00:00:00+00:00"
+            },
+            {
+              "rank": 7,
+              "team": {
+                "id": 15207,
+                "name": "Lusitano Évora 1911",
+                "logo": "https://media.api-sports.io/football/teams/15207.png"
+              },
+              "points": 5,
+              "goalsDiff": -1,
+              "group": "Liga 3",
+              "form": "DLWDL",
+              "status": "same",
+              "description": "Liga 3 (Relegation Group)",
+              "all": {
+                "played": 5,
+                "win": 1,
+                "draw": 2,
+                "lose": 2,
+                "goals": {
+                  "for": 4,
+                  "against": 5
+                }
+              },
+              "home": {
+                "played": 3,
+                "win": 1,
+                "draw": 1,
+                "lose": 1,
+                "goals": {
+                  "for": 4,
+                  "against": 4
+                }
+              },
+              "away": {
+                "played": 2,
+                "win": 0,
+                "draw": 1,
+                "lose": 1,
+                "goals": {
+                  "for": 0,
+                  "against": 1
+                }
+              },
+              "update": "2026-09-13T00:00:00+00:00"
             },
             {
               "rank": 8,
@@ -793,20 +793,20 @@
                 "name": "SC Covilha",
                 "logo": "https://media.api-sports.io/football/teams/236.png"
               },
-              "points": 4,
+              "points": 5,
               "goalsDiff": -2,
               "group": "Liga 3",
-              "form": "LLDW",
+              "form": "DLLDW",
               "status": "same",
               "description": "Liga 3 (Relegation Group)",
               "all": {
-                "played": 4,
+                "played": 5,
                 "win": 1,
-                "draw": 1,
+                "draw": 2,
                 "lose": 2,
                 "goals": {
-                  "for": 2,
-                  "against": 4
+                  "for": 4,
+                  "against": 6
                 }
               },
               "home": {
@@ -820,83 +820,38 @@
                 }
               },
               "away": {
-                "played": 2,
+                "played": 3,
                 "win": 0,
-                "draw": 1,
+                "draw": 2,
                 "lose": 1,
                 "goals": {
-                  "for": 0,
-                  "against": 1
+                  "for": 2,
+                  "against": 3
                 }
               },
-              "update": "2026-09-06T00:00:00+00:00"
+              "update": "2026-09-13T00:00:00+00:00"
             },
             {
               "rank": 9,
-              "team": {
-                "id": 4816,
-                "name": "Vitória de Sernache",
-                "logo": "https://media.api-sports.io/football/teams/4816.png"
-              },
-              "points": 1,
-              "goalsDiff": -8,
-              "group": "Liga 3",
-              "form": "LLDL",
-              "status": "same",
-              "description": "Liga 3 (Relegation Group)",
-              "all": {
-                "played": 4,
-                "win": 0,
-                "draw": 1,
-                "lose": 3,
-                "goals": {
-                  "for": 3,
-                  "against": 11
-                }
-              },
-              "home": {
-                "played": 2,
-                "win": 0,
-                "draw": 1,
-                "lose": 1,
-                "goals": {
-                  "for": 1,
-                  "against": 3
-                }
-              },
-              "away": {
-                "played": 2,
-                "win": 0,
-                "draw": 0,
-                "lose": 2,
-                "goals": {
-                  "for": 2,
-                  "against": 8
-                }
-              },
-              "update": "2026-09-06T00:00:00+00:00"
-            },
-            {
-              "rank": 10,
               "team": {
                 "id": 6369,
                 "name": "União Santarém",
                 "logo": "https://media.api-sports.io/football/teams/6369.png"
               },
-              "points": 1,
-              "goalsDiff": -8,
+              "points": 4,
+              "goalsDiff": -7,
               "group": "Liga 3",
-              "form": "LLDL",
+              "form": "WLLDL",
               "status": "same",
               "description": "Liga 3 (Relegation Group)",
               "all": {
-                "played": 4,
-                "win": 0,
+                "played": 5,
+                "win": 1,
                 "draw": 1,
                 "lose": 3,
                 "goals": {
-                  "for": 1,
-                  "against": 9
+                  "for": 3,
+                  "against": 10
                 }
               },
               "home": {
@@ -910,16 +865,61 @@
                 }
               },
               "away": {
-                "played": 2,
-                "win": 0,
+                "played": 3,
+                "win": 1,
                 "draw": 0,
                 "lose": 2,
                 "goals": {
-                  "for": 0,
-                  "against": 7
+                  "for": 2,
+                  "against": 8
                 }
               },
-              "update": "2026-09-06T00:00:00+00:00"
+              "update": "2026-09-13T00:00:00+00:00"
+            },
+            {
+              "rank": 10,
+              "team": {
+                "id": 4816,
+                "name": "Vitória de Sernache",
+                "logo": "https://media.api-sports.io/football/teams/4816.png"
+              },
+              "points": 1,
+              "goalsDiff": -10,
+              "group": "Liga 3",
+              "form": "LLLDL",
+              "status": "same",
+              "description": "Liga 3 (Relegation Group)",
+              "all": {
+                "played": 5,
+                "win": 0,
+                "draw": 1,
+                "lose": 4,
+                "goals": {
+                  "for": 3,
+                  "against": 13
+                }
+              },
+              "home": {
+                "played": 2,
+                "win": 0,
+                "draw": 1,
+                "lose": 1,
+                "goals": {
+                  "for": 1,
+                  "against": 3
+                }
+              },
+              "away": {
+                "played": 3,
+                "win": 0,
+                "draw": 0,
+                "lose": 3,
+                "goals": {
+                  "for": 2,
+                  "against": 10
+                }
+              },
+              "update": "2026-09-13T00:00:00+00:00"
             }
           ]
         ]

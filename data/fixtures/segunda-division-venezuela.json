@@ -12963,84 +12963,14 @@
     },
     {
       "fixture": {
-        "id": 1636622,
-        "referee": null,
-        "timezone": "UTC",
-        "date": "2026-09-12T20:00:00+00:00",
-        "timestamp": 1789243200,
-        "periods": {
-          "first": null,
-          "second": null
-        },
-        "venue": {
-          "id": 1651,
-          "name": "Estadio Olimpico Hermanos Ghersi Paez",
-          "city": "Maracay"
-        },
-        "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
-        }
-      },
-      "league": {
-        "id": 300,
-        "name": "Segunda División",
-        "country": "Venezuela",
-        "logo": "https://media.api-sports.io/football/leagues/300.png",
-        "flag": "https://media.api-sports.io/flags/ve.svg",
-        "season": 2026,
-        "round": "Regular Season - 22",
-        "standings": true
-      },
-      "teams": {
-        "home": {
-          "id": 2817,
-          "name": "Aragua FC",
-          "logo": "https://media.api-sports.io/football/teams/2817.png",
-          "winner": null
-        },
-        "away": {
-          "id": 2853,
-          "name": "Petare FC",
-          "logo": "https://media.api-sports.io/football/teams/2853.png",
-          "winner": null
-        }
-      },
-      "goals": {
-        "home": null,
-        "away": null
-      },
-      "score": {
-        "halftime": {
-          "home": null,
-          "away": null
-        },
-        "fulltime": {
-          "home": null,
-          "away": null
-        },
-        "extratime": {
-          "home": null,
-          "away": null
-        },
-        "penalty": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "fixture": {
         "id": 1635918,
         "referee": null,
         "timezone": "UTC",
         "date": "2026-09-12T20:30:00+00:00",
         "timestamp": 1789245000,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1789245000,
+          "second": 1789248600
         },
         "venue": {
           "id": 0,
@@ -13048,10 +12978,10 @@
           "city": null
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 5
         }
       },
       "league": {
@@ -13079,17 +13009,17 @@
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 1,
+        "away": 1
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 1
         },
         "extratime": {
           "home": null,
@@ -13109,8 +13039,8 @@
         "date": "2026-09-13T19:30:00+00:00",
         "timestamp": 1789327800,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1789327800,
+          "second": 1789331400
         },
         "venue": {
           "id": 0,
@@ -13118,10 +13048,10 @@
           "city": null
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 4
         }
       },
       "league": {
@@ -13139,27 +13069,97 @@
           "id": 2816,
           "name": "Urena SC",
           "logo": "https://media.api-sports.io/football/teams/2816.png",
-          "winner": null
+          "winner": true
         },
         "away": {
           "id": 2847,
           "name": "Real Frontera",
           "logo": "https://media.api-sports.io/football/teams/2847.png",
-          "winner": null
+          "winner": false
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 1,
+        "away": 0
       },
       "score": {
         "halftime": {
+          "home": 0,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 1,
+          "away": 0
+        },
+        "extratime": {
           "home": null,
           "away": null
         },
-        "fulltime": {
+        "penalty": {
           "home": null,
           "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1636622,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2026-09-13T19:30:00+00:00",
+        "timestamp": 1789327800,
+        "periods": {
+          "first": 1789327800,
+          "second": 1789331400
+        },
+        "venue": {
+          "id": 1651,
+          "name": "Estadio Olimpico Hermanos Ghersi Paez",
+          "city": "Maracay"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 6
+        }
+      },
+      "league": {
+        "id": 300,
+        "name": "Segunda División",
+        "country": "Venezuela",
+        "logo": "https://media.api-sports.io/football/leagues/300.png",
+        "flag": "https://media.api-sports.io/flags/ve.svg",
+        "season": 2026,
+        "round": "Regular Season - 22",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2817,
+          "name": "Aragua FC",
+          "logo": "https://media.api-sports.io/football/teams/2817.png",
+          "winner": true
+        },
+        "away": {
+          "id": 2853,
+          "name": "Petare FC",
+          "logo": "https://media.api-sports.io/football/teams/2853.png",
+          "winner": false
+        }
+      },
+      "goals": {
+        "home": 2,
+        "away": 1
+      },
+      "score": {
+        "halftime": {
+          "home": 1,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 2,
+          "away": 1
         },
         "extratime": {
           "home": null,
@@ -13179,8 +13179,8 @@
         "date": "2026-09-13T19:30:00+00:00",
         "timestamp": 1789327800,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1789327800,
+          "second": 1789331400
         },
         "venue": {
           "id": null,
@@ -13188,10 +13188,10 @@
           "city": "Ciudad Guayana"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 4
         }
       },
       "league": {
@@ -13209,27 +13209,27 @@
           "id": 2824,
           "name": "Mineros de Guyana",
           "logo": "https://media.api-sports.io/football/teams/2824.png",
-          "winner": null
+          "winner": true
         },
         "away": {
           "id": 21231,
           "name": "Bolívar",
           "logo": "https://media.api-sports.io/football/teams/21231.png",
-          "winner": null
+          "winner": false
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 4,
+        "away": 1
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 3,
+          "away": 0
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 4,
+          "away": 1
         },
         "extratime": {
           "home": null,
@@ -13249,8 +13249,8 @@
         "date": "2026-09-13T19:30:00+00:00",
         "timestamp": 1789327800,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1789327800,
+          "second": 1789331400
         },
         "venue": {
           "id": 0,
@@ -13258,10 +13258,10 @@
           "city": null
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 7
         }
       },
       "league": {
@@ -13279,27 +13279,27 @@
           "id": 2832,
           "name": "Atletico el Vigia FC",
           "logo": "https://media.api-sports.io/football/teams/2832.png",
-          "winner": null
+          "winner": true
         },
         "away": {
           "id": 2829,
           "name": "Yaracuyanos FC",
           "logo": "https://media.api-sports.io/football/teams/2829.png",
-          "winner": null
+          "winner": false
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 1,
+        "away": 0
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 0
         },
         "extratime": {
           "home": null,
@@ -13319,8 +13319,8 @@
         "date": "2026-09-13T19:30:00+00:00",
         "timestamp": 1789327800,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1789327800,
+          "second": 1789331400
         },
         "venue": {
           "id": null,
@@ -13328,10 +13328,10 @@
           "city": null
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 7
         }
       },
       "league": {
@@ -13349,27 +13349,27 @@
           "id": 11371,
           "name": "Monagas II",
           "logo": "https://media.api-sports.io/football/teams/11371.png",
-          "winner": null
+          "winner": true
         },
         "away": {
           "id": 2858,
           "name": "Dinamo de Puerto La Cruz",
           "logo": "https://media.api-sports.io/football/teams/2858.png",
-          "winner": null
+          "winner": false
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 2,
+        "away": 1
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 1
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 1
         },
         "extratime": {
           "home": null,
@@ -13389,8 +13389,8 @@
         "date": "2026-09-13T19:30:00+00:00",
         "timestamp": 1789327800,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1789327800,
+          "second": 1789331400
         },
         "venue": {
           "id": 0,
@@ -13398,10 +13398,10 @@
           "city": null
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 6
         }
       },
       "league": {
@@ -13419,27 +13419,27 @@
           "id": 27528,
           "name": "Club Atletico Barinas",
           "logo": "https://media.api-sports.io/football/teams/27528.png",
-          "winner": null
+          "winner": false
         },
         "away": {
           "id": 2812,
           "name": "Deportivo Lara",
           "logo": "https://media.api-sports.io/football/teams/2812.png",
-          "winner": null
+          "winner": true
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 0,
+        "away": 1
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 1
         },
         "extratime": {
           "home": null,

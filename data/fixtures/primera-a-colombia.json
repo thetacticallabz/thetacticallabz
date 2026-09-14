@@ -18441,7 +18441,7 @@
           "long": "Match Finished",
           "short": "FT",
           "elapsed": 90,
-          "extra": 7
+          "extra": null
         }
       },
       "league": {
@@ -18494,7 +18494,7 @@
     {
       "fixture": {
         "id": 1549763,
-        "referee": null,
+        "referee": "Jose Alexander Ortiz Novoa, Colombia",
         "timezone": "UTC",
         "date": "2026-09-03T21:00:00+00:00",
         "timestamp": 1788469200,
@@ -18504,8 +18504,8 @@
         },
         "venue": {
           "id": null,
-          "name": null,
-          "city": "Cali"
+          "name": "Olimpico Pascual Guerrero",
+          "city": "Santiago de Cali"
         },
         "status": {
           "long": "Match Finished",
@@ -18564,7 +18564,7 @@
     {
       "fixture": {
         "id": 1549751,
-        "referee": null,
+        "referee": "Steven Camargo, Colombia",
         "timezone": "UTC",
         "date": "2026-09-04T01:00:00+00:00",
         "timestamp": 1788483600,
@@ -18573,9 +18573,9 @@
           "second": null
         },
         "venue": {
-          "id": null,
-          "name": "Santiago de las Atalayas",
-          "city": "Yopal"
+          "id": 376,
+          "name": "Estadio Deportivo Cali",
+          "city": "Palmira"
         },
         "status": {
           "long": "Match Finished",
@@ -18634,7 +18634,7 @@
     {
       "fixture": {
         "id": 1549766,
-        "referee": null,
+        "referee": "Andres Rojas, Colombia",
         "timezone": "UTC",
         "date": "2026-09-05T21:00:00+00:00",
         "timestamp": 1788642000,
@@ -18704,7 +18704,7 @@
     {
       "fixture": {
         "id": 1549767,
-        "referee": null,
+        "referee": "Wilmar Roldan, Colombia",
         "timezone": "UTC",
         "date": "2026-09-05T23:10:00+00:00",
         "timestamp": 1788649800,
@@ -18713,9 +18713,9 @@
           "second": null
         },
         "venue": {
-          "id": null,
+          "id": 373,
           "name": "Estadio General Santander",
-          "city": null
+          "city": "Cucuta"
         },
         "status": {
           "long": "Match Finished",
@@ -18774,7 +18774,7 @@
     {
       "fixture": {
         "id": 1549772,
-        "referee": null,
+        "referee": "Jhon Alexander Ospina Londono, Colombia",
         "timezone": "UTC",
         "date": "2026-09-05T23:25:00+00:00",
         "timestamp": 1788650700,
@@ -18784,8 +18784,8 @@
         },
         "venue": {
           "id": null,
-          "name": null,
-          "city": null
+          "name": "Estadio Nemesio Camacho El Campin",
+          "city": "Bogota"
         },
         "status": {
           "long": "Match Finished",
@@ -18914,7 +18914,7 @@
     {
       "fixture": {
         "id": 1549768,
-        "referee": null,
+        "referee": "Carlos Ortega, Colombia",
         "timezone": "UTC",
         "date": "2026-09-06T21:00:00+00:00",
         "timestamp": 1788728400,
@@ -18925,7 +18925,7 @@
         "venue": {
           "id": null,
           "name": "Estadio Metropolitano de Techo",
-          "city": null
+          "city": "Bogota"
         },
         "status": {
           "long": "Match Finished",
@@ -18984,18 +18984,18 @@
     {
       "fixture": {
         "id": 1549771,
-        "referee": null,
+        "referee": "Javier Alonso Villa Zapata, Colombia",
         "timezone": "UTC",
         "date": "2026-09-06T23:10:00+00:00",
         "timestamp": 1788736200,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1788736200,
+          "second": 1788739800
         },
         "venue": {
-          "id": null,
-          "name": "Santiago de las Atalayas",
-          "city": "Yopal"
+          "id": 376,
+          "name": "Estadio Deportivo Cali",
+          "city": "Palmira"
         },
         "status": {
           "long": "Match Finished",
@@ -19040,6 +19040,776 @@
         "fulltime": {
           "home": 1,
           "away": 1
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1549729,
+        "referee": "Luis Matorel Bolivar, Colombia",
+        "timezone": "UTC",
+        "date": "2026-09-07T23:00:00+00:00",
+        "timestamp": 1788822000,
+        "periods": {
+          "first": 1788822000,
+          "second": 1788825600
+        },
+        "venue": {
+          "id": 20648,
+          "name": "Estadio Bello Horizonte “Rey Pelé”",
+          "city": "Villavicencio"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 239,
+        "name": "Primera A",
+        "country": "Colombia",
+        "logo": "https://media.api-sports.io/football/leagues/239.png",
+        "flag": "https://media.api-sports.io/flags/co.svg",
+        "season": 2026,
+        "round": "Clausura - 5",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 1464,
+          "name": "Llaneros",
+          "logo": "https://media.api-sports.io/football/teams/1464.png",
+          "winner": false
+        },
+        "away": {
+          "id": 1142,
+          "name": "Deportes Tolima",
+          "logo": "https://media.api-sports.io/football/teams/1142.png",
+          "winner": true
+        }
+      },
+      "goals": {
+        "home": 1,
+        "away": 2
+      },
+      "score": {
+        "halftime": {
+          "home": 1,
+          "away": 1
+        },
+        "fulltime": {
+          "home": 1,
+          "away": 2
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1549730,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2026-09-11T01:00:00+00:00",
+        "timestamp": 1789088400,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": null,
+          "name": null,
+          "city": null
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 239,
+        "name": "Primera A",
+        "country": "Colombia",
+        "logo": "https://media.api-sports.io/football/leagues/239.png",
+        "flag": "https://media.api-sports.io/flags/co.svg",
+        "season": 2026,
+        "round": "Clausura - 5",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 1125,
+          "name": "Millonarios",
+          "logo": "https://media.api-sports.io/football/teams/1125.png",
+          "winner": null
+        },
+        "away": {
+          "id": 1127,
+          "name": "Deportivo Cali",
+          "logo": "https://media.api-sports.io/football/teams/1127.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": 1,
+        "away": 1
+      },
+      "score": {
+        "halftime": {
+          "home": 0,
+          "away": 1
+        },
+        "fulltime": {
+          "home": 1,
+          "away": 1
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1549779,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2026-09-11T23:15:00+00:00",
+        "timestamp": 1789168500,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": null,
+          "name": "Estadio Jaraguay",
+          "city": "Monteria"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 239,
+        "name": "Primera A",
+        "country": "Colombia",
+        "logo": "https://media.api-sports.io/football/leagues/239.png",
+        "flag": "https://media.api-sports.io/flags/co.svg",
+        "season": 2026,
+        "round": "Clausura - 10",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 1133,
+          "name": "Jaguares",
+          "logo": "https://media.api-sports.io/football/teams/1133.png",
+          "winner": null
+        },
+        "away": {
+          "id": 1147,
+          "name": "Fortaleza FC",
+          "logo": "https://media.api-sports.io/football/teams/1147.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": 2,
+        "away": 2
+      },
+      "score": {
+        "halftime": {
+          "home": 0,
+          "away": 1
+        },
+        "fulltime": {
+          "home": 2,
+          "away": 2
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1549782,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2026-09-12T01:30:00+00:00",
+        "timestamp": 1789176600,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": null,
+          "name": null,
+          "city": null
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 239,
+        "name": "Primera A",
+        "country": "Colombia",
+        "logo": "https://media.api-sports.io/football/leagues/239.png",
+        "flag": "https://media.api-sports.io/flags/co.svg",
+        "season": 2026,
+        "round": "Clausura - 10",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 1139,
+          "name": "Santa Fe",
+          "logo": "https://media.api-sports.io/football/teams/1139.png",
+          "winner": true
+        },
+        "away": {
+          "id": 1142,
+          "name": "Deportes Tolima",
+          "logo": "https://media.api-sports.io/football/teams/1142.png",
+          "winner": false
+        }
+      },
+      "goals": {
+        "home": 1,
+        "away": 0
+      },
+      "score": {
+        "halftime": {
+          "home": 0,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 1,
+          "away": 0
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1549778,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2026-09-12T21:05:00+00:00",
+        "timestamp": 1789247100,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": null,
+          "name": "Estadio Metropolitano de Techo",
+          "city": null
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 239,
+        "name": "Primera A",
+        "country": "Colombia",
+        "logo": "https://media.api-sports.io/football/leagues/239.png",
+        "flag": "https://media.api-sports.io/flags/co.svg",
+        "season": 2026,
+        "round": "Clausura - 10",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 1134,
+          "name": "Internacional de Bogota",
+          "logo": "https://media.api-sports.io/football/teams/1134.png",
+          "winner": true
+        },
+        "away": {
+          "id": 1464,
+          "name": "Llaneros",
+          "logo": "https://media.api-sports.io/football/teams/1464.png",
+          "winner": false
+        }
+      },
+      "goals": {
+        "home": 3,
+        "away": 2
+      },
+      "score": {
+        "halftime": {
+          "home": 2,
+          "away": 2
+        },
+        "fulltime": {
+          "home": 3,
+          "away": 2
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1549776,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2026-09-12T23:10:00+00:00",
+        "timestamp": 1789254600,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": null,
+          "name": "Estadio La Independencia",
+          "city": "Tunja"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 239,
+        "name": "Primera A",
+        "country": "Colombia",
+        "logo": "https://media.api-sports.io/football/leagues/239.png",
+        "flag": "https://media.api-sports.io/flags/co.svg",
+        "season": 2026,
+        "round": "Clausura - 10",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 1132,
+          "name": "Chico",
+          "logo": "https://media.api-sports.io/football/teams/1132.png",
+          "winner": true
+        },
+        "away": {
+          "id": 1128,
+          "name": "Independiente Medellin",
+          "logo": "https://media.api-sports.io/football/teams/1128.png",
+          "winner": false
+        }
+      },
+      "goals": {
+        "home": 2,
+        "away": 1
+      },
+      "score": {
+        "halftime": {
+          "home": 1,
+          "away": 1
+        },
+        "fulltime": {
+          "home": 2,
+          "away": 1
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1549773,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2026-09-13T01:20:00+00:00",
+        "timestamp": 1789262400,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": 388,
+          "name": "Estadio Armando Maestre Pavajeau",
+          "city": "Valledupar"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 239,
+        "name": "Primera A",
+        "country": "Colombia",
+        "logo": "https://media.api-sports.io/football/leagues/239.png",
+        "flag": "https://media.api-sports.io/flags/co.svg",
+        "season": 2026,
+        "round": "Clausura - 10",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 1141,
+          "name": "Alianza Valledupar",
+          "logo": "https://media.api-sports.io/football/teams/1141.png",
+          "winner": true
+        },
+        "away": {
+          "id": 1135,
+          "name": "Junior",
+          "logo": "https://media.api-sports.io/football/teams/1135.png",
+          "winner": false
+        }
+      },
+      "goals": {
+        "home": 1,
+        "away": 0
+      },
+      "score": {
+        "halftime": {
+          "home": 1,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 1,
+          "away": 0
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1549781,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2026-09-13T19:00:00+00:00",
+        "timestamp": 1789326000,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": null,
+          "name": "Santiago de las Atalayas",
+          "city": "Yopal"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 239,
+        "name": "Primera A",
+        "country": "Colombia",
+        "logo": "https://media.api-sports.io/football/leagues/239.png",
+        "flag": "https://media.api-sports.io/flags/co.svg",
+        "season": 2026,
+        "round": "Clausura - 10",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 1462,
+          "name": "Deportivo Pereira",
+          "logo": "https://media.api-sports.io/football/teams/1462.png",
+          "winner": false
+        },
+        "away": {
+          "id": 1131,
+          "name": "Bucaramanga",
+          "logo": "https://media.api-sports.io/football/teams/1131.png",
+          "winner": true
+        }
+      },
+      "goals": {
+        "home": 1,
+        "away": 3
+      },
+      "score": {
+        "halftime": {
+          "home": 1,
+          "away": 2
+        },
+        "fulltime": {
+          "home": 1,
+          "away": 3
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1549775,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2026-09-13T21:05:00+00:00",
+        "timestamp": 1789333500,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": null,
+          "name": "Estadio Atanasio Girardot",
+          "city": null
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 239,
+        "name": "Primera A",
+        "country": "Colombia",
+        "logo": "https://media.api-sports.io/football/leagues/239.png",
+        "flag": "https://media.api-sports.io/flags/co.svg",
+        "season": 2026,
+        "round": "Clausura - 10",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 1137,
+          "name": "Atletico Nacional",
+          "logo": "https://media.api-sports.io/football/teams/1137.png",
+          "winner": true
+        },
+        "away": {
+          "id": 1144,
+          "name": "Águilas Doradas",
+          "logo": "https://media.api-sports.io/football/teams/1144.png",
+          "winner": false
+        }
+      },
+      "goals": {
+        "home": 2,
+        "away": 0
+      },
+      "score": {
+        "halftime": {
+          "home": 0,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 2,
+          "away": 0
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1549780,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2026-09-13T23:10:00+00:00",
+        "timestamp": 1789341000,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": 384,
+          "name": "Estadio Palogrande",
+          "city": "Manizales"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 239,
+        "name": "Primera A",
+        "country": "Colombia",
+        "logo": "https://media.api-sports.io/football/leagues/239.png",
+        "flag": "https://media.api-sports.io/flags/co.svg",
+        "season": 2026,
+        "round": "Clausura - 10",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 1136,
+          "name": "Once Caldas",
+          "logo": "https://media.api-sports.io/football/teams/1136.png",
+          "winner": false
+        },
+        "away": {
+          "id": 1127,
+          "name": "Deportivo Cali",
+          "logo": "https://media.api-sports.io/football/teams/1127.png",
+          "winner": true
+        }
+      },
+      "goals": {
+        "home": 1,
+        "away": 2
+      },
+      "score": {
+        "halftime": {
+          "home": 0,
+          "away": 1
+        },
+        "fulltime": {
+          "home": 1,
+          "away": 2
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1549777,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2026-09-14T01:15:00+00:00",
+        "timestamp": 1789348500,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": null,
+          "name": "Estadio General Santander",
+          "city": null
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 239,
+        "name": "Primera A",
+        "country": "Colombia",
+        "logo": "https://media.api-sports.io/football/leagues/239.png",
+        "flag": "https://media.api-sports.io/flags/co.svg",
+        "season": 2026,
+        "round": "Clausura - 10",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 1470,
+          "name": "Cucuta",
+          "logo": "https://media.api-sports.io/football/teams/1470.png",
+          "winner": false
+        },
+        "away": {
+          "id": 1125,
+          "name": "Millonarios",
+          "logo": "https://media.api-sports.io/football/teams/1125.png",
+          "winner": true
+        }
+      },
+      "goals": {
+        "home": 1,
+        "away": 2
+      },
+      "score": {
+        "halftime": {
+          "home": 0,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 1,
+          "away": 2
         },
         "extratime": {
           "home": null,
@@ -19893,76 +20663,6 @@
     },
     {
       "fixture": {
-        "id": 1549750,
-        "referee": null,
-        "timezone": "UTC",
-        "date": "2026-08-28T01:15:00+00:00",
-        "timestamp": 1787879700,
-        "periods": {
-          "first": null,
-          "second": null
-        },
-        "venue": {
-          "id": 384,
-          "name": "Estadio Palogrande",
-          "city": "Manizales"
-        },
-        "status": {
-          "long": "Match Postponed",
-          "short": "PST",
-          "elapsed": null,
-          "extra": null
-        }
-      },
-      "league": {
-        "id": 239,
-        "name": "Primera A",
-        "country": "Colombia",
-        "logo": "https://media.api-sports.io/football/leagues/239.png",
-        "flag": "https://media.api-sports.io/flags/co.svg",
-        "season": 2026,
-        "round": "Clausura - 7",
-        "standings": true
-      },
-      "teams": {
-        "home": {
-          "id": 1136,
-          "name": "Once Caldas",
-          "logo": "https://media.api-sports.io/football/teams/1136.png",
-          "winner": null
-        },
-        "away": {
-          "id": 1142,
-          "name": "Deportes Tolima",
-          "logo": "https://media.api-sports.io/football/teams/1142.png",
-          "winner": null
-        }
-      },
-      "goals": {
-        "home": null,
-        "away": null
-      },
-      "score": {
-        "halftime": {
-          "home": null,
-          "away": null
-        },
-        "fulltime": {
-          "home": null,
-          "away": null
-        },
-        "extratime": {
-          "home": null,
-          "away": null
-        },
-        "penalty": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "fixture": {
         "id": 1549770,
         "referee": null,
         "timezone": "UTC",
@@ -20033,76 +20733,6 @@
     },
     {
       "fixture": {
-        "id": 1549729,
-        "referee": null,
-        "timezone": "UTC",
-        "date": "2026-09-07T23:00:00+00:00",
-        "timestamp": 1788822000,
-        "periods": {
-          "first": null,
-          "second": null
-        },
-        "venue": {
-          "id": null,
-          "name": "Estadio Bello Horizonte",
-          "city": "Villavicencio"
-        },
-        "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
-        }
-      },
-      "league": {
-        "id": 239,
-        "name": "Primera A",
-        "country": "Colombia",
-        "logo": "https://media.api-sports.io/football/leagues/239.png",
-        "flag": "https://media.api-sports.io/flags/co.svg",
-        "season": 2026,
-        "round": "Clausura - 5",
-        "standings": true
-      },
-      "teams": {
-        "home": {
-          "id": 1464,
-          "name": "Llaneros",
-          "logo": "https://media.api-sports.io/football/teams/1464.png",
-          "winner": null
-        },
-        "away": {
-          "id": 1142,
-          "name": "Deportes Tolima",
-          "logo": "https://media.api-sports.io/football/teams/1142.png",
-          "winner": null
-        }
-      },
-      "goals": {
-        "home": null,
-        "away": null
-      },
-      "score": {
-        "halftime": {
-          "home": null,
-          "away": null
-        },
-        "fulltime": {
-          "home": null,
-          "away": null
-        },
-        "extratime": {
-          "home": null,
-          "away": null
-        },
-        "penalty": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "fixture": {
         "id": 1549685,
         "referee": null,
         "timezone": "UTC",
@@ -20118,8 +20748,8 @@
           "city": "Tunja"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
+          "long": "Match Postponed",
+          "short": "PST",
           "elapsed": null,
           "extra": null
         }
@@ -20173,23 +20803,23 @@
     },
     {
       "fixture": {
-        "id": 1549730,
+        "id": 1549750,
         "referee": null,
         "timezone": "UTC",
-        "date": "2026-09-11T01:00:00+00:00",
-        "timestamp": 1789088400,
+        "date": "2026-09-16T23:15:00+00:00",
+        "timestamp": 1789600500,
         "periods": {
           "first": null,
           "second": null
         },
         "venue": {
-          "id": null,
-          "name": null,
-          "city": null
+          "id": 384,
+          "name": "Estadio Palogrande",
+          "city": "Manizales"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
+          "long": "Match Postponed",
+          "short": "PST",
           "elapsed": null,
           "extra": null
         }
@@ -20201,370 +20831,20 @@
         "logo": "https://media.api-sports.io/football/leagues/239.png",
         "flag": "https://media.api-sports.io/flags/co.svg",
         "season": 2026,
-        "round": "Clausura - 5",
+        "round": "Clausura - 7",
         "standings": true
       },
       "teams": {
         "home": {
-          "id": 1125,
-          "name": "Millonarios",
-          "logo": "https://media.api-sports.io/football/teams/1125.png",
+          "id": 1136,
+          "name": "Once Caldas",
+          "logo": "https://media.api-sports.io/football/teams/1136.png",
           "winner": null
         },
         "away": {
-          "id": 1127,
-          "name": "Deportivo Cali",
-          "logo": "https://media.api-sports.io/football/teams/1127.png",
-          "winner": null
-        }
-      },
-      "goals": {
-        "home": null,
-        "away": null
-      },
-      "score": {
-        "halftime": {
-          "home": null,
-          "away": null
-        },
-        "fulltime": {
-          "home": null,
-          "away": null
-        },
-        "extratime": {
-          "home": null,
-          "away": null
-        },
-        "penalty": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "fixture": {
-        "id": 1549779,
-        "referee": null,
-        "timezone": "UTC",
-        "date": "2026-09-11T23:15:00+00:00",
-        "timestamp": 1789168500,
-        "periods": {
-          "first": null,
-          "second": null
-        },
-        "venue": {
-          "id": null,
-          "name": "Estadio Jaraguay",
-          "city": "Monteria"
-        },
-        "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
-        }
-      },
-      "league": {
-        "id": 239,
-        "name": "Primera A",
-        "country": "Colombia",
-        "logo": "https://media.api-sports.io/football/leagues/239.png",
-        "flag": "https://media.api-sports.io/flags/co.svg",
-        "season": 2026,
-        "round": "Clausura - 10",
-        "standings": true
-      },
-      "teams": {
-        "home": {
-          "id": 1133,
-          "name": "Jaguares",
-          "logo": "https://media.api-sports.io/football/teams/1133.png",
-          "winner": null
-        },
-        "away": {
-          "id": 1147,
-          "name": "Fortaleza FC",
-          "logo": "https://media.api-sports.io/football/teams/1147.png",
-          "winner": null
-        }
-      },
-      "goals": {
-        "home": null,
-        "away": null
-      },
-      "score": {
-        "halftime": {
-          "home": null,
-          "away": null
-        },
-        "fulltime": {
-          "home": null,
-          "away": null
-        },
-        "extratime": {
-          "home": null,
-          "away": null
-        },
-        "penalty": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "fixture": {
-        "id": 1549773,
-        "referee": null,
-        "timezone": "UTC",
-        "date": "2026-09-12T01:20:00+00:00",
-        "timestamp": 1789176000,
-        "periods": {
-          "first": null,
-          "second": null
-        },
-        "venue": {
-          "id": 388,
-          "name": "Estadio Armando Maestre Pavajeau",
-          "city": "Valledupar"
-        },
-        "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
-        }
-      },
-      "league": {
-        "id": 239,
-        "name": "Primera A",
-        "country": "Colombia",
-        "logo": "https://media.api-sports.io/football/leagues/239.png",
-        "flag": "https://media.api-sports.io/flags/co.svg",
-        "season": 2026,
-        "round": "Clausura - 10",
-        "standings": true
-      },
-      "teams": {
-        "home": {
-          "id": 1141,
-          "name": "Alianza Valledupar",
-          "logo": "https://media.api-sports.io/football/teams/1141.png",
-          "winner": null
-        },
-        "away": {
-          "id": 1135,
-          "name": "Junior",
-          "logo": "https://media.api-sports.io/football/teams/1135.png",
-          "winner": null
-        }
-      },
-      "goals": {
-        "home": null,
-        "away": null
-      },
-      "score": {
-        "halftime": {
-          "home": null,
-          "away": null
-        },
-        "fulltime": {
-          "home": null,
-          "away": null
-        },
-        "extratime": {
-          "home": null,
-          "away": null
-        },
-        "penalty": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "fixture": {
-        "id": 1549781,
-        "referee": null,
-        "timezone": "UTC",
-        "date": "2026-09-12T19:00:00+00:00",
-        "timestamp": 1789239600,
-        "periods": {
-          "first": null,
-          "second": null
-        },
-        "venue": {
-          "id": null,
-          "name": "Santiago de las Atalayas",
-          "city": "Yopal"
-        },
-        "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
-        }
-      },
-      "league": {
-        "id": 239,
-        "name": "Primera A",
-        "country": "Colombia",
-        "logo": "https://media.api-sports.io/football/leagues/239.png",
-        "flag": "https://media.api-sports.io/flags/co.svg",
-        "season": 2026,
-        "round": "Clausura - 10",
-        "standings": true
-      },
-      "teams": {
-        "home": {
-          "id": 1462,
-          "name": "Deportivo Pereira",
-          "logo": "https://media.api-sports.io/football/teams/1462.png",
-          "winner": null
-        },
-        "away": {
-          "id": 1131,
-          "name": "Bucaramanga",
-          "logo": "https://media.api-sports.io/football/teams/1131.png",
-          "winner": null
-        }
-      },
-      "goals": {
-        "home": null,
-        "away": null
-      },
-      "score": {
-        "halftime": {
-          "home": null,
-          "away": null
-        },
-        "fulltime": {
-          "home": null,
-          "away": null
-        },
-        "extratime": {
-          "home": null,
-          "away": null
-        },
-        "penalty": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "fixture": {
-        "id": 1549778,
-        "referee": null,
-        "timezone": "UTC",
-        "date": "2026-09-12T21:05:00+00:00",
-        "timestamp": 1789247100,
-        "periods": {
-          "first": null,
-          "second": null
-        },
-        "venue": {
-          "id": null,
-          "name": "Estadio Metropolitano de Techo",
-          "city": null
-        },
-        "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
-        }
-      },
-      "league": {
-        "id": 239,
-        "name": "Primera A",
-        "country": "Colombia",
-        "logo": "https://media.api-sports.io/football/leagues/239.png",
-        "flag": "https://media.api-sports.io/flags/co.svg",
-        "season": 2026,
-        "round": "Clausura - 10",
-        "standings": true
-      },
-      "teams": {
-        "home": {
-          "id": 1134,
-          "name": "Internacional de Bogota",
-          "logo": "https://media.api-sports.io/football/teams/1134.png",
-          "winner": null
-        },
-        "away": {
-          "id": 1464,
-          "name": "Llaneros",
-          "logo": "https://media.api-sports.io/football/teams/1464.png",
-          "winner": null
-        }
-      },
-      "goals": {
-        "home": null,
-        "away": null
-      },
-      "score": {
-        "halftime": {
-          "home": null,
-          "away": null
-        },
-        "fulltime": {
-          "home": null,
-          "away": null
-        },
-        "extratime": {
-          "home": null,
-          "away": null
-        },
-        "penalty": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "fixture": {
-        "id": 1549776,
-        "referee": null,
-        "timezone": "UTC",
-        "date": "2026-09-12T23:10:00+00:00",
-        "timestamp": 1789254600,
-        "periods": {
-          "first": null,
-          "second": null
-        },
-        "venue": {
-          "id": null,
-          "name": "Estadio La Independencia",
-          "city": "Tunja"
-        },
-        "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
-        }
-      },
-      "league": {
-        "id": 239,
-        "name": "Primera A",
-        "country": "Colombia",
-        "logo": "https://media.api-sports.io/football/leagues/239.png",
-        "flag": "https://media.api-sports.io/flags/co.svg",
-        "season": 2026,
-        "round": "Clausura - 10",
-        "standings": true
-      },
-      "teams": {
-        "home": {
-          "id": 1132,
-          "name": "Chico",
-          "logo": "https://media.api-sports.io/football/teams/1132.png",
-          "winner": null
-        },
-        "away": {
-          "id": 1128,
-          "name": "Independiente Medellin",
-          "logo": "https://media.api-sports.io/football/teams/1128.png",
+          "id": 1142,
+          "name": "Deportes Tolima",
+          "logo": "https://media.api-sports.io/football/teams/1142.png",
           "winner": null
         }
       },
@@ -20596,8 +20876,8 @@
         "id": 1549774,
         "referee": null,
         "timezone": "UTC",
-        "date": "2026-09-13T01:15:00+00:00",
-        "timestamp": 1789262100,
+        "date": "2026-09-15T01:00:00+00:00",
+        "timestamp": 1789434000,
         "periods": {
           "first": null,
           "second": null
@@ -20663,19 +20943,19 @@
     },
     {
       "fixture": {
-        "id": 1549782,
+        "id": 1549705,
         "referee": null,
         "timezone": "UTC",
-        "date": "2026-09-13T19:00:00+00:00",
-        "timestamp": 1789326000,
+        "date": "2026-09-16T00:30:00+00:00",
+        "timestamp": 1789518600,
         "periods": {
           "first": null,
           "second": null
         },
         "venue": {
           "id": null,
-          "name": null,
-          "city": null
+          "name": "Estadio La Independencia",
+          "city": "Tunja"
         },
         "status": {
           "long": "Not Started",
@@ -20691,230 +20971,20 @@
         "logo": "https://media.api-sports.io/football/leagues/239.png",
         "flag": "https://media.api-sports.io/flags/co.svg",
         "season": 2026,
-        "round": "Clausura - 10",
+        "round": "Clausura - 3",
         "standings": true
       },
       "teams": {
         "home": {
-          "id": 1139,
-          "name": "Santa Fe",
-          "logo": "https://media.api-sports.io/football/teams/1139.png",
+          "id": 1132,
+          "name": "Chico",
+          "logo": "https://media.api-sports.io/football/teams/1132.png",
           "winner": null
         },
         "away": {
-          "id": 1142,
-          "name": "Deportes Tolima",
-          "logo": "https://media.api-sports.io/football/teams/1142.png",
-          "winner": null
-        }
-      },
-      "goals": {
-        "home": null,
-        "away": null
-      },
-      "score": {
-        "halftime": {
-          "home": null,
-          "away": null
-        },
-        "fulltime": {
-          "home": null,
-          "away": null
-        },
-        "extratime": {
-          "home": null,
-          "away": null
-        },
-        "penalty": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "fixture": {
-        "id": 1549775,
-        "referee": null,
-        "timezone": "UTC",
-        "date": "2026-09-13T21:05:00+00:00",
-        "timestamp": 1789333500,
-        "periods": {
-          "first": null,
-          "second": null
-        },
-        "venue": {
-          "id": null,
-          "name": "Estadio Atanasio Girardot",
-          "city": null
-        },
-        "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
-        }
-      },
-      "league": {
-        "id": 239,
-        "name": "Primera A",
-        "country": "Colombia",
-        "logo": "https://media.api-sports.io/football/leagues/239.png",
-        "flag": "https://media.api-sports.io/flags/co.svg",
-        "season": 2026,
-        "round": "Clausura - 10",
-        "standings": true
-      },
-      "teams": {
-        "home": {
-          "id": 1137,
-          "name": "Atletico Nacional",
-          "logo": "https://media.api-sports.io/football/teams/1137.png",
-          "winner": null
-        },
-        "away": {
-          "id": 1144,
-          "name": "Águilas Doradas",
-          "logo": "https://media.api-sports.io/football/teams/1144.png",
-          "winner": null
-        }
-      },
-      "goals": {
-        "home": null,
-        "away": null
-      },
-      "score": {
-        "halftime": {
-          "home": null,
-          "away": null
-        },
-        "fulltime": {
-          "home": null,
-          "away": null
-        },
-        "extratime": {
-          "home": null,
-          "away": null
-        },
-        "penalty": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "fixture": {
-        "id": 1549780,
-        "referee": null,
-        "timezone": "UTC",
-        "date": "2026-09-13T23:10:00+00:00",
-        "timestamp": 1789341000,
-        "periods": {
-          "first": null,
-          "second": null
-        },
-        "venue": {
-          "id": 384,
-          "name": "Estadio Palogrande",
-          "city": "Manizales"
-        },
-        "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
-        }
-      },
-      "league": {
-        "id": 239,
-        "name": "Primera A",
-        "country": "Colombia",
-        "logo": "https://media.api-sports.io/football/leagues/239.png",
-        "flag": "https://media.api-sports.io/flags/co.svg",
-        "season": 2026,
-        "round": "Clausura - 10",
-        "standings": true
-      },
-      "teams": {
-        "home": {
-          "id": 1136,
-          "name": "Once Caldas",
-          "logo": "https://media.api-sports.io/football/teams/1136.png",
-          "winner": null
-        },
-        "away": {
-          "id": 1127,
-          "name": "Deportivo Cali",
-          "logo": "https://media.api-sports.io/football/teams/1127.png",
-          "winner": null
-        }
-      },
-      "goals": {
-        "home": null,
-        "away": null
-      },
-      "score": {
-        "halftime": {
-          "home": null,
-          "away": null
-        },
-        "fulltime": {
-          "home": null,
-          "away": null
-        },
-        "extratime": {
-          "home": null,
-          "away": null
-        },
-        "penalty": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "fixture": {
-        "id": 1549777,
-        "referee": null,
-        "timezone": "UTC",
-        "date": "2026-09-14T01:15:00+00:00",
-        "timestamp": 1789348500,
-        "periods": {
-          "first": null,
-          "second": null
-        },
-        "venue": {
-          "id": null,
-          "name": "Estadio General Santander",
-          "city": null
-        },
-        "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
-        }
-      },
-      "league": {
-        "id": 239,
-        "name": "Primera A",
-        "country": "Colombia",
-        "logo": "https://media.api-sports.io/football/leagues/239.png",
-        "flag": "https://media.api-sports.io/flags/co.svg",
-        "season": 2026,
-        "round": "Clausura - 10",
-        "standings": true
-      },
-      "teams": {
-        "home": {
-          "id": 1470,
-          "name": "Cucuta",
-          "logo": "https://media.api-sports.io/football/teams/1470.png",
-          "winner": null
-        },
-        "away": {
-          "id": 1125,
-          "name": "Millonarios",
-          "logo": "https://media.api-sports.io/football/teams/1125.png",
+          "id": 1141,
+          "name": "Alianza Valledupar",
+          "logo": "https://media.api-sports.io/football/teams/1141.png",
           "winner": null
         }
       },
@@ -22385,76 +22455,6 @@
           "id": 1144,
           "name": "Águilas Doradas",
           "logo": "https://media.api-sports.io/football/teams/1144.png",
-          "winner": null
-        }
-      },
-      "goals": {
-        "home": null,
-        "away": null
-      },
-      "score": {
-        "halftime": {
-          "home": null,
-          "away": null
-        },
-        "fulltime": {
-          "home": null,
-          "away": null
-        },
-        "extratime": {
-          "home": null,
-          "away": null
-        },
-        "penalty": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "fixture": {
-        "id": 1549705,
-        "referee": null,
-        "timezone": "UTC",
-        "date": "2026-09-29T20:00:00+00:00",
-        "timestamp": 1790712000,
-        "periods": {
-          "first": null,
-          "second": null
-        },
-        "venue": {
-          "id": null,
-          "name": "Estadio La Independencia",
-          "city": "Tunja"
-        },
-        "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
-        }
-      },
-      "league": {
-        "id": 239,
-        "name": "Primera A",
-        "country": "Colombia",
-        "logo": "https://media.api-sports.io/football/leagues/239.png",
-        "flag": "https://media.api-sports.io/flags/co.svg",
-        "season": 2026,
-        "round": "Clausura - 3",
-        "standings": true
-      },
-      "teams": {
-        "home": {
-          "id": 1132,
-          "name": "Chico",
-          "logo": "https://media.api-sports.io/football/teams/1132.png",
-          "winner": null
-        },
-        "away": {
-          "id": 1141,
-          "name": "Alianza Valledupar",
-          "logo": "https://media.api-sports.io/football/teams/1141.png",
           "winner": null
         }
       },
