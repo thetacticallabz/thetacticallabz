@@ -5,10 +5,1911 @@
     "season": "2026"
   },
   "errors": [],
-  "results": 0,
+  "results": 20,
   "paging": {
     "current": 1,
     "total": 1
   },
-  "response": []
+  "response": [
+    {
+      "player": {
+        "id": 630514,
+        "name": "I. Hayiyusoh",
+        "firstname": null,
+        "lastname": null,
+        "age": 25,
+        "birth": {
+          "date": null,
+          "place": null,
+          "country": null
+        },
+        "nationality": null,
+        "height": null,
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/630514.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 6582,
+            "name": "Pattani",
+            "logo": "https://media.api-sports.io/football/teams/6582.png"
+          },
+          "league": {
+            "id": 296,
+            "name": "Thai League 1",
+            "country": "Thailand",
+            "logo": "https://media.api-sports.io/football/leagues/296.png",
+            "flag": "https://media.api-sports.io/flags/th.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 3,
+            "lineups": 0,
+            "minutes": 8,
+            "number": 90,
+            "position": "Attacker",
+            "rating": "6.3",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 3,
+            "out": 0,
+            "bench": 2
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 2,
+            "key": 1,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 1,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 85923,
+        "name": "J. Da Sylva",
+        "firstname": "Jean-Pierre",
+        "lastname": "Da Sylva",
+        "age": 28,
+        "birth": {
+          "date": "1997-01-03",
+          "place": null,
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": null,
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/85923.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 6582,
+            "name": "Pattani",
+            "logo": "https://media.api-sports.io/football/teams/6582.png"
+          },
+          "league": {
+            "id": 296,
+            "name": "Thai League 1",
+            "country": "Thailand",
+            "logo": "https://media.api-sports.io/football/leagues/296.png",
+            "flag": "https://media.api-sports.io/flags/th.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 3,
+            "lineups": 0,
+            "minutes": 19,
+            "number": 21,
+            "position": "Midfielder",
+            "rating": "6.3",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 3,
+            "out": 0,
+            "bench": 2
+          },
+          "shots": {
+            "total": 2,
+            "on": 1
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 5,
+            "key": null,
+            "accuracy": 80
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 8,
+            "won": 4
+          },
+          "dribbles": {
+            "attempts": 2,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 3,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 158019,
+        "name": "K. Kaewnongdang",
+        "firstname": "Kirati",
+        "lastname": "Kaewnongdang",
+        "age": 28,
+        "birth": {
+          "date": "1997-04-16",
+          "place": null,
+          "country": "Thailand"
+        },
+        "nationality": "Thailand",
+        "height": "170 cm",
+        "weight": "71 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/158019.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 6582,
+            "name": "Pattani",
+            "logo": "https://media.api-sports.io/football/teams/6582.png"
+          },
+          "league": {
+            "id": 296,
+            "name": "Thai League 1",
+            "country": "Thailand",
+            "logo": "https://media.api-sports.io/football/leagues/296.png",
+            "flag": "https://media.api-sports.io/flags/th.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 1,
+            "minutes": 1,
+            "number": 40,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 1,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 409120,
+        "name": "Matheus",
+        "firstname": "Matheus",
+        "lastname": "Costa Martins",
+        "age": 26,
+        "birth": {
+          "date": "1999-08-14",
+          "place": null,
+          "country": "Brazil"
+        },
+        "nationality": "Brazil",
+        "height": null,
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/409120.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 2769,
+            "name": "BG Pathum United",
+            "logo": "https://media.api-sports.io/football/teams/2769.png"
+          },
+          "league": {
+            "id": 296,
+            "name": "Thai League 1",
+            "country": "Thailand",
+            "logo": "https://media.api-sports.io/football/leagues/296.png",
+            "flag": "https://media.api-sports.io/flags/th.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 0,
+            "minutes": 29,
+            "number": 22,
+            "position": "Attacker",
+            "rating": "7",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 0,
+            "bench": 2
+          },
+          "shots": {
+            "total": 1,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 8,
+            "key": 1,
+            "accuracy": 87
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 5,
+            "won": 1
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 26408,
+        "name": "F. Kaufmann",
+        "firstname": "Fabio Herbert",
+        "lastname": "Kaufmann",
+        "age": 33,
+        "birth": {
+          "date": "1992-09-08",
+          "place": "Aalen",
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": "181",
+        "weight": "74",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/26408.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 2769,
+            "name": "BG Pathum United",
+            "logo": "https://media.api-sports.io/football/teams/2769.png"
+          },
+          "league": {
+            "id": 296,
+            "name": "Thai League 1",
+            "country": "Thailand",
+            "logo": "https://media.api-sports.io/football/leagues/296.png",
+            "flag": "https://media.api-sports.io/flags/th.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 1,
+            "minutes": 45,
+            "number": 37,
+            "position": "Midfielder",
+            "rating": "6.2",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 1,
+            "bench": 1
+          },
+          "shots": {
+            "total": 1,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 15,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 4,
+            "won": 3
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 49384,
+        "name": "S. Yooyen",
+        "firstname": "Sarach",
+        "lastname": "Yooyen",
+        "age": 33,
+        "birth": {
+          "date": "1992-05-30",
+          "place": "Songkhla",
+          "country": "Thailand"
+        },
+        "nationality": "Thailand",
+        "height": "168",
+        "weight": "63",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/49384.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 2769,
+            "name": "BG Pathum United",
+            "logo": "https://media.api-sports.io/football/teams/2769.png"
+          },
+          "league": {
+            "id": 296,
+            "name": "Thai League 1",
+            "country": "Thailand",
+            "logo": "https://media.api-sports.io/football/leagues/296.png",
+            "flag": "https://media.api-sports.io/flags/th.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 1,
+            "minutes": 45,
+            "number": 6,
+            "position": "Midfielder",
+            "rating": "7.2",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 1,
+            "bench": 1
+          },
+          "shots": {
+            "total": 2,
+            "on": 2
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 36,
+            "key": null,
+            "accuracy": 94
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 3,
+            "won": 2
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 44870,
+        "name": "R. Edwards",
+        "firstname": "Ryan Marc",
+        "lastname": "Edwards",
+        "age": 32,
+        "birth": {
+          "date": "1993-11-17",
+          "place": null,
+          "country": "Singapore"
+        },
+        "nationality": "Australia",
+        "height": "175 cm",
+        "weight": "73 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/44870.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 2769,
+            "name": "BG Pathum United",
+            "logo": "https://media.api-sports.io/football/teams/2769.png"
+          },
+          "league": {
+            "id": 296,
+            "name": "Thai League 1",
+            "country": "Thailand",
+            "logo": "https://media.api-sports.io/football/leagues/296.png",
+            "flag": "https://media.api-sports.io/flags/th.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 1,
+            "minutes": 45,
+            "number": 33,
+            "position": "Midfielder",
+            "rating": "6.6",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 1,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 24,
+            "key": 1,
+            "accuracy": 87
+          },
+          "tackles": {
+            "total": 2,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 5,
+            "won": 2
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": 2
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 96335,
+        "name": "João Magno",
+        "firstname": "João Victo",
+        "lastname": "Magno de Souza Machado",
+        "age": 28,
+        "birth": {
+          "date": "1997-02-15",
+          "place": null,
+          "country": "Brazil"
+        },
+        "nationality": "Brazil",
+        "height": "195",
+        "weight": "80",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/96335.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 2769,
+            "name": "BG Pathum United",
+            "logo": "https://media.api-sports.io/football/teams/2769.png"
+          },
+          "league": {
+            "id": 296,
+            "name": "Thai League 1",
+            "country": "Thailand",
+            "logo": "https://media.api-sports.io/football/leagues/296.png",
+            "flag": "https://media.api-sports.io/flags/th.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 1,
+            "minutes": 45,
+            "number": 45,
+            "position": "Attacker",
+            "rating": "5.6",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": 2,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 14,
+            "key": 1,
+            "accuracy": 64
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 6,
+            "won": 3
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": 2
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 226736,
+        "name": "P. Gustavsson",
+        "firstname": "Patrik",
+        "lastname": "Gustavsson",
+        "age": 24,
+        "birth": {
+          "date": "2001-04-19",
+          "place": null,
+          "country": "Sweden"
+        },
+        "nationality": "Thailand",
+        "height": "184",
+        "weight": "81",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/226736.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 2769,
+            "name": "BG Pathum United",
+            "logo": "https://media.api-sports.io/football/teams/2769.png"
+          },
+          "league": {
+            "id": 296,
+            "name": "Thai League 1",
+            "country": "Thailand",
+            "logo": "https://media.api-sports.io/football/leagues/296.png",
+            "flag": "https://media.api-sports.io/flags/th.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 1,
+            "minutes": 61,
+            "number": 11,
+            "position": "Midfielder",
+            "rating": "6.9",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 1,
+            "bench": 1
+          },
+          "shots": {
+            "total": 1,
+            "on": 1
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 18,
+            "key": null,
+            "accuracy": 77
+          },
+          "tackles": {
+            "total": 2,
+            "blocks": 1,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 5,
+            "won": 3
+          },
+          "dribbles": {
+            "attempts": 2,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 332452,
+        "name": "N. Biesamrit",
+        "firstname": "Nattanan",
+        "lastname": "Biesamrit",
+        "age": 25,
+        "birth": {
+          "date": "2000-02-15",
+          "place": null,
+          "country": "Thailand"
+        },
+        "nationality": "Thailand",
+        "height": "177 cm",
+        "weight": "60 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/332452.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 6582,
+            "name": "Pattani",
+            "logo": "https://media.api-sports.io/football/teams/6582.png"
+          },
+          "league": {
+            "id": 296,
+            "name": "Thai League 1",
+            "country": "Thailand",
+            "logo": "https://media.api-sports.io/football/leagues/296.png",
+            "flag": "https://media.api-sports.io/flags/th.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 2,
+            "minutes": 71,
+            "number": 15,
+            "position": "Midfielder",
+            "rating": "6.7",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 3,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 28,
+            "key": 1,
+            "accuracy": 75
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 9,
+            "won": 3
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 10108,
+        "name": "Raniel",
+        "firstname": "Raniel",
+        "lastname": "Santana de Vasconcelos",
+        "age": 29,
+        "birth": {
+          "date": "1996-06-11",
+          "place": "Recife",
+          "country": "Brazil"
+        },
+        "nationality": "Brazil",
+        "height": "185",
+        "weight": "71",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/10108.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 2769,
+            "name": "BG Pathum United",
+            "logo": "https://media.api-sports.io/football/teams/2769.png"
+          },
+          "league": {
+            "id": 296,
+            "name": "Thai League 1",
+            "country": "Thailand",
+            "logo": "https://media.api-sports.io/football/leagues/296.png",
+            "flag": "https://media.api-sports.io/flags/th.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 2,
+            "minutes": 77,
+            "number": 7,
+            "position": "Attacker",
+            "rating": "6.7",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 0
+          },
+          "shots": {
+            "total": 1,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 21,
+            "key": 1,
+            "accuracy": 85
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": 1,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 8,
+            "won": 5
+          },
+          "dribbles": {
+            "attempts": 2,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 2,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 32993,
+        "name": "C. Songkrasin",
+        "firstname": "Chanathip",
+        "lastname": "Songkrasin",
+        "age": 32,
+        "birth": {
+          "date": "1993-10-05",
+          "place": "Nakhon Pathom",
+          "country": "Thailand"
+        },
+        "nationality": "Thailand",
+        "height": "158",
+        "weight": "55",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/32993.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 2769,
+            "name": "BG Pathum United",
+            "logo": "https://media.api-sports.io/football/teams/2769.png"
+          },
+          "league": {
+            "id": 296,
+            "name": "Thai League 1",
+            "country": "Thailand",
+            "logo": "https://media.api-sports.io/football/leagues/296.png",
+            "flag": "https://media.api-sports.io/flags/th.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 2,
+            "minutes": 80,
+            "number": 18,
+            "position": "Attacker",
+            "rating": "6.9",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 2,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 42,
+            "key": 2,
+            "accuracy": 90
+          },
+          "tackles": {
+            "total": 3,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 11,
+            "won": 6
+          },
+          "dribbles": {
+            "attempts": 4,
+            "success": 2,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 552648,
+        "name": "Carlos Neto",
+        "firstname": null,
+        "lastname": null,
+        "age": 30,
+        "birth": {
+          "date": null,
+          "place": null,
+          "country": null
+        },
+        "nationality": null,
+        "height": null,
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/552648.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 6582,
+            "name": "Pattani",
+            "logo": "https://media.api-sports.io/football/teams/6582.png"
+          },
+          "league": {
+            "id": 296,
+            "name": "Thai League 1",
+            "country": "Thailand",
+            "logo": "https://media.api-sports.io/football/leagues/296.png",
+            "flag": "https://media.api-sports.io/flags/th.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 2,
+            "minutes": 82,
+            "number": 96,
+            "position": "Attacker",
+            "rating": "6.7",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 3,
+            "bench": 0
+          },
+          "shots": {
+            "total": 1,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 18,
+            "key": null,
+            "accuracy": 50
+          },
+          "tackles": {
+            "total": null,
+            "blocks": 1,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 9,
+            "won": 4
+          },
+          "dribbles": {
+            "attempts": 2,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": 2
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 585570,
+        "name": "Maicon Douglas",
+        "firstname": null,
+        "lastname": null,
+        "age": 32,
+        "birth": {
+          "date": null,
+          "place": null,
+          "country": null
+        },
+        "nationality": null,
+        "height": null,
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/585570.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 6582,
+            "name": "Pattani",
+            "logo": "https://media.api-sports.io/football/teams/6582.png"
+          },
+          "league": {
+            "id": 296,
+            "name": "Thai League 1",
+            "country": "Thailand",
+            "logo": "https://media.api-sports.io/football/leagues/296.png",
+            "flag": "https://media.api-sports.io/flags/th.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 2,
+            "minutes": 89,
+            "number": 20,
+            "position": "Midfielder",
+            "rating": "6.9",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 32,
+            "key": null,
+            "accuracy": 78
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": 1,
+            "interceptions": 3
+          },
+          "duels": {
+            "total": 8,
+            "won": 4
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 48931,
+        "name": "S. Anuin",
+        "firstname": "Saranon",
+        "lastname": "Anuin",
+        "age": 31,
+        "birth": {
+          "date": "1994-03-24",
+          "place": "Khon Kaen",
+          "country": "Thailand"
+        },
+        "nationality": "Thailand",
+        "height": "185",
+        "weight": "77",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/48931.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 2769,
+            "name": "BG Pathum United",
+            "logo": "https://media.api-sports.io/football/teams/2769.png"
+          },
+          "league": {
+            "id": 296,
+            "name": "Thai League 1",
+            "country": "Thailand",
+            "logo": "https://media.api-sports.io/football/leagues/296.png",
+            "flag": "https://media.api-sports.io/flags/th.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 2,
+            "minutes": 90,
+            "number": 28,
+            "position": "Goalkeeper",
+            "rating": "6.6",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 2,
+            "assists": 0,
+            "saves": 1
+          },
+          "passes": {
+            "total": 19,
+            "key": null,
+            "accuracy": 68
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 0
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 350683,
+        "name": "W. Choolthong",
+        "firstname": "Waris",
+        "lastname": "Choolthong",
+        "age": 21,
+        "birth": {
+          "date": "2004-01-08",
+          "place": "Trang",
+          "country": "Thailand"
+        },
+        "nationality": "Thailand",
+        "height": "178",
+        "weight": "70",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/350683.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 2769,
+            "name": "BG Pathum United",
+            "logo": "https://media.api-sports.io/football/teams/2769.png"
+          },
+          "league": {
+            "id": 296,
+            "name": "Thai League 1",
+            "country": "Thailand",
+            "logo": "https://media.api-sports.io/football/leagues/296.png",
+            "flag": "https://media.api-sports.io/flags/th.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 2,
+            "minutes": 90,
+            "number": 48,
+            "position": "Defender",
+            "rating": "7.3",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 44,
+            "key": null,
+            "accuracy": 81
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": null,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 5,
+            "won": 4
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 2,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 49017,
+        "name": "E. Samre",
+        "firstname": "Ekkachai",
+        "lastname": "Samre",
+        "age": 37,
+        "birth": {
+          "date": "1988-11-28",
+          "place": "Satun",
+          "country": "Thailand"
+        },
+        "nationality": "Thailand",
+        "height": "173 cm",
+        "weight": "64 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/49017.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 6582,
+            "name": "Pattani",
+            "logo": "https://media.api-sports.io/football/teams/6582.png"
+          },
+          "league": {
+            "id": 296,
+            "name": "Thai League 1",
+            "country": "Thailand",
+            "logo": "https://media.api-sports.io/football/leagues/296.png",
+            "flag": "https://media.api-sports.io/flags/th.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 2,
+            "minutes": 90,
+            "number": 2,
+            "position": "Defender",
+            "rating": "6.6",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 2,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 30,
+            "key": 1,
+            "accuracy": 93
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 7,
+            "won": 2
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 2,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 49124,
+        "name": "K. Kaman",
+        "firstname": "Kritsada",
+        "lastname": "Kaman",
+        "age": 26,
+        "birth": {
+          "date": "1999-03-18",
+          "place": "Trat",
+          "country": "Thailand"
+        },
+        "nationality": "Thailand",
+        "height": "176",
+        "weight": "76",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/49124.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 2769,
+            "name": "BG Pathum United",
+            "logo": "https://media.api-sports.io/football/teams/2769.png"
+          },
+          "league": {
+            "id": 296,
+            "name": "Thai League 1",
+            "country": "Thailand",
+            "logo": "https://media.api-sports.io/football/leagues/296.png",
+            "flag": "https://media.api-sports.io/flags/th.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 2,
+            "minutes": 90,
+            "number": 5,
+            "position": "Midfielder",
+            "rating": "7.9",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 53,
+            "key": 3,
+            "accuracy": 88
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 5,
+            "won": 2
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 78122,
+        "name": "D. Damyanov",
+        "firstname": "Damyan",
+        "lastname": "Valeriy Damyanov",
+        "age": 25,
+        "birth": {
+          "date": "2000-06-29",
+          "place": "Sofia",
+          "country": "Bulgaria"
+        },
+        "nationality": "Bulgaria",
+        "height": "188 cm",
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/78122.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 6582,
+            "name": "Pattani",
+            "logo": "https://media.api-sports.io/football/teams/6582.png"
+          },
+          "league": {
+            "id": 296,
+            "name": "Thai League 1",
+            "country": "Thailand",
+            "logo": "https://media.api-sports.io/football/leagues/296.png",
+            "flag": "https://media.api-sports.io/flags/th.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 2,
+            "minutes": 90,
+            "number": 13,
+            "position": "Goalkeeper",
+            "rating": "7.3",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 1,
+            "assists": 0,
+            "saves": 2
+          },
+          "passes": {
+            "total": 24,
+            "key": null,
+            "accuracy": 50
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 1,
+            "won": 1
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 0
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 122173,
+        "name": "E. Osmanović",
+        "firstname": "Edin",
+        "lastname": "Osmanović",
+        "age": 24,
+        "birth": {
+          "date": "2001-08-30",
+          "place": null,
+          "country": "Luxembourg"
+        },
+        "nationality": "Luxembourg",
+        "height": "191 cm",
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/122173.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 2769,
+            "name": "BG Pathum United",
+            "logo": "https://media.api-sports.io/football/teams/2769.png"
+          },
+          "league": {
+            "id": 296,
+            "name": "Thai League 1",
+            "country": "Thailand",
+            "logo": "https://media.api-sports.io/football/leagues/296.png",
+            "flag": "https://media.api-sports.io/flags/th.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 2,
+            "minutes": 90,
+            "number": 50,
+            "position": "Defender",
+            "rating": "7.2",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 59,
+            "key": null,
+            "accuracy": 86
+          },
+          "tackles": {
+            "total": 2,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 8,
+            "won": 5
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": 2
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    }
+  ]
 }

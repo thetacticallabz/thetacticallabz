@@ -1904,7 +1904,7 @@
     {
       "fixture": {
         "id": 1571121,
-        "referee": null,
+        "referee": "P. Mora",
         "timezone": "UTC",
         "date": "2026-09-13T10:00:00+00:00",
         "timestamp": 1789293600,
@@ -1974,7 +1974,7 @@
     {
       "fixture": {
         "id": 1571124,
-        "referee": null,
+        "referee": "J. Caballero",
         "timezone": "UTC",
         "date": "2026-09-13T14:00:00+00:00",
         "timestamp": 1789308000,
@@ -2044,7 +2044,7 @@
     {
       "fixture": {
         "id": 1571118,
-        "referee": null,
+        "referee": "V. M. Broncano Suarez",
         "timezone": "UTC",
         "date": "2026-09-13T18:30:00+00:00",
         "timestamp": 1789324200,
@@ -2119,8 +2119,8 @@
         "date": "2026-09-19T14:30:00+00:00",
         "timestamp": 1789828200,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1789828200,
+          "second": 1789831800
         },
         "venue": {
           "id": null,
@@ -2128,10 +2128,10 @@
           "city": "Majadahonda"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 7
         }
       },
       "league": {
@@ -2149,27 +2149,27 @@
           "id": 861,
           "name": "Rayo Majadahonda",
           "logo": "https://media.api-sports.io/football/teams/861.png",
-          "winner": null
+          "winner": true
         },
         "away": {
           "id": 5278,
           "name": "Teruel",
           "logo": "https://media.api-sports.io/football/teams/5278.png",
-          "winner": null
+          "winner": false
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 2,
+        "away": 0
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 0
         },
         "extratime": {
           "home": null,
@@ -2189,8 +2189,8 @@
         "date": "2026-09-19T14:30:00+00:00",
         "timestamp": 1789828200,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1789828200,
+          "second": 1789831800
         },
         "venue": {
           "id": null,
@@ -2198,10 +2198,10 @@
           "city": "Murcia"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 12
         }
       },
       "league": {
@@ -2219,27 +2219,27 @@
           "id": 5275,
           "name": "Real Murcia",
           "logo": "https://media.api-sports.io/football/teams/5275.png",
-          "winner": null
+          "winner": true
         },
         "away": {
           "id": 593,
           "name": "Europa Fc",
           "logo": "https://media.api-sports.io/football/teams/593.png",
-          "winner": null
+          "winner": false
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 2,
+        "away": 1
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 1
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 1
         },
         "extratime": {
           "home": null,
@@ -2259,8 +2259,8 @@
         "date": "2026-09-19T16:45:00+00:00",
         "timestamp": 1789836300,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1789836300,
+          "second": 1789839900
         },
         "venue": {
           "id": 1498,
@@ -2268,10 +2268,10 @@
           "city": "Villarreal"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 5
         }
       },
       "league": {
@@ -2299,17 +2299,17 @@
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 2,
+        "away": 2
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 1
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 2
         },
         "extratime": {
           "home": null,
@@ -2329,8 +2329,8 @@
         "date": "2026-09-19T19:00:00+00:00",
         "timestamp": 1789844400,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1789844400,
+          "second": 1789848000
         },
         "venue": {
           "id": 1480,
@@ -2338,10 +2338,10 @@
           "city": "Huesca"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 8
         }
       },
       "league": {
@@ -2369,17 +2369,17 @@
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 0,
+        "away": 0
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         },
         "extratime": {
           "home": null,
@@ -2399,19 +2399,19 @@
         "date": "2026-09-19T19:00:00+00:00",
         "timestamp": 1789844400,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1789844400,
+          "second": 1789848000
         },
         "venue": {
           "id": null,
-          "name": null,
+          "name": "Nuevo Estadio de La Victoria",
           "city": null
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 11
         }
       },
       "league": {
@@ -2429,27 +2429,27 @@
           "id": 5274,
           "name": "Real Jaén",
           "logo": "https://media.api-sports.io/football/teams/5274.png",
-          "winner": null
+          "winner": true
         },
         "away": {
           "id": 9390,
           "name": "Ibiza",
           "logo": "https://media.api-sports.io/football/teams/9390.png",
-          "winner": null
+          "winner": false
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 2,
+        "away": 1
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 1
         },
         "extratime": {
           "home": null,
@@ -2469,8 +2469,8 @@
         "date": "2026-09-20T10:00:00+00:00",
         "timestamp": 1789898400,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1789898400,
+          "second": 1789902000
         },
         "venue": {
           "id": null,
@@ -2478,10 +2478,10 @@
           "city": null
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 5
         }
       },
       "league": {
@@ -2499,27 +2499,27 @@
           "id": 711,
           "name": "Alcorcon",
           "logo": "https://media.api-sports.io/football/teams/711.png",
-          "winner": null
+          "winner": true
         },
         "away": {
           "id": 714,
           "name": "Gimnastic",
           "logo": "https://media.api-sports.io/football/teams/714.png",
-          "winner": null
+          "winner": false
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 3,
+        "away": 0
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 3,
+          "away": 0
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 3,
+          "away": 0
         },
         "extratime": {
           "home": null,
@@ -2536,11 +2536,11 @@
         "id": 1571127,
         "referee": null,
         "timezone": "UTC",
-        "date": "2026-09-20T10:00:00+00:00",
-        "timestamp": 1789898400,
+        "date": "2026-09-20T14:00:00+00:00",
+        "timestamp": 1789912800,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1789912800,
+          "second": 1789916400
         },
         "venue": {
           "id": 6690,
@@ -2548,10 +2548,10 @@
           "city": "Algeciras"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 14
         }
       },
       "league": {
@@ -2579,17 +2579,17 @@
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 1,
+        "away": 1
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 0
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 1
         },
         "extratime": {
           "home": null,
@@ -2609,8 +2609,8 @@
         "date": "2026-09-20T18:30:00+00:00",
         "timestamp": 1789929000,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1789929000,
+          "second": 1789932600
         },
         "venue": {
           "id": null,
@@ -2618,10 +2618,10 @@
           "city": "Zaragoza"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 5
         }
       },
       "league": {
@@ -2639,27 +2639,27 @@
           "id": 732,
           "name": "Zaragoza",
           "logo": "https://media.api-sports.io/football/teams/732.png",
-          "winner": null
+          "winner": true
         },
         "away": {
           "id": 5262,
           "name": "FC Cartagena",
           "logo": "https://media.api-sports.io/football/teams/5262.png",
-          "winner": null
+          "winner": false
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 1,
+        "away": 0
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 0
         },
         "extratime": {
           "home": null,
@@ -2679,8 +2679,8 @@
         "date": "2026-09-20T18:30:00+00:00",
         "timestamp": 1789929000,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1789929000,
+          "second": 1789932600
         },
         "venue": {
           "id": null,
@@ -2688,10 +2688,10 @@
           "city": "Alicante"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 5
         }
       },
       "league": {
@@ -2709,27 +2709,27 @@
           "id": 4666,
           "name": "Hércules",
           "logo": "https://media.api-sports.io/football/teams/4666.png",
-          "winner": null
+          "winner": true
         },
         "away": {
           "id": 15359,
           "name": "Juventud Torremolinos",
           "logo": "https://media.api-sports.io/football/teams/15359.png",
-          "winner": null
+          "winner": false
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 1,
+        "away": 0
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 0
         },
         "extratime": {
           "home": null,
@@ -4913,151 +4913,11 @@
     },
     {
       "fixture": {
-        "id": 1571167,
-        "referee": null,
-        "timezone": "UTC",
-        "date": "2026-10-18T15:00:00+00:00",
-        "timestamp": 1792335600,
-        "periods": {
-          "first": null,
-          "second": null
-        },
-        "venue": {
-          "id": null,
-          "name": "Estadio Municipal de Santo Domingo",
-          "city": null
-        },
-        "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
-        }
-      },
-      "league": {
-        "id": 436,
-        "name": "Primera División RFEF - Group 2",
-        "country": "Spain",
-        "logo": "https://media.api-sports.io/football/leagues/436.png",
-        "flag": "https://media.api-sports.io/flags/es.svg",
-        "season": 2026,
-        "round": "Group 2 - 8",
-        "standings": true
-      },
-      "teams": {
-        "home": {
-          "id": 711,
-          "name": "Alcorcon",
-          "logo": "https://media.api-sports.io/football/teams/711.png",
-          "winner": null
-        },
-        "away": {
-          "id": 726,
-          "name": "Huesca",
-          "logo": "https://media.api-sports.io/football/teams/726.png",
-          "winner": null
-        }
-      },
-      "goals": {
-        "home": null,
-        "away": null
-      },
-      "score": {
-        "halftime": {
-          "home": null,
-          "away": null
-        },
-        "fulltime": {
-          "home": null,
-          "away": null
-        },
-        "extratime": {
-          "home": null,
-          "away": null
-        },
-        "penalty": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "fixture": {
-        "id": 1571170,
-        "referee": null,
-        "timezone": "UTC",
-        "date": "2026-10-18T15:00:00+00:00",
-        "timestamp": 1792335600,
-        "periods": {
-          "first": null,
-          "second": null
-        },
-        "venue": {
-          "id": null,
-          "name": "Nou Estadi de Tarragona",
-          "city": "Tarragona"
-        },
-        "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
-        }
-      },
-      "league": {
-        "id": 436,
-        "name": "Primera División RFEF - Group 2",
-        "country": "Spain",
-        "logo": "https://media.api-sports.io/football/leagues/436.png",
-        "flag": "https://media.api-sports.io/flags/es.svg",
-        "season": 2026,
-        "round": "Group 2 - 8",
-        "standings": true
-      },
-      "teams": {
-        "home": {
-          "id": 714,
-          "name": "Gimnastic",
-          "logo": "https://media.api-sports.io/football/teams/714.png",
-          "winner": null
-        },
-        "away": {
-          "id": 9570,
-          "name": "Atlético Madrid II",
-          "logo": "https://media.api-sports.io/football/teams/9570.png",
-          "winner": null
-        }
-      },
-      "goals": {
-        "home": null,
-        "away": null
-      },
-      "score": {
-        "halftime": {
-          "home": null,
-          "away": null
-        },
-        "fulltime": {
-          "home": null,
-          "away": null
-        },
-        "extratime": {
-          "home": null,
-          "away": null
-        },
-        "penalty": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "fixture": {
         "id": 1571169,
         "referee": null,
         "timezone": "UTC",
-        "date": "2026-10-18T15:00:00+00:00",
-        "timestamp": 1792335600,
+        "date": "2026-10-16T17:00:00+00:00",
+        "timestamp": 1792170000,
         "periods": {
           "first": null,
           "second": null
@@ -5123,11 +4983,81 @@
     },
     {
       "fixture": {
-        "id": 1571171,
+        "id": 1571167,
         "referee": null,
         "timezone": "UTC",
-        "date": "2026-10-18T15:00:00+00:00",
-        "timestamp": 1792335600,
+        "date": "2026-10-16T19:15:00+00:00",
+        "timestamp": 1792178100,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": null,
+          "name": "Estadio Municipal de Santo Domingo",
+          "city": null
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 436,
+        "name": "Primera División RFEF - Group 2",
+        "country": "Spain",
+        "logo": "https://media.api-sports.io/football/leagues/436.png",
+        "flag": "https://media.api-sports.io/flags/es.svg",
+        "season": 2026,
+        "round": "Group 2 - 8",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 711,
+          "name": "Alcorcon",
+          "logo": "https://media.api-sports.io/football/teams/711.png",
+          "winner": null
+        },
+        "away": {
+          "id": 726,
+          "name": "Huesca",
+          "logo": "https://media.api-sports.io/football/teams/726.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1571166,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2026-10-17T16:45:00+00:00",
+        "timestamp": 1792255500,
         "periods": {
           "first": null,
           "second": null
@@ -5156,225 +5086,15 @@
       },
       "teams": {
         "home": {
-          "id": 5274,
-          "name": "Real Jaén",
-          "logo": "https://media.api-sports.io/football/teams/5274.png",
+          "id": 9823,
+          "name": "Águilas",
+          "logo": "https://media.api-sports.io/football/teams/9823.png",
           "winner": null
         },
         "away": {
-          "id": 861,
-          "name": "Rayo Majadahonda",
-          "logo": "https://media.api-sports.io/football/teams/861.png",
-          "winner": null
-        }
-      },
-      "goals": {
-        "home": null,
-        "away": null
-      },
-      "score": {
-        "halftime": {
-          "home": null,
-          "away": null
-        },
-        "fulltime": {
-          "home": null,
-          "away": null
-        },
-        "extratime": {
-          "home": null,
-          "away": null
-        },
-        "penalty": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "fixture": {
-        "id": 1571172,
-        "referee": null,
-        "timezone": "UTC",
-        "date": "2026-10-18T15:00:00+00:00",
-        "timestamp": 1792335600,
-        "periods": {
-          "first": null,
-          "second": null
-        },
-        "venue": {
-          "id": null,
-          "name": "Estadio Enrique Roca",
-          "city": "Murcia"
-        },
-        "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
-        }
-      },
-      "league": {
-        "id": 436,
-        "name": "Primera División RFEF - Group 2",
-        "country": "Spain",
-        "logo": "https://media.api-sports.io/football/leagues/436.png",
-        "flag": "https://media.api-sports.io/flags/es.svg",
-        "season": 2026,
-        "round": "Group 2 - 8",
-        "standings": true
-      },
-      "teams": {
-        "home": {
-          "id": 5275,
-          "name": "Real Murcia",
-          "logo": "https://media.api-sports.io/football/teams/5275.png",
-          "winner": null
-        },
-        "away": {
-          "id": 732,
-          "name": "Zaragoza",
-          "logo": "https://media.api-sports.io/football/teams/732.png",
-          "winner": null
-        }
-      },
-      "goals": {
-        "home": null,
-        "away": null
-      },
-      "score": {
-        "halftime": {
-          "home": null,
-          "away": null
-        },
-        "fulltime": {
-          "home": null,
-          "away": null
-        },
-        "extratime": {
-          "home": null,
-          "away": null
-        },
-        "penalty": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "fixture": {
-        "id": 1571174,
-        "referee": null,
-        "timezone": "UTC",
-        "date": "2026-10-18T15:00:00+00:00",
-        "timestamp": 1792335600,
-        "periods": {
-          "first": null,
-          "second": null
-        },
-        "venue": {
-          "id": null,
-          "name": null,
-          "city": null
-        },
-        "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
-        }
-      },
-      "league": {
-        "id": 436,
-        "name": "Primera División RFEF - Group 2",
-        "country": "Spain",
-        "logo": "https://media.api-sports.io/football/leagues/436.png",
-        "flag": "https://media.api-sports.io/flags/es.svg",
-        "season": 2026,
-        "round": "Group 2 - 8",
-        "standings": true
-      },
-      "teams": {
-        "home": {
-          "id": 5277,
-          "name": "Sant Andreu",
-          "logo": "https://media.api-sports.io/football/teams/5277.png",
-          "winner": null
-        },
-        "away": {
-          "id": 15359,
-          "name": "Juventud Torremolinos",
-          "logo": "https://media.api-sports.io/football/teams/15359.png",
-          "winner": null
-        }
-      },
-      "goals": {
-        "home": null,
-        "away": null
-      },
-      "score": {
-        "halftime": {
-          "home": null,
-          "away": null
-        },
-        "fulltime": {
-          "home": null,
-          "away": null
-        },
-        "extratime": {
-          "home": null,
-          "away": null
-        },
-        "penalty": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "fixture": {
-        "id": 1571173,
-        "referee": null,
-        "timezone": "UTC",
-        "date": "2026-10-18T15:00:00+00:00",
-        "timestamp": 1792335600,
-        "periods": {
-          "first": null,
-          "second": null
-        },
-        "venue": {
-          "id": null,
-          "name": null,
-          "city": "Madrid"
-        },
-        "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
-        }
-      },
-      "league": {
-        "id": 436,
-        "name": "Primera División RFEF - Group 2",
-        "country": "Spain",
-        "logo": "https://media.api-sports.io/football/leagues/436.png",
-        "flag": "https://media.api-sports.io/flags/es.svg",
-        "season": 2026,
-        "round": "Group 2 - 8",
-        "standings": true
-      },
-      "teams": {
-        "home": {
-          "id": 9575,
-          "name": "Real Madrid II",
-          "logo": "https://media.api-sports.io/football/teams/9575.png",
-          "winner": null
-        },
-        "away": {
-          "id": 9742,
-          "name": "Antequera",
-          "logo": "https://media.api-sports.io/football/teams/9742.png",
+          "id": 9390,
+          "name": "Ibiza",
+          "logo": "https://media.api-sports.io/football/teams/9390.png",
           "winner": null
         }
       },
@@ -5406,8 +5126,8 @@
         "id": 1571175,
         "referee": null,
         "timezone": "UTC",
-        "date": "2026-10-18T15:00:00+00:00",
-        "timestamp": 1792335600,
+        "date": "2026-10-17T18:30:00+00:00",
+        "timestamp": 1792261800,
         "periods": {
           "first": null,
           "second": null
@@ -5476,8 +5196,8 @@
         "id": 1571168,
         "referee": null,
         "timezone": "UTC",
-        "date": "2026-10-18T15:00:00+00:00",
-        "timestamp": 1792335600,
+        "date": "2026-10-17T19:00:00+00:00",
+        "timestamp": 1792263600,
         "periods": {
           "first": null,
           "second": null
@@ -5543,11 +5263,151 @@
     },
     {
       "fixture": {
-        "id": 1571166,
+        "id": 1571173,
         "referee": null,
         "timezone": "UTC",
-        "date": "2026-10-18T15:00:00+00:00",
-        "timestamp": 1792335600,
+        "date": "2026-10-18T10:00:00+00:00",
+        "timestamp": 1792317600,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": null,
+          "name": null,
+          "city": "Madrid"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 436,
+        "name": "Primera División RFEF - Group 2",
+        "country": "Spain",
+        "logo": "https://media.api-sports.io/football/leagues/436.png",
+        "flag": "https://media.api-sports.io/flags/es.svg",
+        "season": 2026,
+        "round": "Group 2 - 8",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 9575,
+          "name": "Real Madrid II",
+          "logo": "https://media.api-sports.io/football/teams/9575.png",
+          "winner": null
+        },
+        "away": {
+          "id": 9742,
+          "name": "Antequera",
+          "logo": "https://media.api-sports.io/football/teams/9742.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1571170,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2026-10-18T14:00:00+00:00",
+        "timestamp": 1792332000,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": null,
+          "name": "Nou Estadi de Tarragona",
+          "city": "Tarragona"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 436,
+        "name": "Primera División RFEF - Group 2",
+        "country": "Spain",
+        "logo": "https://media.api-sports.io/football/leagues/436.png",
+        "flag": "https://media.api-sports.io/flags/es.svg",
+        "season": 2026,
+        "round": "Group 2 - 8",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 714,
+          "name": "Gimnastic",
+          "logo": "https://media.api-sports.io/football/teams/714.png",
+          "winner": null
+        },
+        "away": {
+          "id": 9570,
+          "name": "Atlético Madrid II",
+          "logo": "https://media.api-sports.io/football/teams/9570.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1571174,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2026-10-18T14:00:00+00:00",
+        "timestamp": 1792332000,
         "periods": {
           "first": null,
           "second": null
@@ -5576,15 +5436,155 @@
       },
       "teams": {
         "home": {
-          "id": 9823,
-          "name": "Águilas",
-          "logo": "https://media.api-sports.io/football/teams/9823.png",
+          "id": 5277,
+          "name": "Sant Andreu",
+          "logo": "https://media.api-sports.io/football/teams/5277.png",
           "winner": null
         },
         "away": {
-          "id": 9390,
-          "name": "Ibiza",
-          "logo": "https://media.api-sports.io/football/teams/9390.png",
+          "id": 15359,
+          "name": "Juventud Torremolinos",
+          "logo": "https://media.api-sports.io/football/teams/15359.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1571171,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2026-10-18T16:15:00+00:00",
+        "timestamp": 1792340100,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": null,
+          "name": null,
+          "city": null
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 436,
+        "name": "Primera División RFEF - Group 2",
+        "country": "Spain",
+        "logo": "https://media.api-sports.io/football/leagues/436.png",
+        "flag": "https://media.api-sports.io/flags/es.svg",
+        "season": 2026,
+        "round": "Group 2 - 8",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 5274,
+          "name": "Real Jaén",
+          "logo": "https://media.api-sports.io/football/teams/5274.png",
+          "winner": null
+        },
+        "away": {
+          "id": 861,
+          "name": "Rayo Majadahonda",
+          "logo": "https://media.api-sports.io/football/teams/861.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1571172,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2026-10-18T16:15:00+00:00",
+        "timestamp": 1792340100,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": null,
+          "name": "Estadio Enrique Roca",
+          "city": "Murcia"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 436,
+        "name": "Primera División RFEF - Group 2",
+        "country": "Spain",
+        "logo": "https://media.api-sports.io/football/leagues/436.png",
+        "flag": "https://media.api-sports.io/flags/es.svg",
+        "season": 2026,
+        "round": "Group 2 - 8",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 5275,
+          "name": "Real Murcia",
+          "logo": "https://media.api-sports.io/football/teams/5275.png",
+          "winner": null
+        },
+        "away": {
+          "id": 732,
+          "name": "Zaragoza",
+          "logo": "https://media.api-sports.io/football/teams/732.png",
           "winner": null
         }
       },

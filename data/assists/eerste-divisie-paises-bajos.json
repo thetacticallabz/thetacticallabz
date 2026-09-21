@@ -45,12 +45,12 @@
             "season": 2026
           },
           "games": {
-            "appearences": 5,
-            "lineups": 5,
-            "minutes": 444,
+            "appearences": 7,
+            "lineups": 7,
+            "minutes": 624,
             "number": 7,
             "position": "Midfielder",
-            "rating": "7.45",
+            "rating": "7.08",
             "captain": false
           },
           "substitutes": {
@@ -59,8 +59,8 @@
             "bench": 0
           },
           "shots": {
-            "total": 3,
-            "on": 1
+            "total": 4,
+            "on": 2
           },
           "goals": {
             "total": 1,
@@ -69,125 +69,30 @@
             "saves": 0
           },
           "passes": {
-            "total": 123,
-            "key": 15,
-            "accuracy": 69
+            "total": 173,
+            "key": 19,
+            "accuracy": 68
           },
           "tackles": {
-            "total": 2,
+            "total": 4,
             "blocks": 0,
-            "interceptions": 1
+            "interceptions": 2
           },
           "duels": {
-            "total": 34,
-            "won": 13
+            "total": 46,
+            "won": 18
           },
           "dribbles": {
-            "attempts": 12,
-            "success": 6,
+            "attempts": 18,
+            "success": 9,
             "past": null
           },
           "fouls": {
             "drawn": 3,
-            "committed": 7
+            "committed": 8
           },
           "cards": {
             "yellow": 1,
-            "yellowred": 0,
-            "red": 0
-          },
-          "penalty": {
-            "won": null,
-            "commited": null,
-            "scored": 0,
-            "missed": 0,
-            "saved": null
-          }
-        }
-      ]
-    },
-    {
-      "player": {
-        "id": 379882,
-        "name": "J. Oerip",
-        "firstname": "Julian",
-        "lastname": "Oerip",
-        "age": 19,
-        "birth": {
-          "date": "2006-10-26",
-          "place": "Alkmaar",
-          "country": "Netherlands"
-        },
-        "nationality": "Netherlands",
-        "height": "179 cm",
-        "weight": null,
-        "injured": false,
-        "photo": "https://media.api-sports.io/football/players/379882.png"
-      },
-      "statistics": [
-        {
-          "team": {
-            "id": 418,
-            "name": "Jong AZ",
-            "logo": "https://media.api-sports.io/football/teams/418.png"
-          },
-          "league": {
-            "id": 89,
-            "name": "Eerste Divisie",
-            "country": "Netherlands",
-            "logo": "https://media.api-sports.io/football/leagues/89.png",
-            "flag": "https://media.api-sports.io/flags/nl.svg",
-            "season": 2026
-          },
-          "games": {
-            "appearences": 7,
-            "lineups": 7,
-            "minutes": 630,
-            "number": 8,
-            "position": "Midfielder",
-            "rating": "7.18",
-            "captain": false
-          },
-          "substitutes": {
-            "in": 0,
-            "out": 0,
-            "bench": 0
-          },
-          "shots": {
-            "total": 21,
-            "on": 14
-          },
-          "goals": {
-            "total": 2,
-            "conceded": 0,
-            "assists": 4,
-            "saves": 0
-          },
-          "passes": {
-            "total": 361,
-            "key": 23,
-            "accuracy": 79
-          },
-          "tackles": {
-            "total": 11,
-            "blocks": 0,
-            "interceptions": 8
-          },
-          "duels": {
-            "total": 80,
-            "won": 30
-          },
-          "dribbles": {
-            "attempts": 29,
-            "success": 12,
-            "past": null
-          },
-          "fouls": {
-            "drawn": 5,
-            "committed": 12
-          },
-          "cards": {
-            "yellow": 3,
             "yellowred": 0,
             "red": 0
           },
@@ -235,12 +140,12 @@
             "season": 2026
           },
           "games": {
-            "appearences": 6,
-            "lineups": 6,
-            "minutes": 532,
+            "appearences": 7,
+            "lineups": 7,
+            "minutes": 622,
             "number": 5,
             "position": "Defender",
-            "rating": "7.34",
+            "rating": "7.36",
             "captain": false
           },
           "substitutes": {
@@ -249,28 +154,28 @@
             "bench": 0
           },
           "shots": {
-            "total": 3,
-            "on": 1
+            "total": 4,
+            "on": 2
           },
           "goals": {
             "total": 1,
             "conceded": 0,
-            "assists": 4,
+            "assists": 5,
             "saves": 0
           },
           "passes": {
-            "total": 230,
-            "key": 15,
-            "accuracy": 77
+            "total": 265,
+            "key": 19,
+            "accuracy": 78
           },
           "tackles": {
-            "total": 5,
+            "total": 9,
             "blocks": 2,
             "interceptions": 2
           },
           "duels": {
-            "total": 29,
-            "won": 12
+            "total": 36,
+            "won": 17
           },
           "dribbles": {
             "attempts": 8,
@@ -278,11 +183,391 @@
             "past": null
           },
           "fouls": {
-            "drawn": 3,
+            "drawn": 4,
             "committed": 1
           },
           "cards": {
             "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 1,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 379882,
+        "name": "J. Oerip",
+        "firstname": "Julian",
+        "lastname": "Oerip",
+        "age": 19,
+        "birth": {
+          "date": "2006-10-26",
+          "place": "Alkmaar",
+          "country": "Netherlands"
+        },
+        "nationality": "Netherlands",
+        "height": "179 cm",
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/379882.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 418,
+            "name": "Jong AZ",
+            "logo": "https://media.api-sports.io/football/teams/418.png"
+          },
+          "league": {
+            "id": 89,
+            "name": "Eerste Divisie",
+            "country": "Netherlands",
+            "logo": "https://media.api-sports.io/football/leagues/89.png",
+            "flag": "https://media.api-sports.io/flags/nl.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 9,
+            "lineups": 9,
+            "minutes": 810,
+            "number": 8,
+            "position": "Midfielder",
+            "rating": "7.26",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": 25,
+            "on": 17
+          },
+          "goals": {
+            "total": 3,
+            "conceded": 0,
+            "assists": 4,
+            "saves": 0
+          },
+          "passes": {
+            "total": 476,
+            "key": 27,
+            "accuracy": 81
+          },
+          "tackles": {
+            "total": 18,
+            "blocks": 1,
+            "interceptions": 11
+          },
+          "duels": {
+            "total": 97,
+            "won": 39
+          },
+          "dribbles": {
+            "attempts": 33,
+            "success": 12,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 6,
+            "committed": 13
+          },
+          "cards": {
+            "yellow": 3,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 610515,
+        "name": "T. de Wit",
+        "firstname": null,
+        "lastname": null,
+        "age": 18,
+        "birth": {
+          "date": null,
+          "place": null,
+          "country": null
+        },
+        "nationality": null,
+        "height": null,
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/610515.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 418,
+            "name": "Jong AZ",
+            "logo": "https://media.api-sports.io/football/teams/418.png"
+          },
+          "league": {
+            "id": 89,
+            "name": "Eerste Divisie",
+            "country": "Netherlands",
+            "logo": "https://media.api-sports.io/football/leagues/89.png",
+            "flag": "https://media.api-sports.io/flags/nl.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 9,
+            "lineups": 7,
+            "minutes": 631,
+            "number": 22,
+            "position": "Attacker",
+            "rating": "7.13",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 4,
+            "bench": 2
+          },
+          "shots": {
+            "total": 13,
+            "on": 6
+          },
+          "goals": {
+            "total": 2,
+            "conceded": 0,
+            "assists": 4,
+            "saves": 0
+          },
+          "passes": {
+            "total": 157,
+            "key": 13,
+            "accuracy": 82
+          },
+          "tackles": {
+            "total": 10,
+            "blocks": 1,
+            "interceptions": 5
+          },
+          "duels": {
+            "total": 76,
+            "won": 30
+          },
+          "dribbles": {
+            "attempts": 21,
+            "success": 9,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 7,
+            "committed": 7
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 283540,
+        "name": "G. Beaumont",
+        "firstname": "Guus",
+        "lastname": "Beaumont",
+        "age": 23,
+        "birth": {
+          "date": "2002-05-10",
+          "place": null,
+          "country": "Netherlands"
+        },
+        "nationality": "Netherlands",
+        "height": null,
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/283540.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 422,
+            "name": "FC Eindhoven",
+            "logo": "https://media.api-sports.io/football/teams/422.png"
+          },
+          "league": {
+            "id": 89,
+            "name": "Eerste Divisie",
+            "country": "Netherlands",
+            "logo": "https://media.api-sports.io/football/leagues/89.png",
+            "flag": "https://media.api-sports.io/flags/nl.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 7,
+            "lineups": 7,
+            "minutes": 612,
+            "number": 6,
+            "position": "Midfielder",
+            "rating": "7.06",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 2,
+            "bench": 0
+          },
+          "shots": {
+            "total": 6,
+            "on": 1
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 4,
+            "saves": 0
+          },
+          "passes": {
+            "total": 328,
+            "key": 14,
+            "accuracy": 80
+          },
+          "tackles": {
+            "total": 18,
+            "blocks": 6,
+            "interceptions": 4
+          },
+          "duels": {
+            "total": 77,
+            "won": 37
+          },
+          "dribbles": {
+            "attempts": 16,
+            "success": 9,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 4,
+            "committed": 8
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 37159,
+        "name": "N. Bannis",
+        "firstname": "Naoufal",
+        "lastname": "Bannis",
+        "age": 23,
+        "birth": {
+          "date": "2002-03-11",
+          "place": "Den Haag",
+          "country": "Netherlands"
+        },
+        "nationality": "Morocco",
+        "height": "184 cm",
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/37159.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 200,
+            "name": "Vitesse",
+            "logo": "https://media.api-sports.io/football/teams/200.png"
+          },
+          "league": {
+            "id": 89,
+            "name": "Eerste Divisie",
+            "country": "Netherlands",
+            "logo": "https://media.api-sports.io/football/leagues/89.png",
+            "flag": "https://media.api-sports.io/flags/nl.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 7,
+            "lineups": 7,
+            "minutes": 583,
+            "number": 9,
+            "position": "Attacker",
+            "rating": "7.36",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 7,
+            "bench": 0
+          },
+          "shots": {
+            "total": 24,
+            "on": 17
+          },
+          "goals": {
+            "total": 7,
+            "conceded": 0,
+            "assists": 3,
+            "saves": 0
+          },
+          "passes": {
+            "total": 113,
+            "key": 12,
+            "accuracy": 58
+          },
+          "tackles": {
+            "total": 4,
+            "blocks": 3,
+            "interceptions": 0
+          },
+          "duels": {
+            "total": 57,
+            "won": 25
+          },
+          "dribbles": {
+            "attempts": 4,
+            "success": 2,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 13,
+            "committed": 14
+          },
+          "cards": {
+            "yellow": 1,
             "yellowred": 0,
             "red": 0
           },
@@ -354,7 +639,7 @@
             "saves": 0
           },
           "passes": {
-            "total": 104,
+            "total": 105,
             "key": 6,
             "accuracy": 73
           },
@@ -364,8 +649,8 @@
             "interceptions": 0
           },
           "duels": {
-            "total": 62,
-            "won": 31
+            "total": 63,
+            "won": 32
           },
           "dribbles": {
             "attempts": 3,
@@ -425,12 +710,12 @@
             "season": 2026
           },
           "games": {
-            "appearences": 6,
-            "lineups": 6,
-            "minutes": 423,
+            "appearences": 7,
+            "lineups": 7,
+            "minutes": 513,
             "number": 7,
             "position": "Midfielder",
-            "rating": "7.23",
+            "rating": "7.12",
             "captain": false
           },
           "substitutes": {
@@ -439,7 +724,7 @@
             "bench": 0
           },
           "shots": {
-            "total": 19,
+            "total": 21,
             "on": 10
           },
           "goals": {
@@ -449,27 +734,27 @@
             "saves": 0
           },
           "passes": {
-            "total": 139,
-            "key": 15,
-            "accuracy": 69
+            "total": 169,
+            "key": 20,
+            "accuracy": 70
           },
           "tackles": {
             "total": 4,
-            "blocks": 4,
+            "blocks": 6,
             "interceptions": 2
           },
           "duels": {
-            "total": 42,
+            "total": 48,
             "won": 15
           },
           "dribbles": {
-            "attempts": 12,
-            "success": 4,
+            "attempts": 17,
+            "success": 5,
             "past": null
           },
           "fouls": {
             "drawn": 4,
-            "committed": 7
+            "committed": 8
           },
           "cards": {
             "yellow": 1,
@@ -478,6 +763,196 @@
           },
           "penalty": {
             "won": 1,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 138817,
+        "name": "Juan Carlos Familia-Castillo",
+        "firstname": "Juan Carlos",
+        "lastname": "Familia-Castillo",
+        "age": 25,
+        "birth": {
+          "date": "2000-01-13",
+          "place": "Amsterdam",
+          "country": "Netherlands"
+        },
+        "nationality": "Netherlands",
+        "height": "175",
+        "weight": "56",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/138817.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 417,
+            "name": "Waalwijk",
+            "logo": "https://media.api-sports.io/football/teams/417.png"
+          },
+          "league": {
+            "id": 89,
+            "name": "Eerste Divisie",
+            "country": "Netherlands",
+            "logo": "https://media.api-sports.io/football/leagues/89.png",
+            "flag": "https://media.api-sports.io/flags/nl.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 7,
+            "lineups": 7,
+            "minutes": 630,
+            "number": 5,
+            "position": "Midfielder",
+            "rating": "7.25",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": 6,
+            "on": 2
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": 3,
+            "saves": 0
+          },
+          "passes": {
+            "total": 319,
+            "key": 16,
+            "accuracy": 85
+          },
+          "tackles": {
+            "total": 11,
+            "blocks": 0,
+            "interceptions": 9
+          },
+          "duels": {
+            "total": 36,
+            "won": 18
+          },
+          "dribbles": {
+            "attempts": 11,
+            "success": 2,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 4,
+            "committed": 2
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 443598,
+        "name": "J. Zwart",
+        "firstname": "Jesper",
+        "lastname": "Zwart",
+        "age": 19,
+        "birth": {
+          "date": "2006-11-08",
+          "place": null,
+          "country": "Netherlands"
+        },
+        "nationality": "Netherlands",
+        "height": null,
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/443598.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 418,
+            "name": "Jong AZ",
+            "logo": "https://media.api-sports.io/football/teams/418.png"
+          },
+          "league": {
+            "id": 89,
+            "name": "Eerste Divisie",
+            "country": "Netherlands",
+            "logo": "https://media.api-sports.io/football/leagues/89.png",
+            "flag": "https://media.api-sports.io/flags/nl.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 9,
+            "lineups": 9,
+            "minutes": 810,
+            "number": 2,
+            "position": "Defender",
+            "rating": "6.64",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": 6,
+            "on": 3
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 3,
+            "saves": 0
+          },
+          "passes": {
+            "total": 361,
+            "key": 8,
+            "accuracy": 81
+          },
+          "tackles": {
+            "total": 28,
+            "blocks": 3,
+            "interceptions": 15
+          },
+          "duels": {
+            "total": 91,
+            "won": 51
+          },
+          "dribbles": {
+            "attempts": 14,
+            "success": 4,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 11,
+            "committed": 9
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
             "commited": null,
             "scored": 0,
             "missed": 0,
@@ -520,18 +995,18 @@
             "season": 2026
           },
           "games": {
-            "appearences": 6,
+            "appearences": 7,
             "lineups": 0,
-            "minutes": 161,
+            "minutes": 183,
             "number": 10,
             "position": "Midfielder",
-            "rating": "6.83",
+            "rating": "6.77",
             "captain": false
           },
           "substitutes": {
-            "in": 6,
+            "in": 7,
             "out": 0,
-            "bench": 6
+            "bench": 7
           },
           "shots": {
             "total": 1,
@@ -544,22 +1019,22 @@
             "saves": 0
           },
           "passes": {
-            "total": 69,
+            "total": 82,
             "key": 10,
-            "accuracy": 72
+            "accuracy": 74
           },
           "tackles": {
-            "total": 8,
+            "total": 9,
             "blocks": 0,
             "interceptions": 0
           },
           "duels": {
-            "total": 22,
-            "won": 16
+            "total": 24,
+            "won": 18
           },
           "dribbles": {
-            "attempts": 2,
-            "success": 1,
+            "attempts": 3,
+            "success": 2,
             "past": null
           },
           "fouls": {
@@ -615,17 +1090,17 @@
             "season": 2026
           },
           "games": {
-            "appearences": 6,
-            "lineups": 6,
-            "minutes": 518,
+            "appearences": 7,
+            "lineups": 7,
+            "minutes": 545,
             "number": 24,
             "position": "Defender",
-            "rating": "6.66",
+            "rating": "6.56",
             "captain": false
           },
           "substitutes": {
             "in": 0,
-            "out": 1,
+            "out": 2,
             "bench": 0
           },
           "shots": {
@@ -639,18 +1114,18 @@
             "saves": 0
           },
           "passes": {
-            "total": 274,
+            "total": 281,
             "key": 10,
-            "accuracy": 85
+            "accuracy": 86
           },
           "tackles": {
-            "total": 18,
+            "total": 19,
             "blocks": 1,
             "interceptions": 9
           },
           "duels": {
-            "total": 54,
-            "won": 33
+            "total": 56,
+            "won": 35
           },
           "dribbles": {
             "attempts": 7,
@@ -658,8 +1133,8 @@
             "past": null
           },
           "fouls": {
-            "drawn": 7,
-            "committed": 8
+            "drawn": 9,
+            "committed": 7
           },
           "cards": {
             "yellow": 2,
@@ -678,28 +1153,28 @@
     },
     {
       "player": {
-        "id": 283540,
-        "name": "G. Beaumont",
-        "firstname": "Guus",
-        "lastname": "Beaumont",
-        "age": 23,
+        "id": 551155,
+        "name": "J. Nap",
+        "firstname": null,
+        "lastname": null,
+        "age": 20,
         "birth": {
-          "date": "2002-05-10",
+          "date": null,
           "place": null,
-          "country": "Netherlands"
+          "country": null
         },
-        "nationality": "Netherlands",
+        "nationality": null,
         "height": null,
         "weight": null,
         "injured": false,
-        "photo": "https://media.api-sports.io/football/players/283540.png"
+        "photo": "https://media.api-sports.io/football/players/551155.png"
       },
       "statistics": [
         {
           "team": {
-            "id": 422,
-            "name": "FC Eindhoven",
-            "logo": "https://media.api-sports.io/football/teams/422.png"
+            "id": 417,
+            "name": "Waalwijk",
+            "logo": "https://media.api-sports.io/football/teams/417.png"
           },
           "league": {
             "id": 89,
@@ -710,21 +1185,21 @@
             "season": 2026
           },
           "games": {
-            "appearences": 6,
-            "lineups": 6,
-            "minutes": 534,
-            "number": 6,
+            "appearences": 7,
+            "lineups": 7,
+            "minutes": 585,
+            "number": 8,
             "position": "Midfielder",
-            "rating": "6.89",
+            "rating": "6.8",
             "captain": false
           },
           "substitutes": {
             "in": 0,
-            "out": 1,
+            "out": 4,
             "bench": 0
           },
           "shots": {
-            "total": 2,
+            "total": 9,
             "on": 1
           },
           "goals": {
@@ -734,22 +1209,117 @@
             "saves": 0
           },
           "passes": {
-            "total": 281,
-            "key": 11,
-            "accuracy": 79
+            "total": 272,
+            "key": 12,
+            "accuracy": 84
           },
           "tackles": {
-            "total": 15,
-            "blocks": 2,
-            "interceptions": 4
+            "total": 9,
+            "blocks": 5,
+            "interceptions": 6
           },
           "duels": {
-            "total": 59,
-            "won": 29
+            "total": 41,
+            "won": 16
           },
           "dribbles": {
-            "attempts": 10,
-            "success": 6,
+            "attempts": 2,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 5,
+            "committed": 13
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 24949,
+        "name": "H. Veerman",
+        "firstname": "Henk Andreas Jacobus",
+        "lastname": "Veerman",
+        "age": 34,
+        "birth": {
+          "date": "1991-02-26",
+          "place": "Purmerend",
+          "country": "Netherlands"
+        },
+        "nationality": "Netherlands",
+        "height": "201",
+        "weight": "90",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/24949.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 416,
+            "name": "FC Volendam",
+            "logo": "https://media.api-sports.io/football/teams/416.png"
+          },
+          "league": {
+            "id": 89,
+            "name": "Eerste Divisie",
+            "country": "Netherlands",
+            "logo": "https://media.api-sports.io/football/leagues/89.png",
+            "flag": "https://media.api-sports.io/flags/nl.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 7,
+            "lineups": 7,
+            "minutes": 617,
+            "number": 9,
+            "position": "Attacker",
+            "rating": "7.85",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 2,
+            "bench": 0
+          },
+          "shots": {
+            "total": 23,
+            "on": 13
+          },
+          "goals": {
+            "total": 8,
+            "conceded": 0,
+            "assists": 2,
+            "saves": 0
+          },
+          "passes": {
+            "total": 113,
+            "key": 8,
+            "accuracy": 68
+          },
+          "tackles": {
+            "total": 0,
+            "blocks": 4,
+            "interceptions": 0
+          },
+          "duels": {
+            "total": 56,
+            "won": 26
+          },
+          "dribbles": {
+            "attempts": 6,
+            "success": 1,
             "past": null
           },
           "fouls": {
@@ -805,32 +1375,32 @@
             "season": 2026
           },
           "games": {
-            "appearences": 7,
+            "appearences": 8,
             "lineups": 6,
-            "minutes": 563,
+            "minutes": 598,
             "number": 9,
             "position": "Attacker",
-            "rating": "7.07",
+            "rating": "7.1",
             "captain": false
           },
           "substitutes": {
-            "in": 1,
+            "in": 2,
             "out": 2,
-            "bench": 1
+            "bench": 2
           },
           "shots": {
-            "total": 8,
-            "on": 7
+            "total": 10,
+            "on": 8
           },
           "goals": {
-            "total": 4,
+            "total": 5,
             "conceded": 0,
             "assists": 2,
             "saves": 0
           },
           "passes": {
-            "total": 90,
-            "key": 8,
+            "total": 101,
+            "key": 9,
             "accuracy": 71
           },
           "tackles": {
@@ -839,8 +1409,8 @@
             "interceptions": 0
           },
           "duels": {
-            "total": 68,
-            "won": 25
+            "total": 72,
+            "won": 27
           },
           "dribbles": {
             "attempts": 5,
@@ -848,7 +1418,7 @@
             "past": null
           },
           "fouls": {
-            "drawn": 8,
+            "drawn": 9,
             "committed": 17
           },
           "cards": {
@@ -900,33 +1470,33 @@
             "season": 2026
           },
           "games": {
-            "appearences": 6,
-            "lineups": 6,
-            "minutes": 523,
+            "appearences": 7,
+            "lineups": 7,
+            "minutes": 591,
             "number": 9,
             "position": "Attacker",
-            "rating": "7.51",
+            "rating": "7.48",
             "captain": false
           },
           "substitutes": {
             "in": 0,
-            "out": 3,
+            "out": 4,
             "bench": 0
           },
           "shots": {
-            "total": 26,
-            "on": 10
+            "total": 27,
+            "on": 11
           },
           "goals": {
-            "total": 4,
+            "total": 5,
             "conceded": 0,
             "assists": 2,
             "saves": 0
           },
           "passes": {
-            "total": 91,
+            "total": 103,
             "key": 12,
-            "accuracy": 83
+            "accuracy": 84
           },
           "tackles": {
             "total": 6,
@@ -934,8 +1504,8 @@
             "interceptions": 0
           },
           "duels": {
-            "total": 65,
-            "won": 21
+            "total": 74,
+            "won": 22
           },
           "dribbles": {
             "attempts": 17,
@@ -944,7 +1514,7 @@
           },
           "fouls": {
             "drawn": 5,
-            "committed": 6
+            "committed": 7
           },
           "cards": {
             "yellow": 0,
@@ -955,6 +1525,101 @@
             "won": null,
             "commited": null,
             "scored": 1,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 505988,
+        "name": "Bjorn Menzo",
+        "firstname": "Björn Edwin",
+        "lastname": "Menzo",
+        "age": 18,
+        "birth": {
+          "date": "2007-04-22",
+          "place": null,
+          "country": "Netherlands"
+        },
+        "nationality": "Netherlands",
+        "height": "183 cm",
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/505988.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 428,
+            "name": "Jong Utrecht",
+            "logo": "https://media.api-sports.io/football/teams/428.png"
+          },
+          "league": {
+            "id": 89,
+            "name": "Eerste Divisie",
+            "country": "Netherlands",
+            "logo": "https://media.api-sports.io/football/leagues/89.png",
+            "flag": "https://media.api-sports.io/flags/nl.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 9,
+            "lineups": 7,
+            "minutes": 699,
+            "number": 7,
+            "position": "Midfielder",
+            "rating": "6.88",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 2,
+            "bench": 2
+          },
+          "shots": {
+            "total": 14,
+            "on": 9
+          },
+          "goals": {
+            "total": 3,
+            "conceded": 0,
+            "assists": 2,
+            "saves": 0
+          },
+          "passes": {
+            "total": 224,
+            "key": 16,
+            "accuracy": 73
+          },
+          "tackles": {
+            "total": 15,
+            "blocks": 3,
+            "interceptions": 3
+          },
+          "duels": {
+            "total": 110,
+            "won": 47
+          },
+          "dribbles": {
+            "attempts": 36,
+            "success": 15,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 9,
+            "committed": 9
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
             "missed": 0,
             "saved": null
           }
@@ -995,17 +1660,17 @@
             "season": 2026
           },
           "games": {
-            "appearences": 6,
-            "lineups": 5,
-            "minutes": 477,
+            "appearences": 7,
+            "lineups": 6,
+            "minutes": 551,
             "number": 17,
             "position": "Midfielder",
-            "rating": "7.27",
+            "rating": "7.1",
             "captain": false
           },
           "substitutes": {
             "in": 1,
-            "out": 0,
+            "out": 1,
             "bench": 1
           },
           "shots": {
@@ -1019,27 +1684,27 @@
             "saves": 0
           },
           "passes": {
-            "total": 71,
+            "total": 80,
             "key": 10,
             "accuracy": 81
           },
           "tackles": {
-            "total": 1,
+            "total": 2,
             "blocks": 0,
-            "interceptions": 1
+            "interceptions": 3
           },
           "duels": {
-            "total": 56,
-            "won": 19
+            "total": 62,
+            "won": 20
           },
           "dribbles": {
-            "attempts": 34,
+            "attempts": 36,
             "success": 16,
             "past": null
           },
           "fouls": {
             "drawn": 2,
-            "committed": 3
+            "committed": 4
           },
           "cards": {
             "yellow": 1,
@@ -1090,12 +1755,12 @@
             "season": 2026
           },
           "games": {
-            "appearences": 6,
-            "lineups": 6,
-            "minutes": 521,
+            "appearences": 7,
+            "lineups": 7,
+            "minutes": 611,
             "number": 32,
             "position": "Midfielder",
-            "rating": "7.56",
+            "rating": "7.19",
             "captain": false
           },
           "substitutes": {
@@ -1104,7 +1769,7 @@
             "bench": 0
           },
           "shots": {
-            "total": 8,
+            "total": 9,
             "on": 5
           },
           "goals": {
@@ -1114,121 +1779,26 @@
             "saves": 0
           },
           "passes": {
-            "total": 203,
-            "key": 5,
+            "total": 243,
+            "key": 7,
             "accuracy": 81
           },
           "tackles": {
-            "total": 10,
-            "blocks": 3,
-            "interceptions": 2
+            "total": 15,
+            "blocks": 2,
+            "interceptions": 4
           },
           "duels": {
-            "total": 63,
-            "won": 35
+            "total": 80,
+            "won": 46
           },
           "dribbles": {
-            "attempts": 2,
+            "attempts": 3,
             "success": 2,
             "past": null
           },
           "fouls": {
-            "drawn": 12,
-            "committed": 5
-          },
-          "cards": {
-            "yellow": 0,
-            "yellowred": 0,
-            "red": 0
-          },
-          "penalty": {
-            "won": null,
-            "commited": null,
-            "scored": 0,
-            "missed": 0,
-            "saved": null
-          }
-        }
-      ]
-    },
-    {
-      "player": {
-        "id": 505988,
-        "name": "Bjorn Menzo",
-        "firstname": "Björn Edwin",
-        "lastname": "Menzo",
-        "age": 18,
-        "birth": {
-          "date": "2007-04-22",
-          "place": null,
-          "country": "Netherlands"
-        },
-        "nationality": "Netherlands",
-        "height": "183 cm",
-        "weight": null,
-        "injured": false,
-        "photo": "https://media.api-sports.io/football/players/505988.png"
-      },
-      "statistics": [
-        {
-          "team": {
-            "id": 428,
-            "name": "Jong Utrecht",
-            "logo": "https://media.api-sports.io/football/teams/428.png"
-          },
-          "league": {
-            "id": 89,
-            "name": "Eerste Divisie",
-            "country": "Netherlands",
-            "logo": "https://media.api-sports.io/football/leagues/89.png",
-            "flag": "https://media.api-sports.io/flags/nl.svg",
-            "season": 2026
-          },
-          "games": {
-            "appearences": 7,
-            "lineups": 6,
-            "minutes": 589,
-            "number": 7,
-            "position": "Midfielder",
-            "rating": "6.84",
-            "captain": false
-          },
-          "substitutes": {
-            "in": 1,
-            "out": 1,
-            "bench": 1
-          },
-          "shots": {
-            "total": 11,
-            "on": 8
-          },
-          "goals": {
-            "total": 2,
-            "conceded": 0,
-            "assists": 2,
-            "saves": 0
-          },
-          "passes": {
-            "total": 177,
-            "key": 13,
-            "accuracy": 71
-          },
-          "tackles": {
-            "total": 13,
-            "blocks": 1,
-            "interceptions": 3
-          },
-          "duels": {
-            "total": 90,
-            "won": 42
-          },
-          "dribbles": {
-            "attempts": 31,
-            "success": 15,
-            "past": null
-          },
-          "fouls": {
-            "drawn": 8,
+            "drawn": 13,
             "committed": 6
           },
           "cards": {
@@ -1280,21 +1850,21 @@
             "season": 2026
           },
           "games": {
-            "appearences": 7,
-            "lineups": 7,
-            "minutes": 601,
+            "appearences": 9,
+            "lineups": 9,
+            "minutes": 746,
             "number": 11,
             "position": "Attacker",
-            "rating": "7.52",
+            "rating": "7.38",
             "captain": false
           },
           "substitutes": {
             "in": 0,
-            "out": 4,
+            "out": 5,
             "bench": 0
           },
           "shots": {
-            "total": 16,
+            "total": 19,
             "on": 11
           },
           "goals": {
@@ -1304,9 +1874,9 @@
             "saves": 0
           },
           "passes": {
-            "total": 155,
-            "key": 28,
-            "accuracy": 70
+            "total": 201,
+            "key": 36,
+            "accuracy": 68
           },
           "tackles": {
             "total": 6,
@@ -1314,587 +1884,17 @@
             "interceptions": 3
           },
           "duels": {
-            "total": 55,
-            "won": 28
+            "total": 69,
+            "won": 35
           },
           "dribbles": {
-            "attempts": 19,
-            "success": 6,
+            "attempts": 23,
+            "success": 8,
             "past": null
           },
           "fouls": {
-            "drawn": 13,
-            "committed": 4
-          },
-          "cards": {
-            "yellow": 1,
-            "yellowred": 0,
-            "red": 0
-          },
-          "penalty": {
-            "won": null,
-            "commited": null,
-            "scored": 0,
-            "missed": 0,
-            "saved": null
-          }
-        }
-      ]
-    },
-    {
-      "player": {
-        "id": 666699,
-        "name": "L. Cicero",
-        "firstname": null,
-        "lastname": null,
-        "age": 20,
-        "birth": {
-          "date": null,
-          "place": null,
-          "country": null
-        },
-        "nationality": null,
-        "height": null,
-        "weight": null,
-        "injured": false,
-        "photo": "https://media.api-sports.io/football/players/666699.png"
-      },
-      "statistics": [
-        {
-          "team": {
-            "id": 424,
-            "name": "Helmond Sport",
-            "logo": "https://media.api-sports.io/football/teams/424.png"
-          },
-          "league": {
-            "id": 89,
-            "name": "Eerste Divisie",
-            "country": "Netherlands",
-            "logo": "https://media.api-sports.io/football/leagues/89.png",
-            "flag": "https://media.api-sports.io/flags/nl.svg",
-            "season": 2026
-          },
-          "games": {
-            "appearences": 6,
-            "lineups": 5,
-            "minutes": 421,
-            "number": 11,
-            "position": "Attacker",
-            "rating": "7.2",
-            "captain": false
-          },
-          "substitutes": {
-            "in": 1,
-            "out": 2,
-            "bench": 1
-          },
-          "shots": {
-            "total": 13,
-            "on": 5
-          },
-          "goals": {
-            "total": 2,
-            "conceded": 0,
-            "assists": 2,
-            "saves": 0
-          },
-          "passes": {
-            "total": 102,
-            "key": 10,
-            "accuracy": 63
-          },
-          "tackles": {
-            "total": 9,
-            "blocks": 3,
-            "interceptions": 4
-          },
-          "duels": {
-            "total": 51,
-            "won": 17
-          },
-          "dribbles": {
-            "attempts": 10,
-            "success": 3,
-            "past": null
-          },
-          "fouls": {
-            "drawn": 2,
-            "committed": 10
-          },
-          "cards": {
-            "yellow": 0,
-            "yellowred": 0,
-            "red": 0
-          },
-          "penalty": {
-            "won": null,
-            "commited": null,
-            "scored": 0,
-            "missed": 0,
-            "saved": null
-          }
-        }
-      ]
-    },
-    {
-      "player": {
-        "id": 434204,
-        "name": "M. Dors",
-        "firstname": "Marley",
-        "lastname": "Dors",
-        "age": 20,
-        "birth": {
-          "date": "2005-06-11",
-          "place": null,
-          "country": "Netherlands"
-        },
-        "nationality": "Suriname",
-        "height": null,
-        "weight": null,
-        "injured": false,
-        "photo": "https://media.api-sports.io/football/players/434204.png"
-      },
-      "statistics": [
-        {
-          "team": {
-            "id": 419,
-            "name": "Almere City FC",
-            "logo": "https://media.api-sports.io/football/teams/419.png"
-          },
-          "league": {
-            "id": 89,
-            "name": "Eerste Divisie",
-            "country": "Netherlands",
-            "logo": "https://media.api-sports.io/football/leagues/89.png",
-            "flag": "https://media.api-sports.io/flags/nl.svg",
-            "season": 2026
-          },
-          "games": {
-            "appearences": 6,
-            "lineups": 5,
-            "minutes": 422,
-            "number": 11,
-            "position": "Midfielder",
-            "rating": "7.16",
-            "captain": false
-          },
-          "substitutes": {
-            "in": 1,
-            "out": 4,
-            "bench": 1
-          },
-          "shots": {
-            "total": 10,
-            "on": 5
-          },
-          "goals": {
-            "total": 2,
-            "conceded": 0,
-            "assists": 2,
-            "saves": 0
-          },
-          "passes": {
-            "total": 124,
-            "key": 8,
-            "accuracy": 70
-          },
-          "tackles": {
-            "total": 2,
-            "blocks": 2,
-            "interceptions": 1
-          },
-          "duels": {
-            "total": 44,
-            "won": 14
-          },
-          "dribbles": {
-            "attempts": 16,
-            "success": 5,
-            "past": null
-          },
-          "fouls": {
-            "drawn": 3,
-            "committed": 3
-          },
-          "cards": {
-            "yellow": 1,
-            "yellowred": 0,
-            "red": 0
-          },
-          "penalty": {
-            "won": null,
-            "commited": null,
-            "scored": 0,
-            "missed": 0,
-            "saved": null
-          }
-        }
-      ]
-    },
-    {
-      "player": {
-        "id": 340495,
-        "name": "N. Rossi",
-        "firstname": "Nicolás David",
-        "lastname": "Rossi Marachlian",
-        "age": 23,
-        "birth": {
-          "date": "2002-03-21",
-          "place": "Montevideo",
-          "country": "Uruguay"
-        },
-        "nationality": "Uruguay",
-        "height": "178",
-        "weight": "70",
-        "injured": false,
-        "photo": "https://media.api-sports.io/football/players/340495.png"
-      },
-      "statistics": [
-        {
-          "team": {
-            "id": 409,
-            "name": "Dordrecht",
-            "logo": "https://media.api-sports.io/football/teams/409.png"
-          },
-          "league": {
-            "id": 89,
-            "name": "Eerste Divisie",
-            "country": "Netherlands",
-            "logo": "https://media.api-sports.io/football/leagues/89.png",
-            "flag": "https://media.api-sports.io/flags/nl.svg",
-            "season": 2026
-          },
-          "games": {
-            "appearences": 5,
-            "lineups": 2,
-            "minutes": 217,
-            "number": 11,
-            "position": "Midfielder",
-            "rating": "6.94",
-            "captain": false
-          },
-          "substitutes": {
-            "in": 3,
-            "out": 2,
-            "bench": 3
-          },
-          "shots": {
-            "total": 8,
-            "on": 5
-          },
-          "goals": {
-            "total": 2,
-            "conceded": 0,
-            "assists": 2,
-            "saves": 0
-          },
-          "passes": {
-            "total": 57,
-            "key": 4,
-            "accuracy": 71
-          },
-          "tackles": {
-            "total": 2,
-            "blocks": 1,
-            "interceptions": 1
-          },
-          "duels": {
-            "total": 31,
-            "won": 13
-          },
-          "dribbles": {
-            "attempts": 16,
-            "success": 7,
-            "past": null
-          },
-          "fouls": {
-            "drawn": 4,
-            "committed": 3
-          },
-          "cards": {
-            "yellow": 0,
-            "yellowred": 0,
-            "red": 0
-          },
-          "penalty": {
-            "won": null,
-            "commited": null,
-            "scored": 0,
-            "missed": 0,
-            "saved": null
-          }
-        }
-      ]
-    },
-    {
-      "player": {
-        "id": 584886,
-        "name": "A. Ouarghi",
-        "firstname": null,
-        "lastname": null,
-        "age": 17,
-        "birth": {
-          "date": null,
-          "place": null,
-          "country": null
-        },
-        "nationality": null,
-        "height": null,
-        "weight": null,
-        "injured": false,
-        "photo": "https://media.api-sports.io/football/players/584886.png"
-      },
-      "statistics": [
-        {
-          "team": {
-            "id": 409,
-            "name": "Dordrecht",
-            "logo": "https://media.api-sports.io/football/teams/409.png"
-          },
-          "league": {
-            "id": 89,
-            "name": "Eerste Divisie",
-            "country": "Netherlands",
-            "logo": "https://media.api-sports.io/football/leagues/89.png",
-            "flag": "https://media.api-sports.io/flags/nl.svg",
-            "season": 2026
-          },
-          "games": {
-            "appearences": 5,
-            "lineups": 5,
-            "minutes": 425,
-            "number": 10,
-            "position": "Midfielder",
-            "rating": "7.34",
-            "captain": false
-          },
-          "substitutes": {
-            "in": 0,
-            "out": 2,
-            "bench": 0
-          },
-          "shots": {
-            "total": 10,
-            "on": 6
-          },
-          "goals": {
-            "total": 2,
-            "conceded": 0,
-            "assists": 2,
-            "saves": null
-          },
-          "passes": {
-            "total": 174,
-            "key": 11,
-            "accuracy": 86
-          },
-          "tackles": {
-            "total": 9,
-            "blocks": null,
-            "interceptions": 1
-          },
-          "duels": {
-            "total": 48,
-            "won": 22
-          },
-          "dribbles": {
-            "attempts": 11,
-            "success": 4,
-            "past": null
-          },
-          "fouls": {
-            "drawn": 9,
-            "committed": 9
-          },
-          "cards": {
-            "yellow": 4,
-            "yellowred": 1,
-            "red": 0
-          },
-          "penalty": {
-            "won": null,
-            "commited": null,
-            "scored": 0,
-            "missed": 0,
-            "saved": null
-          }
-        }
-      ]
-    },
-    {
-      "player": {
-        "id": 302429,
-        "name": "F. de Carvalho",
-        "firstname": "Filipe",
-        "lastname": "de Carvalho Ferreira",
-        "age": 22,
-        "birth": {
-          "date": "2003-12-01",
-          "place": "Zürich",
-          "country": "Switzerland"
-        },
-        "nationality": "Switzerland",
-        "height": "177",
-        "weight": "72",
-        "injured": false,
-        "photo": "https://media.api-sports.io/football/players/302429.png"
-      },
-      "statistics": [
-        {
-          "team": {
-            "id": 200,
-            "name": "Vitesse",
-            "logo": "https://media.api-sports.io/football/teams/200.png"
-          },
-          "league": {
-            "id": 89,
-            "name": "Eerste Divisie",
-            "country": "Netherlands",
-            "logo": "https://media.api-sports.io/football/leagues/89.png",
-            "flag": "https://media.api-sports.io/flags/nl.svg",
-            "season": 2026
-          },
-          "games": {
-            "appearences": 6,
-            "lineups": 5,
-            "minutes": 335,
-            "number": 20,
-            "position": "Midfielder",
-            "rating": "6.81",
-            "captain": false
-          },
-          "substitutes": {
-            "in": 1,
-            "out": 5,
-            "bench": 1
-          },
-          "shots": {
-            "total": 4,
-            "on": 1
-          },
-          "goals": {
-            "total": 1,
-            "conceded": 0,
-            "assists": 2,
-            "saves": 0
-          },
-          "passes": {
-            "total": 63,
-            "key": 5,
-            "accuracy": 76
-          },
-          "tackles": {
-            "total": 5,
-            "blocks": 0,
-            "interceptions": 0
-          },
-          "duels": {
-            "total": 31,
-            "won": 10
-          },
-          "dribbles": {
-            "attempts": 5,
-            "success": 1,
-            "past": null
-          },
-          "fouls": {
-            "drawn": 3,
-            "committed": 3
-          },
-          "cards": {
-            "yellow": 0,
-            "yellowred": 0,
-            "red": 0
-          },
-          "penalty": {
-            "won": null,
-            "commited": null,
-            "scored": 0,
-            "missed": 0,
-            "saved": null
-          }
-        }
-      ]
-    },
-    {
-      "player": {
-        "id": 272728,
-        "name": "E. Cornelisse",
-        "firstname": "Enzo",
-        "lastname": "Cornelisse",
-        "age": 23,
-        "birth": {
-          "date": "2002-06-29",
-          "place": "Arnhem",
-          "country": "Netherlands"
-        },
-        "nationality": "Netherlands",
-        "height": "178 cm",
-        "weight": "68 kg",
-        "injured": false,
-        "photo": "https://media.api-sports.io/football/players/272728.png"
-      },
-      "statistics": [
-        {
-          "team": {
-            "id": 419,
-            "name": "Almere City FC",
-            "logo": "https://media.api-sports.io/football/teams/419.png"
-          },
-          "league": {
-            "id": 89,
-            "name": "Eerste Divisie",
-            "country": "Netherlands",
-            "logo": "https://media.api-sports.io/football/leagues/89.png",
-            "flag": "https://media.api-sports.io/flags/nl.svg",
-            "season": 2026
-          },
-          "games": {
-            "appearences": 6,
-            "lineups": 5,
-            "minutes": 421,
-            "number": 6,
-            "position": "Midfielder",
-            "rating": "6.92",
-            "captain": false
-          },
-          "substitutes": {
-            "in": 1,
-            "out": 2,
-            "bench": 1
-          },
-          "shots": {
-            "total": 6,
-            "on": 2
-          },
-          "goals": {
-            "total": 1,
-            "conceded": 0,
-            "assists": 2,
-            "saves": 0
-          },
-          "passes": {
-            "total": 137,
-            "key": 8,
-            "accuracy": 72
-          },
-          "tackles": {
-            "total": 5,
-            "blocks": 1,
-            "interceptions": 6
-          },
-          "duels": {
-            "total": 38,
-            "won": 17
-          },
-          "dribbles": {
-            "attempts": 6,
-            "success": 2,
-            "past": null
-          },
-          "fouls": {
-            "drawn": 2,
-            "committed": 4
+            "drawn": 15,
+            "committed": 5
           },
           "cards": {
             "yellow": 1,

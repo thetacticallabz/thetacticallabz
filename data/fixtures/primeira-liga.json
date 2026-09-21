@@ -3024,7 +3024,7 @@
     {
       "fixture": {
         "id": 1575465,
-        "referee": null,
+        "referee": "Vasilica Iancu, Portugal",
         "timezone": "UTC",
         "date": "2026-09-10T19:15:00+00:00",
         "timestamp": 1789067700,
@@ -3033,9 +3033,9 @@
           "second": null
         },
         "venue": {
-          "id": null,
-          "name": null,
-          "city": "Amadora"
+          "id": 3572,
+          "name": "Complexo Desportivo FC Alverca",
+          "city": "Alverca do Ribatejo"
         },
         "status": {
           "long": "Match Finished",
@@ -3094,7 +3094,7 @@
     {
       "fixture": {
         "id": 1575498,
-        "referee": null,
+        "referee": "Miguel Andre Monteiro Fonseca, Portugal",
         "timezone": "UTC",
         "date": "2026-09-12T14:30:00+00:00",
         "timestamp": 1789223400,
@@ -3104,7 +3104,7 @@
         },
         "venue": {
           "id": null,
-          "name": null,
+          "name": "Estádio da Madeira",
           "city": "Funchal"
         },
         "status": {
@@ -3164,7 +3164,7 @@
     {
       "fixture": {
         "id": 1575495,
-        "referee": null,
+        "referee": "Jose Bessa, Portugal",
         "timezone": "UTC",
         "date": "2026-09-12T17:00:00+00:00",
         "timestamp": 1789232400,
@@ -3173,8 +3173,8 @@
           "second": null
         },
         "venue": {
-          "id": null,
-          "name": null,
+          "id": 3565,
+          "name": "Estádio Municipal de Rio Maior",
           "city": "Rio Maior"
         },
         "status": {
@@ -3234,7 +3234,7 @@
     {
       "fixture": {
         "id": 1575491,
-        "referee": null,
+        "referee": "Carlos Macedo, Portugal",
         "timezone": "UTC",
         "date": "2026-09-12T19:30:00+00:00",
         "timestamp": 1789241400,
@@ -3243,8 +3243,8 @@
           "second": null
         },
         "venue": {
-          "id": null,
-          "name": null,
+          "id": 1264,
+          "name": "Estádio Municipal do Fontelo",
           "city": "Viseu"
         },
         "status": {
@@ -3304,7 +3304,7 @@
     {
       "fixture": {
         "id": 1575493,
-        "referee": null,
+        "referee": "Joao Antonio Ferreira Goncalves, Portugal",
         "timezone": "UTC",
         "date": "2026-09-13T17:00:00+00:00",
         "timestamp": 1789318800,
@@ -3313,8 +3313,8 @@
           "second": null
         },
         "venue": {
-          "id": null,
-          "name": null,
+          "id": 1293,
+          "name": "Estádio da Luz",
           "city": "Lisbon"
         },
         "status": {
@@ -3374,7 +3374,7 @@
     {
       "fixture": {
         "id": 1575492,
-        "referee": null,
+        "referee": "Vitor Ferreira, Portugal",
         "timezone": "UTC",
         "date": "2026-09-13T17:00:00+00:00",
         "timestamp": 1789318800,
@@ -3383,8 +3383,8 @@
           "second": null
         },
         "venue": {
-          "id": null,
-          "name": null,
+          "id": 1275,
+          "name": "Estádio Municipal de Arouca",
           "city": "Arouca"
         },
         "status": {
@@ -3444,7 +3444,7 @@
     {
       "fixture": {
         "id": 1575496,
-        "referee": null,
+        "referee": "Luís Godinho, Portugal",
         "timezone": "UTC",
         "date": "2026-09-13T19:30:00+00:00",
         "timestamp": 1789327800,
@@ -3454,7 +3454,7 @@
         },
         "venue": {
           "id": null,
-          "name": "Estadio Municipal de Famalicao",
+          "name": "Estádio Municipal de Famalicão",
           "city": "Vila Nova de Famalicao"
         },
         "status": {
@@ -3513,6 +3513,846 @@
     },
     {
       "fixture": {
+        "id": 1575499,
+        "referee": "Gustavo Correia, Portugal",
+        "timezone": "UTC",
+        "date": "2026-09-14T17:45:00+00:00",
+        "timestamp": 1789407900,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": null,
+          "name": "Estádio do Rio Ave FC",
+          "city": "Vila do Conde"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 94,
+        "name": "Primeira Liga",
+        "country": "Portugal",
+        "logo": "https://media.api-sports.io/football/leagues/94.png",
+        "flag": "https://media.api-sports.io/flags/pt.svg",
+        "season": 2026,
+        "round": "Regular Season - 6",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 226,
+          "name": "Rio Ave",
+          "logo": "https://media.api-sports.io/football/teams/226.png",
+          "winner": null
+        },
+        "away": {
+          "id": 15130,
+          "name": "Estrela",
+          "logo": "https://media.api-sports.io/football/teams/15130.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": 3,
+        "away": 3
+      },
+      "score": {
+        "halftime": {
+          "home": 1,
+          "away": 1
+        },
+        "fulltime": {
+          "home": 3,
+          "away": 3
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1575497,
+        "referee": "Fabio Melo, Portugal",
+        "timezone": "UTC",
+        "date": "2026-09-14T19:15:00+00:00",
+        "timestamp": 1789413300,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": null,
+          "name": "Parque de Jogos Comendador Joaquim de Almeida Freitas",
+          "city": "Moreira de Cónegos"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 94,
+        "name": "Primeira Liga",
+        "country": "Portugal",
+        "logo": "https://media.api-sports.io/football/leagues/94.png",
+        "flag": "https://media.api-sports.io/flags/pt.svg",
+        "season": 2026,
+        "round": "Regular Season - 6",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 215,
+          "name": "Moreirense",
+          "logo": "https://media.api-sports.io/football/teams/215.png",
+          "winner": true
+        },
+        "away": {
+          "id": 214,
+          "name": "Maritimo",
+          "logo": "https://media.api-sports.io/football/teams/214.png",
+          "winner": false
+        }
+      },
+      "goals": {
+        "home": 3,
+        "away": 1
+      },
+      "score": {
+        "halftime": {
+          "home": 2,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 3,
+          "away": 1
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1575494,
+        "referee": "David Rafael Oliveira da Silva, Portugal",
+        "timezone": "UTC",
+        "date": "2026-09-14T19:45:00+00:00",
+        "timestamp": 1789415100,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": 1291,
+          "name": "Estádio Municipal de Braga",
+          "city": "Braga"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 94,
+        "name": "Primeira Liga",
+        "country": "Portugal",
+        "logo": "https://media.api-sports.io/football/leagues/94.png",
+        "flag": "https://media.api-sports.io/flags/pt.svg",
+        "season": 2026,
+        "round": "Regular Season - 6",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 217,
+          "name": "SC Braga",
+          "logo": "https://media.api-sports.io/football/teams/217.png",
+          "winner": true
+        },
+        "away": {
+          "id": 230,
+          "name": "Estoril",
+          "logo": "https://media.api-sports.io/football/teams/230.png",
+          "winner": false
+        }
+      },
+      "goals": {
+        "home": 1,
+        "away": 0
+      },
+      "score": {
+        "halftime": {
+          "home": 0,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 1,
+          "away": 0
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1575505,
+        "referee": "Gustavo Fernandes Correia",
+        "timezone": "UTC",
+        "date": "2026-09-19T14:30:00+00:00",
+        "timestamp": 1789828200,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": 1281,
+          "name": "Estádio da Madeira",
+          "city": "Funchal"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 94,
+        "name": "Primeira Liga",
+        "country": "Portugal",
+        "logo": "https://media.api-sports.io/football/leagues/94.png",
+        "flag": "https://media.api-sports.io/flags/pt.svg",
+        "season": 2026,
+        "round": "Regular Season - 7",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 225,
+          "name": "Nacional",
+          "logo": "https://media.api-sports.io/football/teams/225.png",
+          "winner": false
+        },
+        "away": {
+          "id": 242,
+          "name": "Famalicao",
+          "logo": "https://media.api-sports.io/football/teams/242.png",
+          "winner": true
+        }
+      },
+      "goals": {
+        "home": 0,
+        "away": 4
+      },
+      "score": {
+        "halftime": {
+          "home": 0,
+          "away": 3
+        },
+        "fulltime": {
+          "home": 0,
+          "away": 4
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1575504,
+        "referee": "Bruno Pires Costa",
+        "timezone": "UTC",
+        "date": "2026-09-19T14:30:00+00:00",
+        "timestamp": 1789828200,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": 2811,
+          "name": "Estadio Cidade de Barcelos",
+          "city": "Barcelos"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 94,
+        "name": "Primeira Liga",
+        "country": "Portugal",
+        "logo": "https://media.api-sports.io/football/leagues/94.png",
+        "flag": "https://media.api-sports.io/flags/pt.svg",
+        "season": 2026,
+        "round": "Regular Season - 7",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 762,
+          "name": "GIL Vicente",
+          "logo": "https://media.api-sports.io/football/teams/762.png",
+          "winner": null
+        },
+        "away": {
+          "id": 214,
+          "name": "Maritimo",
+          "logo": "https://media.api-sports.io/football/teams/214.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": 1,
+        "away": 1
+      },
+      "score": {
+        "halftime": {
+          "home": 1,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 1,
+          "away": 1
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1575500,
+        "referee": "Luis Carlos Mateus Filipe",
+        "timezone": "UTC",
+        "date": "2026-09-19T17:00:00+00:00",
+        "timestamp": 1789837200,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": 3572,
+          "name": "Complexo Desportivo FC Alverca",
+          "city": "Alverkaduribajo"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 94,
+        "name": "Primeira Liga",
+        "country": "Portugal",
+        "logo": "https://media.api-sports.io/football/leagues/94.png",
+        "flag": "https://media.api-sports.io/flags/pt.svg",
+        "season": 2026,
+        "round": "Regular Season - 7",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 4724,
+          "name": "Alverca",
+          "logo": "https://media.api-sports.io/football/teams/4724.png",
+          "winner": true
+        },
+        "away": {
+          "id": 226,
+          "name": "Rio Ave",
+          "logo": "https://media.api-sports.io/football/teams/226.png",
+          "winner": false
+        }
+      },
+      "goals": {
+        "home": 1,
+        "away": 0
+      },
+      "score": {
+        "halftime": {
+          "home": 1,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 1,
+          "away": 0
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1575507,
+        "referee": "David Rafael Oliveira da Silva",
+        "timezone": "UTC",
+        "date": "2026-09-19T19:30:00+00:00",
+        "timestamp": 1789846200,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": 1293,
+          "name": "Estádio José Alvalade",
+          "city": "Lisbon"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 94,
+        "name": "Primeira Liga",
+        "country": "Portugal",
+        "logo": "https://media.api-sports.io/football/leagues/94.png",
+        "flag": "https://media.api-sports.io/flags/pt.svg",
+        "season": 2026,
+        "round": "Regular Season - 7",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 228,
+          "name": "Sporting CP",
+          "logo": "https://media.api-sports.io/football/teams/228.png",
+          "winner": null
+        },
+        "away": {
+          "id": 240,
+          "name": "Arouca",
+          "logo": "https://media.api-sports.io/football/teams/240.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": 2,
+        "away": 2
+      },
+      "score": {
+        "halftime": {
+          "home": 2,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 2,
+          "away": 2
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1575508,
+        "referee": "Sergio Jose Dos Santos Guelho",
+        "timezone": "UTC",
+        "date": "2026-09-20T14:30:00+00:00",
+        "timestamp": 1789914600,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": 1295,
+          "name": "Estádio D. Afonso Henriques",
+          "city": "Guimarães"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 94,
+        "name": "Primeira Liga",
+        "country": "Portugal",
+        "logo": "https://media.api-sports.io/football/leagues/94.png",
+        "flag": "https://media.api-sports.io/flags/pt.svg",
+        "season": 2026,
+        "round": "Regular Season - 7",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 224,
+          "name": "Vitória SC",
+          "logo": "https://media.api-sports.io/football/teams/224.png",
+          "winner": null
+        },
+        "away": {
+          "id": 215,
+          "name": "Moreirense",
+          "logo": "https://media.api-sports.io/football/teams/215.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": 1,
+        "away": 1
+      },
+      "score": {
+        "halftime": {
+          "home": 0,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 1,
+          "away": 1
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1575502,
+        "referee": "Andre Narciso",
+        "timezone": "UTC",
+        "date": "2026-09-20T14:30:00+00:00",
+        "timestamp": 1789914600,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": null,
+          "name": "Estadio Jose Gomes",
+          "city": "Amadora"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 94,
+        "name": "Primeira Liga",
+        "country": "Portugal",
+        "logo": "https://media.api-sports.io/football/leagues/94.png",
+        "flag": "https://media.api-sports.io/flags/pt.svg",
+        "season": 2026,
+        "round": "Regular Season - 7",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 15130,
+          "name": "Estrela",
+          "logo": "https://media.api-sports.io/football/teams/15130.png",
+          "winner": false
+        },
+        "away": {
+          "id": 238,
+          "name": "Academico Viseu",
+          "logo": "https://media.api-sports.io/football/teams/238.png",
+          "winner": true
+        }
+      },
+      "goals": {
+        "home": 0,
+        "away": 2
+      },
+      "score": {
+        "halftime": {
+          "home": 0,
+          "away": 2
+        },
+        "fulltime": {
+          "home": 0,
+          "away": 2
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1575506,
+        "referee": "Fabio Verissimo",
+        "timezone": "UTC",
+        "date": "2026-09-20T17:00:00+00:00",
+        "timestamp": 1789923600,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": 1289,
+          "name": "Estádio de São Miguel",
+          "city": "Ponta Delgada"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 94,
+        "name": "Primeira Liga",
+        "country": "Portugal",
+        "logo": "https://media.api-sports.io/football/leagues/94.png",
+        "flag": "https://media.api-sports.io/flags/pt.svg",
+        "season": 2026,
+        "round": "Regular Season - 7",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 227,
+          "name": "Santa Clara",
+          "logo": "https://media.api-sports.io/football/teams/227.png",
+          "winner": null
+        },
+        "away": {
+          "id": 217,
+          "name": "SC Braga",
+          "logo": "https://media.api-sports.io/football/teams/217.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": 0,
+        "away": 0
+      },
+      "score": {
+        "halftime": {
+          "home": 0,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 0,
+          "away": 0
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1575501,
+        "referee": "Pedro Miguel Torres Ramalho",
+        "timezone": "UTC",
+        "date": "2026-09-20T17:00:00+00:00",
+        "timestamp": 1789923600,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": 1274,
+          "name": "Estádio António Coimbra da Mota",
+          "city": "Cascais"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 94,
+        "name": "Primeira Liga",
+        "country": "Portugal",
+        "logo": "https://media.api-sports.io/football/leagues/94.png",
+        "flag": "https://media.api-sports.io/flags/pt.svg",
+        "season": 2026,
+        "round": "Regular Season - 7",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 230,
+          "name": "Estoril",
+          "logo": "https://media.api-sports.io/football/teams/230.png",
+          "winner": false
+        },
+        "away": {
+          "id": 4716,
+          "name": "Casa Pia",
+          "logo": "https://media.api-sports.io/football/teams/4716.png",
+          "winner": true
+        }
+      },
+      "goals": {
+        "home": 1,
+        "away": 2
+      },
+      "score": {
+        "halftime": {
+          "home": 0,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 1,
+          "away": 2
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1575503,
+        "referee": "Miguel Bertolo Nogueira",
+        "timezone": "UTC",
+        "date": "2026-09-20T19:30:00+00:00",
+        "timestamp": 1789932600,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": 1286,
+          "name": "Estádio do Dragão",
+          "city": "Porto"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 94,
+        "name": "Primeira Liga",
+        "country": "Portugal",
+        "logo": "https://media.api-sports.io/football/leagues/94.png",
+        "flag": "https://media.api-sports.io/flags/pt.svg",
+        "season": 2026,
+        "round": "Regular Season - 7",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 212,
+          "name": "FC Porto",
+          "logo": "https://media.api-sports.io/football/teams/212.png",
+          "winner": true
+        },
+        "away": {
+          "id": 211,
+          "name": "Benfica",
+          "logo": "https://media.api-sports.io/football/teams/211.png",
+          "winner": false
+        }
+      },
+      "goals": {
+        "home": 3,
+        "away": 1
+      },
+      "score": {
+        "halftime": {
+          "home": 1,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 3,
+          "away": 1
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
         "id": 1575458,
         "referee": "F. Verissimo",
         "timezone": "UTC",
@@ -3555,846 +4395,6 @@
           "id": 762,
           "name": "GIL Vicente",
           "logo": "https://media.api-sports.io/football/teams/762.png",
-          "winner": null
-        }
-      },
-      "goals": {
-        "home": null,
-        "away": null
-      },
-      "score": {
-        "halftime": {
-          "home": null,
-          "away": null
-        },
-        "fulltime": {
-          "home": null,
-          "away": null
-        },
-        "extratime": {
-          "home": null,
-          "away": null
-        },
-        "penalty": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "fixture": {
-        "id": 1575499,
-        "referee": null,
-        "timezone": "UTC",
-        "date": "2026-09-14T17:45:00+00:00",
-        "timestamp": 1789407900,
-        "periods": {
-          "first": null,
-          "second": null
-        },
-        "venue": {
-          "id": null,
-          "name": null,
-          "city": "Vila do Conde"
-        },
-        "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
-        }
-      },
-      "league": {
-        "id": 94,
-        "name": "Primeira Liga",
-        "country": "Portugal",
-        "logo": "https://media.api-sports.io/football/leagues/94.png",
-        "flag": "https://media.api-sports.io/flags/pt.svg",
-        "season": 2026,
-        "round": "Regular Season - 6",
-        "standings": true
-      },
-      "teams": {
-        "home": {
-          "id": 226,
-          "name": "Rio Ave",
-          "logo": "https://media.api-sports.io/football/teams/226.png",
-          "winner": null
-        },
-        "away": {
-          "id": 15130,
-          "name": "Estrela",
-          "logo": "https://media.api-sports.io/football/teams/15130.png",
-          "winner": null
-        }
-      },
-      "goals": {
-        "home": null,
-        "away": null
-      },
-      "score": {
-        "halftime": {
-          "home": null,
-          "away": null
-        },
-        "fulltime": {
-          "home": null,
-          "away": null
-        },
-        "extratime": {
-          "home": null,
-          "away": null
-        },
-        "penalty": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "fixture": {
-        "id": 1575497,
-        "referee": null,
-        "timezone": "UTC",
-        "date": "2026-09-14T19:15:00+00:00",
-        "timestamp": 1789413300,
-        "periods": {
-          "first": null,
-          "second": null
-        },
-        "venue": {
-          "id": null,
-          "name": "Parque Joaquim de Almeida Freitas",
-          "city": "Moreira de Conegos"
-        },
-        "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
-        }
-      },
-      "league": {
-        "id": 94,
-        "name": "Primeira Liga",
-        "country": "Portugal",
-        "logo": "https://media.api-sports.io/football/leagues/94.png",
-        "flag": "https://media.api-sports.io/flags/pt.svg",
-        "season": 2026,
-        "round": "Regular Season - 6",
-        "standings": true
-      },
-      "teams": {
-        "home": {
-          "id": 215,
-          "name": "Moreirense",
-          "logo": "https://media.api-sports.io/football/teams/215.png",
-          "winner": null
-        },
-        "away": {
-          "id": 214,
-          "name": "Maritimo",
-          "logo": "https://media.api-sports.io/football/teams/214.png",
-          "winner": null
-        }
-      },
-      "goals": {
-        "home": null,
-        "away": null
-      },
-      "score": {
-        "halftime": {
-          "home": null,
-          "away": null
-        },
-        "fulltime": {
-          "home": null,
-          "away": null
-        },
-        "extratime": {
-          "home": null,
-          "away": null
-        },
-        "penalty": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "fixture": {
-        "id": 1575494,
-        "referee": null,
-        "timezone": "UTC",
-        "date": "2026-09-14T19:45:00+00:00",
-        "timestamp": 1789415100,
-        "periods": {
-          "first": null,
-          "second": null
-        },
-        "venue": {
-          "id": null,
-          "name": null,
-          "city": "Braga"
-        },
-        "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
-        }
-      },
-      "league": {
-        "id": 94,
-        "name": "Primeira Liga",
-        "country": "Portugal",
-        "logo": "https://media.api-sports.io/football/leagues/94.png",
-        "flag": "https://media.api-sports.io/flags/pt.svg",
-        "season": 2026,
-        "round": "Regular Season - 6",
-        "standings": true
-      },
-      "teams": {
-        "home": {
-          "id": 217,
-          "name": "SC Braga",
-          "logo": "https://media.api-sports.io/football/teams/217.png",
-          "winner": null
-        },
-        "away": {
-          "id": 230,
-          "name": "Estoril",
-          "logo": "https://media.api-sports.io/football/teams/230.png",
-          "winner": null
-        }
-      },
-      "goals": {
-        "home": null,
-        "away": null
-      },
-      "score": {
-        "halftime": {
-          "home": null,
-          "away": null
-        },
-        "fulltime": {
-          "home": null,
-          "away": null
-        },
-        "extratime": {
-          "home": null,
-          "away": null
-        },
-        "penalty": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "fixture": {
-        "id": 1575505,
-        "referee": null,
-        "timezone": "UTC",
-        "date": "2026-09-19T14:30:00+00:00",
-        "timestamp": 1789828200,
-        "periods": {
-          "first": null,
-          "second": null
-        },
-        "venue": {
-          "id": null,
-          "name": null,
-          "city": "Funchal"
-        },
-        "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
-        }
-      },
-      "league": {
-        "id": 94,
-        "name": "Primeira Liga",
-        "country": "Portugal",
-        "logo": "https://media.api-sports.io/football/leagues/94.png",
-        "flag": "https://media.api-sports.io/flags/pt.svg",
-        "season": 2026,
-        "round": "Regular Season - 7",
-        "standings": true
-      },
-      "teams": {
-        "home": {
-          "id": 225,
-          "name": "Nacional",
-          "logo": "https://media.api-sports.io/football/teams/225.png",
-          "winner": null
-        },
-        "away": {
-          "id": 242,
-          "name": "Famalicao",
-          "logo": "https://media.api-sports.io/football/teams/242.png",
-          "winner": null
-        }
-      },
-      "goals": {
-        "home": null,
-        "away": null
-      },
-      "score": {
-        "halftime": {
-          "home": null,
-          "away": null
-        },
-        "fulltime": {
-          "home": null,
-          "away": null
-        },
-        "extratime": {
-          "home": null,
-          "away": null
-        },
-        "penalty": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "fixture": {
-        "id": 1575504,
-        "referee": null,
-        "timezone": "UTC",
-        "date": "2026-09-19T14:30:00+00:00",
-        "timestamp": 1789828200,
-        "periods": {
-          "first": null,
-          "second": null
-        },
-        "venue": {
-          "id": null,
-          "name": null,
-          "city": "Barcelos"
-        },
-        "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
-        }
-      },
-      "league": {
-        "id": 94,
-        "name": "Primeira Liga",
-        "country": "Portugal",
-        "logo": "https://media.api-sports.io/football/leagues/94.png",
-        "flag": "https://media.api-sports.io/flags/pt.svg",
-        "season": 2026,
-        "round": "Regular Season - 7",
-        "standings": true
-      },
-      "teams": {
-        "home": {
-          "id": 762,
-          "name": "GIL Vicente",
-          "logo": "https://media.api-sports.io/football/teams/762.png",
-          "winner": null
-        },
-        "away": {
-          "id": 214,
-          "name": "Maritimo",
-          "logo": "https://media.api-sports.io/football/teams/214.png",
-          "winner": null
-        }
-      },
-      "goals": {
-        "home": null,
-        "away": null
-      },
-      "score": {
-        "halftime": {
-          "home": null,
-          "away": null
-        },
-        "fulltime": {
-          "home": null,
-          "away": null
-        },
-        "extratime": {
-          "home": null,
-          "away": null
-        },
-        "penalty": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "fixture": {
-        "id": 1575500,
-        "referee": null,
-        "timezone": "UTC",
-        "date": "2026-09-19T17:00:00+00:00",
-        "timestamp": 1789837200,
-        "periods": {
-          "first": null,
-          "second": null
-        },
-        "venue": {
-          "id": null,
-          "name": "FC Alverca Sports Complex",
-          "city": "Alverca do Ribatejo"
-        },
-        "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
-        }
-      },
-      "league": {
-        "id": 94,
-        "name": "Primeira Liga",
-        "country": "Portugal",
-        "logo": "https://media.api-sports.io/football/leagues/94.png",
-        "flag": "https://media.api-sports.io/flags/pt.svg",
-        "season": 2026,
-        "round": "Regular Season - 7",
-        "standings": true
-      },
-      "teams": {
-        "home": {
-          "id": 4724,
-          "name": "Alverca",
-          "logo": "https://media.api-sports.io/football/teams/4724.png",
-          "winner": null
-        },
-        "away": {
-          "id": 226,
-          "name": "Rio Ave",
-          "logo": "https://media.api-sports.io/football/teams/226.png",
-          "winner": null
-        }
-      },
-      "goals": {
-        "home": null,
-        "away": null
-      },
-      "score": {
-        "halftime": {
-          "home": null,
-          "away": null
-        },
-        "fulltime": {
-          "home": null,
-          "away": null
-        },
-        "extratime": {
-          "home": null,
-          "away": null
-        },
-        "penalty": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "fixture": {
-        "id": 1575507,
-        "referee": null,
-        "timezone": "UTC",
-        "date": "2026-09-19T19:30:00+00:00",
-        "timestamp": 1789846200,
-        "periods": {
-          "first": null,
-          "second": null
-        },
-        "venue": {
-          "id": null,
-          "name": null,
-          "city": "Lisbon"
-        },
-        "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
-        }
-      },
-      "league": {
-        "id": 94,
-        "name": "Primeira Liga",
-        "country": "Portugal",
-        "logo": "https://media.api-sports.io/football/leagues/94.png",
-        "flag": "https://media.api-sports.io/flags/pt.svg",
-        "season": 2026,
-        "round": "Regular Season - 7",
-        "standings": true
-      },
-      "teams": {
-        "home": {
-          "id": 228,
-          "name": "Sporting CP",
-          "logo": "https://media.api-sports.io/football/teams/228.png",
-          "winner": null
-        },
-        "away": {
-          "id": 240,
-          "name": "Arouca",
-          "logo": "https://media.api-sports.io/football/teams/240.png",
-          "winner": null
-        }
-      },
-      "goals": {
-        "home": null,
-        "away": null
-      },
-      "score": {
-        "halftime": {
-          "home": null,
-          "away": null
-        },
-        "fulltime": {
-          "home": null,
-          "away": null
-        },
-        "extratime": {
-          "home": null,
-          "away": null
-        },
-        "penalty": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "fixture": {
-        "id": 1575508,
-        "referee": null,
-        "timezone": "UTC",
-        "date": "2026-09-20T14:30:00+00:00",
-        "timestamp": 1789914600,
-        "periods": {
-          "first": null,
-          "second": null
-        },
-        "venue": {
-          "id": null,
-          "name": null,
-          "city": null
-        },
-        "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
-        }
-      },
-      "league": {
-        "id": 94,
-        "name": "Primeira Liga",
-        "country": "Portugal",
-        "logo": "https://media.api-sports.io/football/leagues/94.png",
-        "flag": "https://media.api-sports.io/flags/pt.svg",
-        "season": 2026,
-        "round": "Regular Season - 7",
-        "standings": true
-      },
-      "teams": {
-        "home": {
-          "id": 224,
-          "name": "Vitória SC",
-          "logo": "https://media.api-sports.io/football/teams/224.png",
-          "winner": null
-        },
-        "away": {
-          "id": 215,
-          "name": "Moreirense",
-          "logo": "https://media.api-sports.io/football/teams/215.png",
-          "winner": null
-        }
-      },
-      "goals": {
-        "home": null,
-        "away": null
-      },
-      "score": {
-        "halftime": {
-          "home": null,
-          "away": null
-        },
-        "fulltime": {
-          "home": null,
-          "away": null
-        },
-        "extratime": {
-          "home": null,
-          "away": null
-        },
-        "penalty": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "fixture": {
-        "id": 1575502,
-        "referee": null,
-        "timezone": "UTC",
-        "date": "2026-09-20T14:30:00+00:00",
-        "timestamp": 1789914600,
-        "periods": {
-          "first": null,
-          "second": null
-        },
-        "venue": {
-          "id": null,
-          "name": null,
-          "city": "Amadora"
-        },
-        "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
-        }
-      },
-      "league": {
-        "id": 94,
-        "name": "Primeira Liga",
-        "country": "Portugal",
-        "logo": "https://media.api-sports.io/football/leagues/94.png",
-        "flag": "https://media.api-sports.io/flags/pt.svg",
-        "season": 2026,
-        "round": "Regular Season - 7",
-        "standings": true
-      },
-      "teams": {
-        "home": {
-          "id": 15130,
-          "name": "Estrela",
-          "logo": "https://media.api-sports.io/football/teams/15130.png",
-          "winner": null
-        },
-        "away": {
-          "id": 238,
-          "name": "Academico Viseu",
-          "logo": "https://media.api-sports.io/football/teams/238.png",
-          "winner": null
-        }
-      },
-      "goals": {
-        "home": null,
-        "away": null
-      },
-      "score": {
-        "halftime": {
-          "home": null,
-          "away": null
-        },
-        "fulltime": {
-          "home": null,
-          "away": null
-        },
-        "extratime": {
-          "home": null,
-          "away": null
-        },
-        "penalty": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "fixture": {
-        "id": 1575506,
-        "referee": null,
-        "timezone": "UTC",
-        "date": "2026-09-20T17:00:00+00:00",
-        "timestamp": 1789923600,
-        "periods": {
-          "first": null,
-          "second": null
-        },
-        "venue": {
-          "id": null,
-          "name": null,
-          "city": "Ponta Delgada"
-        },
-        "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
-        }
-      },
-      "league": {
-        "id": 94,
-        "name": "Primeira Liga",
-        "country": "Portugal",
-        "logo": "https://media.api-sports.io/football/leagues/94.png",
-        "flag": "https://media.api-sports.io/flags/pt.svg",
-        "season": 2026,
-        "round": "Regular Season - 7",
-        "standings": true
-      },
-      "teams": {
-        "home": {
-          "id": 227,
-          "name": "Santa Clara",
-          "logo": "https://media.api-sports.io/football/teams/227.png",
-          "winner": null
-        },
-        "away": {
-          "id": 217,
-          "name": "SC Braga",
-          "logo": "https://media.api-sports.io/football/teams/217.png",
-          "winner": null
-        }
-      },
-      "goals": {
-        "home": null,
-        "away": null
-      },
-      "score": {
-        "halftime": {
-          "home": null,
-          "away": null
-        },
-        "fulltime": {
-          "home": null,
-          "away": null
-        },
-        "extratime": {
-          "home": null,
-          "away": null
-        },
-        "penalty": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "fixture": {
-        "id": 1575501,
-        "referee": null,
-        "timezone": "UTC",
-        "date": "2026-09-20T17:00:00+00:00",
-        "timestamp": 1789923600,
-        "periods": {
-          "first": null,
-          "second": null
-        },
-        "venue": {
-          "id": 1274,
-          "name": "Estadio Antonio Coimbra da Mota",
-          "city": "Estoril"
-        },
-        "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
-        }
-      },
-      "league": {
-        "id": 94,
-        "name": "Primeira Liga",
-        "country": "Portugal",
-        "logo": "https://media.api-sports.io/football/leagues/94.png",
-        "flag": "https://media.api-sports.io/flags/pt.svg",
-        "season": 2026,
-        "round": "Regular Season - 7",
-        "standings": true
-      },
-      "teams": {
-        "home": {
-          "id": 230,
-          "name": "Estoril",
-          "logo": "https://media.api-sports.io/football/teams/230.png",
-          "winner": null
-        },
-        "away": {
-          "id": 4716,
-          "name": "Casa Pia",
-          "logo": "https://media.api-sports.io/football/teams/4716.png",
-          "winner": null
-        }
-      },
-      "goals": {
-        "home": null,
-        "away": null
-      },
-      "score": {
-        "halftime": {
-          "home": null,
-          "away": null
-        },
-        "fulltime": {
-          "home": null,
-          "away": null
-        },
-        "extratime": {
-          "home": null,
-          "away": null
-        },
-        "penalty": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "fixture": {
-        "id": 1575503,
-        "referee": null,
-        "timezone": "UTC",
-        "date": "2026-09-20T19:30:00+00:00",
-        "timestamp": 1789932600,
-        "periods": {
-          "first": null,
-          "second": null
-        },
-        "venue": {
-          "id": null,
-          "name": null,
-          "city": "Porto"
-        },
-        "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
-        }
-      },
-      "league": {
-        "id": 94,
-        "name": "Primeira Liga",
-        "country": "Portugal",
-        "logo": "https://media.api-sports.io/football/leagues/94.png",
-        "flag": "https://media.api-sports.io/flags/pt.svg",
-        "season": 2026,
-        "round": "Regular Season - 7",
-        "standings": true
-      },
-      "teams": {
-        "home": {
-          "id": 212,
-          "name": "FC Porto",
-          "logo": "https://media.api-sports.io/football/teams/212.png",
-          "winner": null
-        },
-        "away": {
-          "id": 211,
-          "name": "Benfica",
-          "logo": "https://media.api-sports.io/football/teams/211.png",
           "winner": null
         }
       },

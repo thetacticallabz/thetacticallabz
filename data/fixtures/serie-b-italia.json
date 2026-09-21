@@ -2814,7 +2814,7 @@
     {
       "fixture": {
         "id": 1601537,
-        "referee": null,
+        "referee": "Mario Perri",
         "timezone": "UTC",
         "date": "2026-09-18T18:30:00+00:00",
         "timestamp": 1789756200,
@@ -2823,14 +2823,14 @@
           "second": null
         },
         "venue": {
-          "id": null,
+          "id": 908,
           "name": "Stadio Romeo Menti",
           "city": "Castellammare di Stabia"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
           "extra": null
         }
       },
@@ -2859,17 +2859,17 @@
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 1,
+        "away": 1
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 1
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 1
         },
         "extratime": {
           "home": null,
@@ -2884,7 +2884,7 @@
     {
       "fixture": {
         "id": 1601536,
-        "referee": null,
+        "referee": "Edoardo Manedo Mazzoni",
         "timezone": "UTC",
         "date": "2026-09-19T13:00:00+00:00",
         "timestamp": 1789822800,
@@ -2898,9 +2898,9 @@
           "city": "Cremona"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
           "extra": null
         }
       },
@@ -2929,17 +2929,17 @@
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 0,
+        "away": 0
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         },
         "extratime": {
           "home": null,
@@ -2954,7 +2954,7 @@
     {
       "fixture": {
         "id": 1601540,
-        "referee": null,
+        "referee": "Marco Di Bello",
         "timezone": "UTC",
         "date": "2026-09-19T13:00:00+00:00",
         "timestamp": 1789822800,
@@ -2964,13 +2964,13 @@
         },
         "venue": {
           "id": 920,
-          "name": "Stadio Renzo Barbera",
+          "name": "Renzo Barbera",
           "city": "Palermo"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
           "extra": null
         }
       },
@@ -2989,27 +2989,27 @@
           "id": 522,
           "name": "Palermo",
           "logo": "https://media.api-sports.io/football/teams/522.png",
-          "winner": null
+          "winner": true
         },
         "away": {
           "id": 870,
           "name": "Padova",
           "logo": "https://media.api-sports.io/football/teams/870.png",
-          "winner": null
+          "winner": false
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 2,
+        "away": 1
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 1
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 1
         },
         "extratime": {
           "home": null,
@@ -3024,7 +3024,7 @@
     {
       "fixture": {
         "id": 1601535,
-        "referee": null,
+        "referee": "Rosario Abisso",
         "timezone": "UTC",
         "date": "2026-09-19T13:00:00+00:00",
         "timestamp": 1789822800,
@@ -3038,9 +3038,9 @@
           "city": "Carrara"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
           "extra": null
         }
       },
@@ -3059,27 +3059,27 @@
           "id": 1581,
           "name": "Carrarese",
           "logo": "https://media.api-sports.io/football/teams/1581.png",
-          "winner": null
+          "winner": false
         },
         "away": {
           "id": 506,
           "name": "Benevento",
           "logo": "https://media.api-sports.io/football/teams/506.png",
-          "winner": null
+          "winner": true
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 0,
+        "away": 1
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 1
         },
         "extratime": {
           "home": null,
@@ -3094,7 +3094,7 @@
     {
       "fixture": {
         "id": 1601541,
-        "referee": null,
+        "referee": "Giovanni Ayroldi",
         "timezone": "UTC",
         "date": "2026-09-19T15:15:00+00:00",
         "timestamp": 1789830900,
@@ -3103,14 +3103,14 @@
           "second": null
         },
         "venue": {
-          "id": null,
-          "name": "Stadio Luigi Ferraris",
+          "id": 905,
+          "name": "Luigi Ferraris",
           "city": "Genoa"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
           "extra": null
         }
       },
@@ -3129,27 +3129,27 @@
           "id": 498,
           "name": "Sampdoria",
           "logo": "https://media.api-sports.io/football/teams/498.png",
-          "winner": null
+          "winner": true
         },
         "away": {
           "id": 1687,
           "name": "Catanzaro",
           "logo": "https://media.api-sports.io/football/teams/1687.png",
-          "winner": null
+          "winner": false
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 2,
+        "away": 1
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 1
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 1
         },
         "extratime": {
           "home": null,
@@ -3164,7 +3164,7 @@
     {
       "fixture": {
         "id": 1601534,
-        "referee": null,
+        "referee": "Matteo Marchetti",
         "timezone": "UTC",
         "date": "2026-09-19T17:30:00+00:00",
         "timestamp": 1789839000,
@@ -3174,13 +3174,13 @@
         },
         "venue": {
           "id": 876,
-          "name": "Stadio Cino e Lillo Del Duca",
+          "name": "Cino e Lillo Del Duca",
           "city": "Ascoli Piceno"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
           "extra": null
         }
       },
@@ -3199,27 +3199,27 @@
           "id": 507,
           "name": "Ascoli",
           "logo": "https://media.api-sports.io/football/teams/507.png",
-          "winner": null
+          "winner": true
         },
         "away": {
           "id": 528,
           "name": "Avellino",
           "logo": "https://media.api-sports.io/football/teams/528.png",
-          "winner": null
+          "winner": false
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 3,
+        "away": 1
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 1
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 3,
+          "away": 1
         },
         "extratime": {
           "home": null,
@@ -3234,7 +3234,7 @@
     {
       "fixture": {
         "id": 1601542,
-        "referee": null,
+        "referee": "Andrea Colombo",
         "timezone": "UTC",
         "date": "2026-09-20T13:00:00+00:00",
         "timestamp": 1789909200,
@@ -3243,14 +3243,14 @@
           "second": null
         },
         "venue": {
-          "id": null,
-          "name": null,
+          "id": 890,
+          "name": "Marc'Antonio Bentegodi",
           "city": "Verona"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
           "extra": null
         }
       },
@@ -3269,27 +3269,27 @@
           "id": 504,
           "name": "Hellas Verona",
           "logo": "https://media.api-sports.io/football/teams/504.png",
-          "winner": null
+          "winner": true
         },
         "away": {
           "id": 1584,
           "name": "Vicenza Virtus",
           "logo": "https://media.api-sports.io/football/teams/1584.png",
-          "winner": null
+          "winner": false
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 2,
+        "away": 1
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 1
         },
         "extratime": {
           "home": null,
@@ -3304,7 +3304,7 @@
     {
       "fixture": {
         "id": 1601533,
-        "referee": null,
+        "referee": "Maco Di Loreto",
         "timezone": "UTC",
         "date": "2026-09-20T13:00:00+00:00",
         "timestamp": 1789909200,
@@ -3313,14 +3313,14 @@
           "second": null
         },
         "venue": {
-          "id": null,
-          "name": "Citta di Arezzo",
+          "id": 875,
+          "name": "Stadio Città di Arezzo",
           "city": "Arezzo"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
           "extra": null
         }
       },
@@ -3339,27 +3339,27 @@
           "id": 876,
           "name": "Arezzo",
           "logo": "https://media.api-sports.io/football/teams/876.png",
-          "winner": null
+          "winner": false
         },
         "away": {
           "id": 1578,
           "name": "Sudtirol",
           "logo": "https://media.api-sports.io/football/teams/1578.png",
-          "winner": null
+          "winner": true
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 1,
+        "away": 4
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 1
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 4
         },
         "extratime": {
           "home": null,
@@ -3374,7 +3374,7 @@
     {
       "fixture": {
         "id": 1601538,
-        "referee": null,
+        "referee": "Simone Galipo",
         "timezone": "UTC",
         "date": "2026-09-20T15:15:00+00:00",
         "timestamp": 1789917300,
@@ -3388,9 +3388,9 @@
           "city": "Mantova"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
           "extra": null
         }
       },
@@ -3419,17 +3419,17 @@
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 2,
+        "away": 2
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 1
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 2
         },
         "extratime": {
           "home": null,
@@ -3444,7 +3444,7 @@
     {
       "fixture": {
         "id": 1601539,
-        "referee": null,
+        "referee": "Andrea Calzavara",
         "timezone": "UTC",
         "date": "2026-09-20T17:30:00+00:00",
         "timestamp": 1789925400,
@@ -3454,13 +3454,13 @@
         },
         "venue": {
           "id": 2771,
-          "name": "Stadio Alberto Braglia",
+          "name": "Alberto Braglia",
           "city": "Modena"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
           "extra": null
         }
       },
@@ -3479,27 +3479,27 @@
           "id": 899,
           "name": "Modena",
           "logo": "https://media.api-sports.io/football/teams/899.png",
-          "winner": null
+          "winner": true
         },
         "away": {
           "id": 511,
           "name": "Empoli",
           "logo": "https://media.api-sports.io/football/teams/511.png",
-          "winner": null
+          "winner": false
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 2,
+        "away": 1
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 1
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 1
         },
         "extratime": {
           "home": null,

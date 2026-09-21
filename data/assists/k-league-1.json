@@ -45,12 +45,12 @@
             "season": 2026
           },
           "games": {
-            "appearences": 28,
-            "lineups": 24,
-            "minutes": 1008,
+            "appearences": 29,
+            "lineups": 25,
+            "minutes": 1187,
             "number": 10,
             "position": "Midfielder",
-            "rating": "6",
+            "rating": "6.34",
             "captain": false
           },
           "substitutes": {
@@ -59,40 +59,230 @@
             "bench": 4
           },
           "shots": {
-            "total": 21,
-            "on": 12
+            "total": 29,
+            "on": 15
           },
           "goals": {
-            "total": 4,
+            "total": 7,
             "conceded": 0,
             "assists": 5,
             "saves": 0
           },
           "passes": {
-            "total": 240,
-            "key": 31,
-            "accuracy": 77
+            "total": 285,
+            "key": 36,
+            "accuracy": 78
           },
           "tackles": {
-            "total": 13,
+            "total": 18,
             "blocks": 4,
-            "interceptions": 2
+            "interceptions": 4
           },
           "duels": {
-            "total": 60,
-            "won": 27
+            "total": 75,
+            "won": 34
           },
           "dribbles": {
-            "attempts": 10,
+            "attempts": 14,
             "success": 4,
             "past": null
           },
           "fouls": {
-            "drawn": 8,
-            "committed": 12
+            "drawn": 10,
+            "committed": 13
           },
           "cards": {
             "yellow": 3,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 34481,
+        "name": "Kim Dae-Won",
+        "firstname": "Dae-Won",
+        "lastname": "Kim",
+        "age": 28,
+        "birth": {
+          "date": "1997-02-10",
+          "place": "Seoul",
+          "country": "Korea Republic"
+        },
+        "nationality": "Korea Republic",
+        "height": "170",
+        "weight": "68",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/34481.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 2746,
+            "name": "Gangwon FC",
+            "logo": "https://media.api-sports.io/football/teams/2746.png"
+          },
+          "league": {
+            "id": 292,
+            "name": "K League 1",
+            "country": "South-Korea",
+            "logo": "https://media.api-sports.io/football/leagues/292.png",
+            "flag": "https://media.api-sports.io/flags/kr.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 27,
+            "lineups": 27,
+            "minutes": 1059,
+            "number": 7,
+            "position": "Midfielder",
+            "rating": "6.04",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 13,
+            "bench": 1
+          },
+          "shots": {
+            "total": 16,
+            "on": 7
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": 4,
+            "saves": 0
+          },
+          "passes": {
+            "total": 371,
+            "key": 40,
+            "accuracy": 73
+          },
+          "tackles": {
+            "total": 12,
+            "blocks": 3,
+            "interceptions": 6
+          },
+          "duels": {
+            "total": 78,
+            "won": 27
+          },
+          "dribbles": {
+            "attempts": 16,
+            "success": 7,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 5,
+            "committed": 10
+          },
+          "cards": {
+            "yellow": 5,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 1,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 34469,
+        "name": "Go Jae-Hyeon",
+        "firstname": "Jae-Hyeon",
+        "lastname": "Go",
+        "age": 26,
+        "birth": {
+          "date": "1999-03-05",
+          "place": "Daegu",
+          "country": "Korea Republic"
+        },
+        "nationality": "Korea Republic",
+        "height": "180",
+        "weight": "67",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/34469.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 2768,
+            "name": "Gimcheon Sangmu FC",
+            "logo": "https://media.api-sports.io/football/teams/2768.png"
+          },
+          "league": {
+            "id": 292,
+            "name": "K League 1",
+            "country": "South-Korea",
+            "logo": "https://media.api-sports.io/football/leagues/292.png",
+            "flag": "https://media.api-sports.io/flags/kr.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 29,
+            "lineups": 26,
+            "minutes": 1086,
+            "number": 7,
+            "position": "Midfielder",
+            "rating": "5.24",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 3,
+            "out": 19,
+            "bench": 3
+          },
+          "shots": {
+            "total": 20,
+            "on": 10
+          },
+          "goals": {
+            "total": 5,
+            "conceded": 0,
+            "assists": 3,
+            "saves": 0
+          },
+          "passes": {
+            "total": 235,
+            "key": 12,
+            "accuracy": 80
+          },
+          "tackles": {
+            "total": 15,
+            "blocks": 4,
+            "interceptions": 2
+          },
+          "duels": {
+            "total": 98,
+            "won": 54
+          },
+          "dribbles": {
+            "attempts": 13,
+            "success": 7,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 10,
+            "committed": 6
+          },
+          "cards": {
+            "yellow": 2,
             "yellowred": 0,
             "red": 0
           },
@@ -154,7 +344,7 @@
             "bench": 15
           },
           "shots": {
-            "total": 18,
+            "total": 19,
             "on": 9
           },
           "goals": {
@@ -164,9 +354,9 @@
             "saves": 0
           },
           "passes": {
-            "total": 362,
-            "key": 11,
-            "accuracy": 87
+            "total": 373,
+            "key": 12,
+            "accuracy": 86
           },
           "tackles": {
             "total": 11,
@@ -174,16 +364,16 @@
             "interceptions": 3
           },
           "duels": {
-            "total": 93,
-            "won": 39
+            "total": 98,
+            "won": 42
           },
           "dribbles": {
-            "attempts": 20,
+            "attempts": 21,
             "success": 8,
             "past": null
           },
           "fouls": {
-            "drawn": 19,
+            "drawn": 23,
             "committed": 18
           },
           "cards": {
@@ -196,101 +386,6 @@
             "commited": null,
             "scored": 0,
             "missed": 1,
-            "saved": null
-          }
-        }
-      ]
-    },
-    {
-      "player": {
-        "id": 34469,
-        "name": "Go Jae-Hyeon",
-        "firstname": "Jae-Hyeon",
-        "lastname": "Go",
-        "age": 26,
-        "birth": {
-          "date": "1999-03-05",
-          "place": "Daegu",
-          "country": "Korea Republic"
-        },
-        "nationality": "Korea Republic",
-        "height": "180",
-        "weight": "67",
-        "injured": false,
-        "photo": "https://media.api-sports.io/football/players/34469.png"
-      },
-      "statistics": [
-        {
-          "team": {
-            "id": 2768,
-            "name": "Gimcheon Sangmu FC",
-            "logo": "https://media.api-sports.io/football/teams/2768.png"
-          },
-          "league": {
-            "id": 292,
-            "name": "K League 1",
-            "country": "South-Korea",
-            "logo": "https://media.api-sports.io/football/leagues/292.png",
-            "flag": "https://media.api-sports.io/flags/kr.svg",
-            "season": 2026
-          },
-          "games": {
-            "appearences": 27,
-            "lineups": 24,
-            "minutes": 906,
-            "number": 7,
-            "position": "Midfielder",
-            "rating": "5.6",
-            "captain": false
-          },
-          "substitutes": {
-            "in": 3,
-            "out": 19,
-            "bench": 3
-          },
-          "shots": {
-            "total": 16,
-            "on": 9
-          },
-          "goals": {
-            "total": 4,
-            "conceded": 0,
-            "assists": 3,
-            "saves": 0
-          },
-          "passes": {
-            "total": 209,
-            "key": 12,
-            "accuracy": 80
-          },
-          "tackles": {
-            "total": 16,
-            "blocks": 3,
-            "interceptions": 3
-          },
-          "duels": {
-            "total": 85,
-            "won": 48
-          },
-          "dribbles": {
-            "attempts": 8,
-            "success": 3,
-            "past": null
-          },
-          "fouls": {
-            "drawn": 8,
-            "committed": 5
-          },
-          "cards": {
-            "yellow": 2,
-            "yellowred": 0,
-            "red": 0
-          },
-          "penalty": {
-            "won": null,
-            "commited": null,
-            "scored": 0,
-            "missed": 0,
             "saved": null
           }
         }
@@ -335,7 +430,7 @@
             "minutes": 765,
             "number": 16,
             "position": "Defender",
-            "rating": "6.89",
+            "rating": "6.87",
             "captain": false
           },
           "substitutes": {
@@ -344,8 +439,8 @@
             "bench": 5
           },
           "shots": {
-            "total": 3,
-            "on": 1
+            "total": 6,
+            "on": 2
           },
           "goals": {
             "total": 1,
@@ -354,9 +449,9 @@
             "saves": 0
           },
           "passes": {
-            "total": 289,
-            "key": 14,
-            "accuracy": 83
+            "total": 316,
+            "key": 16,
+            "accuracy": 84
           },
           "tackles": {
             "total": 8,
@@ -364,12 +459,12 @@
             "interceptions": 4
           },
           "duels": {
-            "total": 29,
-            "won": 14
+            "total": 31,
+            "won": 15
           },
           "dribbles": {
-            "attempts": 7,
-            "success": 1,
+            "attempts": 9,
+            "success": 2,
             "past": null
           },
           "fouls": {
@@ -393,28 +488,28 @@
     },
     {
       "player": {
-        "id": 34481,
-        "name": "Kim Dae-Won",
-        "firstname": "Dae-Won",
-        "lastname": "Kim",
+        "id": 9718,
+        "name": "Matheus Oliveira",
+        "firstname": "Matheus",
+        "lastname": "Oliveira Santos",
         "age": 28,
         "birth": {
-          "date": "1997-02-10",
-          "place": "Seoul",
-          "country": "Korea Republic"
+          "date": "1997-09-28",
+          "place": "São Paulo",
+          "country": "Brazil"
         },
-        "nationality": "Korea Republic",
-        "height": "170",
-        "weight": "68",
+        "nationality": "Brazil",
+        "height": "172",
+        "weight": "73",
         "injured": false,
-        "photo": "https://media.api-sports.io/football/players/34481.png"
+        "photo": "https://media.api-sports.io/football/players/9718.png"
       },
       "statistics": [
         {
           "team": {
-            "id": 2746,
-            "name": "Gangwon FC",
-            "logo": "https://media.api-sports.io/football/teams/2746.png"
+            "id": 2748,
+            "name": "FC Anyang",
+            "logo": "https://media.api-sports.io/football/teams/2748.png"
           },
           "league": {
             "id": 292,
@@ -425,56 +520,56 @@
             "season": 2026
           },
           "games": {
-            "appearences": 26,
-            "lineups": 26,
-            "minutes": 969,
+            "appearences": 28,
+            "lineups": 25,
+            "minutes": 961,
             "number": 7,
-            "position": "Midfielder",
-            "rating": "5.94",
+            "position": "Attacker",
+            "rating": "6.31",
             "captain": false
           },
           "substitutes": {
-            "in": 0,
-            "out": 13,
-            "bench": 1
+            "in": 3,
+            "out": 14,
+            "bench": 3
           },
           "shots": {
-            "total": 13,
-            "on": 5
+            "total": 20,
+            "on": 8
           },
           "goals": {
-            "total": 0,
+            "total": 4,
             "conceded": 0,
-            "assists": 3,
+            "assists": 2,
             "saves": 0
           },
           "passes": {
-            "total": 336,
-            "key": 37,
-            "accuracy": 72
+            "total": 245,
+            "key": 12,
+            "accuracy": 77
           },
           "tackles": {
-            "total": 8,
-            "blocks": 2,
-            "interceptions": 5
+            "total": 9,
+            "blocks": 1,
+            "interceptions": 1
           },
           "duels": {
-            "total": 67,
-            "won": 20
+            "total": 70,
+            "won": 36
           },
           "dribbles": {
-            "attempts": 14,
-            "success": 5,
+            "attempts": 20,
+            "success": 11,
             "past": null
           },
           "fouls": {
-            "drawn": 4,
-            "committed": 9
+            "drawn": 15,
+            "committed": 4
           },
           "cards": {
-            "yellow": 4,
+            "yellow": 1,
             "yellowred": 0,
-            "red": 0
+            "red": 1
           },
           "penalty": {
             "won": null,
@@ -544,18 +639,18 @@
             "saves": 0
           },
           "passes": {
-            "total": 227,
+            "total": 228,
             "key": 12,
             "accuracy": 73
           },
           "tackles": {
-            "total": 9,
+            "total": 10,
             "blocks": 1,
             "interceptions": 7
           },
           "duels": {
-            "total": 110,
-            "won": 51
+            "total": 111,
+            "won": 52
           },
           "dribbles": {
             "attempts": 9,
@@ -576,6 +671,101 @@
             "commited": null,
             "scored": 0,
             "missed": 1,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 355216,
+        "name": "J. Tranziska",
+        "firstname": "Jakob",
+        "lastname": "Tranziska",
+        "age": 24,
+        "birth": {
+          "date": "2001-06-25",
+          "place": "Coburg",
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": "190",
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/355216.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 2764,
+            "name": "Pohang Steelers",
+            "logo": "https://media.api-sports.io/football/teams/2764.png"
+          },
+          "league": {
+            "id": 292,
+            "name": "K League 1",
+            "country": "South-Korea",
+            "logo": "https://media.api-sports.io/football/leagues/292.png",
+            "flag": "https://media.api-sports.io/flags/kr.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 21,
+            "lineups": 13,
+            "minutes": 477,
+            "number": 10,
+            "position": "Attacker",
+            "rating": "6.84",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 8,
+            "out": 9,
+            "bench": 9
+          },
+          "shots": {
+            "total": 7,
+            "on": 5
+          },
+          "goals": {
+            "total": 3,
+            "conceded": 0,
+            "assists": 2,
+            "saves": 0
+          },
+          "passes": {
+            "total": 62,
+            "key": 6,
+            "accuracy": 67
+          },
+          "tackles": {
+            "total": 4,
+            "blocks": 1,
+            "interceptions": 0
+          },
+          "duels": {
+            "total": 53,
+            "won": 25
+          },
+          "dribbles": {
+            "attempts": 9,
+            "success": 5,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 10,
+            "committed": 9
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 1,
+            "red": 0
+          },
+          "penalty": {
+            "won": 1,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
             "saved": null
           }
         }
@@ -629,8 +819,8 @@
             "bench": 4
           },
           "shots": {
-            "total": 10,
-            "on": 5
+            "total": 16,
+            "on": 7
           },
           "goals": {
             "total": 3,
@@ -639,27 +829,27 @@
             "saves": 0
           },
           "passes": {
-            "total": 73,
-            "key": 7,
-            "accuracy": 67
+            "total": 102,
+            "key": 10,
+            "accuracy": 66
           },
           "tackles": {
-            "total": 3,
-            "blocks": 3,
-            "interceptions": 0
+            "total": 7,
+            "blocks": 4,
+            "interceptions": 1
           },
           "duels": {
-            "total": 35,
-            "won": 12
+            "total": 55,
+            "won": 24
           },
           "dribbles": {
-            "attempts": 6,
-            "success": 2,
+            "attempts": 9,
+            "success": 5,
             "past": null
           },
           "fouls": {
-            "drawn": 4,
-            "committed": 5
+            "drawn": 6,
+            "committed": 6
           },
           "cards": {
             "yellow": 3,
@@ -671,196 +861,6 @@
             "commited": null,
             "scored": 0,
             "missed": null,
-            "saved": null
-          }
-        }
-      ]
-    },
-    {
-      "player": {
-        "id": 9718,
-        "name": "Matheus Oliveira",
-        "firstname": "Matheus",
-        "lastname": "Oliveira Santos",
-        "age": 28,
-        "birth": {
-          "date": "1997-09-28",
-          "place": "São Paulo",
-          "country": "Brazil"
-        },
-        "nationality": "Brazil",
-        "height": "172",
-        "weight": "73",
-        "injured": false,
-        "photo": "https://media.api-sports.io/football/players/9718.png"
-      },
-      "statistics": [
-        {
-          "team": {
-            "id": 2748,
-            "name": "FC Anyang",
-            "logo": "https://media.api-sports.io/football/teams/2748.png"
-          },
-          "league": {
-            "id": 292,
-            "name": "K League 1",
-            "country": "South-Korea",
-            "logo": "https://media.api-sports.io/football/leagues/292.png",
-            "flag": "https://media.api-sports.io/flags/kr.svg",
-            "season": 2026
-          },
-          "games": {
-            "appearences": 26,
-            "lineups": 24,
-            "minutes": 755,
-            "number": 7,
-            "position": "Attacker",
-            "rating": "6.14",
-            "captain": false
-          },
-          "substitutes": {
-            "in": 2,
-            "out": 13,
-            "bench": 2
-          },
-          "shots": {
-            "total": 15,
-            "on": 6
-          },
-          "goals": {
-            "total": 2,
-            "conceded": 0,
-            "assists": 2,
-            "saves": 0
-          },
-          "passes": {
-            "total": 205,
-            "key": 12,
-            "accuracy": 77
-          },
-          "tackles": {
-            "total": 8,
-            "blocks": 1,
-            "interceptions": 1
-          },
-          "duels": {
-            "total": 56,
-            "won": 28
-          },
-          "dribbles": {
-            "attempts": 18,
-            "success": 9,
-            "past": null
-          },
-          "fouls": {
-            "drawn": 11,
-            "committed": 3
-          },
-          "cards": {
-            "yellow": 1,
-            "yellowred": 0,
-            "red": 1
-          },
-          "penalty": {
-            "won": null,
-            "commited": null,
-            "scored": 0,
-            "missed": 0,
-            "saved": null
-          }
-        }
-      ]
-    },
-    {
-      "player": {
-        "id": 355216,
-        "name": "J. Tranziska",
-        "firstname": "Jakob",
-        "lastname": "Tranziska",
-        "age": 24,
-        "birth": {
-          "date": "2001-06-25",
-          "place": "Coburg",
-          "country": "Germany"
-        },
-        "nationality": "Germany",
-        "height": "190",
-        "weight": null,
-        "injured": false,
-        "photo": "https://media.api-sports.io/football/players/355216.png"
-      },
-      "statistics": [
-        {
-          "team": {
-            "id": 2764,
-            "name": "Pohang Steelers",
-            "logo": "https://media.api-sports.io/football/teams/2764.png"
-          },
-          "league": {
-            "id": 292,
-            "name": "K League 1",
-            "country": "South-Korea",
-            "logo": "https://media.api-sports.io/football/leagues/292.png",
-            "flag": "https://media.api-sports.io/flags/kr.svg",
-            "season": 2026
-          },
-          "games": {
-            "appearences": 21,
-            "lineups": 13,
-            "minutes": 394,
-            "number": 10,
-            "position": "Attacker",
-            "rating": "6.78",
-            "captain": false
-          },
-          "substitutes": {
-            "in": 8,
-            "out": 9,
-            "bench": 9
-          },
-          "shots": {
-            "total": 5,
-            "on": 3
-          },
-          "goals": {
-            "total": 2,
-            "conceded": 0,
-            "assists": 2,
-            "saves": 0
-          },
-          "passes": {
-            "total": 37,
-            "key": 6,
-            "accuracy": 70
-          },
-          "tackles": {
-            "total": 2,
-            "blocks": 1,
-            "interceptions": 0
-          },
-          "duels": {
-            "total": 36,
-            "won": 19
-          },
-          "dribbles": {
-            "attempts": 7,
-            "success": 3,
-            "past": null
-          },
-          "fouls": {
-            "drawn": 9,
-            "committed": 5
-          },
-          "cards": {
-            "yellow": 1,
-            "yellowred": 1,
-            "red": 0
-          },
-          "penalty": {
-            "won": 1,
-            "commited": null,
-            "scored": 0,
-            "missed": 0,
             "saved": null
           }
         }
@@ -905,7 +905,7 @@
             "minutes": 546,
             "number": 9,
             "position": "Attacker",
-            "rating": "5.95",
+            "rating": "5.91",
             "captain": false
           },
           "substitutes": {
@@ -914,8 +914,8 @@
             "bench": 14
           },
           "shots": {
-            "total": 16,
-            "on": 4
+            "total": 18,
+            "on": 5
           },
           "goals": {
             "total": 2,
@@ -924,27 +924,27 @@
             "saves": 0
           },
           "passes": {
-            "total": 120,
+            "total": 129,
             "key": 9,
-            "accuracy": 59
+            "accuracy": 58
           },
           "tackles": {
-            "total": 4,
-            "blocks": 4,
+            "total": 5,
+            "blocks": 5,
             "interceptions": 1
           },
           "duels": {
-            "total": 122,
-            "won": 61
+            "total": 141,
+            "won": 70
           },
           "dribbles": {
-            "attempts": 7,
-            "success": 3,
+            "attempts": 9,
+            "success": 4,
             "past": null
           },
           "fouls": {
-            "drawn": 9,
-            "committed": 14
+            "drawn": 11,
+            "committed": 17
           },
           "cards": {
             "yellow": 2,
@@ -997,7 +997,7 @@
           "games": {
             "appearences": 28,
             "lineups": 27,
-            "minutes": 935,
+            "minutes": 936,
             "number": 7,
             "position": "Midfielder",
             "rating": "6.22",
@@ -1009,7 +1009,7 @@
             "bench": 1
           },
           "shots": {
-            "total": 18,
+            "total": 19,
             "on": 6
           },
           "goals": {
@@ -1019,18 +1019,18 @@
             "saves": 0
           },
           "passes": {
-            "total": 144,
-            "key": 15,
+            "total": 148,
+            "key": 14,
             "accuracy": 72
           },
           "tackles": {
-            "total": 11,
+            "total": 14,
             "blocks": 2,
-            "interceptions": 8
+            "interceptions": 9
           },
           "duels": {
-            "total": 97,
-            "won": 43
+            "total": 103,
+            "won": 46
           },
           "dribbles": {
             "attempts": 19,
@@ -1039,7 +1039,7 @@
           },
           "fouls": {
             "drawn": 13,
-            "committed": 12
+            "committed": 14
           },
           "cards": {
             "yellow": 3,
@@ -1092,7 +1092,7 @@
           "games": {
             "appearences": 26,
             "lineups": 17,
-            "minutes": 782,
+            "minutes": 783,
             "number": 99,
             "position": "Attacker",
             "rating": "5.73",
@@ -1104,8 +1104,8 @@
             "bench": 11
           },
           "shots": {
-            "total": 19,
-            "on": 5
+            "total": 20,
+            "on": 6
           },
           "goals": {
             "total": 1,
@@ -1114,7 +1114,7 @@
             "saves": 0
           },
           "passes": {
-            "total": 130,
+            "total": 146,
             "key": 5,
             "accuracy": 48
           },
@@ -1124,8 +1124,8 @@
             "interceptions": 2
           },
           "duels": {
-            "total": 103,
-            "won": 56
+            "total": 118,
+            "won": 62
           },
           "dribbles": {
             "attempts": 3,
@@ -1133,8 +1133,8 @@
             "past": null
           },
           "fouls": {
-            "drawn": 6,
-            "committed": 10
+            "drawn": 8,
+            "committed": 12
           },
           "cards": {
             "yellow": 2,
@@ -1209,18 +1209,18 @@
             "saves": 0
           },
           "passes": {
-            "total": 260,
+            "total": 261,
             "key": 9,
             "accuracy": 74
           },
           "tackles": {
-            "total": 9,
+            "total": 8,
             "blocks": 4,
             "interceptions": 8
           },
           "duels": {
-            "total": 123,
-            "won": 56
+            "total": 122,
+            "won": 55
           },
           "dribbles": {
             "attempts": 27,
@@ -1235,6 +1235,101 @@
             "yellow": 5,
             "yellowred": 0,
             "red": 1
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 146429,
+        "name": "Woon Kim",
+        "firstname": "Woon",
+        "lastname": "Kim",
+        "age": 31,
+        "birth": {
+          "date": "1994-11-15",
+          "place": null,
+          "country": "Korea Republic"
+        },
+        "nationality": "Korea Republic",
+        "height": "180",
+        "weight": "78",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/146429.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 2748,
+            "name": "FC Anyang",
+            "logo": "https://media.api-sports.io/football/teams/2748.png"
+          },
+          "league": {
+            "id": 292,
+            "name": "K League 1",
+            "country": "South-Korea",
+            "logo": "https://media.api-sports.io/football/leagues/292.png",
+            "flag": "https://media.api-sports.io/flags/kr.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 24,
+            "lineups": 15,
+            "minutes": 452,
+            "number": 19,
+            "position": "Attacker",
+            "rating": "6.14",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 9,
+            "out": 13,
+            "bench": 9
+          },
+          "shots": {
+            "total": 5,
+            "on": 3
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": 2,
+            "saves": 0
+          },
+          "passes": {
+            "total": 91,
+            "key": 6,
+            "accuracy": 63
+          },
+          "tackles": {
+            "total": 9,
+            "blocks": 1,
+            "interceptions": 2
+          },
+          "duels": {
+            "total": 69,
+            "won": 33
+          },
+          "dribbles": {
+            "attempts": 2,
+            "success": 0,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 5,
+            "committed": 5
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 0
           },
           "penalty": {
             "won": null,
@@ -1280,12 +1375,12 @@
             "season": 2026
           },
           "games": {
-            "appearences": 23,
-            "lineups": 17,
-            "minutes": 694,
+            "appearences": 24,
+            "lineups": 18,
+            "minutes": 784,
             "number": 7,
             "position": "Midfielder",
-            "rating": "5.96",
+            "rating": "5.42",
             "captain": false
           },
           "substitutes": {
@@ -1304,8 +1399,8 @@
             "saves": 0
           },
           "passes": {
-            "total": 139,
-            "key": 5,
+            "total": 146,
+            "key": 6,
             "accuracy": 74
           },
           "tackles": {
@@ -1314,7 +1409,7 @@
             "interceptions": 7
           },
           "duels": {
-            "total": 39,
+            "total": 40,
             "won": 24
           },
           "dribbles": {
@@ -1324,7 +1419,7 @@
           },
           "fouls": {
             "drawn": 8,
-            "committed": 3
+            "committed": 4
           },
           "cards": {
             "yellow": 2,
@@ -1375,18 +1470,18 @@
             "season": 2026
           },
           "games": {
-            "appearences": 22,
+            "appearences": 23,
             "lineups": 8,
-            "minutes": 313,
+            "minutes": 322,
             "number": 11,
             "position": "Attacker",
-            "rating": "6.86",
+            "rating": "6.81",
             "captain": false
           },
           "substitutes": {
-            "in": 14,
+            "in": 15,
             "out": 4,
-            "bench": 16
+            "bench": 17
           },
           "shots": {
             "total": 3,
@@ -1399,9 +1494,9 @@
             "saves": 0
           },
           "passes": {
-            "total": 47,
+            "total": 51,
             "key": 3,
-            "accuracy": 61
+            "accuracy": 62
           },
           "tackles": {
             "total": 1,
@@ -1409,7 +1504,7 @@
             "interceptions": 1
           },
           "duels": {
-            "total": 55,
+            "total": 59,
             "won": 28
           },
           "dribbles": {
@@ -1419,7 +1514,7 @@
           },
           "fouls": {
             "drawn": 3,
-            "committed": 8
+            "committed": 9
           },
           "cards": {
             "yellow": 4,
@@ -1470,18 +1565,18 @@
             "season": 2026
           },
           "games": {
-            "appearences": 19,
-            "lineups": 14,
-            "minutes": 690,
+            "appearences": 21,
+            "lineups": 15,
+            "minutes": 825,
             "number": 48,
             "position": "Attacker",
-            "rating": "5.11",
+            "rating": "4.77",
             "captain": false
           },
           "substitutes": {
-            "in": 5,
+            "in": 6,
             "out": 13,
-            "bench": 6
+            "bench": 7
           },
           "shots": {
             "total": 5,
@@ -1494,18 +1589,18 @@
             "saves": 0
           },
           "passes": {
-            "total": 197,
+            "total": 211,
             "key": 8,
-            "accuracy": 83
+            "accuracy": 80
           },
           "tackles": {
-            "total": 7,
+            "total": 8,
             "blocks": 3,
-            "interceptions": 2
+            "interceptions": 4
           },
           "duels": {
-            "total": 45,
-            "won": 18
+            "total": 54,
+            "won": 22
           },
           "dribbles": {
             "attempts": 9,
@@ -1513,8 +1608,8 @@
             "past": null
           },
           "fouls": {
-            "drawn": 6,
-            "committed": 9
+            "drawn": 8,
+            "committed": 11
           },
           "cards": {
             "yellow": 0,
@@ -1579,8 +1674,8 @@
             "bench": 4
           },
           "shots": {
-            "total": 8,
-            "on": 3
+            "total": 10,
+            "on": 4
           },
           "goals": {
             "total": 0,
@@ -1589,27 +1684,27 @@
             "saves": 0
           },
           "passes": {
-            "total": 298,
-            "key": 12,
-            "accuracy": 78
+            "total": 322,
+            "key": 13,
+            "accuracy": 79
           },
           "tackles": {
             "total": 7,
-            "blocks": 3,
-            "interceptions": 5
+            "blocks": 4,
+            "interceptions": 6
           },
           "duels": {
-            "total": 66,
-            "won": 26
+            "total": 74,
+            "won": 30
           },
           "dribbles": {
-            "attempts": 11,
-            "success": 4,
+            "attempts": 14,
+            "success": 6,
             "past": null
           },
           "fouls": {
-            "drawn": 12,
-            "committed": 6
+            "drawn": 14,
+            "committed": 7
           },
           "cards": {
             "yellow": 4,
@@ -1660,17 +1755,17 @@
             "season": 2026
           },
           "games": {
-            "appearences": 28,
-            "lineups": 21,
-            "minutes": 840,
+            "appearences": 29,
+            "lineups": 22,
+            "minutes": 1000,
             "number": 24,
             "position": "Midfielder",
-            "rating": "5.49",
+            "rating": "5.62",
             "captain": false
           },
           "substitutes": {
             "in": 7,
-            "out": 11,
+            "out": 12,
             "bench": 8
           },
           "shots": {
@@ -1684,27 +1779,27 @@
             "saves": 0
           },
           "passes": {
-            "total": 393,
-            "key": 14,
-            "accuracy": 82
+            "total": 469,
+            "key": 16,
+            "accuracy": 84
           },
           "tackles": {
-            "total": 7,
+            "total": 10,
             "blocks": 1,
-            "interceptions": 7
+            "interceptions": 8
           },
           "duels": {
-            "total": 61,
-            "won": 19
+            "total": 72,
+            "won": 24
           },
           "dribbles": {
-            "attempts": 12,
+            "attempts": 14,
             "success": 2,
             "past": null
           },
           "fouls": {
-            "drawn": 8,
-            "committed": 10
+            "drawn": 10,
+            "committed": 11
           },
           "cards": {
             "yellow": 3,
@@ -1769,7 +1864,7 @@
             "bench": 12
           },
           "shots": {
-            "total": 9,
+            "total": 10,
             "on": 3
           },
           "goals": {
@@ -1779,7 +1874,7 @@
             "saves": 0
           },
           "passes": {
-            "total": 160,
+            "total": 171,
             "key": 4,
             "accuracy": 74
           },
@@ -1789,11 +1884,11 @@
             "interceptions": 7
           },
           "duels": {
-            "total": 45,
-            "won": 23
+            "total": 47,
+            "won": 24
           },
           "dribbles": {
-            "attempts": 9,
+            "attempts": 10,
             "success": 3,
             "past": null
           },
@@ -1808,101 +1903,6 @@
           },
           "penalty": {
             "won": null,
-            "commited": null,
-            "scored": 0,
-            "missed": 0,
-            "saved": null
-          }
-        }
-      ]
-    },
-    {
-      "player": {
-        "id": 99193,
-        "name": "Lee Myung-Joo",
-        "firstname": "Myung-Joo",
-        "lastname": "Lee",
-        "age": 35,
-        "birth": {
-          "date": "1990-04-24",
-          "place": "Daegu",
-          "country": "Korea Republic"
-        },
-        "nationality": "Korea Republic",
-        "height": "176 cm",
-        "weight": "72 kg",
-        "injured": false,
-        "photo": "https://media.api-sports.io/football/players/99193.png"
-      },
-      "statistics": [
-        {
-          "team": {
-            "id": 2763,
-            "name": "Incheon United",
-            "logo": "https://media.api-sports.io/football/teams/2763.png"
-          },
-          "league": {
-            "id": 292,
-            "name": "K League 1",
-            "country": "South-Korea",
-            "logo": "https://media.api-sports.io/football/leagues/292.png",
-            "flag": "https://media.api-sports.io/flags/kr.svg",
-            "season": 2026
-          },
-          "games": {
-            "appearences": 26,
-            "lineups": 22,
-            "minutes": 836,
-            "number": 5,
-            "position": "Midfielder",
-            "rating": "6.48",
-            "captain": false
-          },
-          "substitutes": {
-            "in": 4,
-            "out": 13,
-            "bench": 4
-          },
-          "shots": {
-            "total": 6,
-            "on": 2
-          },
-          "goals": {
-            "total": 0,
-            "conceded": 0,
-            "assists": 2,
-            "saves": 0
-          },
-          "passes": {
-            "total": 406,
-            "key": 6,
-            "accuracy": 88
-          },
-          "tackles": {
-            "total": 15,
-            "blocks": 3,
-            "interceptions": 7
-          },
-          "duels": {
-            "total": 53,
-            "won": 27
-          },
-          "dribbles": {
-            "attempts": 1,
-            "success": 0,
-            "past": null
-          },
-          "fouls": {
-            "drawn": 7,
-            "committed": 7
-          },
-          "cards": {
-            "yellow": 5,
-            "yellowred": 0,
-            "red": 0
-          },
-          "penalty": {
-            "won": 1,
             "commited": null,
             "scored": 0,
             "missed": 0,

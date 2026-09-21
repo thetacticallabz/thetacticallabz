@@ -854,7 +854,7 @@
     {
       "fixture": {
         "id": 1567869,
-        "referee": "Stefan Macanovic, Austria",
+        "referee": "S. Macanovic",
         "timezone": "UTC",
         "date": "2026-08-08T15:30:00+00:00",
         "timestamp": 1786203000,
@@ -1064,7 +1064,7 @@
     {
       "fixture": {
         "id": 1567868,
-        "referee": "Daniel Pfister, Austria",
+        "referee": "D. Pfister",
         "timezone": "UTC",
         "date": "2026-08-09T08:30:00+00:00",
         "timestamp": 1786264200,
@@ -1274,7 +1274,7 @@
     {
       "fixture": {
         "id": 1567879,
-        "referee": "Philip Gadler, Austria",
+        "referee": "P. Gadler",
         "timezone": "UTC",
         "date": "2026-08-15T15:30:00+00:00",
         "timestamp": 1786807800,
@@ -1484,7 +1484,7 @@
     {
       "fixture": {
         "id": 1567877,
-        "referee": "M. Greinecker",
+        "referee": "Markus Greinecker, Austria",
         "timezone": "UTC",
         "date": "2026-08-15T16:30:00+00:00",
         "timestamp": 1786811400,
@@ -2044,7 +2044,7 @@
     {
       "fixture": {
         "id": 1567890,
-        "referee": "I. Simsek",
+        "referee": "Isa Simsek, Austria",
         "timezone": "UTC",
         "date": "2026-08-22T13:30:00+00:00",
         "timestamp": 1787405400,
@@ -3024,7 +3024,7 @@
     {
       "fixture": {
         "id": 1567907,
-        "referee": "S. Sampl",
+        "referee": "Samuel Sampl, Germany",
         "timezone": "UTC",
         "date": "2026-09-11T18:30:00+00:00",
         "timestamp": 1789151400,
@@ -3374,13 +3374,13 @@
     {
       "fixture": {
         "id": 1567911,
-        "referee": null,
+        "referee": "D. Divkovic",
         "timezone": "UTC",
         "date": "2026-09-18T16:30:00+00:00",
         "timestamp": 1789749000,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1789749000,
+          "second": 1789752600
         },
         "venue": {
           "id": null,
@@ -3388,10 +3388,10 @@
           "city": "Vienna"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 3
         }
       },
       "league": {
@@ -3409,27 +3409,27 @@
           "id": 1395,
           "name": "Floridsdorfer AC",
           "logo": "https://media.api-sports.io/football/teams/1395.png",
-          "winner": null
+          "winner": true
         },
         "away": {
           "id": 1400,
           "name": "FC Liefering",
           "logo": "https://media.api-sports.io/football/teams/1400.png",
-          "winner": null
+          "winner": false
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 4,
+        "away": 0
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 0
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 4,
+          "away": 0
         },
         "extratime": {
           "home": null,
@@ -3444,24 +3444,24 @@
     {
       "fixture": {
         "id": 1567913,
-        "referee": null,
+        "referee": "A. Sadikovski",
         "timezone": "UTC",
         "date": "2026-09-18T16:30:00+00:00",
         "timestamp": 1789749000,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1789749000,
+          "second": 1789752600
         },
         "venue": {
-          "id": null,
+          "id": 142,
           "name": "Alpenstadion",
           "city": "Kapfenberg"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 5
         }
       },
       "league": {
@@ -3479,27 +3479,27 @@
           "id": 1401,
           "name": "SV Kapfenberg",
           "logo": "https://media.api-sports.io/football/teams/1401.png",
-          "winner": null
+          "winner": false
         },
         "away": {
           "id": 1404,
           "name": "SKU Amstetten",
           "logo": "https://media.api-sports.io/football/teams/1404.png",
-          "winner": null
+          "winner": true
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 3,
+        "away": 4
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 2
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 3,
+          "away": 4
         },
         "extratime": {
           "home": null,
@@ -3514,13 +3514,13 @@
     {
       "fixture": {
         "id": 1567912,
-        "referee": null,
+        "referee": "M. Baumann",
         "timezone": "UTC",
         "date": "2026-09-18T16:30:00+00:00",
         "timestamp": 1789749000,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1789749000,
+          "second": 1789752600
         },
         "venue": {
           "id": 5842,
@@ -3528,10 +3528,10 @@
           "city": "Wels"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 9
         }
       },
       "league": {
@@ -3549,27 +3549,27 @@
           "id": 22213,
           "name": "WSPG Wels",
           "logo": "https://media.api-sports.io/football/teams/22213.png",
-          "winner": null
+          "winner": false
         },
         "away": {
           "id": 4990,
           "name": "First Vienna",
           "logo": "https://media.api-sports.io/football/teams/4990.png",
-          "winner": null
+          "winner": true
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 1,
+        "away": 3
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 3
         },
         "extratime": {
           "home": null,
@@ -3584,13 +3584,13 @@
     {
       "fixture": {
         "id": 1567910,
-        "referee": null,
+        "referee": "D. Pfister",
         "timezone": "UTC",
         "date": "2026-09-18T18:30:00+00:00",
         "timestamp": 1789756200,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1789756200,
+          "second": 1789759800
         },
         "venue": {
           "id": 11873,
@@ -3598,10 +3598,10 @@
           "city": "Linz"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 4
         }
       },
       "league": {
@@ -3619,27 +3619,27 @@
           "id": 1394,
           "name": "FC BW Linz",
           "logo": "https://media.api-sports.io/football/teams/1394.png",
-          "winner": null
+          "winner": true
         },
         "away": {
           "id": 1023,
           "name": "Admira Wacker",
           "logo": "https://media.api-sports.io/football/teams/1023.png",
-          "winner": null
+          "winner": false
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 3,
+        "away": 0
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 0
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 3,
+          "away": 0
         },
         "extratime": {
           "home": null,
@@ -3654,13 +3654,13 @@
     {
       "fixture": {
         "id": 1567915,
-        "referee": null,
+        "referee": "M. Greinecker",
         "timezone": "UTC",
         "date": "2026-09-19T13:30:00+00:00",
         "timestamp": 1789824600,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1789824600,
+          "second": 1789828200
         },
         "venue": {
           "id": null,
@@ -3668,10 +3668,10 @@
           "city": "Gleisdorf"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 4
         }
       },
       "league": {
@@ -3699,17 +3699,17 @@
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 2,
+        "away": 2
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 2
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 2
         },
         "extratime": {
           "home": null,
@@ -3724,13 +3724,13 @@
     {
       "fixture": {
         "id": 1567908,
-        "referee": null,
+        "referee": "Emil Ristoskov, Austria",
         "timezone": "UTC",
         "date": "2026-09-19T13:30:00+00:00",
         "timestamp": 1789824600,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1789824600,
+          "second": 1789828200
         },
         "venue": {
           "id": 19961,
@@ -3738,10 +3738,10 @@
           "city": "Voitsberg"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 5
         }
       },
       "league": {
@@ -3759,27 +3759,27 @@
           "id": 8332,
           "name": "Voitsberg",
           "logo": "https://media.api-sports.io/football/teams/8332.png",
-          "winner": null
+          "winner": true
         },
         "away": {
           "id": 5000,
           "name": "Austria Salzburg",
           "logo": "https://media.api-sports.io/football/teams/5000.png",
-          "winner": null
+          "winner": false
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 2,
+        "away": 1
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 1
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 1
         },
         "extratime": {
           "home": null,
@@ -3794,13 +3794,13 @@
     {
       "fixture": {
         "id": 1567914,
-        "referee": null,
+        "referee": "S. Sampl",
         "timezone": "UTC",
         "date": "2026-09-19T15:30:00+00:00",
         "timestamp": 1789831800,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1789831800,
+          "second": 1789835400
         },
         "venue": {
           "id": null,
@@ -3808,10 +3808,10 @@
           "city": null
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 6
         }
       },
       "league": {
@@ -3829,27 +3829,27 @@
           "id": 1027,
           "name": "SKN ST. Polten",
           "logo": "https://media.api-sports.io/football/teams/1027.png",
-          "winner": null
+          "winner": true
         },
         "away": {
           "id": 8259,
           "name": "Schwarz-Weiß Bregenz",
           "logo": "https://media.api-sports.io/football/teams/8259.png",
-          "winner": null
+          "winner": false
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 2,
+        "away": 1
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 1
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 1
         },
         "extratime": {
           "home": null,
@@ -3864,24 +3864,24 @@
     {
       "fixture": {
         "id": 1567909,
-        "referee": null,
+        "referee": "Florian Jager, Austria",
         "timezone": "UTC",
         "date": "2026-09-20T08:30:00+00:00",
         "timestamp": 1789893000,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1789893000,
+          "second": 1789896600
         },
         "venue": {
           "id": null,
-          "name": null,
-          "city": null
+          "name": "Generali Arena",
+          "city": "Vienna"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 5
         }
       },
       "league": {
@@ -3899,27 +3899,27 @@
           "id": 2860,
           "name": "Austria Vienna (Am)",
           "logo": "https://media.api-sports.io/football/teams/2860.png",
-          "winner": null
+          "winner": true
         },
         "away": {
           "id": 8247,
           "name": "Rapid Wien II",
           "logo": "https://media.api-sports.io/football/teams/8247.png",
-          "winner": null
+          "winner": false
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 4,
+        "away": 1
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 0
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 4,
+          "away": 1
         },
         "extratime": {
           "home": null,
@@ -5683,76 +5683,6 @@
     },
     {
       "fixture": {
-        "id": 1567942,
-        "referee": null,
-        "timezone": "UTC",
-        "date": "2026-10-30T17:30:00+00:00",
-        "timestamp": 1793381400,
-        "periods": {
-          "first": null,
-          "second": null
-        },
-        "venue": {
-          "id": null,
-          "name": "Hohe Warte Stadium",
-          "city": "Vienna"
-        },
-        "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
-        }
-      },
-      "league": {
-        "id": 219,
-        "name": "2. Liga",
-        "country": "Austria",
-        "logo": "https://media.api-sports.io/football/leagues/219.png",
-        "flag": "https://media.api-sports.io/flags/at.svg",
-        "season": 2026,
-        "round": "Regular Season - 11",
-        "standings": true
-      },
-      "teams": {
-        "home": {
-          "id": 4990,
-          "name": "First Vienna",
-          "logo": "https://media.api-sports.io/football/teams/4990.png",
-          "winner": null
-        },
-        "away": {
-          "id": 1394,
-          "name": "FC BW Linz",
-          "logo": "https://media.api-sports.io/football/teams/1394.png",
-          "winner": null
-        }
-      },
-      "goals": {
-        "home": null,
-        "away": null
-      },
-      "score": {
-        "halftime": {
-          "home": null,
-          "away": null
-        },
-        "fulltime": {
-          "home": null,
-          "away": null
-        },
-        "extratime": {
-          "home": null,
-          "away": null
-        },
-        "penalty": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "fixture": {
         "id": 1567947,
         "referee": null,
         "timezone": "UTC",
@@ -5865,76 +5795,6 @@
           "id": 1401,
           "name": "SV Kapfenberg",
           "logo": "https://media.api-sports.io/football/teams/1401.png",
-          "winner": null
-        }
-      },
-      "goals": {
-        "home": null,
-        "away": null
-      },
-      "score": {
-        "halftime": {
-          "home": null,
-          "away": null
-        },
-        "fulltime": {
-          "home": null,
-          "away": null
-        },
-        "extratime": {
-          "home": null,
-          "away": null
-        },
-        "penalty": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "fixture": {
-        "id": 1567940,
-        "referee": null,
-        "timezone": "UTC",
-        "date": "2026-10-31T14:30:00+00:00",
-        "timestamp": 1793457000,
-        "periods": {
-          "first": null,
-          "second": null
-        },
-        "venue": {
-          "id": 3792,
-          "name": "Max-Aicher-Stadion",
-          "city": "Salzburg"
-        },
-        "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
-        }
-      },
-      "league": {
-        "id": 219,
-        "name": "2. Liga",
-        "country": "Austria",
-        "logo": "https://media.api-sports.io/football/leagues/219.png",
-        "flag": "https://media.api-sports.io/flags/at.svg",
-        "season": 2026,
-        "round": "Regular Season - 11",
-        "standings": true
-      },
-      "teams": {
-        "home": {
-          "id": 5000,
-          "name": "Austria Salzburg",
-          "logo": "https://media.api-sports.io/football/teams/5000.png",
-          "winner": null
-        },
-        "away": {
-          "id": 1404,
-          "name": "SKU Amstetten",
-          "logo": "https://media.api-sports.io/football/teams/1404.png",
           "winner": null
         }
       },
@@ -6173,19 +6033,19 @@
     },
     {
       "fixture": {
-        "id": 1567948,
+        "id": 1567942,
         "referee": null,
         "timezone": "UTC",
-        "date": "2026-11-06T17:30:00+00:00",
-        "timestamp": 1793986200,
+        "date": "2026-10-31T16:00:00+00:00",
+        "timestamp": 1793462400,
         "periods": {
           "first": null,
           "second": null
         },
         "venue": {
           "id": null,
-          "name": null,
-          "city": "Maria Enzersdorf"
+          "name": "Hohe Warte Stadium",
+          "city": "Vienna"
         },
         "status": {
           "long": "Not Started",
@@ -6201,20 +6061,90 @@
         "logo": "https://media.api-sports.io/football/leagues/219.png",
         "flag": "https://media.api-sports.io/flags/at.svg",
         "season": 2026,
-        "round": "Regular Season - 12",
+        "round": "Regular Season - 11",
         "standings": true
       },
       "teams": {
         "home": {
-          "id": 1023,
-          "name": "Admira Wacker",
-          "logo": "https://media.api-sports.io/football/teams/1023.png",
+          "id": 4990,
+          "name": "First Vienna",
+          "logo": "https://media.api-sports.io/football/teams/4990.png",
           "winner": null
         },
         "away": {
-          "id": 1027,
-          "name": "SKN ST. Polten",
-          "logo": "https://media.api-sports.io/football/teams/1027.png",
+          "id": 1394,
+          "name": "FC BW Linz",
+          "logo": "https://media.api-sports.io/football/teams/1394.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1567940,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2026-11-01T09:30:00+00:00",
+        "timestamp": 1793525400,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": 3792,
+          "name": "Max-Aicher-Stadion",
+          "city": "Salzburg"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 219,
+        "name": "2. Liga",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/leagues/219.png",
+        "flag": "https://media.api-sports.io/flags/at.svg",
+        "season": 2026,
+        "round": "Regular Season - 11",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 5000,
+          "name": "Austria Salzburg",
+          "logo": "https://media.api-sports.io/football/teams/5000.png",
+          "winner": null
+        },
+        "away": {
+          "id": 1404,
+          "name": "SKU Amstetten",
+          "logo": "https://media.api-sports.io/football/teams/1404.png",
           "winner": null
         }
       },
@@ -6495,6 +6425,76 @@
           "id": 1401,
           "name": "SV Kapfenberg",
           "logo": "https://media.api-sports.io/football/teams/1401.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1567948,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2026-11-06T19:30:00+00:00",
+        "timestamp": 1793993400,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": null,
+          "name": null,
+          "city": "Maria Enzersdorf"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 219,
+        "name": "2. Liga",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/leagues/219.png",
+        "flag": "https://media.api-sports.io/flags/at.svg",
+        "season": 2026,
+        "round": "Regular Season - 12",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 1023,
+          "name": "Admira Wacker",
+          "logo": "https://media.api-sports.io/football/teams/1023.png",
+          "winner": null
+        },
+        "away": {
+          "id": 1027,
+          "name": "SKN ST. Polten",
+          "logo": "https://media.api-sports.io/football/teams/1027.png",
           "winner": null
         }
       },
@@ -7013,18 +7013,18 @@
     },
     {
       "fixture": {
-        "id": 1567960,
+        "id": 1567956,
         "referee": null,
         "timezone": "UTC",
-        "date": "2026-11-21T14:30:00+00:00",
-        "timestamp": 1795271400,
+        "date": "2026-11-20T19:30:00+00:00",
+        "timestamp": 1795203000,
         "periods": {
           "first": null,
           "second": null
         },
         "venue": {
-          "id": null,
-          "name": "Red Bull Arena",
+          "id": 3792,
+          "name": "Max-Aicher-Stadion",
           "city": "Salzburg"
         },
         "status": {
@@ -7046,15 +7046,15 @@
       },
       "teams": {
         "home": {
-          "id": 1400,
-          "name": "FC Liefering",
-          "logo": "https://media.api-sports.io/football/teams/1400.png",
+          "id": 5000,
+          "name": "Austria Salzburg",
+          "logo": "https://media.api-sports.io/football/teams/5000.png",
           "winner": null
         },
         "away": {
-          "id": 1073,
-          "name": "Wacker Innsbruck",
-          "logo": "https://media.api-sports.io/football/teams/1073.png",
+          "id": 1023,
+          "name": "Admira Wacker",
+          "logo": "https://media.api-sports.io/football/teams/1023.png",
           "winner": null
         }
       },
@@ -7153,76 +7153,6 @@
     },
     {
       "fixture": {
-        "id": 1567956,
-        "referee": null,
-        "timezone": "UTC",
-        "date": "2026-11-21T14:30:00+00:00",
-        "timestamp": 1795271400,
-        "periods": {
-          "first": null,
-          "second": null
-        },
-        "venue": {
-          "id": 3792,
-          "name": "Max-Aicher-Stadion",
-          "city": "Salzburg"
-        },
-        "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
-        }
-      },
-      "league": {
-        "id": 219,
-        "name": "2. Liga",
-        "country": "Austria",
-        "logo": "https://media.api-sports.io/football/leagues/219.png",
-        "flag": "https://media.api-sports.io/flags/at.svg",
-        "season": 2026,
-        "round": "Regular Season - 13",
-        "standings": true
-      },
-      "teams": {
-        "home": {
-          "id": 5000,
-          "name": "Austria Salzburg",
-          "logo": "https://media.api-sports.io/football/teams/5000.png",
-          "winner": null
-        },
-        "away": {
-          "id": 1023,
-          "name": "Admira Wacker",
-          "logo": "https://media.api-sports.io/football/teams/1023.png",
-          "winner": null
-        }
-      },
-      "goals": {
-        "home": null,
-        "away": null
-      },
-      "score": {
-        "halftime": {
-          "home": null,
-          "away": null
-        },
-        "fulltime": {
-          "home": null,
-          "away": null
-        },
-        "extratime": {
-          "home": null,
-          "away": null
-        },
-        "penalty": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "fixture": {
         "id": 1567963,
         "referee": null,
         "timezone": "UTC",
@@ -7265,6 +7195,76 @@
           "id": 1404,
           "name": "SKU Amstetten",
           "logo": "https://media.api-sports.io/football/teams/1404.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1567960,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2026-11-22T09:30:00+00:00",
+        "timestamp": 1795339800,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": null,
+          "name": "Red Bull Arena",
+          "city": "Salzburg"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 219,
+        "name": "2. Liga",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/leagues/219.png",
+        "flag": "https://media.api-sports.io/flags/at.svg",
+        "season": 2026,
+        "round": "Regular Season - 13",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 1400,
+          "name": "FC Liefering",
+          "logo": "https://media.api-sports.io/football/teams/1400.png",
+          "winner": null
+        },
+        "away": {
+          "id": 1073,
+          "name": "Wacker Innsbruck",
+          "logo": "https://media.api-sports.io/football/teams/1073.png",
           "winner": null
         }
       },
@@ -7363,6 +7363,76 @@
     },
     {
       "fixture": {
+        "id": 1567971,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2026-11-27T19:30:00+00:00",
+        "timestamp": 1795807800,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": null,
+          "name": "Stadion Tivoli NEU",
+          "city": "Innsbruck"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 219,
+        "name": "2. Liga",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/leagues/219.png",
+        "flag": "https://media.api-sports.io/flags/at.svg",
+        "season": 2026,
+        "round": "Regular Season - 14",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 1073,
+          "name": "Wacker Innsbruck",
+          "logo": "https://media.api-sports.io/football/teams/1073.png",
+          "winner": null
+        },
+        "away": {
+          "id": 4990,
+          "name": "First Vienna",
+          "logo": "https://media.api-sports.io/football/teams/4990.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
         "id": 1567964,
         "referee": null,
         "timezone": "UTC",
@@ -7405,76 +7475,6 @@
           "id": 1400,
           "name": "FC Liefering",
           "logo": "https://media.api-sports.io/football/teams/1400.png",
-          "winner": null
-        }
-      },
-      "goals": {
-        "home": null,
-        "away": null
-      },
-      "score": {
-        "halftime": {
-          "home": null,
-          "away": null
-        },
-        "fulltime": {
-          "home": null,
-          "away": null
-        },
-        "extratime": {
-          "home": null,
-          "away": null
-        },
-        "penalty": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "fixture": {
-        "id": 1567971,
-        "referee": null,
-        "timezone": "UTC",
-        "date": "2026-11-28T14:30:00+00:00",
-        "timestamp": 1795876200,
-        "periods": {
-          "first": null,
-          "second": null
-        },
-        "venue": {
-          "id": null,
-          "name": "Stadion Tivoli NEU",
-          "city": "Innsbruck"
-        },
-        "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
-        }
-      },
-      "league": {
-        "id": 219,
-        "name": "2. Liga",
-        "country": "Austria",
-        "logo": "https://media.api-sports.io/football/leagues/219.png",
-        "flag": "https://media.api-sports.io/flags/at.svg",
-        "season": 2026,
-        "round": "Regular Season - 14",
-        "standings": true
-      },
-      "teams": {
-        "home": {
-          "id": 1073,
-          "name": "Wacker Innsbruck",
-          "logo": "https://media.api-sports.io/football/teams/1073.png",
-          "winner": null
-        },
-        "away": {
-          "id": 4990,
-          "name": "First Vienna",
-          "logo": "https://media.api-sports.io/football/teams/4990.png",
           "winner": null
         }
       },
@@ -7713,76 +7713,6 @@
     },
     {
       "fixture": {
-        "id": 1567969,
-        "referee": null,
-        "timezone": "UTC",
-        "date": "2026-11-28T14:30:00+00:00",
-        "timestamp": 1795876200,
-        "periods": {
-          "first": null,
-          "second": null
-        },
-        "venue": {
-          "id": 5842,
-          "name": "Huber-Arena",
-          "city": "Wels"
-        },
-        "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
-        }
-      },
-      "league": {
-        "id": 219,
-        "name": "2. Liga",
-        "country": "Austria",
-        "logo": "https://media.api-sports.io/football/leagues/219.png",
-        "flag": "https://media.api-sports.io/flags/at.svg",
-        "season": 2026,
-        "round": "Regular Season - 14",
-        "standings": true
-      },
-      "teams": {
-        "home": {
-          "id": 22213,
-          "name": "WSPG Wels",
-          "logo": "https://media.api-sports.io/football/teams/22213.png",
-          "winner": null
-        },
-        "away": {
-          "id": 1395,
-          "name": "Floridsdorfer AC",
-          "logo": "https://media.api-sports.io/football/teams/1395.png",
-          "winner": null
-        }
-      },
-      "goals": {
-        "home": null,
-        "away": null
-      },
-      "score": {
-        "halftime": {
-          "home": null,
-          "away": null
-        },
-        "fulltime": {
-          "home": null,
-          "away": null
-        },
-        "extratime": {
-          "home": null,
-          "away": null
-        },
-        "penalty": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "fixture": {
         "id": 1567968,
         "referee": null,
         "timezone": "UTC",
@@ -7825,6 +7755,76 @@
           "id": 8251,
           "name": "Sturm Graz II",
           "logo": "https://media.api-sports.io/football/teams/8251.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1567969,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2026-11-29T09:30:00+00:00",
+        "timestamp": 1795944600,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": 5842,
+          "name": "Huber-Arena",
+          "city": "Wels"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 219,
+        "name": "2. Liga",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/leagues/219.png",
+        "flag": "https://media.api-sports.io/flags/at.svg",
+        "season": 2026,
+        "round": "Regular Season - 14",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 22213,
+          "name": "WSPG Wels",
+          "logo": "https://media.api-sports.io/football/teams/22213.png",
+          "winner": null
+        },
+        "away": {
+          "id": 1395,
+          "name": "Floridsdorfer AC",
+          "logo": "https://media.api-sports.io/football/teams/1395.png",
           "winner": null
         }
       },

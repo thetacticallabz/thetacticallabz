@@ -3374,13 +3374,13 @@
     {
       "fixture": {
         "id": 1551346,
-        "referee": null,
+        "referee": "M. Thomsen",
         "timezone": "UTC",
         "date": "2026-09-18T17:00:00+00:00",
         "timestamp": 1789750800,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1789750800,
+          "second": 1789754400
         },
         "venue": {
           "id": 3525,
@@ -3388,10 +3388,10 @@
           "city": "Kolding"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 4
         }
       },
       "league": {
@@ -3419,17 +3419,17 @@
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 1,
+        "away": 1
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 1
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 1
         },
         "extratime": {
           "home": null,
@@ -3444,24 +3444,24 @@
     {
       "fixture": {
         "id": 1551343,
-        "referee": null,
+        "referee": "N. Dommerudveksling",
         "timezone": "UTC",
         "date": "2026-09-19T12:00:00+00:00",
         "timestamp": 1789819200,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1789819200,
+          "second": 1789822800
         },
         "venue": {
           "id": null,
-          "name": null,
-          "city": null
+          "name": "Gladsaxe Stadium",
+          "city": "Copenhagen"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 5
         }
       },
       "league": {
@@ -3479,27 +3479,27 @@
           "id": 2060,
           "name": "AB Copenhagen",
           "logo": "https://media.api-sports.io/football/teams/2060.png",
-          "winner": null
+          "winner": true
         },
         "away": {
           "id": 403,
           "name": "Esbjerg",
           "logo": "https://media.api-sports.io/football/teams/403.png",
-          "winner": null
+          "winner": false
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 3,
+        "away": 0
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 0
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 3,
+          "away": 0
         },
         "extratime": {
           "home": null,
@@ -3514,13 +3514,13 @@
     {
       "fixture": {
         "id": 1551342,
-        "referee": null,
+        "referee": "J. Nielsen",
         "timezone": "UTC",
         "date": "2026-09-19T12:00:00+00:00",
         "timestamp": 1789819200,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1789819200,
+          "second": 1789822800
         },
         "venue": {
           "id": null,
@@ -3528,10 +3528,10 @@
           "city": "Aarhus"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 4
         }
       },
       "league": {
@@ -3549,27 +3549,27 @@
           "id": 6004,
           "name": "Aarhus Fremad",
           "logo": "https://media.api-sports.io/football/teams/6004.png",
-          "winner": null
+          "winner": false
         },
         "away": {
           "id": 2072,
           "name": "Hvidovre",
           "logo": "https://media.api-sports.io/football/teams/2072.png",
-          "winner": null
+          "winner": true
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 1,
+        "away": 3
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 1
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 3
         },
         "extratime": {
           "home": null,
@@ -3584,13 +3584,13 @@
     {
       "fixture": {
         "id": 1551341,
-        "referee": null,
+        "referee": "S. Funder",
         "timezone": "UTC",
         "date": "2026-09-20T12:00:00+00:00",
         "timestamp": 1789905600,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1789905600,
+          "second": 1789909200
         },
         "venue": {
           "id": 440,
@@ -3598,10 +3598,10 @@
           "city": "Aalborg"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 6
         }
       },
       "league": {
@@ -3629,17 +3629,17 @@
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 2,
+        "away": 2
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 0
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 2
         },
         "extratime": {
           "home": null,
@@ -3654,13 +3654,13 @@
     {
       "fixture": {
         "id": 1551344,
-        "referee": null,
+        "referee": "J. Kobberrod",
         "timezone": "UTC",
         "date": "2026-09-20T13:00:00+00:00",
         "timestamp": 1789909200,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1789909200,
+          "second": 1789912800
         },
         "venue": {
           "id": 446,
@@ -3668,10 +3668,10 @@
           "city": "Fredericia"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 4
         }
       },
       "league": {
@@ -3699,17 +3699,17 @@
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 2,
+        "away": 2
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 1
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 2
         },
         "extratime": {
           "home": null,
@@ -3724,7 +3724,7 @@
     {
       "fixture": {
         "id": 1551345,
-        "referee": null,
+        "referee": "B. H. Svedborg",
         "timezone": "UTC",
         "date": "2026-09-21T17:00:00+00:00",
         "timestamp": 1790010000,
@@ -5123,76 +5123,6 @@
     },
     {
       "fixture": {
-        "id": 1551366,
-        "referee": null,
-        "timezone": "UTC",
-        "date": "2026-10-30T18:00:00+00:00",
-        "timestamp": 1793383200,
-        "periods": {
-          "first": null,
-          "second": null
-        },
-        "venue": {
-          "id": null,
-          "name": "Riisvangen",
-          "city": "Aarhus"
-        },
-        "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
-        }
-      },
-      "league": {
-        "id": 120,
-        "name": "1. Division",
-        "country": "Denmark",
-        "logo": "https://media.api-sports.io/football/leagues/120.png",
-        "flag": "https://media.api-sports.io/flags/dk.svg",
-        "season": 2026,
-        "round": "Regular Season - 13",
-        "standings": true
-      },
-      "teams": {
-        "home": {
-          "id": 6004,
-          "name": "Aarhus Fremad",
-          "logo": "https://media.api-sports.io/football/teams/6004.png",
-          "winner": null
-        },
-        "away": {
-          "id": 6026,
-          "name": "Hillerød",
-          "logo": "https://media.api-sports.io/football/teams/6026.png",
-          "winner": null
-        }
-      },
-      "goals": {
-        "home": null,
-        "away": null
-      },
-      "score": {
-        "halftime": {
-          "home": null,
-          "away": null
-        },
-        "fulltime": {
-          "home": null,
-          "away": null
-        },
-        "extratime": {
-          "home": null,
-          "away": null
-        },
-        "penalty": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "fixture": {
         "id": 1551369,
         "referee": null,
         "timezone": "UTC",
@@ -5445,6 +5375,76 @@
           "id": 395,
           "name": "Vejle",
           "logo": "https://media.api-sports.io/football/teams/395.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1551366,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2026-11-01T14:00:00+00:00",
+        "timestamp": 1793541600,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": null,
+          "name": "Riisvangen",
+          "city": "Aarhus"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 120,
+        "name": "1. Division",
+        "country": "Denmark",
+        "logo": "https://media.api-sports.io/football/leagues/120.png",
+        "flag": "https://media.api-sports.io/flags/dk.svg",
+        "season": 2026,
+        "round": "Regular Season - 13",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 6004,
+          "name": "Aarhus Fremad",
+          "logo": "https://media.api-sports.io/football/teams/6004.png",
+          "winner": null
+        },
+        "away": {
+          "id": 6026,
+          "name": "Hillerød",
+          "logo": "https://media.api-sports.io/football/teams/6026.png",
           "winner": null
         }
       },

@@ -45,51 +45,51 @@
             "season": 2026
           },
           "games": {
-            "appearences": 27,
-            "lineups": 26,
-            "minutes": 2064,
+            "appearences": 29,
+            "lineups": 28,
+            "minutes": 2232,
             "number": 10,
             "position": "Midfielder",
-            "rating": "7.31",
+            "rating": "7.28",
             "captain": false
           },
           "substitutes": {
             "in": 1,
-            "out": 20,
+            "out": 22,
             "bench": 1
           },
           "shots": {
-            "total": 38,
-            "on": 19
+            "total": 46,
+            "on": 23
           },
           "goals": {
-            "total": 7,
+            "total": 8,
             "conceded": 0,
             "assists": 8,
             "saves": 0
           },
           "passes": {
-            "total": 633,
-            "key": 67,
-            "accuracy": 74
+            "total": 695,
+            "key": 75,
+            "accuracy": 73
           },
           "tackles": {
-            "total": 18,
-            "blocks": 4,
+            "total": 19,
+            "blocks": 6,
             "interceptions": 12
           },
           "duels": {
-            "total": 169,
-            "won": 75
+            "total": 184,
+            "won": 81
           },
           "dribbles": {
-            "attempts": 26,
-            "success": 9,
+            "attempts": 29,
+            "success": 10,
             "past": null
           },
           "fouls": {
-            "drawn": 40,
-            "committed": 18
+            "drawn": 42,
+            "committed": 19
           },
           "cards": {
             "yellow": 2,
@@ -99,7 +99,7 @@
           "penalty": {
             "won": null,
             "commited": null,
-            "scored": 3,
+            "scored": 4,
             "missed": 1,
             "saved": null
           }
@@ -140,54 +140,149 @@
             "season": 2026
           },
           "games": {
-            "appearences": 26,
-            "lineups": 26,
-            "minutes": 2137,
+            "appearences": 28,
+            "lineups": 28,
+            "minutes": 2299,
             "number": 99,
             "position": "Midfielder",
-            "rating": "7.05",
+            "rating": "7.01",
             "captain": false
           },
           "substitutes": {
             "in": 0,
-            "out": 13,
+            "out": 14,
             "bench": 0
           },
           "shots": {
-            "total": 37,
+            "total": 43,
             "on": 21
           },
           "goals": {
             "total": 6,
             "conceded": 0,
-            "assists": 7,
+            "assists": 8,
             "saves": 0
           },
           "passes": {
-            "total": 634,
-            "key": 41,
-            "accuracy": 79
+            "total": 692,
+            "key": 43,
+            "accuracy": 80
           },
           "tackles": {
             "total": 29,
-            "blocks": 3,
-            "interceptions": 7
+            "blocks": 8,
+            "interceptions": 8
           },
           "duels": {
-            "total": 275,
-            "won": 125
+            "total": 292,
+            "won": 131
           },
           "dribbles": {
-            "attempts": 99,
-            "success": 46,
+            "attempts": 108,
+            "success": 50,
             "past": null
           },
           "fouls": {
-            "drawn": 46,
+            "drawn": 48,
             "committed": 33
           },
           "cards": {
             "yellow": 3,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 630982,
+        "name": "Soares Geovany",
+        "firstname": null,
+        "lastname": null,
+        "age": 25,
+        "birth": {
+          "date": null,
+          "place": null,
+          "country": null
+        },
+        "nationality": null,
+        "height": null,
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/630982.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 144,
+            "name": "Atletico Goianiense",
+            "logo": "https://media.api-sports.io/football/teams/144.png"
+          },
+          "league": {
+            "id": 72,
+            "name": "Serie B",
+            "country": "Brazil",
+            "logo": "https://media.api-sports.io/football/leagues/72.png",
+            "flag": "https://media.api-sports.io/flags/br.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 28,
+            "lineups": 27,
+            "minutes": 2020,
+            "number": 20,
+            "position": "Midfielder",
+            "rating": "7.04",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 18,
+            "bench": 1
+          },
+          "shots": {
+            "total": 32,
+            "on": 21
+          },
+          "goals": {
+            "total": 3,
+            "conceded": 0,
+            "assists": 8,
+            "saves": 0
+          },
+          "passes": {
+            "total": 572,
+            "key": 41,
+            "accuracy": 82
+          },
+          "tackles": {
+            "total": 13,
+            "blocks": 1,
+            "interceptions": 13
+          },
+          "duels": {
+            "total": 143,
+            "won": 82
+          },
+          "dribbles": {
+            "attempts": 64,
+            "success": 33,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 31,
+            "committed": 9
+          },
+          "cards": {
+            "yellow": 1,
             "yellowred": 0,
             "red": 0
           },
@@ -235,9 +330,9 @@
             "season": 2026
           },
           "games": {
-            "appearences": 25,
-            "lineups": 23,
-            "minutes": 1825,
+            "appearences": 26,
+            "lineups": 24,
+            "minutes": 1915,
             "number": 10,
             "position": "Midfielder",
             "rating": "6.7",
@@ -249,7 +344,7 @@
             "bench": 2
           },
           "shots": {
-            "total": 18,
+            "total": 21,
             "on": 7
           },
           "goals": {
@@ -259,18 +354,18 @@
             "saves": 0
           },
           "passes": {
-            "total": 808,
-            "key": 54,
+            "total": 863,
+            "key": 56,
             "accuracy": 84
           },
           "tackles": {
             "total": 14,
-            "blocks": 4,
-            "interceptions": 5
+            "blocks": 7,
+            "interceptions": 6
           },
           "duels": {
-            "total": 107,
-            "won": 56
+            "total": 108,
+            "won": 57
           },
           "dribbles": {
             "attempts": 8,
@@ -278,7 +373,7 @@
             "past": null
           },
           "fouls": {
-            "drawn": 26,
+            "drawn": 27,
             "committed": 15
           },
           "cards": {
@@ -330,21 +425,21 @@
             "season": 2026
           },
           "games": {
-            "appearences": 24,
-            "lineups": 23,
-            "minutes": 1921,
+            "appearences": 26,
+            "lineups": 25,
+            "minutes": 2037,
             "number": 10,
             "position": "Midfielder",
-            "rating": "6.9",
+            "rating": "6.84",
             "captain": false
           },
           "substitutes": {
             "in": 1,
-            "out": 12,
+            "out": 14,
             "bench": 1
           },
           "shots": {
-            "total": 29,
+            "total": 38,
             "on": 14
           },
           "goals": {
@@ -354,22 +449,22 @@
             "saves": 0
           },
           "passes": {
-            "total": 609,
-            "key": 54,
-            "accuracy": 83
+            "total": 647,
+            "key": 57,
+            "accuracy": 82
           },
           "tackles": {
-            "total": 15,
-            "blocks": 0,
+            "total": 16,
+            "blocks": 8,
             "interceptions": 5
           },
           "duels": {
-            "total": 115,
-            "won": 55
+            "total": 122,
+            "won": 59
           },
           "dribbles": {
-            "attempts": 27,
-            "success": 10,
+            "attempts": 31,
+            "success": 12,
             "past": null
           },
           "fouls": {
@@ -425,22 +520,22 @@
             "season": 2026
           },
           "games": {
-            "appearences": 26,
-            "lineups": 26,
-            "minutes": 2074,
+            "appearences": 28,
+            "lineups": 28,
+            "minutes": 2253,
             "number": 11,
             "position": "Attacker",
-            "rating": "7.14",
+            "rating": "7.09",
             "captain": false
           },
           "substitutes": {
             "in": 0,
-            "out": 20,
+            "out": 21,
             "bench": 0
           },
           "shots": {
-            "total": 44,
-            "on": 27
+            "total": 52,
+            "on": 28
           },
           "goals": {
             "total": 14,
@@ -449,30 +544,30 @@
             "saves": 0
           },
           "passes": {
-            "total": 444,
-            "key": 34,
-            "accuracy": 67
+            "total": 491,
+            "key": 38,
+            "accuracy": 68
           },
           "tackles": {
-            "total": 23,
-            "blocks": 3,
+            "total": 25,
+            "blocks": 5,
             "interceptions": 5
           },
           "duels": {
-            "total": 267,
-            "won": 115
+            "total": 303,
+            "won": 128
           },
           "dribbles": {
-            "attempts": 28,
-            "success": 11,
+            "attempts": 34,
+            "success": 13,
             "past": null
           },
           "fouls": {
-            "drawn": 41,
-            "committed": 35
+            "drawn": 42,
+            "committed": 40
           },
           "cards": {
-            "yellow": 3,
+            "yellow": 4,
             "yellowred": 0,
             "red": 0
           },
@@ -520,9 +615,9 @@
             "season": 2026
           },
           "games": {
-            "appearences": 25,
-            "lineups": 25,
-            "minutes": 2053,
+            "appearences": 26,
+            "lineups": 26,
+            "minutes": 2143,
             "number": 97,
             "position": "Midfielder",
             "rating": "7.26",
@@ -534,8 +629,8 @@
             "bench": 0
           },
           "shots": {
-            "total": 55,
-            "on": 20
+            "total": 59,
+            "on": 21
           },
           "goals": {
             "total": 5,
@@ -544,220 +639,30 @@
             "saves": 0
           },
           "passes": {
-            "total": 525,
-            "key": 43,
-            "accuracy": 84
+            "total": 554,
+            "key": 48,
+            "accuracy": 83
           },
           "tackles": {
-            "total": 35,
-            "blocks": 11,
+            "total": 37,
+            "blocks": 12,
             "interceptions": 13
           },
           "duels": {
-            "total": 282,
-            "won": 159
+            "total": 294,
+            "won": 165
           },
           "dribbles": {
-            "attempts": 78,
-            "success": 41,
+            "attempts": 82,
+            "success": 44,
             "past": null
           },
           "fouls": {
-            "drawn": 73,
-            "committed": 22
+            "drawn": 74,
+            "committed": 23
           },
           "cards": {
             "yellow": 3,
-            "yellowred": 0,
-            "red": 0
-          },
-          "penalty": {
-            "won": null,
-            "commited": null,
-            "scored": 0,
-            "missed": 0,
-            "saved": null
-          }
-        }
-      ]
-    },
-    {
-      "player": {
-        "id": 610986,
-        "name": "Melk",
-        "firstname": null,
-        "lastname": null,
-        "age": 19,
-        "birth": {
-          "date": null,
-          "place": null,
-          "country": null
-        },
-        "nationality": null,
-        "height": null,
-        "weight": null,
-        "injured": false,
-        "photo": "https://media.api-sports.io/football/players/610986.png"
-      },
-      "statistics": [
-        {
-          "team": {
-            "id": 129,
-            "name": "Ceara",
-            "logo": "https://media.api-sports.io/football/teams/129.png"
-          },
-          "league": {
-            "id": 72,
-            "name": "Serie B",
-            "country": "Brazil",
-            "logo": "https://media.api-sports.io/football/leagues/72.png",
-            "flag": "https://media.api-sports.io/flags/br.svg",
-            "season": 2026
-          },
-          "games": {
-            "appearences": 23,
-            "lineups": 18,
-            "minutes": 1098,
-            "number": 40,
-            "position": "Midfielder",
-            "rating": "7.06",
-            "captain": false
-          },
-          "substitutes": {
-            "in": 5,
-            "out": 7,
-            "bench": 8
-          },
-          "shots": {
-            "total": 29,
-            "on": 17
-          },
-          "goals": {
-            "total": 5,
-            "conceded": 0,
-            "assists": 4,
-            "saves": null
-          },
-          "passes": {
-            "total": 272,
-            "key": 16,
-            "accuracy": 73
-          },
-          "tackles": {
-            "total": 11,
-            "blocks": 1,
-            "interceptions": 4
-          },
-          "duels": {
-            "total": 112,
-            "won": 42
-          },
-          "dribbles": {
-            "attempts": 37,
-            "success": 14,
-            "past": null
-          },
-          "fouls": {
-            "drawn": 15,
-            "committed": 8
-          },
-          "cards": {
-            "yellow": 1,
-            "yellowred": 0,
-            "red": 0
-          },
-          "penalty": {
-            "won": null,
-            "commited": null,
-            "scored": 0,
-            "missed": 0,
-            "saved": null
-          }
-        }
-      ]
-    },
-    {
-      "player": {
-        "id": 197038,
-        "name": "Juninho",
-        "firstname": "Alexandre",
-        "lastname": "de Almeida Silva Júnior",
-        "age": 24,
-        "birth": {
-          "date": "2001-01-23",
-          "place": "Volta Redonda",
-          "country": "Brazil"
-        },
-        "nationality": "Brazil",
-        "height": "174",
-        "weight": "70",
-        "injured": false,
-        "photo": "https://media.api-sports.io/football/players/197038.png"
-      },
-      "statistics": [
-        {
-          "team": {
-            "id": 7834,
-            "name": "Novorizontino",
-            "logo": "https://media.api-sports.io/football/teams/7834.png"
-          },
-          "league": {
-            "id": 72,
-            "name": "Serie B",
-            "country": "Brazil",
-            "logo": "https://media.api-sports.io/football/leagues/72.png",
-            "flag": "https://media.api-sports.io/flags/br.svg",
-            "season": 2026
-          },
-          "games": {
-            "appearences": 26,
-            "lineups": 3,
-            "minutes": 949,
-            "number": 50,
-            "position": "Midfielder",
-            "rating": "6.78",
-            "captain": false
-          },
-          "substitutes": {
-            "in": 23,
-            "out": 2,
-            "bench": 23
-          },
-          "shots": {
-            "total": 28,
-            "on": 14
-          },
-          "goals": {
-            "total": 3,
-            "conceded": 0,
-            "assists": 4,
-            "saves": 0
-          },
-          "passes": {
-            "total": 400,
-            "key": 16,
-            "accuracy": 86
-          },
-          "tackles": {
-            "total": 19,
-            "blocks": 2,
-            "interceptions": 3
-          },
-          "duels": {
-            "total": 113,
-            "won": 51
-          },
-          "dribbles": {
-            "attempts": 24,
-            "success": 14,
-            "past": null
-          },
-          "fouls": {
-            "drawn": 13,
-            "committed": 12
-          },
-          "cards": {
-            "yellow": 4,
             "yellowred": 0,
             "red": 0
           },
@@ -805,45 +710,45 @@
             "season": 2026
           },
           "games": {
-            "appearences": 26,
-            "lineups": 23,
-            "minutes": 1690,
+            "appearences": 27,
+            "lineups": 24,
+            "minutes": 1755,
             "number": 10,
             "position": "Midfielder",
-            "rating": "6.78",
+            "rating": "6.82",
             "captain": false
           },
           "substitutes": {
             "in": 3,
-            "out": 16,
+            "out": 17,
             "bench": 3
           },
           "shots": {
-            "total": 29,
+            "total": 30,
             "on": 12
           },
           "goals": {
             "total": 3,
             "conceded": 0,
-            "assists": 4,
+            "assists": 5,
             "saves": 0
           },
           "passes": {
-            "total": 636,
-            "key": 39,
+            "total": 676,
+            "key": 41,
             "accuracy": 77
           },
           "tackles": {
-            "total": 25,
+            "total": 26,
             "blocks": 1,
-            "interceptions": 7
+            "interceptions": 8
           },
           "duels": {
-            "total": 199,
-            "won": 78
+            "total": 205,
+            "won": 79
           },
           "dribbles": {
-            "attempts": 42,
+            "attempts": 43,
             "success": 20,
             "past": null
           },
@@ -868,28 +773,28 @@
     },
     {
       "player": {
-        "id": 630982,
-        "name": "Soares Geovany",
-        "firstname": null,
-        "lastname": null,
-        "age": 25,
+        "id": 54760,
+        "name": "Crystopher",
+        "firstname": "Crystopher",
+        "lastname": "Ribeiro Oliveira",
+        "age": 27,
         "birth": {
-          "date": null,
-          "place": null,
-          "country": null
+          "date": "1998-06-07",
+          "place": "Porto Alegre",
+          "country": "Brazil"
         },
-        "nationality": null,
+        "nationality": "Brazil",
         "height": null,
         "weight": null,
         "injured": false,
-        "photo": "https://media.api-sports.io/football/players/630982.png"
+        "photo": "https://media.api-sports.io/football/players/54760.png"
       },
       "statistics": [
         {
           "team": {
-            "id": 144,
-            "name": "Atletico Goianiense",
-            "logo": "https://media.api-sports.io/football/teams/144.png"
+            "id": 146,
+            "name": "CRB",
+            "logo": "https://media.api-sports.io/football/teams/146.png"
           },
           "league": {
             "id": 72,
@@ -900,22 +805,117 @@
             "season": 2026
           },
           "games": {
-            "appearences": 26,
-            "lineups": 25,
-            "minutes": 1853,
-            "number": 20,
+            "appearences": 24,
+            "lineups": 24,
+            "minutes": 1998,
+            "number": 8,
             "position": "Midfielder",
-            "rating": "6.97",
+            "rating": "7.02",
             "captain": false
           },
           "substitutes": {
-            "in": 1,
-            "out": 17,
-            "bench": 1
+            "in": 0,
+            "out": 7,
+            "bench": 0
           },
           "shots": {
-            "total": 29,
-            "on": 20
+            "total": 35,
+            "on": 15
+          },
+          "goals": {
+            "total": 4,
+            "conceded": 0,
+            "assists": 4,
+            "saves": 0
+          },
+          "passes": {
+            "total": 1046,
+            "key": 42,
+            "accuracy": 81
+          },
+          "tackles": {
+            "total": 21,
+            "blocks": 3,
+            "interceptions": 16
+          },
+          "duels": {
+            "total": 137,
+            "won": 58
+          },
+          "dribbles": {
+            "attempts": 15,
+            "success": 9,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 20,
+            "committed": 20
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 197038,
+        "name": "Juninho",
+        "firstname": "Alexandre",
+        "lastname": "de Almeida Silva Júnior",
+        "age": 24,
+        "birth": {
+          "date": "2001-01-23",
+          "place": "Volta Redonda",
+          "country": "Brazil"
+        },
+        "nationality": "Brazil",
+        "height": "174",
+        "weight": "70",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/197038.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 7834,
+            "name": "Novorizontino",
+            "logo": "https://media.api-sports.io/football/teams/7834.png"
+          },
+          "league": {
+            "id": 72,
+            "name": "Serie B",
+            "country": "Brazil",
+            "logo": "https://media.api-sports.io/football/leagues/72.png",
+            "flag": "https://media.api-sports.io/flags/br.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 28,
+            "lineups": 3,
+            "minutes": 1002,
+            "number": 50,
+            "position": "Midfielder",
+            "rating": "6.75",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 25,
+            "out": 2,
+            "bench": 25
+          },
+          "shots": {
+            "total": 32,
+            "on": 16
           },
           "goals": {
             "total": 3,
@@ -924,30 +924,125 @@
             "saves": 0
           },
           "passes": {
-            "total": 503,
-            "key": 35,
-            "accuracy": 81
+            "total": 430,
+            "key": 18,
+            "accuracy": 85
           },
           "tackles": {
-            "total": 10,
-            "blocks": 0,
-            "interceptions": 12
+            "total": 19,
+            "blocks": 2,
+            "interceptions": 5
           },
           "duels": {
-            "total": 127,
-            "won": 71
+            "total": 124,
+            "won": 55
           },
           "dribbles": {
-            "attempts": 58,
-            "success": 29,
+            "attempts": 25,
+            "success": 14,
             "past": null
           },
           "fouls": {
-            "drawn": 28,
-            "committed": 8
+            "drawn": 17,
+            "committed": 14
           },
           "cards": {
-            "yellow": 1,
+            "yellow": 5,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 197364,
+        "name": "Eduardo",
+        "firstname": "Eduardo",
+        "lastname": "da Silva Albuquerque",
+        "age": 25,
+        "birth": {
+          "date": "2000-06-15",
+          "place": "Miraíma",
+          "country": "Brazil"
+        },
+        "nationality": "Brazil",
+        "height": "173",
+        "weight": "69",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/197364.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 7865,
+            "name": "São Bernardo",
+            "logo": "https://media.api-sports.io/football/teams/7865.png"
+          },
+          "league": {
+            "id": 72,
+            "name": "Serie B",
+            "country": "Brazil",
+            "logo": "https://media.api-sports.io/football/leagues/72.png",
+            "flag": "https://media.api-sports.io/flags/br.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 27,
+            "lineups": 27,
+            "minutes": 2049,
+            "number": 26,
+            "position": "Midfielder",
+            "rating": "7.17",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 20,
+            "bench": 0
+          },
+          "shots": {
+            "total": 31,
+            "on": 13
+          },
+          "goals": {
+            "total": 2,
+            "conceded": 0,
+            "assists": 4,
+            "saves": 0
+          },
+          "passes": {
+            "total": 1318,
+            "key": 44,
+            "accuracy": 84
+          },
+          "tackles": {
+            "total": 28,
+            "blocks": 9,
+            "interceptions": 30
+          },
+          "duels": {
+            "total": 171,
+            "won": 78
+          },
+          "dribbles": {
+            "attempts": 22,
+            "success": 12,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 29,
+            "committed": 35
+          },
+          "cards": {
+            "yellow": 5,
             "yellowred": 0,
             "red": 0
           },
@@ -995,22 +1090,22 @@
             "season": 2026
           },
           "games": {
-            "appearences": 25,
-            "lineups": 21,
-            "minutes": 1682,
+            "appearences": 26,
+            "lineups": 22,
+            "minutes": 1758,
             "number": 10,
             "position": "Midfielder",
-            "rating": "6.88",
+            "rating": "6.9",
             "captain": false
           },
           "substitutes": {
             "in": 4,
-            "out": 15,
+            "out": 16,
             "bench": 4
           },
           "shots": {
-            "total": 19,
-            "on": 9
+            "total": 21,
+            "on": 10
           },
           "goals": {
             "total": 2,
@@ -1019,30 +1114,30 @@
             "saves": 0
           },
           "passes": {
-            "total": 858,
-            "key": 40,
+            "total": 894,
+            "key": 44,
             "accuracy": 85
           },
           "tackles": {
             "total": 17,
             "blocks": 2,
-            "interceptions": 7
+            "interceptions": 8
           },
           "duels": {
-            "total": 118,
-            "won": 60
+            "total": 123,
+            "won": 63
           },
           "dribbles": {
-            "attempts": 26,
-            "success": 11,
+            "attempts": 28,
+            "success": 13,
             "past": null
           },
           "fouls": {
-            "drawn": 29,
-            "committed": 9
+            "drawn": 30,
+            "committed": 10
           },
           "cards": {
-            "yellow": 7,
+            "yellow": 8,
             "yellowred": 0,
             "red": 0
           },
@@ -1058,28 +1153,28 @@
     },
     {
       "player": {
-        "id": 197364,
-        "name": "Eduardo",
-        "firstname": "Eduardo",
-        "lastname": "da Silva Albuquerque",
-        "age": 25,
+        "id": 454454,
+        "name": "Max",
+        "firstname": "Maswel",
+        "lastname": "Ananias Silva",
+        "age": 23,
         "birth": {
-          "date": "2000-06-15",
-          "place": "Miraíma",
+          "date": "2002-02-28",
+          "place": null,
           "country": "Brazil"
         },
         "nationality": "Brazil",
-        "height": "173",
-        "weight": "69",
+        "height": "184",
+        "weight": "66",
         "injured": false,
-        "photo": "https://media.api-sports.io/football/players/197364.png"
+        "photo": "https://media.api-sports.io/football/players/454454.png"
       },
       "statistics": [
         {
           "team": {
-            "id": 7865,
-            "name": "São Bernardo",
-            "logo": "https://media.api-sports.io/football/teams/7865.png"
+            "id": 13975,
+            "name": "Athletic Club",
+            "logo": "https://media.api-sports.io/football/teams/13975.png"
           },
           "league": {
             "id": 72,
@@ -1090,22 +1185,22 @@
             "season": 2026
           },
           "games": {
-            "appearences": 25,
-            "lineups": 25,
-            "minutes": 1906,
-            "number": 26,
-            "position": "Midfielder",
-            "rating": "7.19",
+            "appearences": 21,
+            "lineups": 21,
+            "minutes": 1372,
+            "number": 11,
+            "position": "Attacker",
+            "rating": "6.79",
             "captain": false
           },
           "substitutes": {
             "in": 0,
-            "out": 18,
-            "bench": 0
+            "out": 20,
+            "bench": 1
           },
           "shots": {
-            "total": 28,
-            "on": 11
+            "total": 19,
+            "on": 3
           },
           "goals": {
             "total": 2,
@@ -1114,30 +1209,30 @@
             "saves": 0
           },
           "passes": {
-            "total": 1242,
-            "key": 42,
-            "accuracy": 84
+            "total": 175,
+            "key": 12,
+            "accuracy": 75
           },
           "tackles": {
-            "total": 25,
-            "blocks": 8,
-            "interceptions": 28
+            "total": 10,
+            "blocks": 1,
+            "interceptions": 5
           },
           "duels": {
-            "total": 157,
-            "won": 72
+            "total": 125,
+            "won": 67
           },
           "dribbles": {
-            "attempts": 21,
-            "success": 11,
+            "attempts": 36,
+            "success": 19,
             "past": null
           },
           "fouls": {
-            "drawn": 27,
-            "committed": 31
+            "drawn": 35,
+            "committed": 19
           },
           "cards": {
-            "yellow": 5,
+            "yellow": 4,
             "yellowred": 0,
             "red": 0
           },
@@ -1185,22 +1280,22 @@
             "season": 2026
           },
           "games": {
-            "appearences": 22,
-            "lineups": 21,
-            "minutes": 1767,
+            "appearences": 24,
+            "lineups": 23,
+            "minutes": 1881,
             "number": 17,
             "position": "Midfielder",
-            "rating": "6.95",
+            "rating": "6.91",
             "captain": false
           },
           "substitutes": {
             "in": 1,
-            "out": 7,
+            "out": 9,
             "bench": 1
           },
           "shots": {
-            "total": 15,
-            "on": 6
+            "total": 16,
+            "on": 7
           },
           "goals": {
             "total": 1,
@@ -1209,18 +1304,18 @@
             "saves": 0
           },
           "passes": {
-            "total": 869,
-            "key": 32,
-            "accuracy": 88
+            "total": 899,
+            "key": 33,
+            "accuracy": 87
           },
           "tackles": {
-            "total": 18,
+            "total": 21,
             "blocks": 5,
             "interceptions": 8
           },
           "duels": {
-            "total": 110,
-            "won": 55
+            "total": 119,
+            "won": 61
           },
           "dribbles": {
             "attempts": 26,
@@ -1228,8 +1323,8 @@
             "past": null
           },
           "fouls": {
-            "drawn": 18,
-            "committed": 5
+            "drawn": 21,
+            "committed": 6
           },
           "cards": {
             "yellow": 1,
@@ -1248,21 +1343,21 @@
     },
     {
       "player": {
-        "id": 279814,
-        "name": "Mikael Doka",
-        "firstname": "Antonio Mikael",
-        "lastname": "Rodrigues Brito",
-        "age": 25,
+        "id": 403432,
+        "name": "Gabriel Feliciano",
+        "firstname": "Gabriel",
+        "lastname": "Feliciano da Silva",
+        "age": 24,
         "birth": {
-          "date": "2000-01-24",
-          "place": "Fortaleza",
+          "date": "2001-07-26",
+          "place": null,
           "country": "Brazil"
         },
         "nationality": "Brazil",
         "height": null,
         "weight": null,
         "injured": false,
-        "photo": "https://media.api-sports.io/football/players/279814.png"
+        "photo": "https://media.api-sports.io/football/players/403432.png"
       },
       "statistics": [
         {
@@ -1281,53 +1376,53 @@
           },
           "games": {
             "appearences": 22,
-            "lineups": 22,
-            "minutes": 1623,
-            "number": 2,
+            "lineups": 14,
+            "minutes": 1350,
+            "number": 27,
             "position": "Defender",
-            "rating": "7.15",
+            "rating": "6.9",
             "captain": false
           },
           "substitutes": {
-            "in": 0,
-            "out": 10,
-            "bench": 0
+            "in": 8,
+            "out": 3,
+            "bench": 14
           },
           "shots": {
-            "total": 10,
-            "on": 1
+            "total": 16,
+            "on": 4
           },
           "goals": {
-            "total": 0,
+            "total": 1,
             "conceded": 0,
             "assists": 4,
             "saves": 0
           },
           "passes": {
-            "total": 800,
-            "key": 36,
-            "accuracy": 86
+            "total": 695,
+            "key": 20,
+            "accuracy": 81
           },
           "tackles": {
-            "total": 37,
-            "blocks": 2,
-            "interceptions": 10
+            "total": 21,
+            "blocks": 5,
+            "interceptions": 24
           },
           "duels": {
-            "total": 172,
-            "won": 102
+            "total": 105,
+            "won": 60
           },
           "dribbles": {
-            "attempts": 34,
-            "success": 18,
+            "attempts": 29,
+            "success": 19,
             "past": null
           },
           "fouls": {
-            "drawn": 33,
-            "committed": 25
+            "drawn": 8,
+            "committed": 14
           },
           "cards": {
-            "yellow": 4,
+            "yellow": 1,
             "yellowred": 0,
             "red": 0
           },
@@ -1375,31 +1470,31 @@
             "season": 2026
           },
           "games": {
-            "appearences": 20,
+            "appearences": 21,
             "lineups": 17,
-            "minutes": 1188,
+            "minutes": 1203,
             "number": 7,
             "position": "Midfielder",
-            "rating": "6.51",
+            "rating": "6.56",
             "captain": false
           },
           "substitutes": {
-            "in": 3,
+            "in": 4,
             "out": 17,
-            "bench": 5
+            "bench": 6
           },
           "shots": {
-            "total": 10,
-            "on": 4
+            "total": 11,
+            "on": 5
           },
           "goals": {
-            "total": 0,
+            "total": 1,
             "conceded": 0,
             "assists": 4,
             "saves": 0
           },
           "passes": {
-            "total": 309,
+            "total": 313,
             "key": 22,
             "accuracy": 79
           },
@@ -1409,16 +1504,16 @@
             "interceptions": 5
           },
           "duels": {
-            "total": 149,
-            "won": 79
+            "total": 153,
+            "won": 83
           },
           "dribbles": {
-            "attempts": 29,
-            "success": 15,
+            "attempts": 32,
+            "success": 18,
             "past": null
           },
           "fouls": {
-            "drawn": 24,
+            "drawn": 25,
             "committed": 8
           },
           "cards": {
@@ -1429,6 +1524,101 @@
           "penalty": {
             "won": 1,
             "commited": 1,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 279814,
+        "name": "Mikael Doka",
+        "firstname": "Antonio Mikael",
+        "lastname": "Rodrigues Brito",
+        "age": 25,
+        "birth": {
+          "date": "2000-01-24",
+          "place": "Fortaleza",
+          "country": "Brazil"
+        },
+        "nationality": "Brazil",
+        "height": null,
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/279814.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 1223,
+            "name": "Operario-PR",
+            "logo": "https://media.api-sports.io/football/teams/1223.png"
+          },
+          "league": {
+            "id": 72,
+            "name": "Serie B",
+            "country": "Brazil",
+            "logo": "https://media.api-sports.io/football/leagues/72.png",
+            "flag": "https://media.api-sports.io/flags/br.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 23,
+            "lineups": 23,
+            "minutes": 1713,
+            "number": 2,
+            "position": "Defender",
+            "rating": "7.12",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 10,
+            "bench": 0
+          },
+          "shots": {
+            "total": 11,
+            "on": 2
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 4,
+            "saves": 0
+          },
+          "passes": {
+            "total": 843,
+            "key": 36,
+            "accuracy": 86
+          },
+          "tackles": {
+            "total": 38,
+            "blocks": 2,
+            "interceptions": 11
+          },
+          "duels": {
+            "total": 180,
+            "won": 107
+          },
+          "dribbles": {
+            "attempts": 34,
+            "success": 18,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 37,
+            "committed": 28
+          },
+          "cards": {
+            "yellow": 4,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
             "scored": 0,
             "missed": 0,
             "saved": null
@@ -1470,18 +1660,18 @@
             "season": 2026
           },
           "games": {
-            "appearences": 11,
+            "appearences": 12,
             "lineups": 7,
-            "minutes": 516,
+            "minutes": 549,
             "number": 11,
             "position": "Attacker",
-            "rating": "6.62",
+            "rating": "6.57",
             "captain": false
           },
           "substitutes": {
-            "in": 4,
+            "in": 5,
             "out": 7,
-            "bench": 5
+            "bench": 6
           },
           "shots": {
             "total": 11,
@@ -1494,9 +1684,9 @@
             "saves": 0
           },
           "passes": {
-            "total": 49,
+            "total": 55,
             "key": 7,
-            "accuracy": 73
+            "accuracy": 74
           },
           "tackles": {
             "total": 3,
@@ -1504,8 +1694,8 @@
             "interceptions": 2
           },
           "duels": {
-            "total": 50,
-            "won": 12
+            "total": 54,
+            "won": 13
           },
           "dribbles": {
             "attempts": 7,
@@ -1513,8 +1703,8 @@
             "past": null
           },
           "fouls": {
-            "drawn": 7,
-            "committed": 4
+            "drawn": 8,
+            "committed": 5
           },
           "cards": {
             "yellow": 0,
@@ -1533,28 +1723,28 @@
     },
     {
       "player": {
-        "id": 159843,
-        "name": "Bruno Santos",
-        "firstname": "Bruno",
-        "lastname": "Santos de Oliveira",
-        "age": 29,
+        "id": 137607,
+        "name": "Mikael",
+        "firstname": "Mikael Filipe",
+        "lastname": "Viana de Sousa",
+        "age": 26,
         "birth": {
-          "date": "1996-11-18",
-          "place": null,
+          "date": "1999-05-28",
+          "place": "Bacabal",
           "country": "Brazil"
         },
         "nationality": "Brazil",
-        "height": "185",
-        "weight": "80",
+        "height": "184",
+        "weight": "95",
         "injured": false,
-        "photo": "https://media.api-sports.io/football/players/159843.png"
+        "photo": "https://media.api-sports.io/football/players/137607.png"
       },
       "statistics": [
         {
           "team": {
-            "id": 148,
-            "name": "Londrina",
-            "logo": "https://media.api-sports.io/football/teams/148.png"
+            "id": 146,
+            "name": "CRB",
+            "logo": "https://media.api-sports.io/football/teams/146.png"
           },
           "league": {
             "id": 72,
@@ -1565,51 +1755,51 @@
             "season": 2026
           },
           "games": {
-            "appearences": 16,
-            "lineups": 15,
-            "minutes": 1433,
-            "number": 9,
+            "appearences": 27,
+            "lineups": 26,
+            "minutes": 2103,
+            "number": 28,
             "position": "Attacker",
-            "rating": "7.28",
+            "rating": "7.08",
             "captain": false
           },
           "substitutes": {
             "in": 1,
-            "out": 0,
+            "out": 15,
             "bench": 1
           },
           "shots": {
-            "total": 35,
-            "on": 19
+            "total": 84,
+            "on": 42
           },
           "goals": {
-            "total": 11,
+            "total": 15,
             "conceded": 0,
             "assists": 3,
             "saves": 0
           },
           "passes": {
-            "total": 275,
-            "key": 15,
-            "accuracy": 71
+            "total": 231,
+            "key": 26,
+            "accuracy": 77
           },
           "tackles": {
-            "total": 10,
-            "blocks": 1,
-            "interceptions": 1
+            "total": 11,
+            "blocks": 5,
+            "interceptions": 5
           },
           "duels": {
-            "total": 171,
-            "won": 82
+            "total": 214,
+            "won": 93
           },
           "dribbles": {
-            "attempts": 30,
-            "success": 10,
+            "attempts": 54,
+            "success": 23,
             "past": null
           },
           "fouls": {
-            "drawn": 30,
-            "committed": 17
+            "drawn": 29,
+            "committed": 20
           },
           "cards": {
             "yellow": 1,
@@ -1660,12 +1850,12 @@
             "season": 2026
           },
           "games": {
-            "appearences": 24,
-            "lineups": 24,
-            "minutes": 2095,
+            "appearences": 25,
+            "lineups": 25,
+            "minutes": 2185,
             "number": 10,
             "position": "Midfielder",
-            "rating": "7.41",
+            "rating": "7.42",
             "captain": false
           },
           "substitutes": {
@@ -1674,40 +1864,40 @@
             "bench": 0
           },
           "shots": {
-            "total": 55,
-            "on": 26
+            "total": 58,
+            "on": 27
           },
           "goals": {
-            "total": 11,
+            "total": 12,
             "conceded": 0,
             "assists": 3,
             "saves": 0
           },
           "passes": {
-            "total": 1121,
-            "key": 47,
+            "total": 1160,
+            "key": 51,
             "accuracy": 87
           },
           "tackles": {
-            "total": 25,
-            "blocks": 4,
+            "total": 26,
+            "blocks": 3,
             "interceptions": 4
           },
           "duels": {
-            "total": 210,
-            "won": 98
+            "total": 226,
+            "won": 104
           },
           "dribbles": {
-            "attempts": 42,
+            "attempts": 45,
             "success": 17,
             "past": null
           },
           "fouls": {
-            "drawn": 54,
-            "committed": 38
+            "drawn": 59,
+            "committed": 40
           },
           "cards": {
-            "yellow": 7,
+            "yellow": 8,
             "yellowred": 0,
             "red": 0
           },
@@ -1716,196 +1906,6 @@
             "commited": null,
             "scored": 4,
             "missed": 0,
-            "saved": null
-          }
-        }
-      ]
-    },
-    {
-      "player": {
-        "id": 237706,
-        "name": "Chrystian Barletta",
-        "firstname": "Chrystian",
-        "lastname": "Amaral Barletta de Almeida",
-        "age": 24,
-        "birth": {
-          "date": "2001-07-05",
-          "place": "Limeira",
-          "country": "Brazil"
-        },
-        "nationality": "Brazil",
-        "height": null,
-        "weight": null,
-        "injured": false,
-        "photo": "https://media.api-sports.io/football/players/237706.png"
-      },
-      "statistics": [
-        {
-          "team": {
-            "id": 123,
-            "name": "Sport Recife",
-            "logo": "https://media.api-sports.io/football/teams/123.png"
-          },
-          "league": {
-            "id": 72,
-            "name": "Serie B",
-            "country": "Brazil",
-            "logo": "https://media.api-sports.io/football/leagues/72.png",
-            "flag": "https://media.api-sports.io/flags/br.svg",
-            "season": 2026
-          },
-          "games": {
-            "appearences": 21,
-            "lineups": 21,
-            "minutes": 1820,
-            "number": 30,
-            "position": "Attacker",
-            "rating": "7.32",
-            "captain": false
-          },
-          "substitutes": {
-            "in": 0,
-            "out": 8,
-            "bench": 0
-          },
-          "shots": {
-            "total": 39,
-            "on": 19
-          },
-          "goals": {
-            "total": 10,
-            "conceded": 0,
-            "assists": 3,
-            "saves": 0
-          },
-          "passes": {
-            "total": 589,
-            "key": 37,
-            "accuracy": 76
-          },
-          "tackles": {
-            "total": 24,
-            "blocks": 3,
-            "interceptions": 9
-          },
-          "duels": {
-            "total": 224,
-            "won": 113
-          },
-          "dribbles": {
-            "attempts": 66,
-            "success": 32,
-            "past": null
-          },
-          "fouls": {
-            "drawn": 50,
-            "committed": 19
-          },
-          "cards": {
-            "yellow": 7,
-            "yellowred": 0,
-            "red": 0
-          },
-          "penalty": {
-            "won": null,
-            "commited": null,
-            "scored": 7,
-            "missed": 0,
-            "saved": null
-          }
-        }
-      ]
-    },
-    {
-      "player": {
-        "id": 9660,
-        "name": "Vinícius",
-        "firstname": "Vinícius",
-        "lastname": "Santos Silva",
-        "age": 32,
-        "birth": {
-          "date": "1993-08-03",
-          "place": "São Paulo",
-          "country": "Brazil"
-        },
-        "nationality": "Brazil",
-        "height": "180",
-        "weight": "81",
-        "injured": false,
-        "photo": "https://media.api-sports.io/football/players/9660.png"
-      },
-      "statistics": [
-        {
-          "team": {
-            "id": 755,
-            "name": "Nautico Recife",
-            "logo": "https://media.api-sports.io/football/teams/755.png"
-          },
-          "league": {
-            "id": 72,
-            "name": "Serie B",
-            "country": "Brazil",
-            "logo": "https://media.api-sports.io/football/leagues/72.png",
-            "flag": "https://media.api-sports.io/flags/br.svg",
-            "season": 2026
-          },
-          "games": {
-            "appearences": 19,
-            "lineups": 17,
-            "minutes": 1483,
-            "number": 7,
-            "position": "Attacker",
-            "rating": "6.8",
-            "captain": false
-          },
-          "substitutes": {
-            "in": 2,
-            "out": 2,
-            "bench": 2
-          },
-          "shots": {
-            "total": 40,
-            "on": 21
-          },
-          "goals": {
-            "total": 6,
-            "conceded": 0,
-            "assists": 3,
-            "saves": 0
-          },
-          "passes": {
-            "total": 616,
-            "key": 30,
-            "accuracy": 76
-          },
-          "tackles": {
-            "total": 13,
-            "blocks": 2,
-            "interceptions": 5
-          },
-          "duels": {
-            "total": 107,
-            "won": 60
-          },
-          "dribbles": {
-            "attempts": 28,
-            "success": 15,
-            "past": null
-          },
-          "fouls": {
-            "drawn": 21,
-            "committed": 11
-          },
-          "cards": {
-            "yellow": 1,
-            "yellowred": 0,
-            "red": 0
-          },
-          "penalty": {
-            "won": null,
-            "commited": null,
-            "scored": 1,
-            "missed": 1,
             "saved": null
           }
         }

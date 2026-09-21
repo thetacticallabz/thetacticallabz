@@ -13594,7 +13594,7 @@
     {
       "fixture": {
         "id": 1637836,
-        "referee": null,
+        "referee": "M. de Sousa",
         "timezone": "UTC",
         "date": "2026-09-12T20:00:00+00:00",
         "timestamp": 1789243200,
@@ -13664,7 +13664,7 @@
     {
       "fixture": {
         "id": 1637837,
-        "referee": null,
+        "referee": "A. Goncalves",
         "timezone": "UTC",
         "date": "2026-09-12T22:30:00+00:00",
         "timestamp": 1789252200,
@@ -13734,7 +13734,7 @@
     {
       "fixture": {
         "id": 1637838,
-        "referee": null,
+        "referee": "W. Oliveira",
         "timezone": "UTC",
         "date": "2026-09-13T19:00:00+00:00",
         "timestamp": 1789326000,
@@ -13804,7 +13804,7 @@
     {
       "fixture": {
         "id": 1637839,
-        "referee": null,
+        "referee": "E. Silva",
         "timezone": "UTC",
         "date": "2026-09-13T21:30:00+00:00",
         "timestamp": 1789335000,
@@ -13879,8 +13879,8 @@
         "date": "2026-09-19T20:00:00+00:00",
         "timestamp": 1789848000,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1789848000,
+          "second": 1789851600
         },
         "venue": {
           "id": null,
@@ -13888,10 +13888,10 @@
           "city": null
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 6
         }
       },
       "league": {
@@ -13909,27 +13909,27 @@
           "id": 7833,
           "name": "Maringá",
           "logo": "https://media.api-sports.io/football/teams/7833.png",
-          "winner": null
+          "winner": true
         },
         "away": {
           "id": 1197,
           "name": "Botafogo PB",
           "logo": "https://media.api-sports.io/football/teams/1197.png",
-          "winner": null
+          "winner": false
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 2,
+        "away": 0
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 0
         },
         "extratime": {
           "home": null,
@@ -13949,8 +13949,8 @@
         "date": "2026-09-20T19:00:00+00:00",
         "timestamp": 1789930800,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1789930800,
+          "second": 1789934400
         },
         "venue": {
           "id": null,
@@ -13958,10 +13958,10 @@
           "city": "Recife"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 6
         }
       },
       "league": {
@@ -13979,27 +13979,27 @@
           "id": 753,
           "name": "Santa Cruz",
           "logo": "https://media.api-sports.io/football/teams/753.png",
-          "winner": null
+          "winner": true
         },
         "away": {
           "id": 7774,
           "name": "Floresta",
           "logo": "https://media.api-sports.io/football/teams/7774.png",
-          "winner": null
+          "winner": false
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 1,
+        "away": 0
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 0
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 0
         },
         "extratime": {
           "home": null,
@@ -14019,19 +14019,19 @@
         "date": "2026-09-20T21:30:00+00:00",
         "timestamp": 1789939800,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1789939800,
+          "second": 1789943400
         },
         "venue": {
           "id": null,
           "name": null,
-          "city": null
+          "city": "Belem"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 8
         }
       },
       "league": {
@@ -14059,17 +14059,17 @@
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 2,
+        "away": 2
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 1
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 2
         },
         "extratime": {
           "home": null,
@@ -14089,19 +14089,19 @@
         "date": "2026-09-20T21:30:00+00:00",
         "timestamp": 1789939800,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1789939800,
+          "second": 1789943400
         },
         "venue": {
           "id": null,
-          "name": null,
-          "city": null
+          "name": "Arena Fonte Luminosa",
+          "city": "Araraquara"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 10
         }
       },
       "league": {
@@ -14119,27 +14119,27 @@
           "id": 7826,
           "name": "Ferroviária",
           "logo": "https://media.api-sports.io/football/teams/7826.png",
-          "winner": null
+          "winner": true
         },
         "away": {
           "id": 1211,
           "name": "Brusque",
           "logo": "https://media.api-sports.io/football/teams/1211.png",
-          "winner": null
+          "winner": false
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 3,
+        "away": 2
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 1
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 3,
+          "away": 2
         },
         "extratime": {
           "home": null,

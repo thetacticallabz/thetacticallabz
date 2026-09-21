@@ -50,7 +50,7 @@
             "minutes": 2073,
             "number": 26,
             "position": "Midfielder",
-            "rating": "7.11",
+            "rating": "7.18",
             "captain": false
           },
           "substitutes": {
@@ -66,7 +66,7 @@
             "total": 4,
             "conceded": 0,
             "assists": 7,
-            "saves": 0
+            "saves": null
           },
           "passes": {
             "total": 648,
@@ -140,42 +140,42 @@
             "season": 2026
           },
           "games": {
-            "appearences": 24,
-            "lineups": 24,
-            "minutes": 1957,
+            "appearences": 25,
+            "lineups": 25,
+            "minutes": 2037,
             "number": 20,
             "position": "Midfielder",
-            "rating": "6.93",
+            "rating": "6.92",
             "captain": false
           },
           "substitutes": {
             "in": 0,
-            "out": 16,
+            "out": 17,
             "bench": 0
           },
           "shots": {
-            "total": 24,
-            "on": 12
+            "total": 26,
+            "on": 13
           },
           "goals": {
             "total": 3,
             "conceded": 0,
             "assists": 7,
-            "saves": 0
+            "saves": null
           },
           "passes": {
-            "total": 723,
+            "total": 741,
             "key": 46,
             "accuracy": 77
           },
           "tackles": {
-            "total": 45,
-            "blocks": 2,
+            "total": 47,
+            "blocks": 1,
             "interceptions": 14
           },
           "duels": {
-            "total": 272,
-            "won": 125
+            "total": 279,
+            "won": 131
           },
           "dribbles": {
             "attempts": 65,
@@ -183,7 +183,7 @@
             "past": null
           },
           "fouls": {
-            "drawn": 44,
+            "drawn": 48,
             "committed": 36
           },
           "cards": {
@@ -235,46 +235,46 @@
             "season": 2026
           },
           "games": {
-            "appearences": 22,
+            "appearences": 23,
             "lineups": 10,
-            "minutes": 1138,
+            "minutes": 1164,
             "number": 9,
             "position": "Attacker",
             "rating": "6.32",
             "captain": false
           },
           "substitutes": {
-            "in": 12,
+            "in": 13,
             "out": 5,
-            "bench": 14
+            "bench": 15
           },
           "shots": {
-            "total": 30,
-            "on": 10
+            "total": 32,
+            "on": 12
           },
           "goals": {
-            "total": 1,
+            "total": 2,
             "conceded": 0,
             "assists": 7,
-            "saves": 0
+            "saves": null
           },
           "passes": {
-            "total": 269,
+            "total": 280,
             "key": 17,
-            "accuracy": 69
+            "accuracy": 68
           },
           "tackles": {
             "total": 11,
-            "blocks": 1,
+            "blocks": null,
             "interceptions": 3
           },
           "duels": {
-            "total": 241,
-            "won": 81
+            "total": 248,
+            "won": 83
           },
           "dribbles": {
-            "attempts": 38,
-            "success": 11,
+            "attempts": 40,
+            "success": 12,
             "past": null
           },
           "fouls": {
@@ -289,8 +289,8 @@
           "penalty": {
             "won": 1,
             "commited": null,
-            "scored": 0,
-            "missed": 1,
+            "scored": 1,
+            "missed": 2,
             "saved": null
           }
         }
@@ -330,22 +330,22 @@
             "season": 2026
           },
           "games": {
-            "appearences": 25,
-            "lineups": 24,
-            "minutes": 2124,
+            "appearences": 26,
+            "lineups": 25,
+            "minutes": 2213,
             "number": 24,
             "position": "Attacker",
-            "rating": "6.78",
+            "rating": "6.71",
             "captain": false
           },
           "substitutes": {
             "in": 1,
-            "out": 10,
+            "out": 11,
             "bench": 1
           },
           "shots": {
-            "total": 45,
-            "on": 21
+            "total": 43,
+            "on": 22
           },
           "goals": {
             "total": 4,
@@ -354,27 +354,27 @@
             "saves": 0
           },
           "passes": {
-            "total": 393,
-            "key": 19,
+            "total": 412,
+            "key": 18,
             "accuracy": 74
           },
           "tackles": {
-            "total": 32,
-            "blocks": 3,
-            "interceptions": 10
+            "total": 35,
+            "blocks": 0,
+            "interceptions": 11
           },
           "duels": {
-            "total": 277,
-            "won": 127
+            "total": 297,
+            "won": 133
           },
           "dribbles": {
-            "attempts": 95,
-            "success": 44,
+            "attempts": 101,
+            "success": 45,
             "past": null
           },
           "fouls": {
-            "drawn": 42,
-            "committed": 25
+            "drawn": 43,
+            "committed": 28
           },
           "cards": {
             "yellow": 3,
@@ -427,10 +427,10 @@
           "games": {
             "appearences": 23,
             "lineups": 21,
-            "minutes": 1628,
+            "minutes": 1634,
             "number": 10,
             "position": "Attacker",
-            "rating": "6.74",
+            "rating": "6.81",
             "captain": false
           },
           "substitutes": {
@@ -446,7 +446,7 @@
             "total": 3,
             "conceded": 0,
             "assists": 6,
-            "saves": 0
+            "saves": null
           },
           "passes": {
             "total": 545,
@@ -459,7 +459,7 @@
             "interceptions": 8
           },
           "duels": {
-            "total": 178,
+            "total": 179,
             "won": 63
           },
           "dribbles": {
@@ -583,6 +583,101 @@
     },
     {
       "player": {
+        "id": 351923,
+        "name": "Ó. Cortés",
+        "firstname": "Óscar Manuel",
+        "lastname": "Cortés Cortés",
+        "age": 22,
+        "birth": {
+          "date": "2003-12-03",
+          "place": "Túmaco",
+          "country": "Colombia"
+        },
+        "nationality": "Colombia",
+        "height": "176",
+        "weight": "74",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/351923.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 445,
+            "name": "Huracan",
+            "logo": "https://media.api-sports.io/football/teams/445.png"
+          },
+          "league": {
+            "id": 128,
+            "name": "Liga Profesional Argentina",
+            "country": "Argentina",
+            "logo": "https://media.api-sports.io/football/leagues/128.png",
+            "flag": "https://media.api-sports.io/flags/ar.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 26,
+            "lineups": 24,
+            "minutes": 1986,
+            "number": 7,
+            "position": "Midfielder",
+            "rating": "6.74",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 20,
+            "bench": 2
+          },
+          "shots": {
+            "total": 28,
+            "on": 13
+          },
+          "goals": {
+            "total": 3,
+            "conceded": 0,
+            "assists": 5,
+            "saves": 0
+          },
+          "passes": {
+            "total": 619,
+            "key": 37,
+            "accuracy": 77
+          },
+          "tackles": {
+            "total": 27,
+            "blocks": 2,
+            "interceptions": 15
+          },
+          "duels": {
+            "total": 257,
+            "won": 101
+          },
+          "dribbles": {
+            "attempts": 99,
+            "success": 47,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 8,
+            "committed": 19
+          },
+          "cards": {
+            "yellow": 3,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
         "id": 2561,
         "name": "D. Valdés",
         "firstname": "Diego Alfonso",
@@ -620,7 +715,7 @@
             "minutes": 910,
             "number": 10,
             "position": "Midfielder",
-            "rating": "7.06",
+            "rating": "7.07",
             "captain": false
           },
           "substitutes": {
@@ -639,7 +734,7 @@
             "saves": 0
           },
           "passes": {
-            "total": 451,
+            "total": 450,
             "key": 25,
             "accuracy": 81
           },
@@ -650,7 +745,7 @@
           },
           "duels": {
             "total": 126,
-            "won": 60
+            "won": 59
           },
           "dribbles": {
             "attempts": 36,
@@ -663,6 +758,196 @@
           },
           "cards": {
             "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 5359,
+        "name": "S. López",
+        "firstname": "Santiago",
+        "lastname": "López García",
+        "age": 28,
+        "birth": {
+          "date": "1997-12-04",
+          "place": "Mendoza",
+          "country": "Argentina"
+        },
+        "nationality": "Argentina",
+        "height": "170",
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/5359.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 449,
+            "name": "Banfield",
+            "logo": "https://media.api-sports.io/football/teams/449.png"
+          },
+          "league": {
+            "id": 128,
+            "name": "Liga Profesional Argentina",
+            "country": "Argentina",
+            "logo": "https://media.api-sports.io/football/leagues/128.png",
+            "flag": "https://media.api-sports.io/flags/ar.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 26,
+            "lineups": 24,
+            "minutes": 2149,
+            "number": 24,
+            "position": "Midfielder",
+            "rating": "6.92",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 3,
+            "bench": 2
+          },
+          "shots": {
+            "total": 7,
+            "on": 4
+          },
+          "goals": {
+            "total": 2,
+            "conceded": 0,
+            "assists": 5,
+            "saves": null
+          },
+          "passes": {
+            "total": 675,
+            "key": 27,
+            "accuracy": 75
+          },
+          "tackles": {
+            "total": 44,
+            "blocks": 6,
+            "interceptions": 29
+          },
+          "duels": {
+            "total": 183,
+            "won": 109
+          },
+          "dribbles": {
+            "attempts": 33,
+            "success": 16,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 29,
+            "committed": 13
+          },
+          "cards": {
+            "yellow": 3,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": 1,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 576,
+        "name": "E. Salvio",
+        "firstname": "Eduardo Antonio",
+        "lastname": "Salvio",
+        "age": 36,
+        "birth": {
+          "date": "1990-07-13",
+          "place": "Avellaneda",
+          "country": "Argentina"
+        },
+        "nationality": "Argentina",
+        "height": "172",
+        "weight": "68",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/576.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 446,
+            "name": "Lanus",
+            "logo": "https://media.api-sports.io/football/teams/446.png"
+          },
+          "league": {
+            "id": 128,
+            "name": "Liga Profesional Argentina",
+            "country": "Argentina",
+            "logo": "https://media.api-sports.io/football/leagues/128.png",
+            "flag": "https://media.api-sports.io/flags/ar.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 25,
+            "lineups": 20,
+            "minutes": 1709,
+            "number": 11,
+            "position": "Midfielder",
+            "rating": "6.64",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 5,
+            "out": 19,
+            "bench": 5
+          },
+          "shots": {
+            "total": 30,
+            "on": 14
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": 5,
+            "saves": 0
+          },
+          "passes": {
+            "total": 645,
+            "key": 27,
+            "accuracy": 83
+          },
+          "tackles": {
+            "total": 26,
+            "blocks": 1,
+            "interceptions": 13
+          },
+          "duels": {
+            "total": 219,
+            "won": 85
+          },
+          "dribbles": {
+            "attempts": 82,
+            "success": 33,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 19,
+            "committed": 15
+          },
+          "cards": {
+            "yellow": 1,
             "yellowred": 0,
             "red": 0
           },
@@ -710,33 +995,33 @@
             "season": 2026
           },
           "games": {
-            "appearences": 23,
+            "appearences": 25,
             "lineups": 21,
-            "minutes": 1883,
+            "minutes": 1945,
             "number": 25,
             "position": "Defender",
             "rating": "6.92",
             "captain": false
           },
           "substitutes": {
-            "in": 2,
+            "in": 4,
             "out": 1,
-            "bench": 2
+            "bench": 4
           },
           "shots": {
-            "total": 10,
+            "total": 11,
             "on": 1
           },
           "goals": {
             "total": 1,
             "conceded": 0,
             "assists": 5,
-            "saves": 0
+            "saves": null
           },
           "passes": {
-            "total": 650,
-            "key": 26,
-            "accuracy": 70
+            "total": 676,
+            "key": 27,
+            "accuracy": 69
           },
           "tackles": {
             "total": 58,
@@ -744,8 +1029,8 @@
             "interceptions": 32
           },
           "duels": {
-            "total": 242,
-            "won": 139
+            "total": 248,
+            "won": 142
           },
           "dribbles": {
             "attempts": 59,
@@ -753,11 +1038,11 @@
             "past": null
           },
           "fouls": {
-            "drawn": 24,
-            "committed": 19
+            "drawn": 25,
+            "committed": 20
           },
           "cards": {
-            "yellow": 8,
+            "yellow": 9,
             "yellowred": 0,
             "red": 1
           },
@@ -995,51 +1280,51 @@
             "season": 2026
           },
           "games": {
-            "appearences": 24,
-            "lineups": 22,
-            "minutes": 1856,
+            "appearences": 26,
+            "lineups": 24,
+            "minutes": 2031,
             "number": 27,
             "position": "Attacker",
-            "rating": "6.74",
+            "rating": "6.72",
             "captain": false
           },
           "substitutes": {
             "in": 2,
-            "out": 15,
+            "out": 16,
             "bench": 2
           },
           "shots": {
-            "total": 45,
-            "on": 21
+            "total": 48,
+            "on": 24
           },
           "goals": {
-            "total": 11,
+            "total": 13,
             "conceded": 0,
             "assists": 4,
-            "saves": 0
+            "saves": null
           },
           "passes": {
-            "total": 399,
-            "key": 17,
-            "accuracy": 68
+            "total": 428,
+            "key": 18,
+            "accuracy": 66
           },
           "tackles": {
-            "total": 8,
-            "blocks": 0,
-            "interceptions": 3
+            "total": 9,
+            "blocks": 1,
+            "interceptions": 4
           },
           "duels": {
-            "total": 243,
-            "won": 99
+            "total": 276,
+            "won": 109
           },
           "dribbles": {
-            "attempts": 17,
+            "attempts": 18,
             "success": 3,
             "past": null
           },
           "fouls": {
-            "drawn": 24,
-            "committed": 14
+            "drawn": 25,
+            "committed": 19
           },
           "cards": {
             "yellow": 1,
@@ -1050,7 +1335,7 @@
             "won": null,
             "commited": null,
             "scored": 4,
-            "missed": 0,
+            "missed": 1,
             "saved": null
           }
         }
@@ -1090,42 +1375,42 @@
             "season": 2026
           },
           "games": {
-            "appearences": 21,
-            "lineups": 18,
-            "minutes": 1714,
+            "appearences": 22,
+            "lineups": 19,
+            "minutes": 1795,
             "number": 11,
             "position": "Attacker",
-            "rating": "7.43",
+            "rating": "7.45",
             "captain": false
           },
           "substitutes": {
             "in": 3,
-            "out": 9,
+            "out": 10,
             "bench": 4
           },
           "shots": {
-            "total": 48,
-            "on": 26
+            "total": 51,
+            "on": 28
           },
           "goals": {
-            "total": 7,
+            "total": 8,
             "conceded": 0,
             "assists": 4,
-            "saves": 0
+            "saves": null
           },
           "passes": {
-            "total": 839,
-            "key": 52,
+            "total": 888,
+            "key": 53,
             "accuracy": 74
           },
           "tackles": {
-            "total": 8,
-            "blocks": 0,
+            "total": 9,
+            "blocks": null,
             "interceptions": 8
           },
           "duels": {
-            "total": 188,
-            "won": 79
+            "total": 193,
+            "won": 82
           },
           "dribbles": {
             "attempts": 103,
@@ -1133,8 +1418,8 @@
             "past": null
           },
           "fouls": {
-            "drawn": 30,
-            "committed": 9
+            "drawn": 32,
+            "committed": 10
           },
           "cards": {
             "yellow": 4,
@@ -1144,7 +1429,7 @@
           "penalty": {
             "won": 1,
             "commited": null,
-            "scored": 2,
+            "scored": 3,
             "missed": 0,
             "saved": null
           }
@@ -1185,9 +1470,9 @@
             "season": 2026
           },
           "games": {
-            "appearences": 25,
-            "lineups": 18,
-            "minutes": 1380,
+            "appearences": 26,
+            "lineups": 19,
+            "minutes": 1464,
             "number": 22,
             "position": "Attacker",
             "rating": "6.63",
@@ -1195,44 +1480,44 @@
           },
           "substitutes": {
             "in": 7,
-            "out": 15,
+            "out": 16,
             "bench": 9
           },
           "shots": {
-            "total": 45,
-            "on": 26
+            "total": 47,
+            "on": 27
           },
           "goals": {
             "total": 6,
             "conceded": 0,
             "assists": 4,
-            "saves": 0
+            "saves": null
           },
           "passes": {
-            "total": 348,
-            "key": 13,
-            "accuracy": 75
+            "total": 382,
+            "key": 14,
+            "accuracy": 76
           },
           "tackles": {
             "total": 17,
-            "blocks": 1,
-            "interceptions": 2
+            "blocks": null,
+            "interceptions": 3
           },
           "duels": {
-            "total": 118,
-            "won": 46
+            "total": 124,
+            "won": 49
           },
           "dribbles": {
-            "attempts": 20,
-            "success": 8,
+            "attempts": 22,
+            "success": 9,
             "past": null
           },
           "fouls": {
-            "drawn": 12,
-            "committed": 9
+            "drawn": 13,
+            "committed": 11
           },
           "cards": {
-            "yellow": 1,
+            "yellow": 2,
             "yellowred": 0,
             "red": 0
           },
@@ -1248,28 +1533,28 @@
     },
     {
       "player": {
-        "id": 6411,
-        "name": "M. Pellegrini",
-        "firstname": "Matías",
-        "lastname": "Pellegrini",
+        "id": 265973,
+        "name": "S. Montiel",
+        "firstname": "Santiago Gabriel",
+        "lastname": "Montiel",
         "age": 25,
         "birth": {
-          "date": "2000-03-11",
-          "place": "Magdalena",
+          "date": "2000-11-22",
+          "place": null,
           "country": "Argentina"
         },
         "nationality": "Argentina",
-        "height": "180",
-        "weight": "72",
+        "height": "166",
+        "weight": "60",
         "injured": false,
-        "photo": "https://media.api-sports.io/football/players/6411.png"
+        "photo": "https://media.api-sports.io/football/players/265973.png"
       },
       "statistics": [
         {
           "team": {
-            "id": 438,
-            "name": "Velez Sarsfield",
-            "logo": "https://media.api-sports.io/football/teams/438.png"
+            "id": 453,
+            "name": "Independiente",
+            "logo": "https://media.api-sports.io/football/teams/453.png"
           },
           "league": {
             "id": 128,
@@ -1280,54 +1565,149 @@
             "season": 2026
           },
           "games": {
-            "appearences": 20,
-            "lineups": 17,
-            "minutes": 1431,
-            "number": 11,
-            "position": "Attacker",
-            "rating": "6.72",
+            "appearences": 22,
+            "lineups": 18,
+            "minutes": 1510,
+            "number": 7,
+            "position": "Midfielder",
+            "rating": "7",
             "captain": false
           },
           "substitutes": {
-            "in": 3,
-            "out": 10,
-            "bench": 5
+            "in": 4,
+            "out": 11,
+            "bench": 4
           },
           "shots": {
-            "total": 25,
-            "on": 11
+            "total": 31,
+            "on": 18
+          },
+          "goals": {
+            "total": 4,
+            "conceded": 0,
+            "assists": 4,
+            "saves": null
+          },
+          "passes": {
+            "total": 413,
+            "key": 30,
+            "accuracy": 70
+          },
+          "tackles": {
+            "total": 22,
+            "blocks": 2,
+            "interceptions": 9
+          },
+          "duels": {
+            "total": 196,
+            "won": 100
+          },
+          "dribbles": {
+            "attempts": 75,
+            "success": 38,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 33,
+            "committed": 12
+          },
+          "cards": {
+            "yellow": 4,
+            "yellowred": 0,
+            "red": 1
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 413241,
+        "name": "N. Schelotto",
+        "firstname": "Nicolas",
+        "lastname": "Barros Schelotto",
+        "age": 19,
+        "birth": {
+          "date": "2006-09-22",
+          "place": "Humington Beach",
+          "country": "USA"
+        },
+        "nationality": "USA",
+        "height": null,
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/413241.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 434,
+            "name": "Gimnasia L.P.",
+            "logo": "https://media.api-sports.io/football/teams/434.png"
+          },
+          "league": {
+            "id": 128,
+            "name": "Liga Profesional Argentina",
+            "country": "Argentina",
+            "logo": "https://media.api-sports.io/football/leagues/128.png",
+            "flag": "https://media.api-sports.io/flags/ar.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 21,
+            "lineups": 20,
+            "minutes": 1478,
+            "number": 10,
+            "position": "Midfielder",
+            "rating": "7.14",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 18,
+            "bench": 6
+          },
+          "shots": {
+            "total": 18,
+            "on": 9
           },
           "goals": {
             "total": 3,
             "conceded": 0,
             "assists": 4,
-            "saves": 0
+            "saves": null
           },
           "passes": {
-            "total": 523,
-            "key": 25,
-            "accuracy": 72
+            "total": 758,
+            "key": 38,
+            "accuracy": 79
           },
           "tackles": {
-            "total": 38,
-            "blocks": 2,
-            "interceptions": 5
+            "total": 36,
+            "blocks": null,
+            "interceptions": 15
           },
           "duels": {
-            "total": 264,
-            "won": 123
+            "total": 152,
+            "won": 84
           },
           "dribbles": {
-            "attempts": 43,
-            "success": 18,
+            "attempts": 19,
+            "success": 7,
             "past": null
           },
           "fouls": {
-            "drawn": 24,
-            "committed": 27
+            "drawn": 30,
+            "committed": 22
           },
           "cards": {
-            "yellow": 7,
+            "yellow": 5,
             "yellowred": 0,
             "red": 0
           },
@@ -1375,33 +1755,33 @@
             "season": 2026
           },
           "games": {
-            "appearences": 19,
-            "lineups": 13,
-            "minutes": 1300,
+            "appearences": 20,
+            "lineups": 14,
+            "minutes": 1378,
             "number": 8,
             "position": "Attacker",
-            "rating": "7.05",
+            "rating": "7.1",
             "captain": false
           },
           "substitutes": {
             "in": 6,
-            "out": 6,
+            "out": 7,
             "bench": 6
           },
           "shots": {
-            "total": 41,
-            "on": 22
+            "total": 42,
+            "on": 23
           },
           "goals": {
             "total": 3,
             "conceded": 0,
             "assists": 4,
-            "saves": 0
+            "saves": null
           },
           "passes": {
-            "total": 399,
-            "key": 34,
-            "accuracy": 78
+            "total": 436,
+            "key": 37,
+            "accuracy": 79
           },
           "tackles": {
             "total": 24,
@@ -1409,400 +1789,20 @@
             "interceptions": 3
           },
           "duels": {
-            "total": 199,
-            "won": 98
+            "total": 204,
+            "won": 101
           },
           "dribbles": {
-            "attempts": 91,
-            "success": 40,
+            "attempts": 92,
+            "success": 41,
             "past": null
           },
           "fouls": {
-            "drawn": 24,
+            "drawn": 26,
             "committed": 16
           },
           "cards": {
             "yellow": 0,
-            "yellowred": 0,
-            "red": 0
-          },
-          "penalty": {
-            "won": null,
-            "commited": null,
-            "scored": 0,
-            "missed": 0,
-            "saved": null
-          }
-        }
-      ]
-    },
-    {
-      "player": {
-        "id": 5976,
-        "name": "A. Molinas",
-        "firstname": "Aaron Nicolás",
-        "lastname": "Molinas",
-        "age": 25,
-        "birth": {
-          "date": "2000-08-02",
-          "place": "Lomas del Mirador",
-          "country": "Argentina"
-        },
-        "nationality": "Argentina",
-        "height": "175",
-        "weight": "67",
-        "injured": false,
-        "photo": "https://media.api-sports.io/football/players/5976.png"
-      },
-      "statistics": [
-        {
-          "team": {
-            "id": 442,
-            "name": "Defensa Y Justicia",
-            "logo": "https://media.api-sports.io/football/teams/442.png"
-          },
-          "league": {
-            "id": 128,
-            "name": "Liga Profesional Argentina",
-            "country": "Argentina",
-            "logo": "https://media.api-sports.io/football/leagues/128.png",
-            "flag": "https://media.api-sports.io/flags/ar.svg",
-            "season": 2026
-          },
-          "games": {
-            "appearences": 15,
-            "lineups": 15,
-            "minutes": 1363,
-            "number": 10,
-            "position": "Midfielder",
-            "rating": "7.37",
-            "captain": false
-          },
-          "substitutes": {
-            "in": 0,
-            "out": 2,
-            "bench": 0
-          },
-          "shots": {
-            "total": 18,
-            "on": 8
-          },
-          "goals": {
-            "total": 3,
-            "conceded": 0,
-            "assists": 4,
-            "saves": 0
-          },
-          "passes": {
-            "total": 888,
-            "key": 32,
-            "accuracy": 86
-          },
-          "tackles": {
-            "total": 20,
-            "blocks": 5,
-            "interceptions": 10
-          },
-          "duels": {
-            "total": 91,
-            "won": 49
-          },
-          "dribbles": {
-            "attempts": 18,
-            "success": 10,
-            "past": null
-          },
-          "fouls": {
-            "drawn": 17,
-            "committed": 5
-          },
-          "cards": {
-            "yellow": 3,
-            "yellowred": 0,
-            "red": 0
-          },
-          "penalty": {
-            "won": null,
-            "commited": null,
-            "scored": 3,
-            "missed": 0,
-            "saved": null
-          }
-        }
-      ]
-    },
-    {
-      "player": {
-        "id": 351923,
-        "name": "Ó. Cortés",
-        "firstname": "Óscar Manuel",
-        "lastname": "Cortés Cortés",
-        "age": 22,
-        "birth": {
-          "date": "2003-12-03",
-          "place": "Túmaco",
-          "country": "Colombia"
-        },
-        "nationality": "Colombia",
-        "height": "176",
-        "weight": "74",
-        "injured": false,
-        "photo": "https://media.api-sports.io/football/players/351923.png"
-      },
-      "statistics": [
-        {
-          "team": {
-            "id": 445,
-            "name": "Huracan",
-            "logo": "https://media.api-sports.io/football/teams/445.png"
-          },
-          "league": {
-            "id": 128,
-            "name": "Liga Profesional Argentina",
-            "country": "Argentina",
-            "logo": "https://media.api-sports.io/football/leagues/128.png",
-            "flag": "https://media.api-sports.io/flags/ar.svg",
-            "season": 2026
-          },
-          "games": {
-            "appearences": 24,
-            "lineups": 22,
-            "minutes": 1808,
-            "number": 7,
-            "position": "Midfielder",
-            "rating": "6.74",
-            "captain": false
-          },
-          "substitutes": {
-            "in": 2,
-            "out": 19,
-            "bench": 2
-          },
-          "shots": {
-            "total": 24,
-            "on": 12
-          },
-          "goals": {
-            "total": 2,
-            "conceded": 0,
-            "assists": 4,
-            "saves": 0
-          },
-          "passes": {
-            "total": 577,
-            "key": 32,
-            "accuracy": 78
-          },
-          "tackles": {
-            "total": 24,
-            "blocks": 1,
-            "interceptions": 13
-          },
-          "duels": {
-            "total": 239,
-            "won": 95
-          },
-          "dribbles": {
-            "attempts": 93,
-            "success": 45,
-            "past": null
-          },
-          "fouls": {
-            "drawn": 8,
-            "committed": 19
-          },
-          "cards": {
-            "yellow": 3,
-            "yellowred": 0,
-            "red": 0
-          },
-          "penalty": {
-            "won": null,
-            "commited": null,
-            "scored": 0,
-            "missed": 0,
-            "saved": null
-          }
-        }
-      ]
-    },
-    {
-      "player": {
-        "id": 5359,
-        "name": "S. López",
-        "firstname": "Santiago",
-        "lastname": "López García",
-        "age": 28,
-        "birth": {
-          "date": "1997-12-04",
-          "place": "Mendoza",
-          "country": "Argentina"
-        },
-        "nationality": "Argentina",
-        "height": "170",
-        "weight": null,
-        "injured": false,
-        "photo": "https://media.api-sports.io/football/players/5359.png"
-      },
-      "statistics": [
-        {
-          "team": {
-            "id": 449,
-            "name": "Banfield",
-            "logo": "https://media.api-sports.io/football/teams/449.png"
-          },
-          "league": {
-            "id": 128,
-            "name": "Liga Profesional Argentina",
-            "country": "Argentina",
-            "logo": "https://media.api-sports.io/football/leagues/128.png",
-            "flag": "https://media.api-sports.io/flags/ar.svg",
-            "season": 2026
-          },
-          "games": {
-            "appearences": 24,
-            "lineups": 23,
-            "minutes": 2031,
-            "number": 24,
-            "position": "Midfielder",
-            "rating": "6.95",
-            "captain": false
-          },
-          "substitutes": {
-            "in": 1,
-            "out": 2,
-            "bench": 1
-          },
-          "shots": {
-            "total": 7,
-            "on": 4
-          },
-          "goals": {
-            "total": 2,
-            "conceded": 0,
-            "assists": 4,
-            "saves": 0
-          },
-          "passes": {
-            "total": 644,
-            "key": 25,
-            "accuracy": 75
-          },
-          "tackles": {
-            "total": 45,
-            "blocks": 5,
-            "interceptions": 28
-          },
-          "duels": {
-            "total": 179,
-            "won": 108
-          },
-          "dribbles": {
-            "attempts": 32,
-            "success": 16,
-            "past": null
-          },
-          "fouls": {
-            "drawn": 29,
-            "committed": 12
-          },
-          "cards": {
-            "yellow": 3,
-            "yellowred": 0,
-            "red": 0
-          },
-          "penalty": {
-            "won": null,
-            "commited": null,
-            "scored": 0,
-            "missed": 0,
-            "saved": null
-          }
-        }
-      ]
-    },
-    {
-      "player": {
-        "id": 6030,
-        "name": "R. Carrera",
-        "firstname": "Ramiro Ángel",
-        "lastname": "Carrera",
-        "age": 32,
-        "birth": {
-          "date": "1993-10-24",
-          "place": "Tolosa",
-          "country": "Argentina"
-        },
-        "nationality": "Argentina",
-        "height": "182",
-        "weight": "70",
-        "injured": false,
-        "photo": "https://media.api-sports.io/football/players/6030.png"
-      },
-      "statistics": [
-        {
-          "team": {
-            "id": 446,
-            "name": "Lanus",
-            "logo": "https://media.api-sports.io/football/teams/446.png"
-          },
-          "league": {
-            "id": 128,
-            "name": "Liga Profesional Argentina",
-            "country": "Argentina",
-            "logo": "https://media.api-sports.io/football/leagues/128.png",
-            "flag": "https://media.api-sports.io/flags/ar.svg",
-            "season": 2026
-          },
-          "games": {
-            "appearences": 22,
-            "lineups": 17,
-            "minutes": 1368,
-            "number": 23,
-            "position": "Midfielder",
-            "rating": "6.75",
-            "captain": false
-          },
-          "substitutes": {
-            "in": 5,
-            "out": 13,
-            "bench": 5
-          },
-          "shots": {
-            "total": 30,
-            "on": 11
-          },
-          "goals": {
-            "total": 2,
-            "conceded": 0,
-            "assists": 4,
-            "saves": 0
-          },
-          "passes": {
-            "total": 451,
-            "key": 18,
-            "accuracy": 66
-          },
-          "tackles": {
-            "total": 25,
-            "blocks": 7,
-            "interceptions": 7
-          },
-          "duels": {
-            "total": 193,
-            "won": 96
-          },
-          "dribbles": {
-            "attempts": 17,
-            "success": 8,
-            "past": null
-          },
-          "fouls": {
-            "drawn": 21,
-            "committed": 24
-          },
-          "cards": {
-            "yellow": 9,
             "yellowred": 0,
             "red": 0
           },
@@ -1818,28 +1818,28 @@
     },
     {
       "player": {
-        "id": 170127,
-        "name": "S. Solari",
-        "firstname": "Santiago Germán",
-        "lastname": "Solari Ferreyra",
-        "age": 27,
+        "id": 6411,
+        "name": "M. Pellegrini",
+        "firstname": "Matías",
+        "lastname": "Pellegrini",
+        "age": 25,
         "birth": {
-          "date": "1998-01-19",
-          "place": "Arizona",
+          "date": "2000-03-11",
+          "place": "Magdalena",
           "country": "Argentina"
         },
         "nationality": "Argentina",
-        "height": "178",
-        "weight": "74",
+        "height": "180",
+        "weight": "72",
         "injured": false,
-        "photo": "https://media.api-sports.io/football/players/170127.png"
+        "photo": "https://media.api-sports.io/football/players/6411.png"
       },
       "statistics": [
         {
           "team": {
-            "id": 436,
-            "name": "Racing Club",
-            "logo": "https://media.api-sports.io/football/teams/436.png"
+            "id": 438,
+            "name": "Velez Sarsfield",
+            "logo": "https://media.api-sports.io/football/teams/438.png"
           },
           "league": {
             "id": 128,
@@ -1851,41 +1851,41 @@
           },
           "games": {
             "appearences": 20,
-            "lineups": 16,
-            "minutes": 1349,
-            "number": 28,
+            "lineups": 17,
+            "minutes": 1436,
+            "number": 11,
             "position": "Attacker",
-            "rating": "6.79",
+            "rating": "6.71",
             "captain": false
           },
           "substitutes": {
-            "in": 4,
-            "out": 11,
-            "bench": 6
+            "in": 3,
+            "out": 10,
+            "bench": 5
           },
           "shots": {
-            "total": 18,
-            "on": 8
+            "total": 25,
+            "on": 11
           },
           "goals": {
-            "total": 2,
+            "total": 3,
             "conceded": 0,
             "assists": 4,
-            "saves": null
+            "saves": 0
           },
           "passes": {
-            "total": 336,
-            "key": 19,
-            "accuracy": 65
+            "total": 522,
+            "key": 25,
+            "accuracy": 72
           },
           "tackles": {
-            "total": 19,
-            "blocks": 1,
-            "interceptions": 3
+            "total": 38,
+            "blocks": 2,
+            "interceptions": 5
           },
           "duels": {
-            "total": 158,
-            "won": 63
+            "total": 262,
+            "won": 123
           },
           "dribbles": {
             "attempts": 41,
@@ -1893,17 +1893,17 @@
             "past": null
           },
           "fouls": {
-            "drawn": 8,
-            "committed": 18
+            "drawn": 24,
+            "committed": 27
           },
           "cards": {
-            "yellow": 3,
+            "yellow": 7,
             "yellowred": 0,
             "red": 0
           },
           "penalty": {
             "won": null,
-            "commited": 1,
+            "commited": null,
             "scored": 0,
             "missed": 0,
             "saved": null

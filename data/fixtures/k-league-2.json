@@ -14434,7 +14434,7 @@
     {
       "fixture": {
         "id": 1510449,
-        "referee": null,
+        "referee": "M. Ko",
         "timezone": "UTC",
         "date": "2026-09-13T10:00:00+00:00",
         "timestamp": 1789293600,
@@ -14504,7 +14504,7 @@
     {
       "fixture": {
         "id": 1510450,
-        "referee": null,
+        "referee": "Y. Hyo Young",
         "timezone": "UTC",
         "date": "2026-09-13T10:00:00+00:00",
         "timestamp": 1789293600,
@@ -14579,8 +14579,8 @@
         "date": "2026-09-19T07:30:00+00:00",
         "timestamp": 1789803000,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1789803000,
+          "second": 1789806600
         },
         "venue": {
           "id": 2841,
@@ -14588,10 +14588,10 @@
           "city": "Asan"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 6
         }
       },
       "league": {
@@ -14609,27 +14609,27 @@
           "id": 2753,
           "name": "Asan Mugunghwa",
           "logo": "https://media.api-sports.io/football/teams/2753.png",
-          "winner": null
+          "winner": true
         },
         "away": {
           "id": 7060,
           "name": "Cheonan City",
           "logo": "https://media.api-sports.io/football/teams/7060.png",
-          "winner": null
+          "winner": false
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 3,
+        "away": 1
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 0
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 3,
+          "away": 1
         },
         "extratime": {
           "home": null,
@@ -14649,8 +14649,8 @@
         "date": "2026-09-19T07:30:00+00:00",
         "timestamp": 1789803000,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1789803000,
+          "second": 1789806600
         },
         "venue": {
           "id": null,
@@ -14658,10 +14658,10 @@
           "city": "Gwangyang"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 6
         }
       },
       "league": {
@@ -14679,27 +14679,27 @@
           "id": 2760,
           "name": "Jeonnam Dragons",
           "logo": "https://media.api-sports.io/football/teams/2760.png",
-          "winner": null
+          "winner": false
         },
         "away": {
           "id": 2756,
           "name": "Suwon City FC",
           "logo": "https://media.api-sports.io/football/teams/2756.png",
-          "winner": null
+          "winner": true
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 0,
+        "away": 3
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 1
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 3
         },
         "extratime": {
           "home": null,
@@ -14719,8 +14719,8 @@
         "date": "2026-09-19T10:00:00+00:00",
         "timestamp": 1789812000,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1789812000,
+          "second": 1789815600
         },
         "venue": {
           "id": 19536,
@@ -14728,10 +14728,10 @@
           "city": "Seoul"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 15
         }
       },
       "league": {
@@ -14749,27 +14749,27 @@
           "id": 2749,
           "name": "Seoul E-Land FC",
           "logo": "https://media.api-sports.io/football/teams/2749.png",
-          "winner": null
+          "winner": true
         },
         "away": {
           "id": 2747,
           "name": "Daegu FC",
           "logo": "https://media.api-sports.io/football/teams/2747.png",
-          "winner": null
+          "winner": false
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 2,
+        "away": 1
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 1
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 1
         },
         "extratime": {
           "home": null,
@@ -14789,8 +14789,8 @@
         "date": "2026-09-19T10:00:00+00:00",
         "timestamp": 1789812000,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1789812000,
+          "second": 1789815600
         },
         "venue": {
           "id": null,
@@ -14798,10 +14798,10 @@
           "city": "Gimpo"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 5
         }
       },
       "league": {
@@ -14819,27 +14819,27 @@
           "id": 7078,
           "name": "Gimpo Citizen",
           "logo": "https://media.api-sports.io/football/teams/7078.png",
-          "winner": null
+          "winner": true
         },
         "away": {
           "id": 2752,
           "name": "Busan I Park",
           "logo": "https://media.api-sports.io/football/teams/2752.png",
-          "winner": null
+          "winner": false
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 1,
+        "away": 0
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 0
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 0
         },
         "extratime": {
           "home": null,
@@ -14859,8 +14859,8 @@
         "date": "2026-09-20T07:30:00+00:00",
         "timestamp": 1789889400,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1789889400,
+          "second": 1789893000
         },
         "venue": {
           "id": 1901,
@@ -14868,10 +14868,10 @@
           "city": "Ansan"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 10
         }
       },
       "league": {
@@ -14889,27 +14889,27 @@
           "id": 2758,
           "name": "Ansan Greeners",
           "logo": "https://media.api-sports.io/football/teams/2758.png",
-          "winner": null
+          "winner": false
         },
         "away": {
           "id": 7061,
           "name": "Cheongju",
           "logo": "https://media.api-sports.io/football/teams/7061.png",
-          "winner": null
+          "winner": true
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 2,
+        "away": 3
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 1
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 3
         },
         "extratime": {
           "home": null,
@@ -14929,8 +14929,8 @@
         "date": "2026-09-20T07:30:00+00:00",
         "timestamp": 1789889400,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1789889400,
+          "second": 1789893000
         },
         "venue": {
           "id": 22429,
@@ -14938,10 +14938,10 @@
           "city": "Yongin"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 7
         }
       },
       "league": {
@@ -14969,17 +14969,17 @@
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 0,
+        "away": 0
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         },
         "extratime": {
           "home": null,
@@ -14999,8 +14999,8 @@
         "date": "2026-09-20T10:00:00+00:00",
         "timestamp": 1789898400,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1789898400,
+          "second": 1789902000
         },
         "venue": {
           "id": null,
@@ -15008,10 +15008,10 @@
           "city": "Seongnam"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 7
         }
       },
       "league": {
@@ -15039,17 +15039,17 @@
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 2,
+        "away": 2
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 1
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 2
         },
         "extratime": {
           "home": null,
@@ -15069,8 +15069,8 @@
         "date": "2026-09-20T10:00:00+00:00",
         "timestamp": 1789898400,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1789898400,
+          "second": 1789902000
         },
         "venue": {
           "id": null,
@@ -15078,10 +15078,10 @@
           "city": null
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 8
         }
       },
       "league": {
@@ -15099,27 +15099,27 @@
           "id": 7076,
           "name": "Gimhae City",
           "logo": "https://media.api-sports.io/football/teams/7076.png",
-          "winner": null
+          "winner": false
         },
         "away": {
           "id": 7098,
           "name": "Paju Citizen",
           "logo": "https://media.api-sports.io/football/teams/7098.png",
-          "winner": null
+          "winner": true
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 0,
+        "away": 2
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 1
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 2
         },
         "extratime": {
           "home": null,

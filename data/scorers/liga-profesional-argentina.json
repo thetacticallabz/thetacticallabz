@@ -45,12 +45,12 @@
             "season": 2026
           },
           "games": {
-            "appearences": 26,
-            "lineups": 26,
-            "minutes": 2311,
+            "appearences": 27,
+            "lineups": 27,
+            "minutes": 2407,
             "number": 25,
             "position": "Attacker",
-            "rating": "6.95",
+            "rating": "6.96",
             "captain": false
           },
           "substitutes": {
@@ -59,140 +59,45 @@
             "bench": 0
           },
           "shots": {
-            "total": 57,
+            "total": 61,
             "on": 32
           },
           "goals": {
             "total": 14,
             "conceded": 0,
             "assists": 1,
-            "saves": 0
+            "saves": null
           },
           "passes": {
-            "total": 588,
-            "key": 32,
+            "total": 609,
+            "key": 34,
             "accuracy": 76
           },
           "tackles": {
-            "total": 17,
-            "blocks": 5,
+            "total": 19,
+            "blocks": 4,
             "interceptions": 3
           },
           "duels": {
-            "total": 313,
-            "won": 116
+            "total": 333,
+            "won": 127
           },
           "dribbles": {
-            "attempts": 46,
+            "attempts": 47,
             "success": 17,
             "past": null
           },
           "fouls": {
-            "drawn": 34,
-            "committed": 44
+            "drawn": 37,
+            "committed": 46
           },
           "cards": {
-            "yellow": 4,
+            "yellow": 5,
             "yellowred": 0,
             "red": 1
           },
           "penalty": {
             "won": null,
-            "commited": null,
-            "scored": 2,
-            "missed": 0,
-            "saved": null
-          }
-        }
-      ]
-    },
-    {
-      "player": {
-        "id": 440074,
-        "name": "A. Módica",
-        "firstname": "Agustín Ignacio",
-        "lastname": "Módica",
-        "age": 22,
-        "birth": {
-          "date": "2003-01-12",
-          "place": null,
-          "country": "Italy"
-        },
-        "nationality": "Italy",
-        "height": null,
-        "weight": null,
-        "injured": false,
-        "photo": "https://media.api-sports.io/football/players/440074.png"
-      },
-      "statistics": [
-        {
-          "team": {
-            "id": 1066,
-            "name": "Gimnasia M.",
-            "logo": "https://media.api-sports.io/football/teams/1066.png"
-          },
-          "league": {
-            "id": 128,
-            "name": "Liga Profesional Argentina",
-            "country": "Argentina",
-            "logo": "https://media.api-sports.io/football/leagues/128.png",
-            "flag": "https://media.api-sports.io/flags/ar.svg",
-            "season": 2026
-          },
-          "games": {
-            "appearences": 21,
-            "lineups": 18,
-            "minutes": 1485,
-            "number": 29,
-            "position": "Attacker",
-            "rating": "7.08",
-            "captain": false
-          },
-          "substitutes": {
-            "in": 3,
-            "out": 14,
-            "bench": 3
-          },
-          "shots": {
-            "total": 37,
-            "on": 22
-          },
-          "goals": {
-            "total": 12,
-            "conceded": 0,
-            "assists": 0,
-            "saves": 0
-          },
-          "passes": {
-            "total": 229,
-            "key": 7,
-            "accuracy": 69
-          },
-          "tackles": {
-            "total": 13,
-            "blocks": 1,
-            "interceptions": 4
-          },
-          "duels": {
-            "total": 245,
-            "won": 100
-          },
-          "dribbles": {
-            "attempts": 46,
-            "success": 22,
-            "past": null
-          },
-          "fouls": {
-            "drawn": 26,
-            "committed": 29
-          },
-          "cards": {
-            "yellow": 5,
-            "yellowred": 0,
-            "red": 0
-          },
-          "penalty": {
-            "won": 1,
             "commited": null,
             "scored": 2,
             "missed": 0,
@@ -235,9 +140,9 @@
             "season": 2026
           },
           "games": {
-            "appearences": 23,
-            "lineups": 23,
-            "minutes": 1994,
+            "appearences": 25,
+            "lineups": 25,
+            "minutes": 2172,
             "number": 9,
             "position": "Attacker",
             "rating": "6.81",
@@ -245,41 +150,41 @@
           },
           "substitutes": {
             "in": 0,
-            "out": 9,
+            "out": 10,
             "bench": 0
           },
           "shots": {
-            "total": 39,
-            "on": 25
+            "total": 43,
+            "on": 27
           },
           "goals": {
-            "total": 12,
+            "total": 13,
             "conceded": 0,
             "assists": 0,
             "saves": 0
           },
           "passes": {
-            "total": 271,
-            "key": 13,
-            "accuracy": 60
+            "total": 290,
+            "key": 14,
+            "accuracy": 59
           },
           "tackles": {
-            "total": 11,
+            "total": 13,
             "blocks": 3,
             "interceptions": 1
           },
           "duels": {
-            "total": 235,
-            "won": 87
+            "total": 268,
+            "won": 97
           },
           "dribbles": {
-            "attempts": 28,
-            "success": 7,
+            "attempts": 30,
+            "success": 8,
             "past": null
           },
           "fouls": {
-            "drawn": 17,
-            "committed": 47
+            "drawn": 19,
+            "committed": 51
           },
           "cards": {
             "yellow": 11,
@@ -290,6 +195,196 @@
             "won": 1,
             "commited": null,
             "scored": 3,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 70638,
+        "name": "J. Marabel",
+        "firstname": "Junior Osvaldo",
+        "lastname": "Marabel Jara",
+        "age": 27,
+        "birth": {
+          "date": "1998-03-26",
+          "place": null,
+          "country": "Paraguay"
+        },
+        "nationality": "Paraguay",
+        "height": null,
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/70638.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 474,
+            "name": "Sarmiento Junin",
+            "logo": "https://media.api-sports.io/football/teams/474.png"
+          },
+          "league": {
+            "id": 128,
+            "name": "Liga Profesional Argentina",
+            "country": "Argentina",
+            "logo": "https://media.api-sports.io/football/leagues/128.png",
+            "flag": "https://media.api-sports.io/flags/ar.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 26,
+            "lineups": 24,
+            "minutes": 2031,
+            "number": 27,
+            "position": "Attacker",
+            "rating": "6.72",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 16,
+            "bench": 2
+          },
+          "shots": {
+            "total": 48,
+            "on": 24
+          },
+          "goals": {
+            "total": 13,
+            "conceded": 0,
+            "assists": 4,
+            "saves": null
+          },
+          "passes": {
+            "total": 428,
+            "key": 18,
+            "accuracy": 66
+          },
+          "tackles": {
+            "total": 9,
+            "blocks": 1,
+            "interceptions": 4
+          },
+          "duels": {
+            "total": 276,
+            "won": 109
+          },
+          "dribbles": {
+            "attempts": 18,
+            "success": 3,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 25,
+            "committed": 19
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 4,
+            "missed": 1,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 440074,
+        "name": "A. Módica",
+        "firstname": "Agustín Ignacio",
+        "lastname": "Módica",
+        "age": 22,
+        "birth": {
+          "date": "2003-01-12",
+          "place": null,
+          "country": "Italy"
+        },
+        "nationality": "Italy",
+        "height": null,
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/440074.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 1066,
+            "name": "Gimnasia M.",
+            "logo": "https://media.api-sports.io/football/teams/1066.png"
+          },
+          "league": {
+            "id": 128,
+            "name": "Liga Profesional Argentina",
+            "country": "Argentina",
+            "logo": "https://media.api-sports.io/football/leagues/128.png",
+            "flag": "https://media.api-sports.io/flags/ar.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 22,
+            "lineups": 19,
+            "minutes": 1580,
+            "number": 29,
+            "position": "Attacker",
+            "rating": "7.04",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 3,
+            "out": 14,
+            "bench": 3
+          },
+          "shots": {
+            "total": 40,
+            "on": 22
+          },
+          "goals": {
+            "total": 12,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 239,
+            "key": 7,
+            "accuracy": 69
+          },
+          "tackles": {
+            "total": 13,
+            "blocks": 1,
+            "interceptions": 4
+          },
+          "duels": {
+            "total": 262,
+            "won": 105
+          },
+          "dribbles": {
+            "attempts": 48,
+            "success": 23,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 27,
+            "committed": 31
+          },
+          "cards": {
+            "yellow": 6,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": 1,
+            "commited": null,
+            "scored": 2,
             "missed": 0,
             "saved": null
           }
@@ -393,101 +488,6 @@
     },
     {
       "player": {
-        "id": 70638,
-        "name": "J. Marabel",
-        "firstname": "Junior Osvaldo",
-        "lastname": "Marabel Jara",
-        "age": 27,
-        "birth": {
-          "date": "1998-03-26",
-          "place": null,
-          "country": "Paraguay"
-        },
-        "nationality": "Paraguay",
-        "height": null,
-        "weight": null,
-        "injured": false,
-        "photo": "https://media.api-sports.io/football/players/70638.png"
-      },
-      "statistics": [
-        {
-          "team": {
-            "id": 474,
-            "name": "Sarmiento Junin",
-            "logo": "https://media.api-sports.io/football/teams/474.png"
-          },
-          "league": {
-            "id": 128,
-            "name": "Liga Profesional Argentina",
-            "country": "Argentina",
-            "logo": "https://media.api-sports.io/football/leagues/128.png",
-            "flag": "https://media.api-sports.io/flags/ar.svg",
-            "season": 2026
-          },
-          "games": {
-            "appearences": 24,
-            "lineups": 22,
-            "minutes": 1856,
-            "number": 27,
-            "position": "Attacker",
-            "rating": "6.74",
-            "captain": false
-          },
-          "substitutes": {
-            "in": 2,
-            "out": 15,
-            "bench": 2
-          },
-          "shots": {
-            "total": 45,
-            "on": 21
-          },
-          "goals": {
-            "total": 11,
-            "conceded": 0,
-            "assists": 4,
-            "saves": 0
-          },
-          "passes": {
-            "total": 399,
-            "key": 17,
-            "accuracy": 68
-          },
-          "tackles": {
-            "total": 8,
-            "blocks": 0,
-            "interceptions": 3
-          },
-          "duels": {
-            "total": 243,
-            "won": 99
-          },
-          "dribbles": {
-            "attempts": 17,
-            "success": 3,
-            "past": null
-          },
-          "fouls": {
-            "drawn": 24,
-            "committed": 14
-          },
-          "cards": {
-            "yellow": 1,
-            "yellowred": 0,
-            "red": 0
-          },
-          "penalty": {
-            "won": null,
-            "commited": null,
-            "scored": 4,
-            "missed": 0,
-            "saved": null
-          }
-        }
-      ]
-    },
-    {
-      "player": {
         "id": 95460,
         "name": "A. Arce",
         "firstname": "Alex Adrián",
@@ -522,7 +522,7 @@
           "games": {
             "appearences": 19,
             "lineups": 11,
-            "minutes": 1207,
+            "minutes": 1213,
             "number": 9,
             "position": "Attacker",
             "rating": "6.97",
@@ -534,28 +534,28 @@
             "bench": 8
           },
           "shots": {
-            "total": 38,
+            "total": 35,
             "on": 17
           },
           "goals": {
             "total": 9,
             "conceded": 0,
             "assists": 1,
-            "saves": 0
+            "saves": null
           },
           "passes": {
-            "total": 307,
-            "key": 20,
-            "accuracy": 65
+            "total": 308,
+            "key": 19,
+            "accuracy": 64
           },
           "tackles": {
             "total": 10,
-            "blocks": 5,
+            "blocks": 2,
             "interceptions": 1
           },
           "duels": {
             "total": 230,
-            "won": 106
+            "won": 109
           },
           "dribbles": {
             "attempts": 16,
@@ -620,7 +620,7 @@
             "minutes": 1639,
             "number": 43,
             "position": "Attacker",
-            "rating": "6.71",
+            "rating": "6.7",
             "captain": false
           },
           "substitutes": {
@@ -636,7 +636,7 @@
             "total": 8,
             "conceded": 0,
             "assists": 0,
-            "saves": 0
+            "saves": null
           },
           "passes": {
             "total": 200,
@@ -645,7 +645,7 @@
           },
           "tackles": {
             "total": 6,
-            "blocks": 0,
+            "blocks": null,
             "interceptions": 3
           },
           "duels": {
@@ -670,6 +670,101 @@
             "won": null,
             "commited": null,
             "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 266,
+        "name": "Á. Di María",
+        "firstname": "Ángel Fabián",
+        "lastname": "Di María Hernández",
+        "age": 38,
+        "birth": {
+          "date": "1988-02-14",
+          "place": "Rosario",
+          "country": "Argentina"
+        },
+        "nationality": "Argentina",
+        "height": "178",
+        "weight": "75",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/266.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 437,
+            "name": "Rosario Central",
+            "logo": "https://media.api-sports.io/football/teams/437.png"
+          },
+          "league": {
+            "id": 128,
+            "name": "Liga Profesional Argentina",
+            "country": "Argentina",
+            "logo": "https://media.api-sports.io/football/leagues/128.png",
+            "flag": "https://media.api-sports.io/flags/ar.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 22,
+            "lineups": 19,
+            "minutes": 1795,
+            "number": 11,
+            "position": "Attacker",
+            "rating": "7.45",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 3,
+            "out": 10,
+            "bench": 4
+          },
+          "shots": {
+            "total": 51,
+            "on": 28
+          },
+          "goals": {
+            "total": 8,
+            "conceded": 0,
+            "assists": 4,
+            "saves": null
+          },
+          "passes": {
+            "total": 888,
+            "key": 53,
+            "accuracy": 74
+          },
+          "tackles": {
+            "total": 9,
+            "blocks": null,
+            "interceptions": 8
+          },
+          "duels": {
+            "total": 193,
+            "won": 82
+          },
+          "dribbles": {
+            "attempts": 103,
+            "success": 41,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 32,
+            "committed": 10
+          },
+          "cards": {
+            "yellow": 4,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": 1,
+            "commited": null,
+            "scored": 3,
             "missed": 0,
             "saved": null
           }
@@ -710,18 +805,18 @@
             "season": 2026
           },
           "games": {
-            "appearences": 20,
+            "appearences": 22,
             "lineups": 19,
-            "minutes": 1474,
+            "minutes": 1502,
             "number": 32,
             "position": "Attacker",
-            "rating": "6.68",
+            "rating": "6.64",
             "captain": false
           },
           "substitutes": {
-            "in": 1,
+            "in": 3,
             "out": 16,
-            "bench": 1
+            "bench": 3
           },
           "shots": {
             "total": 22,
@@ -731,30 +826,30 @@
             "total": 8,
             "conceded": 0,
             "assists": 1,
-            "saves": 0
+            "saves": null
           },
           "passes": {
-            "total": 282,
-            "key": 10,
-            "accuracy": 76
+            "total": 289,
+            "key": 11,
+            "accuracy": 77
           },
           "tackles": {
-            "total": 3,
-            "blocks": 1,
+            "total": 4,
+            "blocks": null,
             "interceptions": 3
           },
           "duels": {
-            "total": 76,
-            "won": 26
+            "total": 80,
+            "won": 27
           },
           "dribbles": {
-            "attempts": 9,
+            "attempts": 10,
             "success": 5,
             "past": null
           },
           "fouls": {
             "drawn": 8,
-            "committed": 19
+            "committed": 20
           },
           "cards": {
             "yellow": 1,
@@ -805,12 +900,12 @@
             "season": 2026
           },
           "games": {
-            "appearences": 24,
-            "lineups": 22,
-            "minutes": 1979,
+            "appearences": 25,
+            "lineups": 23,
+            "minutes": 2069,
             "number": 29,
             "position": "Attacker",
-            "rating": "6.78",
+            "rating": "6.73",
             "captain": false
           },
           "substitutes": {
@@ -819,19 +914,19 @@
             "bench": 2
           },
           "shots": {
-            "total": 41,
+            "total": 43,
             "on": 19
           },
           "goals": {
             "total": 7,
             "conceded": 0,
             "assists": 3,
-            "saves": 0
+            "saves": null
           },
           "passes": {
-            "total": 356,
+            "total": 371,
             "key": 21,
-            "accuracy": 63
+            "accuracy": 64
           },
           "tackles": {
             "total": 17,
@@ -839,8 +934,8 @@
             "interceptions": 7
           },
           "duels": {
-            "total": 215,
-            "won": 97
+            "total": 223,
+            "won": 98
           },
           "dribbles": {
             "attempts": 22,
@@ -848,8 +943,8 @@
             "past": null
           },
           "fouls": {
-            "drawn": 39,
-            "committed": 26
+            "drawn": 38,
+            "committed": 28
           },
           "cards": {
             "yellow": 4,
@@ -963,28 +1058,28 @@
     },
     {
       "player": {
-        "id": 266,
-        "name": "Á. Di María",
-        "firstname": "Ángel Fabián",
-        "lastname": "Di María Hernández",
-        "age": 38,
+        "id": 59306,
+        "name": "A. Auzmendi",
+        "firstname": "Agustín",
+        "lastname": "Auzmendi",
+        "age": 28,
         "birth": {
-          "date": "1988-02-14",
-          "place": "Rosario",
+          "date": "1997-02-01",
+          "place": null,
           "country": "Argentina"
         },
         "nationality": "Argentina",
-        "height": "178",
-        "weight": "75",
+        "height": "181",
+        "weight": null,
         "injured": false,
-        "photo": "https://media.api-sports.io/football/players/266.png"
+        "photo": "https://media.api-sports.io/football/players/59306.png"
       },
       "statistics": [
         {
           "team": {
-            "id": 437,
-            "name": "Rosario Central",
-            "logo": "https://media.api-sports.io/football/teams/437.png"
+            "id": 434,
+            "name": "Gimnasia L.P.",
+            "logo": "https://media.api-sports.io/football/teams/434.png"
           },
           "league": {
             "id": 128,
@@ -995,61 +1090,61 @@
             "season": 2026
           },
           "games": {
-            "appearences": 21,
-            "lineups": 18,
-            "minutes": 1714,
-            "number": 11,
+            "appearences": 28,
+            "lineups": 16,
+            "minutes": 1591,
+            "number": 29,
             "position": "Attacker",
-            "rating": "7.43",
+            "rating": "6.83",
             "captain": false
           },
           "substitutes": {
-            "in": 3,
-            "out": 9,
-            "bench": 4
+            "in": 12,
+            "out": 10,
+            "bench": 12
           },
           "shots": {
-            "total": 48,
-            "on": 26
+            "total": 36,
+            "on": 19
           },
           "goals": {
             "total": 7,
             "conceded": 0,
-            "assists": 4,
-            "saves": 0
+            "assists": 3,
+            "saves": null
           },
           "passes": {
-            "total": 839,
-            "key": 52,
-            "accuracy": 74
+            "total": 349,
+            "key": 21,
+            "accuracy": 61
           },
           "tackles": {
-            "total": 8,
-            "blocks": 0,
-            "interceptions": 8
+            "total": 16,
+            "blocks": 4,
+            "interceptions": 6
           },
           "duels": {
-            "total": 188,
-            "won": 79
+            "total": 242,
+            "won": 114
           },
           "dribbles": {
-            "attempts": 103,
-            "success": 41,
+            "attempts": 22,
+            "success": 9,
             "past": null
           },
           "fouls": {
-            "drawn": 30,
-            "committed": 9
+            "drawn": 38,
+            "committed": 19
           },
           "cards": {
-            "yellow": 4,
+            "yellow": 2,
             "yellowred": 0,
             "red": 0
           },
           "penalty": {
             "won": 1,
             "commited": null,
-            "scored": 2,
+            "scored": 1,
             "missed": 0,
             "saved": null
           }
@@ -1248,6 +1343,101 @@
     },
     {
       "player": {
+        "id": 265912,
+        "name": "T. Galván",
+        "firstname": "Tomás Ezequiel",
+        "lastname": "Galván",
+        "age": 25,
+        "birth": {
+          "date": "2000-04-11",
+          "place": null,
+          "country": "Argentina"
+        },
+        "nationality": "Argentina",
+        "height": "167",
+        "weight": "61",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/265912.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 435,
+            "name": "River Plate",
+            "logo": "https://media.api-sports.io/football/teams/435.png"
+          },
+          "league": {
+            "id": 128,
+            "name": "Liga Profesional Argentina",
+            "country": "Argentina",
+            "logo": "https://media.api-sports.io/football/leagues/128.png",
+            "flag": "https://media.api-sports.io/flags/ar.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 29,
+            "lineups": 27,
+            "minutes": 2140,
+            "number": 26,
+            "position": "Midfielder",
+            "rating": "7.05",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 19,
+            "bench": 3
+          },
+          "shots": {
+            "total": 25,
+            "on": 15
+          },
+          "goals": {
+            "total": 6,
+            "conceded": 0,
+            "assists": 3,
+            "saves": null
+          },
+          "passes": {
+            "total": 982,
+            "key": 35,
+            "accuracy": 87
+          },
+          "tackles": {
+            "total": 44,
+            "blocks": 1,
+            "interceptions": 18
+          },
+          "duels": {
+            "total": 232,
+            "won": 127
+          },
+          "dribbles": {
+            "attempts": 53,
+            "success": 18,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 53,
+            "committed": 22
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
         "id": 51789,
         "name": "M. Méndez",
         "firstname": "Mauro Andrés",
@@ -1380,7 +1570,7 @@
             "minutes": 1338,
             "number": 16,
             "position": "Attacker",
-            "rating": "6.11",
+            "rating": "6.39",
             "captain": false
           },
           "substitutes": {
@@ -1399,7 +1589,7 @@
             "saves": 0
           },
           "passes": {
-            "total": 353,
+            "total": 354,
             "key": 22,
             "accuracy": 76
           },
@@ -1533,6 +1723,101 @@
     },
     {
       "player": {
+        "id": 119683,
+        "name": "G. Cerato",
+        "firstname": "Giuliano",
+        "lastname": "Cerato",
+        "age": 27,
+        "birth": {
+          "date": "1998-06-10",
+          "place": "Río Cuarto",
+          "country": "Argentina"
+        },
+        "nationality": "Argentina",
+        "height": "170",
+        "weight": "65",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/119683.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 478,
+            "name": "Instituto Cordoba",
+            "logo": "https://media.api-sports.io/football/teams/478.png"
+          },
+          "league": {
+            "id": 128,
+            "name": "Liga Profesional Argentina",
+            "country": "Argentina",
+            "logo": "https://media.api-sports.io/football/leagues/128.png",
+            "flag": "https://media.api-sports.io/flags/ar.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 26,
+            "lineups": 26,
+            "minutes": 2351,
+            "number": 44,
+            "position": "Midfielder",
+            "rating": "7.28",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 3,
+            "bench": 0
+          },
+          "shots": {
+            "total": 17,
+            "on": 13
+          },
+          "goals": {
+            "total": 6,
+            "conceded": 0,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 889,
+            "key": 39,
+            "accuracy": 64
+          },
+          "tackles": {
+            "total": 55,
+            "blocks": 5,
+            "interceptions": 25
+          },
+          "duels": {
+            "total": 176,
+            "won": 90
+          },
+          "dribbles": {
+            "attempts": 17,
+            "success": 10,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 7,
+            "committed": 23
+          },
+          "cards": {
+            "yellow": 7,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
         "id": 524475,
         "name": "Tiziano Perrota",
         "firstname": null,
@@ -1619,291 +1904,6 @@
           "penalty": {
             "won": null,
             "commited": 1,
-            "scored": 0,
-            "missed": 0,
-            "saved": null
-          }
-        }
-      ]
-    },
-    {
-      "player": {
-        "id": 2473,
-        "name": "M. Lanzini",
-        "firstname": "Manuel",
-        "lastname": "Lanzini",
-        "age": 32,
-        "birth": {
-          "date": "1993-02-15",
-          "place": "Ituzaingó",
-          "country": "Argentina"
-        },
-        "nationality": "Argentina",
-        "height": "167",
-        "weight": "59",
-        "injured": false,
-        "photo": "https://media.api-sports.io/football/players/2473.png"
-      },
-      "statistics": [
-        {
-          "team": {
-            "id": 438,
-            "name": "Velez Sarsfield",
-            "logo": "https://media.api-sports.io/football/teams/438.png"
-          },
-          "league": {
-            "id": 128,
-            "name": "Liga Profesional Argentina",
-            "country": "Argentina",
-            "logo": "https://media.api-sports.io/football/leagues/128.png",
-            "flag": "https://media.api-sports.io/flags/ar.svg",
-            "season": 2026
-          },
-          "games": {
-            "appearences": 26,
-            "lineups": 24,
-            "minutes": 1987,
-            "number": 22,
-            "position": "Midfielder",
-            "rating": "7.05",
-            "captain": false
-          },
-          "substitutes": {
-            "in": 2,
-            "out": 20,
-            "bench": 2
-          },
-          "shots": {
-            "total": 32,
-            "on": 16
-          },
-          "goals": {
-            "total": 6,
-            "conceded": 0,
-            "assists": 0,
-            "saves": 0
-          },
-          "passes": {
-            "total": 989,
-            "key": 34,
-            "accuracy": 83
-          },
-          "tackles": {
-            "total": 22,
-            "blocks": 1,
-            "interceptions": 12
-          },
-          "duels": {
-            "total": 220,
-            "won": 114
-          },
-          "dribbles": {
-            "attempts": 58,
-            "success": 28,
-            "past": null
-          },
-          "fouls": {
-            "drawn": 58,
-            "committed": 17
-          },
-          "cards": {
-            "yellow": 3,
-            "yellowred": 0,
-            "red": 0
-          },
-          "penalty": {
-            "won": null,
-            "commited": null,
-            "scored": 0,
-            "missed": 0,
-            "saved": null
-          }
-        }
-      ]
-    },
-    {
-      "player": {
-        "id": 1222,
-        "name": "S. Driussi",
-        "firstname": "Sebastián",
-        "lastname": "Driussi",
-        "age": 29,
-        "birth": {
-          "date": "1996-02-09",
-          "place": "San Justo",
-          "country": "Argentina"
-        },
-        "nationality": "Argentina",
-        "height": "179",
-        "weight": "80",
-        "injured": false,
-        "photo": "https://media.api-sports.io/football/players/1222.png"
-      },
-      "statistics": [
-        {
-          "team": {
-            "id": 435,
-            "name": "River Plate",
-            "logo": "https://media.api-sports.io/football/teams/435.png"
-          },
-          "league": {
-            "id": 128,
-            "name": "Liga Profesional Argentina",
-            "country": "Argentina",
-            "logo": "https://media.api-sports.io/football/leagues/128.png",
-            "flag": "https://media.api-sports.io/flags/ar.svg",
-            "season": 2026
-          },
-          "games": {
-            "appearences": 19,
-            "lineups": 18,
-            "minutes": 1278,
-            "number": 9,
-            "position": "Attacker",
-            "rating": "6.72",
-            "captain": false
-          },
-          "substitutes": {
-            "in": 1,
-            "out": 16,
-            "bench": 1
-          },
-          "shots": {
-            "total": 30,
-            "on": 16
-          },
-          "goals": {
-            "total": 6,
-            "conceded": 0,
-            "assists": 0,
-            "saves": 0
-          },
-          "passes": {
-            "total": 440,
-            "key": 14,
-            "accuracy": 80
-          },
-          "tackles": {
-            "total": 13,
-            "blocks": 1,
-            "interceptions": 6
-          },
-          "duels": {
-            "total": 127,
-            "won": 54
-          },
-          "dribbles": {
-            "attempts": 18,
-            "success": 7,
-            "past": null
-          },
-          "fouls": {
-            "drawn": 18,
-            "committed": 13
-          },
-          "cards": {
-            "yellow": 0,
-            "yellowred": 0,
-            "red": 0
-          },
-          "penalty": {
-            "won": 1,
-            "commited": null,
-            "scored": 0,
-            "missed": 0,
-            "saved": null
-          }
-        }
-      ]
-    },
-    {
-      "player": {
-        "id": 198386,
-        "name": "R. Auzmendi",
-        "firstname": "Rodrigo",
-        "lastname": "Auzmendi",
-        "age": 24,
-        "birth": {
-          "date": "2001-01-02",
-          "place": "Adolfo Gonzáles Cháves",
-          "country": "Argentina"
-        },
-        "nationality": "Argentina",
-        "height": "191",
-        "weight": null,
-        "injured": false,
-        "photo": "https://media.api-sports.io/football/players/198386.png"
-      },
-      "statistics": [
-        {
-          "team": {
-            "id": 460,
-            "name": "San Lorenzo",
-            "logo": "https://media.api-sports.io/football/teams/460.png"
-          },
-          "league": {
-            "id": 128,
-            "name": "Liga Profesional Argentina",
-            "country": "Argentina",
-            "logo": "https://media.api-sports.io/football/leagues/128.png",
-            "flag": "https://media.api-sports.io/flags/ar.svg",
-            "season": 2026
-          },
-          "games": {
-            "appearences": 16,
-            "lineups": 13,
-            "minutes": 1204,
-            "number": 29,
-            "position": "Attacker",
-            "rating": "6.84",
-            "captain": false
-          },
-          "substitutes": {
-            "in": 3,
-            "out": 5,
-            "bench": 3
-          },
-          "shots": {
-            "total": 37,
-            "on": 21
-          },
-          "goals": {
-            "total": 6,
-            "conceded": 0,
-            "assists": 0,
-            "saves": 0
-          },
-          "passes": {
-            "total": 253,
-            "key": 8,
-            "accuracy": 52
-          },
-          "tackles": {
-            "total": 7,
-            "blocks": 5,
-            "interceptions": 2
-          },
-          "duels": {
-            "total": 164,
-            "won": 72
-          },
-          "dribbles": {
-            "attempts": 19,
-            "success": 6,
-            "past": null
-          },
-          "fouls": {
-            "drawn": 18,
-            "committed": 22
-          },
-          "cards": {
-            "yellow": 4,
-            "yellowred": 0,
-            "red": 0
-          },
-          "penalty": {
-            "won": null,
-            "commited": null,
             "scored": 0,
             "missed": 0,
             "saved": null

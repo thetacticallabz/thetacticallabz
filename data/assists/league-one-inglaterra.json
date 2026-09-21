@@ -13,6 +13,101 @@
   "response": [
     {
       "player": {
+        "id": 327731,
+        "name": "Kyreece Lisbie",
+        "firstname": "Kyreece Joshua",
+        "lastname": "Lisbie",
+        "age": 22,
+        "birth": {
+          "date": "2003-12-01",
+          "place": null,
+          "country": "England"
+        },
+        "nationality": "England",
+        "height": null,
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/327731.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 53,
+            "name": "Reading",
+            "logo": "https://media.api-sports.io/football/teams/53.png"
+          },
+          "league": {
+            "id": 41,
+            "name": "League One",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/41.png",
+            "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 6,
+            "lineups": 6,
+            "minutes": 487,
+            "number": 19,
+            "position": "Midfielder",
+            "rating": "7.09",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 6,
+            "bench": 0
+          },
+          "shots": {
+            "total": 7,
+            "on": 2
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": 4,
+            "saves": 0
+          },
+          "passes": {
+            "total": 72,
+            "key": 13,
+            "accuracy": 66
+          },
+          "tackles": {
+            "total": 3,
+            "blocks": 0,
+            "interceptions": 0
+          },
+          "duels": {
+            "total": 59,
+            "won": 23
+          },
+          "dribbles": {
+            "attempts": 17,
+            "success": 7,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 10,
+            "committed": 8
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
         "id": 162446,
         "name": "L. Bate",
         "firstname": "Lewis Michael",
@@ -45,12 +140,12 @@
             "season": 2026
           },
           "games": {
-            "appearences": 6,
-            "lineups": 6,
-            "minutes": 485,
+            "appearences": 7,
+            "lineups": 7,
+            "minutes": 575,
             "number": 4,
             "position": "Midfielder",
-            "rating": "7.09",
+            "rating": "7.05",
             "captain": false
           },
           "substitutes": {
@@ -59,7 +154,7 @@
             "bench": 0
           },
           "shots": {
-            "total": 2,
+            "total": 3,
             "on": 0
           },
           "goals": {
@@ -69,18 +164,18 @@
             "saves": 0
           },
           "passes": {
-            "total": 353,
-            "key": 10,
+            "total": 402,
+            "key": 12,
             "accuracy": 92
           },
           "tackles": {
-            "total": 7,
-            "blocks": 2,
-            "interceptions": 3
+            "total": 9,
+            "blocks": 3,
+            "interceptions": 4
           },
           "duels": {
-            "total": 33,
-            "won": 20
+            "total": 38,
+            "won": 23
           },
           "dribbles": {
             "attempts": 8,
@@ -88,8 +183,8 @@
             "past": null
           },
           "fouls": {
-            "drawn": 3,
-            "committed": 4
+            "drawn": 4,
+            "committed": 5
           },
           "cards": {
             "yellow": 0,
@@ -140,18 +235,18 @@
             "season": 2026
           },
           "games": {
-            "appearences": 6,
+            "appearences": 7,
             "lineups": 6,
-            "minutes": 507,
+            "minutes": 534,
             "number": 30,
             "position": "Attacker",
-            "rating": "7.33",
+            "rating": "7.19",
             "captain": false
           },
           "substitutes": {
-            "in": 0,
+            "in": 1,
             "out": 3,
-            "bench": 0
+            "bench": 1
           },
           "shots": {
             "total": 12,
@@ -164,8 +259,8 @@
             "saves": 0
           },
           "passes": {
-            "total": 164,
-            "key": 15,
+            "total": 177,
+            "key": 16,
             "accuracy": 78
           },
           "tackles": {
@@ -174,16 +269,16 @@
             "interceptions": 5
           },
           "duels": {
-            "total": 66,
-            "won": 24
+            "total": 70,
+            "won": 27
           },
           "dribbles": {
-            "attempts": 24,
-            "success": 6,
+            "attempts": 26,
+            "success": 7,
             "past": null
           },
           "fouls": {
-            "drawn": 6,
+            "drawn": 7,
             "committed": 2
           },
           "cards": {
@@ -235,12 +330,12 @@
             "season": 2026
           },
           "games": {
-            "appearences": 6,
-            "lineups": 6,
-            "minutes": 540,
+            "appearences": 7,
+            "lineups": 7,
+            "minutes": 630,
             "number": 20,
             "position": "Midfielder",
-            "rating": "6.89",
+            "rating": "6.8",
             "captain": false
           },
           "substitutes": {
@@ -249,7 +344,7 @@
             "bench": 0
           },
           "shots": {
-            "total": 7,
+            "total": 9,
             "on": 3
           },
           "goals": {
@@ -259,18 +354,18 @@
             "saves": 0
           },
           "passes": {
-            "total": 261,
+            "total": 302,
             "key": 8,
             "accuracy": 73
           },
           "tackles": {
-            "total": 6,
-            "blocks": 1,
+            "total": 8,
+            "blocks": 3,
             "interceptions": 8
           },
           "duels": {
-            "total": 60,
-            "won": 27
+            "total": 69,
+            "won": 31
           },
           "dribbles": {
             "attempts": 7,
@@ -278,11 +373,11 @@
             "past": null
           },
           "fouls": {
-            "drawn": 7,
-            "committed": 8
+            "drawn": 8,
+            "committed": 11
           },
           "cards": {
-            "yellow": 3,
+            "yellow": 4,
             "yellowred": 0,
             "red": 0
           },
@@ -298,28 +393,28 @@
     },
     {
       "player": {
-        "id": 327731,
-        "name": "Kyreece Lisbie",
-        "firstname": "Kyreece Joshua",
-        "lastname": "Lisbie",
-        "age": 22,
+        "id": 20122,
+        "name": "K. Lofthouse",
+        "firstname": "Kyran Aiden",
+        "lastname": "Lofthouse",
+        "age": 25,
         "birth": {
-          "date": "2003-12-01",
-          "place": null,
+          "date": "2000-10-21",
+          "place": "Oxford",
           "country": "England"
         },
         "nationality": "England",
-        "height": null,
-        "weight": null,
+        "height": "180",
+        "weight": "65",
         "injured": false,
-        "photo": "https://media.api-sports.io/football/players/327731.png"
+        "photo": "https://media.api-sports.io/football/players/20122.png"
       },
       "statistics": [
         {
           "team": {
-            "id": 53,
-            "name": "Reading",
-            "logo": "https://media.api-sports.io/football/teams/53.png"
+            "id": 748,
+            "name": "Burton Albion",
+            "logo": "https://media.api-sports.io/football/teams/748.png"
           },
           "league": {
             "id": 41,
@@ -330,54 +425,54 @@
             "season": 2026
           },
           "games": {
-            "appearences": 5,
-            "lineups": 5,
-            "minutes": 398,
-            "number": 19,
+            "appearences": 7,
+            "lineups": 7,
+            "minutes": 629,
+            "number": 15,
             "position": "Midfielder",
-            "rating": "7.03",
+            "rating": "6.37",
             "captain": false
           },
           "substitutes": {
             "in": 0,
-            "out": 5,
+            "out": 1,
             "bench": 0
           },
           "shots": {
-            "total": 8,
-            "on": 2
+            "total": 5,
+            "on": 0
           },
           "goals": {
-            "total": 1,
+            "total": 0,
             "conceded": 0,
             "assists": 3,
             "saves": 0
           },
           "passes": {
-            "total": 65,
-            "key": 11,
-            "accuracy": 64
+            "total": 160,
+            "key": 7,
+            "accuracy": 63
           },
           "tackles": {
-            "total": 2,
-            "blocks": 1,
-            "interceptions": 0
+            "total": 11,
+            "blocks": 2,
+            "interceptions": 7
           },
           "duels": {
-            "total": 48,
-            "won": 17
+            "total": 93,
+            "won": 48
           },
           "dribbles": {
-            "attempts": 15,
-            "success": 5,
+            "attempts": 12,
+            "success": 6,
             "past": null
           },
           "fouls": {
-            "drawn": 8,
-            "committed": 5
+            "drawn": 6,
+            "committed": 10
           },
           "cards": {
-            "yellow": 0,
+            "yellow": 1,
             "yellowred": 0,
             "red": 0
           },
@@ -439,7 +534,7 @@
             "bench": 3
           },
           "shots": {
-            "total": 4,
+            "total": 3,
             "on": 1
           },
           "goals": {
@@ -473,6 +568,101 @@
           },
           "cards": {
             "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 437569,
+        "name": "L. Page",
+        "firstname": "Louis",
+        "lastname": "Page",
+        "age": 17,
+        "birth": {
+          "date": "2008-10-24",
+          "place": null,
+          "country": "England"
+        },
+        "nationality": "England",
+        "height": null,
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/437569.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 46,
+            "name": "Leicester",
+            "logo": "https://media.api-sports.io/football/teams/46.png"
+          },
+          "league": {
+            "id": 41,
+            "name": "League One",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/41.png",
+            "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 6,
+            "lineups": 5,
+            "minutes": 454,
+            "number": 25,
+            "position": "Midfielder",
+            "rating": "7.01",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 1,
+            "bench": 1
+          },
+          "shots": {
+            "total": 5,
+            "on": 1
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 3,
+            "saves": 0
+          },
+          "passes": {
+            "total": 327,
+            "key": 11,
+            "accuracy": 87
+          },
+          "tackles": {
+            "total": 4,
+            "blocks": 3,
+            "interceptions": 5
+          },
+          "duels": {
+            "total": 40,
+            "won": 17
+          },
+          "dribbles": {
+            "attempts": 7,
+            "success": 2,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 10,
+            "committed": 7
+          },
+          "cards": {
+            "yellow": 2,
             "yellowred": 0,
             "red": 0
           },
@@ -583,196 +773,6 @@
     },
     {
       "player": {
-        "id": 20122,
-        "name": "K. Lofthouse",
-        "firstname": "Kyran Aiden",
-        "lastname": "Lofthouse",
-        "age": 25,
-        "birth": {
-          "date": "2000-10-21",
-          "place": "Oxford",
-          "country": "England"
-        },
-        "nationality": "England",
-        "height": "180",
-        "weight": "65",
-        "injured": false,
-        "photo": "https://media.api-sports.io/football/players/20122.png"
-      },
-      "statistics": [
-        {
-          "team": {
-            "id": 748,
-            "name": "Burton Albion",
-            "logo": "https://media.api-sports.io/football/teams/748.png"
-          },
-          "league": {
-            "id": 41,
-            "name": "League One",
-            "country": "England",
-            "logo": "https://media.api-sports.io/football/leagues/41.png",
-            "flag": "https://media.api-sports.io/flags/gb-eng.svg",
-            "season": 2026
-          },
-          "games": {
-            "appearences": 6,
-            "lineups": 6,
-            "minutes": 539,
-            "number": 15,
-            "position": "Midfielder",
-            "rating": "6.42",
-            "captain": false
-          },
-          "substitutes": {
-            "in": 0,
-            "out": 1,
-            "bench": 0
-          },
-          "shots": {
-            "total": 4,
-            "on": 0
-          },
-          "goals": {
-            "total": 0,
-            "conceded": 0,
-            "assists": 3,
-            "saves": 0
-          },
-          "passes": {
-            "total": 128,
-            "key": 7,
-            "accuracy": 60
-          },
-          "tackles": {
-            "total": 10,
-            "blocks": 2,
-            "interceptions": 6
-          },
-          "duels": {
-            "total": 76,
-            "won": 38
-          },
-          "dribbles": {
-            "attempts": 10,
-            "success": 5,
-            "past": null
-          },
-          "fouls": {
-            "drawn": 6,
-            "committed": 8
-          },
-          "cards": {
-            "yellow": 1,
-            "yellowred": 0,
-            "red": 0
-          },
-          "penalty": {
-            "won": null,
-            "commited": null,
-            "scored": 0,
-            "missed": 0,
-            "saved": null
-          }
-        }
-      ]
-    },
-    {
-      "player": {
-        "id": 437569,
-        "name": "L. Page",
-        "firstname": "Louis",
-        "lastname": "Page",
-        "age": 17,
-        "birth": {
-          "date": "2008-10-24",
-          "place": null,
-          "country": "England"
-        },
-        "nationality": "England",
-        "height": null,
-        "weight": null,
-        "injured": false,
-        "photo": "https://media.api-sports.io/football/players/437569.png"
-      },
-      "statistics": [
-        {
-          "team": {
-            "id": 46,
-            "name": "Leicester",
-            "logo": "https://media.api-sports.io/football/teams/46.png"
-          },
-          "league": {
-            "id": 41,
-            "name": "League One",
-            "country": "England",
-            "logo": "https://media.api-sports.io/football/leagues/41.png",
-            "flag": "https://media.api-sports.io/flags/gb-eng.svg",
-            "season": 2026
-          },
-          "games": {
-            "appearences": 5,
-            "lineups": 4,
-            "minutes": 373,
-            "number": 25,
-            "position": "Midfielder",
-            "rating": "7.06",
-            "captain": false
-          },
-          "substitutes": {
-            "in": 1,
-            "out": 0,
-            "bench": 1
-          },
-          "shots": {
-            "total": 4,
-            "on": 1
-          },
-          "goals": {
-            "total": 0,
-            "conceded": 0,
-            "assists": 3,
-            "saves": 0
-          },
-          "passes": {
-            "total": 261,
-            "key": 10,
-            "accuracy": 86
-          },
-          "tackles": {
-            "total": 4,
-            "blocks": 3,
-            "interceptions": 4
-          },
-          "duels": {
-            "total": 35,
-            "won": 14
-          },
-          "dribbles": {
-            "attempts": 6,
-            "success": 1,
-            "past": null
-          },
-          "fouls": {
-            "drawn": 8,
-            "committed": 6
-          },
-          "cards": {
-            "yellow": 1,
-            "yellowred": 0,
-            "red": 0
-          },
-          "penalty": {
-            "won": null,
-            "commited": null,
-            "scored": 0,
-            "missed": 0,
-            "saved": null
-          }
-        }
-      ]
-    },
-    {
-      "player": {
         "id": 87773,
         "name": "J. Diamond",
         "firstname": "Jack Tyler",
@@ -805,22 +805,22 @@
             "season": 2026
           },
           "games": {
-            "appearences": 6,
-            "lineups": 6,
-            "minutes": 475,
+            "appearences": 7,
+            "lineups": 7,
+            "minutes": 561,
             "number": 7,
             "position": "Midfielder",
-            "rating": "7.61",
+            "rating": "7.44",
             "captain": false
           },
           "substitutes": {
             "in": 0,
-            "out": 5,
+            "out": 6,
             "bench": 0
           },
           "shots": {
-            "total": 12,
-            "on": 5
+            "total": 15,
+            "on": 6
           },
           "goals": {
             "total": 4,
@@ -829,27 +829,27 @@
             "saves": 0
           },
           "passes": {
-            "total": 114,
-            "key": 9,
-            "accuracy": 78
+            "total": 128,
+            "key": 10,
+            "accuracy": 79
           },
           "tackles": {
             "total": 4,
-            "blocks": 1,
+            "blocks": 2,
             "interceptions": 2
           },
           "duels": {
-            "total": 64,
-            "won": 33
+            "total": 73,
+            "won": 38
           },
           "dribbles": {
-            "attempts": 26,
-            "success": 15,
+            "attempts": 29,
+            "success": 17,
             "past": null
           },
           "fouls": {
-            "drawn": 12,
-            "committed": 3
+            "drawn": 15,
+            "committed": 4
           },
           "cards": {
             "yellow": 0,
@@ -900,12 +900,12 @@
             "season": 2026
           },
           "games": {
-            "appearences": 6,
-            "lineups": 6,
-            "minutes": 494,
+            "appearences": 7,
+            "lineups": 7,
+            "minutes": 584,
             "number": 22,
             "position": "Midfielder",
-            "rating": "7.32",
+            "rating": "7.16",
             "captain": false
           },
           "substitutes": {
@@ -914,7 +914,7 @@
             "bench": 0
           },
           "shots": {
-            "total": 14,
+            "total": 15,
             "on": 9
           },
           "goals": {
@@ -924,27 +924,122 @@
             "saves": 0
           },
           "passes": {
-            "total": 97,
+            "total": 112,
             "key": 5,
-            "accuracy": 82
+            "accuracy": 80
           },
           "tackles": {
             "total": 6,
-            "blocks": 1,
+            "blocks": 2,
             "interceptions": 2
           },
           "duels": {
-            "total": 55,
-            "won": 25
+            "total": 71,
+            "won": 30
           },
           "dribbles": {
-            "attempts": 20,
-            "success": 11,
+            "attempts": 28,
+            "success": 13,
             "past": null
           },
           "fouls": {
-            "drawn": 7,
-            "committed": 8
+            "drawn": 10,
+            "committed": 9
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 308668,
+        "name": "N. Moriah-Welsh",
+        "firstname": "Nathan Daniel",
+        "lastname": "Moriah-Welsh",
+        "age": 23,
+        "birth": {
+          "date": "2002-03-18",
+          "place": "London",
+          "country": "England"
+        },
+        "nationality": "Guyana",
+        "height": "172",
+        "weight": "65",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/308668.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 1374,
+            "name": "Mansfield Town",
+            "logo": "https://media.api-sports.io/football/teams/1374.png"
+          },
+          "league": {
+            "id": 41,
+            "name": "League One",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/41.png",
+            "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 7,
+            "lineups": 5,
+            "minutes": 310,
+            "number": 22,
+            "position": "Midfielder",
+            "rating": "6.98",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 4,
+            "bench": 2
+          },
+          "shots": {
+            "total": 3,
+            "on": 2
+          },
+          "goals": {
+            "total": 2,
+            "conceded": 0,
+            "assists": 2,
+            "saves": 0
+          },
+          "passes": {
+            "total": 112,
+            "key": 9,
+            "accuracy": 75
+          },
+          "tackles": {
+            "total": 6,
+            "blocks": 0,
+            "interceptions": 2
+          },
+          "duels": {
+            "total": 25,
+            "won": 10
+          },
+          "dribbles": {
+            "attempts": 4,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 3,
+            "committed": 4
           },
           "cards": {
             "yellow": 1,
@@ -995,22 +1090,22 @@
             "season": 2026
           },
           "games": {
-            "appearences": 6,
-            "lineups": 4,
-            "minutes": 397,
+            "appearences": 7,
+            "lineups": 5,
+            "minutes": 463,
             "number": 45,
             "position": "Midfielder",
-            "rating": "6.54",
+            "rating": "6.51",
             "captain": false
           },
           "substitutes": {
             "in": 2,
-            "out": 2,
+            "out": 3,
             "bench": 2
           },
           "shots": {
-            "total": 12,
-            "on": 4
+            "total": 15,
+            "on": 5
           },
           "goals": {
             "total": 2,
@@ -1019,27 +1114,27 @@
             "saves": 0
           },
           "passes": {
-            "total": 137,
-            "key": 5,
+            "total": 163,
+            "key": 9,
             "accuracy": 73
           },
           "tackles": {
             "total": 5,
-            "blocks": 3,
+            "blocks": 4,
             "interceptions": 4
           },
           "duels": {
-            "total": 64,
-            "won": 27
+            "total": 75,
+            "won": 32
           },
           "dribbles": {
-            "attempts": 17,
+            "attempts": 18,
             "success": 8,
             "past": null
           },
           "fouls": {
-            "drawn": 9,
-            "committed": 4
+            "drawn": 11,
+            "committed": 7
           },
           "cards": {
             "yellow": 1,
@@ -1185,18 +1280,18 @@
             "season": 2026
           },
           "games": {
-            "appearences": 6,
+            "appearences": 7,
             "lineups": 5,
-            "minutes": 366,
+            "minutes": 382,
             "number": 19,
             "position": "Attacker",
-            "rating": "6.58",
+            "rating": "6.55",
             "captain": false
           },
           "substitutes": {
-            "in": 1,
+            "in": 2,
             "out": 4,
-            "bench": 1
+            "bench": 2
           },
           "shots": {
             "total": 9,
@@ -1209,9 +1304,9 @@
             "saves": 0
           },
           "passes": {
-            "total": 39,
+            "total": 42,
             "key": 2,
-            "accuracy": 53
+            "accuracy": 52
           },
           "tackles": {
             "total": 4,
@@ -1219,17 +1314,17 @@
             "interceptions": 0
           },
           "duels": {
-            "total": 32,
-            "won": 10
+            "total": 35,
+            "won": 12
           },
           "dribbles": {
-            "attempts": 9,
-            "success": 4,
+            "attempts": 11,
+            "success": 6,
             "past": null
           },
           "fouls": {
             "drawn": 0,
-            "committed": 4
+            "committed": 5
           },
           "cards": {
             "yellow": 0,
@@ -1280,18 +1375,18 @@
             "season": 2026
           },
           "games": {
-            "appearences": 6,
+            "appearences": 7,
             "lineups": 5,
-            "minutes": 394,
+            "minutes": 422,
             "number": 41,
             "position": "Midfielder",
-            "rating": "6.77",
+            "rating": "6.65",
             "captain": false
           },
           "substitutes": {
-            "in": 1,
+            "in": 2,
             "out": 4,
-            "bench": 1
+            "bench": 2
           },
           "shots": {
             "total": 0,
@@ -1304,26 +1399,26 @@
             "saves": 0
           },
           "passes": {
-            "total": 141,
+            "total": 154,
             "key": 5,
-            "accuracy": 71
+            "accuracy": 70
           },
           "tackles": {
             "total": 15,
             "blocks": 1,
-            "interceptions": 4
+            "interceptions": 3
           },
           "duels": {
-            "total": 66,
-            "won": 37
+            "total": 70,
+            "won": 38
           },
           "dribbles": {
-            "attempts": 8,
+            "attempts": 9,
             "success": 3,
             "past": null
           },
           "fouls": {
-            "drawn": 10,
+            "drawn": 11,
             "committed": 8
           },
           "cards": {
@@ -1375,12 +1470,12 @@
             "season": 2026
           },
           "games": {
-            "appearences": 6,
-            "lineups": 6,
-            "minutes": 506,
+            "appearences": 7,
+            "lineups": 7,
+            "minutes": 596,
             "number": 25,
             "position": "Defender",
-            "rating": "6.71",
+            "rating": "6.67",
             "captain": false
           },
           "substitutes": {
@@ -1389,7 +1484,7 @@
             "bench": 0
           },
           "shots": {
-            "total": 5,
+            "total": 9,
             "on": 1
           },
           "goals": {
@@ -1399,27 +1494,122 @@
             "saves": 0
           },
           "passes": {
-            "total": 164,
-            "key": 8,
-            "accuracy": 74
+            "total": 214,
+            "key": 10,
+            "accuracy": 76
           },
           "tackles": {
-            "total": 6,
-            "blocks": 1,
-            "interceptions": 2
+            "total": 8,
+            "blocks": 2,
+            "interceptions": 4
           },
           "duels": {
-            "total": 36,
-            "won": 20
+            "total": 45,
+            "won": 24
           },
           "dribbles": {
-            "attempts": 6,
-            "success": 2,
+            "attempts": 9,
+            "success": 3,
             "past": null
           },
           "fouls": {
-            "drawn": 9,
-            "committed": 1
+            "drawn": 10,
+            "committed": 2
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 20247,
+        "name": "A. Morley",
+        "firstname": "Aaron Paul",
+        "lastname": "Morley",
+        "age": 25,
+        "birth": {
+          "date": "2000-02-27",
+          "place": "Bury",
+          "country": "England"
+        },
+        "nationality": "England",
+        "height": "174",
+        "weight": "67",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/20247.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 1358,
+            "name": "Wycombe",
+            "logo": "https://media.api-sports.io/football/teams/1358.png"
+          },
+          "league": {
+            "id": 41,
+            "name": "League One",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/41.png",
+            "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+            "season": 2026
+          },
+          "games": {
+            "appearences": 6,
+            "lineups": 5,
+            "minutes": 303,
+            "number": 5,
+            "position": "Midfielder",
+            "rating": "5.94",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 5,
+            "bench": 2
+          },
+          "shots": {
+            "total": 1,
+            "on": 1
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 2,
+            "saves": 0
+          },
+          "passes": {
+            "total": 138,
+            "key": 11,
+            "accuracy": 79
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": 0,
+            "interceptions": 3
+          },
+          "duels": {
+            "total": 11,
+            "won": 4
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": 4
           },
           "cards": {
             "yellow": 0,
@@ -1470,12 +1660,12 @@
             "season": 2026
           },
           "games": {
-            "appearences": 5,
-            "lineups": 2,
-            "minutes": 228,
+            "appearences": 6,
+            "lineups": 3,
+            "minutes": 318,
             "number": 24,
             "position": "Midfielder",
-            "rating": "5.76",
+            "rating": "5.87",
             "captain": false
           },
           "substitutes": {
@@ -1494,125 +1684,30 @@
             "saves": 0
           },
           "passes": {
-            "total": 99,
-            "key": 7,
-            "accuracy": 79
+            "total": 149,
+            "key": 8,
+            "accuracy": 82
           },
           "tackles": {
-            "total": 4,
+            "total": 6,
             "blocks": 0,
             "interceptions": 1
           },
           "duels": {
-            "total": 25,
-            "won": 12
+            "total": 34,
+            "won": 17
           },
           "dribbles": {
-            "attempts": 4,
-            "success": 3,
+            "attempts": 6,
+            "success": 5,
             "past": null
           },
           "fouls": {
-            "drawn": 3,
+            "drawn": 4,
             "committed": 6
           },
           "cards": {
             "yellow": 1,
-            "yellowred": 0,
-            "red": 0
-          },
-          "penalty": {
-            "won": null,
-            "commited": null,
-            "scored": 0,
-            "missed": 0,
-            "saved": null
-          }
-        }
-      ]
-    },
-    {
-      "player": {
-        "id": 20247,
-        "name": "A. Morley",
-        "firstname": "Aaron Paul",
-        "lastname": "Morley",
-        "age": 25,
-        "birth": {
-          "date": "2000-02-27",
-          "place": "Bury",
-          "country": "England"
-        },
-        "nationality": "England",
-        "height": "174",
-        "weight": "67",
-        "injured": false,
-        "photo": "https://media.api-sports.io/football/players/20247.png"
-      },
-      "statistics": [
-        {
-          "team": {
-            "id": 1358,
-            "name": "Wycombe",
-            "logo": "https://media.api-sports.io/football/teams/1358.png"
-          },
-          "league": {
-            "id": 41,
-            "name": "League One",
-            "country": "England",
-            "logo": "https://media.api-sports.io/football/leagues/41.png",
-            "flag": "https://media.api-sports.io/flags/gb-eng.svg",
-            "season": 2026
-          },
-          "games": {
-            "appearences": 5,
-            "lineups": 4,
-            "minutes": 242,
-            "number": 5,
-            "position": "Midfielder",
-            "rating": "5.85",
-            "captain": false
-          },
-          "substitutes": {
-            "in": 1,
-            "out": 4,
-            "bench": 2
-          },
-          "shots": {
-            "total": 1,
-            "on": 1
-          },
-          "goals": {
-            "total": 0,
-            "conceded": 0,
-            "assists": 2,
-            "saves": 0
-          },
-          "passes": {
-            "total": 115,
-            "key": 9,
-            "accuracy": 80
-          },
-          "tackles": {
-            "total": 1,
-            "blocks": 0,
-            "interceptions": 3
-          },
-          "duels": {
-            "total": 10,
-            "won": 4
-          },
-          "dribbles": {
-            "attempts": 2,
-            "success": 1,
-            "past": null
-          },
-          "fouls": {
-            "drawn": 1,
-            "committed": 3
-          },
-          "cards": {
-            "yellow": 0,
             "yellowred": 0,
             "red": 0
           },
@@ -1660,18 +1755,18 @@
             "season": 2026
           },
           "games": {
-            "appearences": 5,
+            "appearences": 6,
             "lineups": 2,
-            "minutes": 304,
+            "minutes": 329,
             "number": 20,
             "position": "Midfielder",
-            "rating": "6.62",
+            "rating": "6.55",
             "captain": false
           },
           "substitutes": {
-            "in": 3,
+            "in": 4,
             "out": 0,
-            "bench": 3
+            "bench": 4
           },
           "shots": {
             "total": 8,
@@ -1684,9 +1779,9 @@
             "saves": 0
           },
           "passes": {
-            "total": 101,
+            "total": 111,
             "key": 5,
-            "accuracy": 76
+            "accuracy": 72
           },
           "tackles": {
             "total": 6,
@@ -1694,12 +1789,12 @@
             "interceptions": 1
           },
           "duels": {
-            "total": 22,
-            "won": 8
+            "total": 25,
+            "won": 9
           },
           "dribbles": {
-            "attempts": 7,
-            "success": 2,
+            "attempts": 9,
+            "success": 3,
             "past": null
           },
           "fouls": {
@@ -1708,101 +1803,6 @@
           },
           "cards": {
             "yellow": 1,
-            "yellowred": 0,
-            "red": 0
-          },
-          "penalty": {
-            "won": null,
-            "commited": null,
-            "scored": 0,
-            "missed": 0,
-            "saved": null
-          }
-        }
-      ]
-    },
-    {
-      "player": {
-        "id": 69437,
-        "name": "J. Tilley",
-        "firstname": "James Alexander David",
-        "lastname": "Tilley",
-        "age": 27,
-        "birth": {
-          "date": "1998-06-13",
-          "place": "Billingshurst",
-          "country": "England"
-        },
-        "nationality": "England",
-        "height": "174",
-        "weight": "59",
-        "injured": false,
-        "photo": "https://media.api-sports.io/football/players/69437.png"
-      },
-      "statistics": [
-        {
-          "team": {
-            "id": 1333,
-            "name": "AFC Wimbledon",
-            "logo": "https://media.api-sports.io/football/teams/1333.png"
-          },
-          "league": {
-            "id": 41,
-            "name": "League One",
-            "country": "England",
-            "logo": "https://media.api-sports.io/football/leagues/41.png",
-            "flag": "https://media.api-sports.io/flags/gb-eng.svg",
-            "season": 2026
-          },
-          "games": {
-            "appearences": 5,
-            "lineups": 5,
-            "minutes": 365,
-            "number": 7,
-            "position": "Midfielder",
-            "rating": "7.07",
-            "captain": false
-          },
-          "substitutes": {
-            "in": 0,
-            "out": 2,
-            "bench": 0
-          },
-          "shots": {
-            "total": 3,
-            "on": 1
-          },
-          "goals": {
-            "total": 0,
-            "conceded": 0,
-            "assists": 2,
-            "saves": 0
-          },
-          "passes": {
-            "total": 119,
-            "key": 4,
-            "accuracy": 78
-          },
-          "tackles": {
-            "total": 11,
-            "blocks": 0,
-            "interceptions": 1
-          },
-          "duels": {
-            "total": 55,
-            "won": 30
-          },
-          "dribbles": {
-            "attempts": 10,
-            "success": 5,
-            "past": null
-          },
-          "fouls": {
-            "drawn": 6,
-            "committed": 5
-          },
-          "cards": {
-            "yellow": 0,
             "yellowred": 0,
             "red": 0
           },
@@ -1850,46 +1850,46 @@
             "season": 2026
           },
           "games": {
-            "appearences": 4,
+            "appearences": 5,
             "lineups": 3,
-            "minutes": 250,
+            "minutes": 276,
             "number": 44,
             "position": "Midfielder",
-            "rating": "6.8",
+            "rating": "6.76",
             "captain": false
           },
           "substitutes": {
-            "in": 1,
+            "in": 2,
             "out": 3,
-            "bench": 1
+            "bench": 2
           },
           "shots": {
-            "total": 3,
+            "total": 4,
             "on": 2
           },
           "goals": {
             "total": 0,
             "conceded": 0,
             "assists": 2,
-            "saves": null
+            "saves": 0
           },
           "passes": {
-            "total": 46,
+            "total": 59,
             "key": 5,
             "accuracy": 86
           },
           "tackles": {
             "total": 2,
-            "blocks": null,
-            "interceptions": 2
+            "blocks": 0,
+            "interceptions": 3
           },
           "duels": {
-            "total": 14,
-            "won": 6
+            "total": 17,
+            "won": 9
           },
           "dribbles": {
-            "attempts": 1,
-            "success": null,
+            "attempts": 4,
+            "success": 3,
             "past": null
           },
           "fouls": {

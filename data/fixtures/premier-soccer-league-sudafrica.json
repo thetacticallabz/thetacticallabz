@@ -3444,23 +3444,23 @@
     {
       "fixture": {
         "id": 1600344,
-        "referee": null,
+        "referee": "Christopher Kistoor",
         "timezone": "UTC",
-        "date": "2026-09-16T17:30:00+00:00",
-        "timestamp": 1789579800,
+        "date": "2026-09-17T17:30:00+00:00",
+        "timestamp": 1789666200,
         "periods": {
           "first": null,
           "second": null
         },
         "venue": {
-          "id": null,
-          "name": "Orlando Stadium",
-          "city": "Johannesburg"
+          "id": 1453,
+          "name": "Ellis Park",
+          "city": "Gauteng Province"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
           "extra": null
         }
       },
@@ -3479,27 +3479,27 @@
           "id": 2700,
           "name": "Orlando Pirates",
           "logo": "https://media.api-sports.io/football/teams/2700.png",
-          "winner": null
+          "winner": true
         },
         "away": {
           "id": 24757,
           "name": "Durban City",
           "logo": "https://media.api-sports.io/football/teams/24757.png",
-          "winner": null
+          "winner": false
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 2,
+        "away": 0
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 0
         },
         "extratime": {
           "home": null,
@@ -3514,23 +3514,23 @@
     {
       "fixture": {
         "id": 1600346,
-        "referee": null,
+        "referee": "Michael Mosemeng",
         "timezone": "UTC",
-        "date": "2026-09-18T17:30:00+00:00",
-        "timestamp": 1789752600,
+        "date": "2026-09-19T13:00:00+00:00",
+        "timestamp": 1789822800,
         "periods": {
           "first": null,
           "second": null
         },
         "venue": {
-          "id": null,
-          "name": "King Zwelithini Stadium",
-          "city": "Durban"
+          "id": 1445,
+          "name": "Richards Bay Stadium (Umhlathuze)",
+          "city": "Richards Bay"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
           "extra": null
         }
       },
@@ -3549,27 +3549,237 @@
           "id": 10567,
           "name": "Richards Bay",
           "logo": "https://media.api-sports.io/football/teams/10567.png",
-          "winner": null
+          "winner": false
         },
         "away": {
           "id": 15537,
           "name": "Sekhukhune United",
           "logo": "https://media.api-sports.io/football/teams/15537.png",
-          "winner": null
+          "winner": true
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 2,
+        "away": 3
       },
       "score": {
         "halftime": {
+          "home": 0,
+          "away": 1
+        },
+        "fulltime": {
+          "home": 2,
+          "away": 3
+        },
+        "extratime": {
           "home": null,
           "away": null
         },
-        "fulltime": {
+        "penalty": {
           "home": null,
           "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1600349,
+        "referee": "Moreki Lekwape",
+        "timezone": "UTC",
+        "date": "2026-09-19T15:30:00+00:00",
+        "timestamp": 1789831800,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": null,
+          "name": "Peter Mokaba Stadium",
+          "city": "Polokwane"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 288,
+        "name": "Premier Soccer League",
+        "country": "South-Africa",
+        "logo": "https://media.api-sports.io/football/leagues/288.png",
+        "flag": "https://media.api-sports.io/flags/za.svg",
+        "season": 2026,
+        "round": "Regular Season - 7",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2693,
+          "name": "Polokwane City",
+          "logo": "https://media.api-sports.io/football/teams/2693.png",
+          "winner": false
+        },
+        "away": {
+          "id": 2669,
+          "name": "Amazulu",
+          "logo": "https://media.api-sports.io/football/teams/2669.png",
+          "winner": true
+        }
+      },
+      "goals": {
+        "home": 0,
+        "away": 1
+      },
+      "score": {
+        "halftime": {
+          "home": 0,
+          "away": 1
+        },
+        "fulltime": {
+          "home": 0,
+          "away": 1
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1600350,
+        "referee": "Siyabulela Qunta",
+        "timezone": "UTC",
+        "date": "2026-09-19T18:00:00+00:00",
+        "timestamp": 1789840800,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": null,
+          "name": "KaNyamazane Stadium",
+          "city": "Mbombela"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 288,
+        "name": "Premier Soccer League",
+        "country": "South-Africa",
+        "logo": "https://media.api-sports.io/football/leagues/288.png",
+        "flag": "https://media.api-sports.io/flags/za.svg",
+        "season": 2026,
+        "round": "Regular Season - 7",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 24759,
+          "name": "Kruger United",
+          "logo": "https://media.api-sports.io/football/teams/24759.png",
+          "winner": false
+        },
+        "away": {
+          "id": 4905,
+          "name": "Stellenbosch",
+          "logo": "https://media.api-sports.io/football/teams/4905.png",
+          "winner": true
+        }
+      },
+      "goals": {
+        "home": 0,
+        "away": 1
+      },
+      "score": {
+        "halftime": {
+          "home": 0,
+          "away": 1
+        },
+        "fulltime": {
+          "home": 0,
+          "away": 1
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1600351,
+        "referee": "Abongile Tom",
+        "timezone": "UTC",
+        "date": "2026-09-20T13:00:00+00:00",
+        "timestamp": 1789909200,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": 1447,
+          "name": "Royal Bafokeng Stadium",
+          "city": "Rustenburg"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 288,
+        "name": "Premier Soccer League",
+        "country": "South-Africa",
+        "logo": "https://media.api-sports.io/football/leagues/288.png",
+        "flag": "https://media.api-sports.io/flags/za.svg",
+        "season": 2026,
+        "round": "Regular Season - 7",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2682,
+          "name": "Marumo Gallants",
+          "logo": "https://media.api-sports.io/football/teams/2682.png",
+          "winner": false
+        },
+        "away": {
+          "id": 2700,
+          "name": "Orlando Pirates",
+          "logo": "https://media.api-sports.io/football/teams/2700.png",
+          "winner": true
+        }
+      },
+      "goals": {
+        "home": 0,
+        "away": 2
+      },
+      "score": {
+        "halftime": {
+          "home": 0,
+          "away": 1
+        },
+        "fulltime": {
+          "home": 0,
+          "away": 2
         },
         "extratime": {
           "home": null,
@@ -3584,23 +3794,23 @@
     {
       "fixture": {
         "id": 1600347,
-        "referee": null,
+        "referee": "Jelly Chavani",
         "timezone": "UTC",
-        "date": "2026-09-19T13:00:00+00:00",
-        "timestamp": 1789822800,
+        "date": "2026-09-20T13:00:00+00:00",
+        "timestamp": 1789909200,
         "periods": {
           "first": null,
           "second": null
         },
         "venue": {
           "id": 1450,
-          "name": "Sugar Ray Xulu Stadium",
+          "name": "Princess Magogo Stadium",
           "city": "Durban"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
           "extra": null
         }
       },
@@ -3629,17 +3839,17 @@
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 0,
+        "away": 0
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         },
         "extratime": {
           "home": null,
@@ -3654,23 +3864,23 @@
     {
       "fixture": {
         "id": 1600348,
-        "referee": null,
+        "referee": "Luxolo Badi",
         "timezone": "UTC",
-        "date": "2026-09-19T13:00:00+00:00",
-        "timestamp": 1789822800,
+        "date": "2026-09-20T13:00:00+00:00",
+        "timestamp": 1789909200,
         "periods": {
           "first": null,
           "second": null
         },
         "venue": {
-          "id": null,
-          "name": null,
-          "city": null
+          "id": 1445,
+          "name": "Richards Bay Stadium (Umhlathuze)",
+          "city": "Richards Bay"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
           "extra": null
         }
       },
@@ -3699,227 +3909,17 @@
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 1,
+        "away": 1
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 0
         },
         "fulltime": {
-          "home": null,
-          "away": null
-        },
-        "extratime": {
-          "home": null,
-          "away": null
-        },
-        "penalty": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "fixture": {
-        "id": 1600349,
-        "referee": null,
-        "timezone": "UTC",
-        "date": "2026-09-19T15:30:00+00:00",
-        "timestamp": 1789831800,
-        "periods": {
-          "first": null,
-          "second": null
-        },
-        "venue": {
-          "id": null,
-          "name": "Old Peter Mokaba Stadium",
-          "city": "Polokwane"
-        },
-        "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
-        }
-      },
-      "league": {
-        "id": 288,
-        "name": "Premier Soccer League",
-        "country": "South-Africa",
-        "logo": "https://media.api-sports.io/football/leagues/288.png",
-        "flag": "https://media.api-sports.io/flags/za.svg",
-        "season": 2026,
-        "round": "Regular Season - 7",
-        "standings": true
-      },
-      "teams": {
-        "home": {
-          "id": 2693,
-          "name": "Polokwane City",
-          "logo": "https://media.api-sports.io/football/teams/2693.png",
-          "winner": null
-        },
-        "away": {
-          "id": 2669,
-          "name": "Amazulu",
-          "logo": "https://media.api-sports.io/football/teams/2669.png",
-          "winner": null
-        }
-      },
-      "goals": {
-        "home": null,
-        "away": null
-      },
-      "score": {
-        "halftime": {
-          "home": null,
-          "away": null
-        },
-        "fulltime": {
-          "home": null,
-          "away": null
-        },
-        "extratime": {
-          "home": null,
-          "away": null
-        },
-        "penalty": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "fixture": {
-        "id": 1600350,
-        "referee": null,
-        "timezone": "UTC",
-        "date": "2026-09-19T18:00:00+00:00",
-        "timestamp": 1789840800,
-        "periods": {
-          "first": null,
-          "second": null
-        },
-        "venue": {
-          "id": null,
-          "name": null,
-          "city": null
-        },
-        "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
-        }
-      },
-      "league": {
-        "id": 288,
-        "name": "Premier Soccer League",
-        "country": "South-Africa",
-        "logo": "https://media.api-sports.io/football/leagues/288.png",
-        "flag": "https://media.api-sports.io/flags/za.svg",
-        "season": 2026,
-        "round": "Regular Season - 7",
-        "standings": true
-      },
-      "teams": {
-        "home": {
-          "id": 24759,
-          "name": "Kruger United",
-          "logo": "https://media.api-sports.io/football/teams/24759.png",
-          "winner": null
-        },
-        "away": {
-          "id": 4905,
-          "name": "Stellenbosch",
-          "logo": "https://media.api-sports.io/football/teams/4905.png",
-          "winner": null
-        }
-      },
-      "goals": {
-        "home": null,
-        "away": null
-      },
-      "score": {
-        "halftime": {
-          "home": null,
-          "away": null
-        },
-        "fulltime": {
-          "home": null,
-          "away": null
-        },
-        "extratime": {
-          "home": null,
-          "away": null
-        },
-        "penalty": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "fixture": {
-        "id": 1600351,
-        "referee": null,
-        "timezone": "UTC",
-        "date": "2026-09-20T13:00:00+00:00",
-        "timestamp": 1789909200,
-        "periods": {
-          "first": null,
-          "second": null
-        },
-        "venue": {
-          "id": 1447,
-          "name": "Thohoyandou Stadium",
-          "city": "Thohoyandou"
-        },
-        "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
-          "extra": null
-        }
-      },
-      "league": {
-        "id": 288,
-        "name": "Premier Soccer League",
-        "country": "South-Africa",
-        "logo": "https://media.api-sports.io/football/leagues/288.png",
-        "flag": "https://media.api-sports.io/flags/za.svg",
-        "season": 2026,
-        "round": "Regular Season - 7",
-        "standings": true
-      },
-      "teams": {
-        "home": {
-          "id": 2682,
-          "name": "Marumo Gallants",
-          "logo": "https://media.api-sports.io/football/teams/2682.png",
-          "winner": null
-        },
-        "away": {
-          "id": 2700,
-          "name": "Orlando Pirates",
-          "logo": "https://media.api-sports.io/football/teams/2700.png",
-          "winner": null
-        }
-      },
-      "goals": {
-        "home": null,
-        "away": null
-      },
-      "score": {
-        "halftime": {
-          "home": null,
-          "away": null
-        },
-        "fulltime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 1
         },
         "extratime": {
           "home": null,
@@ -3934,7 +3934,7 @@
     {
       "fixture": {
         "id": 1600352,
-        "referee": null,
+        "referee": "Sikhumbuzo Gasa",
         "timezone": "UTC",
         "date": "2026-09-20T15:30:00+00:00",
         "timestamp": 1789918200,
@@ -3944,13 +3944,13 @@
         },
         "venue": {
           "id": null,
-          "name": "Mbombela Stadium",
-          "city": "Mbombela"
+          "name": "Kameelrivier Stadium",
+          "city": "Kameelrivier"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null,
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
           "extra": null
         }
       },
@@ -3969,27 +3969,27 @@
           "id": 8074,
           "name": "TS Galaxy",
           "logo": "https://media.api-sports.io/football/teams/8074.png",
-          "winner": null
+          "winner": false
         },
         "away": {
           "id": 2698,
           "name": "Chippa United",
           "logo": "https://media.api-sports.io/football/teams/2698.png",
-          "winner": null
+          "winner": true
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 0,
+        "away": 1
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 1
         },
         "extratime": {
           "home": null,
